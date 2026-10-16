@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "e2887e6c4b7aaf9471e8313063dbe5af1145eb192e326f608397dc386c68b3e0",
+  "patches": [
+    {
+      "patch": "MacrossUltimateFrontier-English-0.7.1.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "01fdc0b61ea21578593d2fb7c1450c768372bbd02e691aa55ef18554d4e344bc"
+    }
+  ]
+}
