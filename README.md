@@ -74,7 +74,7 @@ committed; `tools/strip_jp.py` writes the English-only copies.
 
 | Role | Contributors |
 | --- | --- |
-| Project Lead | binhlt0402 |
+| Project Lead | pow |
 
 GenEi LateGo © okoneya.jp, SIL Open Font License 1.1 (`work/fonts/GenEiLatin_LICENSE.txt`).
 
