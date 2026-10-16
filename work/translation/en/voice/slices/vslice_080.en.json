@@ -1,0 +1,546 @@
+{
+ "slice": 80,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_mil_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (kuh), no words."
+  },
+  {
+   "id": "vps_mil_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (mu), no words."
+  },
+  {
+   "id": "vps_mil_017",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_018",
+   "en": "Gotcha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_019",
+   "en": "How pathetic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_020",
+   "en": "Hyah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_100",
+   "en": "Commencing operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_101",
+   "en": "Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_102",
+   "en": "I'll be your opponent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_103",
+   "en": "Nothing but small fry?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_104",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_105",
+   "en": "Shall I play with you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_106",
+   "en": "If I aim there...!",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Clause cut off at 'if I aim there'."
+  },
+  {
+   "id": "vps_mil_107",
+   "en": "There!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper no-speech warning; transcript short and plausible."
+  },
+  {
+   "id": "vps_mil_108",
+   "en": "Got you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_109",
+   "en": "What's wrong? Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_110",
+   "en": "Heh, you're weak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_111",
+   "en": "In the end, you're no match for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_112",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Chuckle, no words."
+  },
+  {
+   "id": "vps_mil_113",
+   "en": "No challenge at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_114",
+   "en": "One enemy down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_115",
+   "en": "Target acquired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_116",
+   "en": "Enemy spotted. Moving to attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_117",
+   "en": "Found you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_118",
+   "en": "They put up no fight at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_119",
+   "en": "Have some shame, as a warrior.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_120",
+   "en": "Hmph. Too weak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_121",
+   "en": "Damn! My shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_122",
+   "en": "Even without a shield...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vps_mil_123",
+   "en": "Don't gloat over breaking my shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_124",
+   "en": "Interesting. I'll take you on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_125",
+   "en": "So you have some skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_126",
+   "en": "You want a fight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_127",
+   "en": "You're persistent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_128",
+   "en": "Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_129",
+   "en": "That peculiar fighting style...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Noun phrase with no verb; kept as a fragment."
+  },
+  {
+   "id": "vps_mil_130",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_131",
+   "en": "You...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_132",
+   "en": "Me, the Ace of Aces...!",
+   "flags": [
+    "whisper_doubt",
+    "unfinished"
+   ],
+   "notes": "Whisper no-speech warning; transcript plausible. Sentence is cut off."
+  },
+  {
+   "id": "vps_mil_133",
+   "en": "Impossible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_134",
+   "en": "You...",
+   "flags": [
+    "whisper_doubt",
+    "unfinished"
+   ],
+   "notes": "Low-confidence Whisper; very short, read as an angry 'you...'."
+  },
+  {
+   "id": "vps_mil_135",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (kuh), no words."
+  },
+  {
+   "id": "vps_mil_136",
+   "en": "Me, lose? That's absurd!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_137",
+   "en": "I hate you for branding me with defeat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_138",
+   "en": "Dying in battle is the best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_139",
+   "en": "What unreliable allies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_140",
+   "en": "Come to die? Go home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_141",
+   "en": "What's wrong? Need cover?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_142",
+   "en": "Allies are dwindling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_143",
+   "en": "Ugh... our allies...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vps_mil_144",
+   "en": "Were you hit? Hey!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper no-speech warning; transcript plausible."
+  },
+  {
+   "id": "vps_mil_148",
+   "en": "Enemies this weak? I'm enough by myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_149",
+   "en": "A joint operation?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_150",
+   "en": "Reinforcements, huh? Well, thanks for the effort.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_151",
+   "en": "Damn, it's been shot down.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Defense-target failure group; 'it' is the target, assumed."
+  },
+  {
+   "id": "vps_mil_152",
+   "en": "I failed to defend it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_153",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Short shout (ei), no clear words."
+  },
+  {
+   "id": "vps_mil_154",
+   "en": "Mission complete. Returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_155",
+   "en": "Hmph. Child's play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_156",
+   "en": "Operation successful. Returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_157",
+   "en": "To think it would end like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_158",
+   "en": "Damn, I was distracted by the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_159",
+   "en": "I'll wash away this disgrace someday, I swear!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_160",
+   "en": "I lost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_161",
+   "en": "I'll avenge this, I swear!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'teki' (enemy); read as 'ada' (vengeance), matching the sense."
+  },
+  {
+   "id": "vps_mil_162",
+   "en": "I-I lost... Me, of all people...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_163",
+   "en": "Prepare for ranged combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_164",
+   "en": "Cover me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_165",
+   "en": "Keep your distance and shoot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_166",
+   "en": "Prepare for melee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_167",
+   "en": "Charge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_168",
+   "en": "Get inside their guard!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'toikome'; read as 'tobikome' (dive in)."
+  },
+  {
+   "id": "vps_mil_169",
+   "en": "Don't interfere!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_170",
+   "en": "Hold position.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_171",
+   "en": "Absolutely no interference.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_172",
+   "en": "Begin all-out attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_173",
+   "en": "Now, do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_174",
+   "en": "Annihilate the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_175",
+   "en": "This is my power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_176",
+   "en": "I am not permitted to lose.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6375 vps_mil_151: Damn, it's been shot down. - Defense-target failure group; 'it' is the target, assumed."
+  ],
+  "whisper_doubt": [
+   "row 6334 vps_mil_107: Whisper no-speech warning; transcript short and plausible.",
+   "row 6359 vps_mil_132: Whisper no-speech warning; transcript plausible. Sentence is cut off.",
+   "row 6361 vps_mil_134: Low-confidence Whisper; very short, read as an angry 'you...'.",
+   "row 6371 vps_mil_144: Whisper no-speech warning; transcript plausible.",
+   "row 6377 vps_mil_153: Short shout (ei), no clear words.",
+   "row 6385 vps_mil_161: Whisper wrote 'teki' (enemy); read as 'ada' (vengeance), matching the sense.",
+   "row 6392 vps_mil_168: Whisper wrote 'toikome'; read as 'tobikome' (dive in)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 6333 vps_mil_106",
+   "row 6349 vps_mil_122",
+   "row 6356 vps_mil_129",
+   "row 6359 vps_mil_132",
+   "row 6361 vps_mil_134",
+   "row 6370 vps_mil_143"
+  ]
+ }
+}

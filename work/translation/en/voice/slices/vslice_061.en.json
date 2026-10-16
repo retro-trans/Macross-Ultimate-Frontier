@@ -1,0 +1,501 @@
+{
+ "slice": 61,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_of2_346",
+   "en": "I'm expecting a lot from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_347",
+   "en": "Count on me, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_347",
+   "en": "I'd protect you... but you don't need it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_347",
+   "en": "Let's do this! There's no way we can't!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_347",
+   "en": "I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_347",
+   "en": "How are you feeling? I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_347",
+   "en": "Don't fall for my skills, miss.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_348",
+   "en": "I'll do my best to be useful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_348",
+   "en": "Heh, a date in the sky isn't bad either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_348",
+   "en": "Burn! More! Be more passionate!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_348",
+   "en": "Rely on me too, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_348",
+   "en": "Show me what a girl like you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_348",
+   "en": "You can leave it all to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_349",
+   "en": "We'll surely succeed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_349",
+   "en": "Gotta show you my good side a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_349",
+   "en": "Man, teaming with you is irresistible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_349",
+   "en": "Come on, let's show them the power of women!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_349",
+   "en": "I'll show them a woman's pride.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_349",
+   "en": "No one can stop us!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_350",
+   "en": "I'll protect you! Just kidding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_350",
+   "en": "Now then, leave the escort to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_350",
+   "en": "Your passion and mine. Even I can't predict what'll happen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_350",
+   "en": "Time to show our teamwork.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_350",
+   "en": "Relax. I'll guard your back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_350",
+   "en": "I can entrust my life to you without worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_351",
+   "en": "Leave support to me. Fight with peace of mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_351",
+   "en": "With you, success is guaranteed! Let's get this done!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_351",
+   "en": "I won't forgive anyone who hurts you! Bring it on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_351",
+   "en": "I'll support you properly. Don't worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_351",
+   "en": "Come back alive. I hate being lonely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_351",
+   "en": "Together we're invincible. You think so too, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_360",
+   "en": "Phew. Somehow it's over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_360",
+   "en": "Geez, I'd only like to be with a woman on a date.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_360",
+   "en": "Pathetic. Really pathetic.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'nacchane'; probably 'nacchainee' (pathetic)."
+  },
+  {
+   "id": "vp0_of0_360",
+   "en": "Next time I'd like someone else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_360",
+   "en": "From now on, I'm working alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_360",
+   "en": "I can't believe even I have someone I can't stand.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_361",
+   "en": "Felt harder than usual somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_361",
+   "en": "Same old bad luck.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Itsumo no baitsukaru' is garbled; guesses: batsu game or binbou-kuji (short straw). Rendered loosely."
+  },
+  {
+   "id": "vp0_om2_361",
+   "en": "I can't do this! The duo's done! Disbanded!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_361",
+   "en": "Hmm... I can't disobey orders, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_361",
+   "en": "I believe I told you not to do anything unnecessary.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_361",
+   "en": "Let's call it quits, you and me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_362",
+   "en": "Let's try a bit harder.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_362",
+   "en": "I'd have had it easier alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_362",
+   "en": "It's a wonder you made it back alive. Thank your parents for making you sturdy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_362",
+   "en": "I wish they'd let me sortie alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_362",
+   "en": "Typical of a little girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_362",
+   "en": "I'm tired... First time in my life I've been so careful with someone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_363",
+   "en": "Well, let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_363",
+   "en": "Well, time to head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_363",
+   "en": "Guts, guts. That's what you lack right now. Get it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_363",
+   "en": "It's over. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_363",
+   "en": "Seems you're safe. Heading back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_363",
+   "en": "Mission's done. Shall we return?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_364",
+   "en": "Glad we're both safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_364",
+   "en": "And that's a wrap.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_364",
+   "en": "You did well. Still not on my level, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_364",
+   "en": "Looking forward to the next mission, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_364",
+   "en": "Heh, good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_364",
+   "en": "Yeah! Mission complete!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_365",
+   "en": "Let's work together next mission, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_365",
+   "en": "You okay? Never mind, no need to ask.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_365",
+   "en": "I'm here. This was a piece of cake.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_365",
+   "en": "Glad we're both safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_365",
+   "en": "Let's rest up for the next one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_365",
+   "en": "Keep up the good work, my friend.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_366",
+   "en": "Um, did I show a bit of manliness?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_366",
+   "en": "All done safely. Count on you again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_366",
+   "en": "Perfect. Nothing else to say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_366",
+   "en": "Was my support useful?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_366",
+   "en": "Good skill for a little girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_366",
+   "en": "Well done! You get a gold star!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_367",
+   "en": "Are you hurt? I was a bit worried.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_367",
+   "en": "So how about my skills? Don't fall for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_367",
+   "en": "I felt it! Your passion!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_367",
+   "en": "That move was amazing! I'll learn from it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_367",
+   "en": "Done already? That was quick today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_367",
+   "en": "Yay! Pretty nice skills!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_368",
+   "en": "Sortie with me again, okay?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 4834: Heard 'nacchane'; probably 'nacchainee' (pathetic).",
+   "row 4839: 'Itsumo no baitsukaru' is garbled; guesses: batsu game or binbou-kuji (short straw). Rendered loosely."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

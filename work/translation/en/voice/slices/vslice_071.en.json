@@ -1,0 +1,550 @@
+{
+ "slice": 71,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpa_sin_346",
+   "en": "Let's go. We can do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_347",
+   "en": "Don't let me down. I'm expecting a lot from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_348",
+   "en": "I'll back you up, so fly without worrying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_349",
+   "en": "I believe in you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_350",
+   "en": "I'll protect you, even if it costs my life!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_351",
+   "en": "It's not about justice or anything grand. I fight for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_360",
+   "en": "You're more trouble than the cursed Kadun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_361",
+   "en": "Figures. There isn't a decent woman pilot in the bunch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_362",
+   "en": "I'm surprised you survived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_363",
+   "en": "Mission accomplished. Keep up the good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_365",
+   "en": "You'd better thank me for the backup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_366",
+   "en": "You're pretty good, you know that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_367",
+   "en": "Ironic. I ended up being the one backed up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_368",
+   "en": "You made it back safe. What a relief.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_369",
+   "en": "To ask you on a date, I'd first have to build a runway.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'yariwei'; probably 'ranwei' (runway). Joke about needing an airstrip before a date."
+  },
+  {
+   "id": "vpa_sin_370",
+   "en": "It's not bad, having something you want to protect.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_371",
+   "en": "I could fight because you were there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_600",
+   "en": "A person?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_601",
+   "en": "Sara!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_602",
+   "en": "Sara! It's me! Wake up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_603",
+   "en": "That woman!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper flagged no speech; text 'ano onna ka' taken at face value."
+  },
+  {
+   "id": "vpa_sin_605",
+   "en": "Reaction weapons? With this, the radiation will reach Mayan Island...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bd2_006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Single syllable (ya), a grunt."
+  },
+  {
+   "id": "vpz_bd2_009",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groaning, no words."
+  },
+  {
+   "id": "vpz_bd2_106",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Garbled Zentradi-sounding words; cannot be made out."
+  },
+  {
+   "id": "vpz_bd2_127",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groaning, no words."
+  },
+  {
+   "id": "vpz_bd2_133",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Cry transcribed as 'nyaa'; no words."
+  },
+  {
+   "id": "vpz_bd2_135",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Single unclear word (heard 'ryuuou'); unintelligible."
+  },
+  {
+   "id": "vpz_bd2_136",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groaning, no words."
+  },
+  {
+   "id": "vpz_bd2_160",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Garbled Zentradi-sounding words; cannot be made out."
+  },
+  {
+   "id": "vpz_bd2_163",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Single unclear word (heard 'gaadorasu'); unintelligible."
+  },
+  {
+   "id": "vpz_bd2_305",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper hallucination ('thank you for watching'); no real words."
+  },
+  {
+   "id": "vpz_bd2_328",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper hallucination (a song credit line); no real words."
+  },
+  {
+   "id": "vpz_bd2_600",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Long Zentradi-language speech, transcript is garbled phonetics."
+  },
+  {
+   "id": "vps_hyo_000",
+   "en": "Hayao Kakizaki, launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_001",
+   "en": "Looks like it's my turn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_002",
+   "en": "I... I mean, I'm ready to launch anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_003",
+   "en": "Whoa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_004",
+   "en": "Whoops!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_005",
+   "en": "Look out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_006",
+   "en": "Aah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_007",
+   "en": "Whoa, whoa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_008",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_009",
+   "en": "Take that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_010",
+   "en": "Take this!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'dooraa'; a battle cry, rendered as 'Take this!'."
+  },
+  {
+   "id": "vps_hyo_011",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_012",
+   "en": "I'm done for!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_013",
+   "en": "This is bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_014",
+   "en": "Eek!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_015",
+   "en": "What's that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groaning, no words."
+  },
+  {
+   "id": "vps_hyo_017",
+   "en": "Not done yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_018",
+   "en": "Got you!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'morotta'; likely 'moratta' (got it)."
+  },
+  {
+   "id": "vps_hyo_019",
+   "en": "One more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_020",
+   "en": "Come on, Red!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Red' taken as a callsign or nickname of the partner."
+  },
+  {
+   "id": "vps_hyo_100",
+   "en": "Beginning the operation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_101",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_102",
+   "en": "I'll show them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_103",
+   "en": "Enemy spotted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_104",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_105",
+   "en": "Let's do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_106",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughing, no words."
+  },
+  {
+   "id": "vps_hyo_107",
+   "en": "Let's go out with a bang!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_108",
+   "en": "I can do it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_109",
+   "en": "This is child's play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_110",
+   "en": "Easy, easy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_111",
+   "en": "I've got this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_112",
+   "en": "Yes! I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_113",
+   "en": "Could it be I'm a genius too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_114",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughing, no words."
+  },
+  {
+   "id": "vps_hyo_115",
+   "en": "Here they come! Target confirmed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_116",
+   "en": "Here they come!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_117",
+   "en": "They're back again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_119",
+   "en": "This Kakizaki took it down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_120",
+   "en": "Pretty good, aren't I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_121",
+   "en": "Whoa! My shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_122",
+   "en": "Phew, only the shield took it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_123",
+   "en": "If it's only the shield...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_124",
+   "en": "This is nothing!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'koreshikee'; likely 'koreshiki' (this much is nothing)."
+  },
+  {
+   "id": "vps_hyo_125",
+   "en": "I missed.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5615: Heard 'yariwei'; probably 'ranwei' (runway). Joke about needing an airstrip before a date.",
+   "row 5655: 'Red' taken as a callsign or nickname of the partner."
+  ],
+  "whisper_doubt": [
+   "row 5615: Heard 'yariwei'; probably 'ranwei' (runway). Joke about needing an airstrip before a date.",
+   "row 5621: Whisper flagged no speech; text 'ano onna ka' taken at face value.",
+   "row 5632: Whisper hallucination ('thank you for watching'); no real words.",
+   "row 5633: Whisper hallucination (a song credit line); no real words.",
+   "row 5645: Heard 'dooraa'; a battle cry, rendered as 'Take this!'.",
+   "row 5653: Heard 'morotta'; likely 'moratta' (got it).",
+   "row 5679: Heard 'koreshikee'; likely 'koreshiki' (this much is nothing)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

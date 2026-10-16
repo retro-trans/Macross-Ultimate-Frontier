@@ -1,0 +1,11 @@
+{"fixes": [
+ {"jp_same_as_row": 400, "en": "Annihilate the unidentified aircraft that suddenly appeared.", "why": "same source as row 402; one rendering"},
+ {"jp_same_as_row": 656, "en": "Annihilate all enemies", "why": "stock objective; majority form (34 of 41)"},
+ {"jp_same_as_row": 667, "en": "Shoot down the enemy ace", "why": "stock objective; majority form"},
+ {"jp_same_as_row": 746, "en": "Press the × button to boost.\nYou can keep boosting until the\nboost gauge is full.", "why": "repeated tutorial line; one rendering"},
+ {"jp_same_as_row": 747, "en": "Quickly press Up, Left or Right on the D-pad\ntwice in the same direction to roll\nthat way.", "why": "repeated tutorial line; capitalised D-pad directions"},
+ {"jp_same_as_row": 748, "en": "Quickly press Down on the D-pad twice\nto fire reverse thrust and decelerate sharply.", "why": "repeated tutorial line; one rendering"},
+ {"jp_same_as_row": 749, "en": "Hold the △ button to\nbrake and slow down.", "why": "repeated tutorial line; one rendering"},
+ {"jp_same_as_row": 753, "en": "Training ends when you reach the target area\nor time runs out.", "why": "repeated tutorial line; majority form"},
+ {"jp_same_as_row": 755, "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.", "why": "repeated tutorial line; majority form"}
+]}

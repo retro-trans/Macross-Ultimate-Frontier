@@ -1,0 +1,516 @@
+{
+ "slice": 72,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_hyo_126",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_127",
+   "en": "I'm still okay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_128",
+   "en": "No need to worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_129",
+   "en": "I can keep going!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_130",
+   "en": "Is it getting dangerous?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_131",
+   "en": "Will my plane hold up?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kitai ga motsu' (hope); read as 'kitai' (airframe) 'ga motsu'."
+  },
+  {
+   "id": "vps_hyo_132",
+   "en": "Uh-oh, is this bad?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_133",
+   "en": "I-I'm somehow still alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_134",
+   "en": "H-help me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_135",
+   "en": "What do I do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_137",
+   "en": "Is this the end?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_138",
+   "en": "Help me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_139",
+   "en": "Are you all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_140",
+   "en": "Leave it to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_141",
+   "en": "Please stay back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_142",
+   "en": "Did they get shot down?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_143",
+   "en": "You'll pay for that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_144",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_148",
+   "en": "Reinforcements, and just in time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_149",
+   "en": "Yahoo! Reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_150",
+   "en": "I'm saved!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_151",
+   "en": "I couldn't protect it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_152",
+   "en": "It's been destroyed!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject not stated; taken as the escorted target."
+  },
+  {
+   "id": "vps_hyo_153",
+   "en": "Just like that?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_154",
+   "en": "Mission over. Heading home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_155",
+   "en": "Now I'll be a hit with the girls too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_156",
+   "en": "Hmm, maybe I'm a genius!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_157",
+   "en": "We didn't make it in time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_158",
+   "en": "Huh, it's over already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_159",
+   "en": "Damn! Too late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_160",
+   "en": "N-no way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_161",
+   "en": "We failed?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_162",
+   "en": "I never thought it would come to this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_163",
+   "en": "Please give me covering fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_164",
+   "en": "Cover me, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_165",
+   "en": "Attack from a distance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_166",
+   "en": "Close combat, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_167",
+   "en": "Please charge in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_168",
+   "en": "I'll cover you from behind!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_169",
+   "en": "Leave this to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_170",
+   "en": "Don't push yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_171",
+   "en": "Please get away from there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_172",
+   "en": "Please finish it off!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'todome wo sashiatte' (stab each other); likely 'todome wo sashite'."
+  },
+  {
+   "id": "vps_hyo_173",
+   "en": "Go ahead and blow them away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_174",
+   "en": "This is the final blow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_175",
+   "en": "Switching to GERWALK!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'ghost gaworku'; guessed 'kou narya Gerwalk' (if that's how it is, Gerwalk)."
+  },
+  {
+   "id": "vps_hyo_176",
+   "en": "I can do it too, you know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_177",
+   "en": "Damn it all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_179",
+   "en": "Of course!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_181",
+   "en": "If you don't shape up, I'll end up captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_182",
+   "en": "Captain, please fall back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_183",
+   "en": "What are you doing, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_184",
+   "en": "Come on, Captain! That's not fair!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'sorya naisu yo' (that's nice); likely 'sorya nai yo' (that's too much)."
+  },
+  {
+   "id": "vps_hyo_185",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_186",
+   "en": "The captain, shot down?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_187",
+   "en": "I feel kind of good. I'm pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_188",
+   "en": "What a... what a great song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_189",
+   "en": "I can't fight feeling like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_190",
+   "en": "Nice work! Just what I'd expect!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_191",
+   "en": "You've got great skills. Impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_300",
+   "en": "Hey, is this battle going to be all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_301",
+   "en": "Sigh... Can I really count on you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_302",
+   "en": "Ah, this op might be the end of me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_303",
+   "en": "Let's get this over with quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_304",
+   "en": "All right, shall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_305",
+   "en": "A sortie! I'm itching to fly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_306",
+   "en": "Don't worry! With me here, we'll be fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_307",
+   "en": "I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_308",
+   "en": "Leave the support to me! Hahaha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_309",
+   "en": "This is easy for us! Hahaha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_310",
+   "en": "When this is over, take me somewhere nice!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_311",
+   "en": "Let's finish fast and go stuff ourselves with good food!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_320",
+   "en": "Damn it, I could have done more if you hadn't gotten in my way.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Who interfered is not stated; taken as the partner."
+  },
+  {
+   "id": "vps_hyo_321",
+   "en": "Get it together, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_322",
+   "en": "Looks like we miraculously made it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_323",
+   "en": "Mission accomplished.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_324",
+   "en": "Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_325",
+   "en": "Let's head home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_326",
+   "en": "So, shall we go somewhere nice?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5703: Subject not stated; taken as the escorted target.",
+   "row 5726: Heard 'ghost gaworku'; guessed 'kou narya Gerwalk' (if that's how it is, Gerwalk).",
+   "row 5754: Who interfered is not stated; taken as the partner."
+  ],
+  "whisper_doubt": [
+   "row 5686: Heard 'kitai ga motsu' (hope); read as 'kitai' (airframe) 'ga motsu'.",
+   "row 5723: Heard 'todome wo sashiatte' (stab each other); likely 'todome wo sashite'.",
+   "row 5726: Heard 'ghost gaworku'; guessed 'kou narya Gerwalk' (if that's how it is, Gerwalk).",
+   "row 5734: Heard 'sorya naisu yo' (that's nice); likely 'sorya nai yo' (that's too much)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

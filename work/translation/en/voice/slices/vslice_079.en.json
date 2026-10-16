@@ -1,0 +1,530 @@
+{
+ "slice": 79,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_max_304",
+   "en": "Okay, here I go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_305",
+   "en": "I'll do my best too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_306",
+   "en": "This operation looks like it'll go well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_307",
+   "en": "Leave it to us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_308",
+   "en": "Now this is interesting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_309",
+   "en": "Let's see what you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_310",
+   "en": "Count on my support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_311",
+   "en": "With you and me, success is guaranteed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_320",
+   "en": "Honestly, what were you even doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_321",
+   "en": "Please do it properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_322",
+   "en": "Whew, that had me sweating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_323",
+   "en": "All done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_324",
+   "en": "Come on, let's go home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_325",
+   "en": "Good work out there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_326",
+   "en": "Ah, the mission succeeded. Thank goodness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_327",
+   "en": "I'm counting on you in the next mission too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_328",
+   "en": "The main thing is we both made it back safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_329",
+   "en": "That was impressive flying. I'll take notes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_330",
+   "en": "Hmm, maybe we're geniuses!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_331",
+   "en": "Maybe you didn't need my support at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_340",
+   "en": "Come on, pull yourself together.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper no-speech warning; transcript reads naturally, kept."
+  },
+  {
+   "id": "vps_max_341",
+   "en": "I could do this alone, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_342",
+   "en": "Please stay behind me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_343",
+   "en": "Well then, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_344",
+   "en": "Looking forward to working with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_345",
+   "en": "Heh, let's do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_346",
+   "en": "We're sortieing together. Looking forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_347",
+   "en": "Leave the support to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_348",
+   "en": "You'll be fine, I'm here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_349",
+   "en": "It's an honor to meet such a beautiful person.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_350",
+   "en": "Maybe spring has finally come for me too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_351",
+   "en": "I'll be counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_360",
+   "en": "It seems you don't trust me very much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_361",
+   "en": "Well then, if you'll excuse me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_362",
+   "en": "Next time I'd like to sortie alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_363",
+   "en": "Come on, let's get home quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_364",
+   "en": "We got through it without a hitch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_365",
+   "en": "Let's work together next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_366",
+   "en": "But what a surprise. I had no idea you had this kind of skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_367",
+   "en": "Come on, let's return together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_368",
+   "en": "We both seem to be in good form.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_369",
+   "en": "Come on, let's hurry back and go get a meal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_370",
+   "en": "I was mesmerized by how you fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_371",
+   "en": "How about a match with me after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_600",
+   "en": "Captain, I'm out of ammo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_601",
+   "en": "Milia! Watch what I can do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_605",
+   "en": "Let's go, Milia!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_615",
+   "en": "That enemy is strong!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_616",
+   "en": "I never thought I'd get shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_617",
+   "en": "So I really was a genius.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_618",
+   "en": "I've always wanted a match with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_619",
+   "en": "What's wrong, Ichijyo? Suddenly getting cold feet?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_620",
+   "en": "I won't let you get away!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a typo-like ending (nogasu-moru-ka); read as nogasu mono ka."
+  },
+  {
+   "id": "vps_max_621",
+   "en": "A battleship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_622",
+   "en": "Ah... so beautiful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_623",
+   "en": "It's Minmay's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_624",
+   "en": "It's me! It's Max!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_625",
+   "en": "Exactly my type.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Referent not shown; kept neutral (no pronoun)."
+  },
+  {
+   "id": "vps_max_626",
+   "en": "Beautiful. Bust about 85. Deceptively slim in clothes, I'd say.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote 'ki-ase' (sweat); read as kiyase (looks slimmer than one is). No pronoun, referent unclear."
+  },
+  {
+   "id": "vps_max_627",
+   "en": "Say, if you don't mind, could I get your name and phone number?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_628",
+   "en": "Going out in a blaze of glory on the wedding day wouldn't be so bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_629",
+   "en": "Milia, watch what I can do!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "First half is garbled (something about hitting a skin/hide to save the contents); only the second half is clear and matches clip 601."
+  },
+  {
+   "id": "vps_max_630",
+   "en": "Don't miss how I fight.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper has 'overlook' (minogashite); read as a request to keep watching, probably minogasanai-de."
+  },
+  {
+   "id": "vps_max_631",
+   "en": "I can't let myself lose either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_632",
+   "en": "You're good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_633",
+   "en": "Amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_000",
+   "en": "Milia Fallyna, launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_001",
+   "en": "Mission acknowledged.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_002",
+   "en": "Heading out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_003",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Short shout (ha!), no words."
+  },
+  {
+   "id": "vps_mil_004",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Snort (fun), no words."
+  },
+  {
+   "id": "vps_mil_005",
+   "en": "It's useless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_006",
+   "en": "This is...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_007",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream (aa!), no words."
+  },
+  {
+   "id": "vps_mil_009",
+   "en": "Finish it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_010",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_011",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_012",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Zentradi-style exclamation; Whisper wrote 'bibura' and the same sound appears as 'debura' in clip 604. Not understood."
+  },
+  {
+   "id": "vps_mil_013",
+   "en": "Damn you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_014",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream, no words."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6298 vps_max_625: Exactly my type. - Referent not shown; kept neutral (no pronoun).",
+   "row 6299 vps_max_626: Beautiful. Bust about 85. Deceptively slim in clothes, I'd say. - Whisper wrote 'ki-ase' (sweat); read as kiyase (looks slimmer than one is). No pronoun, referent unclear.",
+   "row 6302 vps_max_629: Milia, watch what I can do! - First half is garbled (something about hitting a skin/hide to save the contents); only the second half is clear and matches clip 601."
+  ],
+  "whisper_doubt": [
+   "row 6261 vps_max_340: Whisper no-speech warning; transcript reads naturally, kept.",
+   "row 6293 vps_max_620: Transcript has a typo-like ending (nogasu-moru-ka); read as nogasu mono ka.",
+   "row 6299 vps_max_626: Whisper wrote 'ki-ase' (sweat); read as kiyase (looks slimmer than one is). No pronoun, referent unclear.",
+   "row 6302 vps_max_629: First half is garbled (something about hitting a skin/hide to save the contents); only the second half is clear and matches clip 601.",
+   "row 6303 vps_max_630: Whisper has 'overlook' (minogashite); read as a request to keep watching, probably minogasanai-de.",
+   "row 6318 vps_mil_012: Zentradi-style exclamation; Whisper wrote 'bibura' and the same sound appears as 'debura' in clip 604. Not understood."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

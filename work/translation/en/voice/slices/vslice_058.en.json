@@ -1,0 +1,511 @@
+{
+ "slice": 58,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_of2_184",
+   "en": "Are you alive, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_185",
+   "en": "C-Captain got shot down?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_185",
+   "en": "Damn it all! How could this happen?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kusotteru'; probably 'kusottare' (damn it)."
+  },
+  {
+   "id": "vp0_om2_185",
+   "en": "Captain, answer me! Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_185",
+   "en": "I can't believe the captain was shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_185",
+   "en": "I can't believe the captain's been shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_185",
+   "en": "What are you doing, Captain?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_186",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_186",
+   "en": "The boss! Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_186",
+   "en": "What the hell are you doing, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_186",
+   "en": "This isn't true, is it? Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_186",
+   "en": "Damn it! How could this happen?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_186",
+   "en": "Captain, you can't get shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_187",
+   "en": "I like this song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_187",
+   "en": "Hey, this song's pretty great.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Could also mean the singer is in a great mood."
+  },
+  {
+   "id": "vp0_om2_187",
+   "en": "What is this feeling? Tell me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_187",
+   "en": "This feeling... I'm withdrawing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_187",
+   "en": "This... shall we pull out?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ikuka' (go); with the other pilots retreating, probably 'hikuka' (pull back)."
+  },
+  {
+   "id": "vp0_of2_187",
+   "en": "Fighting suddenly seems silly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_188",
+   "en": "Fighting is pointless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_188",
+   "en": "Heh, can't be helped. Let's pull out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_188",
+   "en": "I'll just follow my heart.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_188",
+   "en": "Haah... Guess that's it for today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_188",
+   "en": "Heh, it can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_188",
+   "en": "Pretty good song. Maybe I'll sing too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_189",
+   "en": "This feeling... let's withdraw.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_189",
+   "en": "Yeah, I can't keep this up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_189",
+   "en": "Strange feeling. It's pleasant.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_189",
+   "en": "Feels nice. I'm pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_189",
+   "en": "Geez. Withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_189",
+   "en": "This is that Deculture thing, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_190",
+   "en": "Rely on me a little more, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_190",
+   "en": "Nice one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_190",
+   "en": "Just like the captain I respect!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_190",
+   "en": "Yay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_190",
+   "en": "Heh, good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_190",
+   "en": "Captain, you're in top form!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'taichou kaichou zekkouchou'; kaichou (chairman) is probably a slip, read as 'taichou zekkouchou'."
+  },
+  {
+   "id": "vp0_om0_191",
+   "en": "Impressive skill. I'll keep counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_191",
+   "en": "I'm counting on your skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_191",
+   "en": "I saw your passion, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_191",
+   "en": "That felt good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_191",
+   "en": "Heh, keep it up from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_191",
+   "en": "Wow, Captain, you're electrifying!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Garbled ('daitsu o ottebashibireru'); guessed 'taichou ottara shibireru' (Captain, you're thrilling). Meaning is praise either way."
+  },
+  {
+   "id": "vp0_om0_197",
+   "en": "Ugh, I can still fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_197",
+   "en": "If it moves, I can fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_197",
+   "en": "I'm wide awake now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_197",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_197",
+   "en": "I can still do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_197",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_198",
+   "en": "It's not over yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_198",
+   "en": "Now that's helpful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_198",
+   "en": "Just as calculated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_198",
+   "en": "I'll do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_198",
+   "en": "About time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_198",
+   "en": "Looks like you made me mad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_300",
+   "en": "I can go alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_300",
+   "en": "Just don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_300",
+   "en": "You've got no passion. I can't team up with someone like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_300",
+   "en": "Please don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_300",
+   "en": "Don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_300",
+   "en": "Yay! I'm so happy to sortie with you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_301",
+   "en": "Just don't get in my way, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_301",
+   "en": "Why the hell do I have to team up with you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_301",
+   "en": "I thought I'd get someone with more backbone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_301",
+   "en": "I might not make it today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_301",
+   "en": "Hey! Get in front of me and I'll shoot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_301",
+   "en": "I'll do my best! Mostly mentally.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_302",
+   "en": "Sortieing with you again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_302",
+   "en": "I'm not confident about today's mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_302",
+   "en": "Can you keep up with my pace?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_302",
+   "en": "Maybe I'd be better off alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_302",
+   "en": "I end up babysitting, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_302",
+   "en": "This mission worries me, vaguely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_303",
+   "en": "All right, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_303",
+   "en": "All right, let's get started.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_303",
+   "en": "Let's go wild in style, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_303",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_303",
+   "en": "Let's go! Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_303",
+   "en": "All right, let's-a-go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_304",
+   "en": "We can't afford to fail this mission.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 4575: Could also mean the singer is in a great mood."
+  ],
+  "whisper_doubt": [
+   "row 4563: Heard 'kusotteru'; probably 'kusottare' (damn it).",
+   "row 4578: Heard 'ikuka' (go); with the other pilots retreating, probably 'hikuka' (pull back).",
+   "row 4597: Heard 'taichou kaichou zekkouchou'; kaichou (chairman) is probably a slip, read as 'taichou zekkouchou'.",
+   "row 4603: Garbled ('daitsu o ottebashibireru'); guessed 'taichou ottara shibireru' (Captain, you're thrilling). Meaning is praise either way."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

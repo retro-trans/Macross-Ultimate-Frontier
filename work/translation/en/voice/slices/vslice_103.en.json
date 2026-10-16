@@ -1,0 +1,533 @@
+{
+ "slice": 103,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpd_ggl_126",
+   "en": "You want to take me on?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_127",
+   "en": "What a persistent bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_128",
+   "en": "Damn! Quit darting around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_129",
+   "en": "Tch! What a hassle!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_130",
+   "en": "Is that all you've got?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'kono teido' is a bare fragment; read as a sneer."
+  },
+  {
+   "id": "vpd_ggl_131",
+   "en": "You're in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_132",
+   "en": "Don't mess with Lord Gigile!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_133",
+   "en": "I won't forgive you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_134",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_135",
+   "en": "Damn it all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_136",
+   "en": "What a nasty bunch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_137",
+   "en": "Quit screwing around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_138",
+   "en": "You dare do this to Lord Gigile!",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Verb and subject dropped in the original; restored 'You dare do this'."
+  },
+  {
+   "id": "vpd_ggl_139",
+   "en": "Don't get cocky!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'doushin' makes no sense here; read as 'choushi ni noriyagatte' (getting cocky)."
+  },
+  {
+   "id": "vpd_ggl_140",
+   "en": "Hey! What are you spacing out for?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_141",
+   "en": "Pathetic! Can't you even fight properly?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_142",
+   "en": "Tch! Useless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_143",
+   "en": "Hmph! I've no use for small fry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_144",
+   "en": "What the hell are they doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_148",
+   "en": "You're late!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'osenda yo' presumably 'osee n da yo' (you're late); it follows the reinforcement-arrives clips (Milia: 'osoi!')."
+  },
+  {
+   "id": "vpd_ggl_149",
+   "en": "Don't you dawdle!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_150",
+   "en": "What?! I never heard of reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_151",
+   "en": "Gaaah! Those bastards!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_152",
+   "en": "You've done it now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_153",
+   "en": "That guy...",
+   "flags": [
+    "unfinished",
+    "uncertain"
+   ],
+   "notes": "Trails off after 'aitsu wa'; who 'that guy' is cannot be told."
+  },
+  {
+   "id": "vpd_ggl_154",
+   "en": "Operation complete. Pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_155",
+   "en": "Hah! No fight in them at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_156",
+   "en": "All right! Mission accomplished! Returning!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_157",
+   "en": "I'll pull out for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_158",
+   "en": "Operation aborted?! Are you kidding me?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_159",
+   "en": "Damn... is this the end?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_160",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Unintelligible transcript ('eifosu, tori no hito'); the clip is a mission-failed/retreat line by number, but the words cannot be recovered."
+  },
+  {
+   "id": "vpd_ggl_161",
+   "en": "Damn! Falling back for now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_162",
+   "en": "Remember this!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'omae-tero' read as 'oboetero'."
+  },
+  {
+   "id": "vpd_ggl_163",
+   "en": "Shoot them down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_164",
+   "en": "Fire! All guns, fire at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_165",
+   "en": "Keep firing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_166",
+   "en": "Do it! Crush them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_167",
+   "en": "Charge! Get moving already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_168",
+   "en": "Close in on the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_169",
+   "en": "Shut up, you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_170",
+   "en": "That's my prey! Don't interfere!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_171",
+   "en": "Don't come any closer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_172",
+   "en": "Now! Press the attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_173",
+   "en": "Attack all at once!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'ichiki ni osoware' read as 'ikki ni osoe'."
+  },
+  {
+   "id": "vpd_ggl_174",
+   "en": "Slam it into them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_175",
+   "en": "You made a fool of me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_176",
+   "en": "Bring it on, you bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_177",
+   "en": "You bastard! You won't get away with this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_178",
+   "en": "Don't give me orders!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_179",
+   "en": "Whatever I do is my business.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_180",
+   "en": "Shut up! Fine, I got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_181",
+   "en": "You're just slowing me down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_182",
+   "en": "If you want to die that badly, go ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_183",
+   "en": "Tch, I can't stand watching this!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'miichan iranee na' read as 'mi-chai-rannee na' (can't bear to watch); fits the leader-in-trouble group (181-186)."
+  },
+  {
+   "id": "vpd_ggl_184",
+   "en": "The noisy one's gone. Good riddance!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'seisei' (generate) read as 'seiseisuru' (what a relief)."
+  },
+  {
+   "id": "vpd_ggl_185",
+   "en": "So that makes me the leader now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_186",
+   "en": "You're a million years too early to order me around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_187",
+   "en": "I'm pulling out for today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_188",
+   "en": "All right! I'll pull out like a good boy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_189",
+   "en": "Damn! I'm not in the mood!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_190",
+   "en": "You've got some skill!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_191",
+   "en": "Oh? You seem to have some guts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_300",
+   "en": "Can't count on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_301",
+   "en": "Don't order me around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_302",
+   "en": "Hah! Not my problem!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_303",
+   "en": "Tch! Don't get in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_304",
+   "en": "When I'm done, you're dead!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_306",
+   "en": "I've got no patience! I'm going!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_307",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter."
+  },
+  {
+   "id": "vpd_ggl_308",
+   "en": "That's my prey! Don't butt in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_309",
+   "en": "All right, get to work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_310",
+   "en": "Interesting! I'll back you up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_311",
+   "en": "You're coming too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_320",
+   "en": "Hmph, small fry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_321",
+   "en": "You're useless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_322",
+   "en": "Geez, you were dead weight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_323",
+   "en": "I do what I damn well please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_324",
+   "en": "Hmph, I'm not satisfied.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_325",
+   "en": "It's finally over?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8165 (vpd_ggl_130): 'kono teido' is a bare fragment; read as a sneer.",
+   "row 8185 (vpd_ggl_153): Trails off after 'aitsu wa'; who 'that guy' is cannot be told.",
+   "row 8215 (vpd_ggl_183): 'miichan iranee na' read as 'mi-chai-rannee na' (can't bear to watch); fits the leader-in-trouble group (181-186)."
+  ],
+  "whisper_doubt": [
+   "row 8174 (vpd_ggl_139): 'doushin' makes no sense here; read as 'choushi ni noriyagatte' (getting cocky).",
+   "row 8180 (vpd_ggl_148): 'osenda yo' presumably 'osee n da yo' (you're late); it follows the reinforcement-arrives clips (Milia: 'osoi!').",
+   "row 8194 (vpd_ggl_162): 'omae-tero' read as 'oboetero'.",
+   "row 8205 (vpd_ggl_173): 'ichiki ni osoware' read as 'ikki ni osoe'.",
+   "row 8215 (vpd_ggl_183): 'miichan iranee na' read as 'mi-chai-rannee na' (can't bear to watch); fits the leader-in-trouble group (181-186).",
+   "row 8216 (vpd_ggl_184): 'seisei' (generate) read as 'seiseisuru' (what a relief)."
+  ],
+  "kept_omission": [
+   "row 8173 (vpd_ggl_138): Verb and subject dropped in the original; restored 'You dare do this'."
+  ],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 8185 (vpd_ggl_153): Trails off after 'aitsu wa'; who 'that guy' is cannot be told."
+  ]
+ }
+}

@@ -1,0 +1,558 @@
+{
+ "slice": 27,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1152",
+   "en": "Cover Liza's withdrawal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1152",
+   "en": "Cover Liza's withdrawal!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Raiza tan'i (unit) for Raiza taiin; same meaning."
+  },
+  {
+   "id": "vo0_om0_1152",
+   "en": "Cover Liza's withdrawal!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1152",
+   "en": "Cover Liza's withdrawal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1153",
+   "en": "Liza's withdrawal confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1153",
+   "en": "Liza's withdrawal confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1153",
+   "en": "Liza's withdrawal confirmed!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Raiza to Ain no' (Liza and Ain); almost certainly Raiza taiin no; kept Liza only."
+  },
+  {
+   "id": "vo0_om0_1153",
+   "en": "Liza's withdrawal confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1153",
+   "en": "Liza's withdrawal confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1154",
+   "en": "Liza's craft has been disabled.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Ooza taiin; surely Raiza taiin (Liza)."
+  },
+  {
+   "id": "vo0_of1_1154",
+   "en": "Liza's craft has been disabled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1154",
+   "en": "Liza's craft has been disabled!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1154",
+   "en": "Liza's craft has been disabled!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1154",
+   "en": "Liza's craft has been disabled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1155",
+   "en": "A missile was launched from the poachers' mothership. It's probably a reaction weapon.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard michiryoudan (nonsense); surely mitsuryoudan (poachers), as the other rows."
+  },
+  {
+   "id": "vo0_of1_1155",
+   "en": "Missile launched from the poachers' mothership. Likely a reaction weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1155",
+   "en": "A missile was launched from the poachers' mothership! It's probably a reaction weapon!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1155",
+   "en": "Missile launched from the poachers' mothership. It's probably a reaction weapon.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard mitsuyodan; surely mitsuryoudan (poachers)."
+  },
+  {
+   "id": "vos_mis_1155",
+   "en": "Missile launched from the poachers' mothership. Probably a reaction weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1156",
+   "en": "Missile believed to be a reaction weapon confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1156",
+   "en": "Probable reaction weapon missile confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1156",
+   "en": "Probable reaction weapon missile confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1156",
+   "en": "Probable reaction weapon missile confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1156",
+   "en": "Missile believed to be a reaction weapon confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1157",
+   "en": "Please destroy the reaction weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1157",
+   "en": "Destroy the reaction weapon!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1157",
+   "en": "Destroy the reaction weapon!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1157",
+   "en": "Destroy the reaction weapon!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1157",
+   "en": "Destroy the reaction weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1158",
+   "en": "Please protect the Galaxy Whales from the poachers!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Michirou-dan; surely mitsuryoudan (poachers)."
+  },
+  {
+   "id": "vo0_of1_1158",
+   "en": "Protect the Galaxy Whales from the poachers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1158",
+   "en": "Protect the Galaxy Whales from the poachers!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1158",
+   "en": "Protect the Galaxy Whales from the poachers!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard mitsuyodan; surely mitsuryoudan (poachers)."
+  },
+  {
+   "id": "vos_mis_1158",
+   "en": "Protect the Galaxy Whales from the poachers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1160",
+   "en": "Presidential Office is requesting S.M.S. to deploy. All squadrons, scramble. Mission code Victor 3. I repeat, Victor 3 has been issued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1160",
+   "en": "Presidential Office is requesting S.M.S. to deploy. All squadrons, scramble. Mission code Victor 3. I repeat, Victor 3 has been issued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1160",
+   "en": "Presidential Office requests S.M.S. deployment! All squadrons, scramble! Mission code Victor 3. Repeat: Victor 3 has been issued!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1160",
+   "en": "Presidential Office requests an S.M.S. sortie. All squadrons, scramble. Mission code Victor 3. Repeat, Victor 3 has been issued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1160",
+   "en": "Presidential Office requests S.M.S. deployment. All squadrons, scramble. Mission code Victor 3. Repeat, Victor 3 has been issued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1161",
+   "en": "Purple and Vermillion Flights wiped out. The final defense line has been breached.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Baaminion (Verminion); surely Vermillion. Read as two units, Purple and Vermillion."
+  },
+  {
+   "id": "vo0_of1_1161",
+   "en": "Purple and Vermillion Flights wiped out. Final defense line breached.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Vermerion; surely Vermillion."
+  },
+  {
+   "id": "vo0_of2_1161",
+   "en": "Purple and Vermillion Flights wiped out! The final defense line was breached!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1161",
+   "en": "Purple and Vermillion Flights wiped out. The final defense line was breached.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1161",
+   "en": "Purple and Vermillion Flights wiped out. Final defense line breached.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1162",
+   "en": "We will be holding a joint exercise with the New U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1162",
+   "en": "We're holding a joint exercise with the New U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1162",
+   "en": "We're holding a joint exercise with the New U.N. Forces!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1162",
+   "en": "Joint exercise with New U.N. Forces begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1162",
+   "en": "We will hold a joint exercise with the New U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1163",
+   "en": "A Konig Monster has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1163",
+   "en": "A Konig Monster has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1163",
+   "en": "A Konig Monster has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1163",
+   "en": "A Konig Monster has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1163",
+   "en": "A Konig Monster has appeared.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kei ni hiki monsutaa' (two monsters total); surely Konig Monster, as the other four."
+  },
+  {
+   "id": "vo0_of0_1164",
+   "en": "The Presidential Office seems in chaos. No launch clearance yet.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard hatsushin (transmit); launch clearance (hatsushin) fits better in context, but could be transmit clearance."
+  },
+  {
+   "id": "vo0_of1_1164",
+   "en": "Chaos, it seems. No launch clearance from the Presidential Office.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same hatsushin: launch vs transmit."
+  },
+  {
+   "id": "vo0_of2_1164",
+   "en": "Total chaos, so the Presidential Office won't clear us to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same hatsushin: launch vs transmit."
+  },
+  {
+   "id": "vo0_om0_1164",
+   "en": "It's chaos, so no launch clearance from the Presidential Office.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same hatsushin: launch vs transmit."
+  },
+  {
+   "id": "vos_mis_1164",
+   "en": "It seems to be chaos there. The Presidential Office isn't giving launch clearance.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same hatsushin: launch vs transmit."
+  },
+  {
+   "id": "vo0_of0_1165",
+   "en": "We will now hold a mock battle with Pixie Team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1165",
+   "en": "We're holding a mock battle with Pixie Team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1165",
+   "en": "We're holding a mock battle with Pixie Team!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1165",
+   "en": "We're holding a mock battle with Pixie Team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1165",
+   "en": "We will hold a mock battle with Pixie Team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1166",
+   "en": "Defold reaction. It's Victor.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto handou (default reaction/recoil); defold reaction."
+  },
+  {
+   "id": "vo0_of1_1166",
+   "en": "Defold reaction. It's Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1166",
+   "en": "Defold reaction. It's Victor!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vo0_om0_1166",
+   "en": "Defold reaction. It's Victor.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vos_mis_1166",
+   "en": "Defold reaction. It's Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1167",
+   "en": "Please head to the thieves' hideout and scout it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1167",
+   "en": "Go and scout the thieves' hideout.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard sentou-dan (combat group); surely settou-dan (thieves' gang), as the others."
+  },
+  {
+   "id": "vo0_of2_1167",
+   "en": "Go scout the thieves' hideout!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1167",
+   "en": "Go scout the thieves' hideout.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1167",
+   "en": "Go and scout the thieves' hideout.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1168",
+   "en": "We will now hold a mock battle with Skull Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1168",
+   "en": "We're holding a mock battle with Skull Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1168",
+   "en": "We're holding a mock battle with Skull Squadron!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1168",
+   "en": "Mock battle with Skull Squadron starts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1168",
+   "en": "We will hold a mock battle with Skull Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1169",
+   "en": "Were you shot down?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 2135-2139 (1164): hatsushin heard as 'transmit clearance'; chose 'launch clearance' from context (could be transmit)",
+   "rows 2120-2124 (1161): read as two units, Purple Flight and Vermillion Flight",
+   "rows 2115-2119 (1160): 'Presidential Office' for the government office in Frontier"
+  ],
+  "whisper_doubt": [
+   "row 2082: Heard Raiza tan'i (unit) for Raiza taiin; same meaning.",
+   "row 2087: Heard 'Raiza to Ain no' (Liza and Ain); almost certainly Raiza taiin no; kept Liza only.",
+   "row 2090: Heard Ooza taiin; surely Raiza taiin (Liza).",
+   "row 2095: Heard michiryoudan (nonsense); surely mitsuryoudan (poachers), as the other rows.",
+   "row 2098: Heard mitsuyodan; surely mitsuryoudan (poachers).",
+   "row 2110: Heard Michirou-dan; surely mitsuryoudan (poachers).",
+   "row 2113: Heard mitsuyodan; surely mitsuryoudan (poachers).",
+   "row 2120: Heard Baaminion (Verminion); surely Vermillion. Read as two units, Purple and Vermillion.",
+   "row 2121: Heard Vermerion; surely Vermillion.",
+   "row 2134: Heard 'kei ni hiki monsutaa' (two monsters total); surely Konig Monster, as the other four.",
+   "row 2135: Heard hatsushin (transmit); launch clearance (hatsushin) fits better in context, but could be transmit clearance.",
+   "row 2136: Same hatsushin: launch vs transmit.",
+   "row 2137: Same hatsushin: launch vs transmit.",
+   "row 2138: Same hatsushin: launch vs transmit.",
+   "row 2139: Same hatsushin: launch vs transmit.",
+   "row 2145: Heard deforuto handou (default reaction/recoil); defold reaction.",
+   "row 2147: Heard deforuto (default); defold.",
+   "row 2148: Heard deforuto (default); defold.",
+   "row 2151: Heard sentou-dan (combat group); surely settou-dan (thieves' gang), as the others."
+  ],
+  "kept_omission": [
+   "Operator lines: subjects restored where the scene settles them; the one-word and noun-phrase stock lines (e.g. 'Many samples approaching.') stay subjectless as the Japanese is."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

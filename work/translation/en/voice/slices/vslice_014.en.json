@@ -1,0 +1,526 @@
+{
+ "slice": 14,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_om1_427",
+   "en": "Regult! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_427",
+   "en": "The enemy is retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_428",
+   "en": "Mission time is up. What a shame.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_428",
+   "en": "Mission time is up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_428",
+   "en": "Hey, you klutz. Time's up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_428",
+   "en": "Mission time is up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_428",
+   "en": "Glaug! Intercept at once.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Heard a non-word like 'gurajida'; read as Glaug (glossary: Glaug)."
+  },
+  {
+   "id": "vos_mis_428",
+   "en": "Time is up... How could this happen?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Misa says 'mission time over, what a thing (to do)'; tone of dismay, addressee unclear."
+  },
+  {
+   "id": "vo0_of0_429",
+   "en": "Starting the test.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_429",
+   "en": "Starting the test.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_429",
+   "en": "Starting the test!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_429",
+   "en": "Starting the test.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_429",
+   "en": "Nousjadeul-Ger! Intercept at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ruujaderugaada'; read as Nousjadeul-Ger (glossary)."
+  },
+  {
+   "id": "vos_mis_429",
+   "en": "Starting the test.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_430",
+   "en": "The test time is 10 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_430",
+   "en": "The test time is 10 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_430",
+   "en": "The test time is 10 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_430",
+   "en": "The test time is 10 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_430",
+   "en": "Queadluun-Rau! Intercept at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kuadoran roodaa'; read as Queadluun-Rau (glossary)."
+  },
+  {
+   "id": "vos_mis_430",
+   "en": "The test time is 10 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_431",
+   "en": "The test time is 5 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_431",
+   "en": "The test time is 5 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_431",
+   "en": "The test time is 5 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_431",
+   "en": "The test time is 5 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_431",
+   "en": "Destroids! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_431",
+   "en": "The test time is 5 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_432",
+   "en": "The test time is 3 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_432",
+   "en": "The test time is 3 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_432",
+   "en": "The test time is 3 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_432",
+   "en": "The test time is 3 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_432",
+   "en": "Varauta Army! Intercept at once!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Varauta-kun'; probably Varauta-gun (Varauta Army)."
+  },
+  {
+   "id": "vos_mis_432",
+   "en": "The test time is 3 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_433",
+   "en": "The test time is 2 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_433",
+   "en": "The test time is 2 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_433",
+   "en": "The test time is 2 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_433",
+   "en": "The test time is 2 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_433",
+   "en": "Protodevilns! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_433",
+   "en": "The test time is 2 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_434",
+   "en": "The test time is 1 minute.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_434",
+   "en": "The test time is 1 minute.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_434",
+   "en": "The test time is 1 minute.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_434",
+   "en": "The test time is 1 minute.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_434",
+   "en": "Elgersoln! Intercept at once.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Name is not in the glossary; spelled to match Panzersoln. Trailing -da may be a Whisper addition."
+  },
+  {
+   "id": "vos_mis_434",
+   "en": "The test time is 1 minute.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_435",
+   "en": "We've collected enough data. Please end the combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_435",
+   "en": "We have enough data. Ending combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_435",
+   "en": "We've got enough data. Ending the test!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_435",
+   "en": "We've got enough data. End the combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_435",
+   "en": "Panzersoln! Intercept at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Panzerzorunda'; read as Panzersoln (glossary: Az-130 Panzersoln)."
+  },
+  {
+   "id": "vos_mis_435",
+   "en": "We have enough data. Combat is ending.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_436",
+   "en": "Vajra! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_437",
+   "en": "Enemy! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_438",
+   "en": "Enemy force! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_600",
+   "en": "The enemy chain of command is in disarray.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_600",
+   "en": "The enemy's chain of command is in disarray, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_600",
+   "en": "Looks like their chain of command is in disarray.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_600",
+   "en": "Enemy command is in disarray.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_600",
+   "en": "The enemy's chain of command is in disarray, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_601",
+   "en": "Please take out the belligerent enemy commander first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_601",
+   "en": "Take out the belligerent enemy commander first.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'taosu na yo' (don't defeat); the other four say defeat first, so read as 'taoshite'."
+  },
+  {
+   "id": "vo0_of2_601",
+   "en": "Take out that belligerent enemy commander first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_601",
+   "en": "Take out the belligerent enemy commander first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_601",
+   "en": "Please take out the belligerent enemy commander first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_602",
+   "en": "The enemy has started to retreat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_602",
+   "en": "The enemy has started retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_602",
+   "en": "The enemy's started to retreat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_602",
+   "en": "The enemy is retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_602",
+   "en": "The enemy has started to retreat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_603",
+   "en": "The enemy turned our Daedalus Attack on us and infiltrated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_603",
+   "en": "They turned our Daedalus Attack against us and infiltrated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_603",
+   "en": "They turned our Daedalus Attack against us and infiltrated the ship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_603",
+   "en": "The Daedalus Attack was turned against us. The enemy infiltrated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_603",
+   "en": "The Daedalus Attack was turned against us. The enemy infiltrated!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_604",
+   "en": "Please wipe out the enemy that infiltrated the ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_604",
+   "en": "Wipe out the enemy that infiltrated the ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_604",
+   "en": "Wipe out the enemy that infiltrated the ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_604",
+   "en": "Wipe out the enemy that infiltrated the ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_604",
+   "en": "Wipe out the enemy that infiltrated the ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_605",
+   "en": "The enemy is acting strange.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_605",
+   "en": "The enemy's acting oddly.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 1048 vos_mis_428: dismay line, addressee unclear",
+   "rows 1047-1089 Itsuki om1 'Intercept at once' clips: unit names mapped to glossary where possible; plural used for Destroids, Protodevilns",
+   "rows 1109-1113: who infiltrated whom (enemy infiltrated our ship) inferred from the next clip 'enemy that infiltrated the ship'"
+  ],
+  "whisper_doubt": [
+   "row 1047",
+   "1053",
+   "1059",
+   "1071",
+   "1083",
+   "1089",
+   "1100"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Elgarzorn-type unit (Japanese: Erugaazorunda) rendered Elgarsoln; verify with Macross 7 wiki"
+  ],
+  "unfinished": []
+ }
+}

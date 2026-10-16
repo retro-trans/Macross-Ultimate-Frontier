@@ -1,0 +1,536 @@
+{
+ "slice": 143,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_she_887",
+   "en": "You reached the target area. That's the end of Special Maneuvers training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_888",
+   "en": "Time's up. That's the end of Special Maneuvers training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_889",
+   "en": "Finally, the last explanation. I have nothing left to regret. All that's left is to burn out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_890",
+   "en": "All there is now is explanation, and me. So, my...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Parody of her song line; continues into she_891."
+  },
+  {
+   "id": "vpf_she_891",
+   "en": "...Listen to the explanation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_892",
+   "en": "You probably know this without my saying so, but during training the controller settings are reset to default.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_893",
+   "en": "When an enemy missile has you targeted, a missile marker appears on the screen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_894",
+   "en": "When the missile marker turns red, you can shoot down the enemy missile.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_895",
+   "en": "In Fighter mode and on some machines, the Anti-Missile Action scatters flares to bring down enemy missiles.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_896",
+   "en": "The targets will launch missiles, so train the Anti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_897",
+   "en": "You reached the target area. That's the end of Anti-Missile Action training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_898",
+   "en": "Time's up. That's the end of Anti-Missile Action training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_899",
+   "en": "This is enough. I have nothing left to regret. All that's left is to burn out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_bjs_328",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Vajra voice; transcript is nonsense syllables (\"listener, listener, Eifos, bird person\")."
+  },
+  {
+   "id": "vp2_ish_000",
+   "en": "I'll help too. Fighting creates nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_001",
+   "en": "Singing songs of war can't be my only role.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_002",
+   "en": "I'm an Emulator, a song priestess who leads to victory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_100",
+   "en": "I want to sing for everyone. The song of Ars.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "\"Ars\" (Arusu) is the Mardook-side culture/star word; not in the glossary."
+  },
+  {
+   "id": "vp2_ish_101",
+   "en": "We should be able to understand each other. Why must we fight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_102",
+   "en": "No... to protect our culture, there's no choice but to fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_106",
+   "en": "Amazing! So this is the power of Ars!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "\"Ars\" not in glossary."
+  },
+  {
+   "id": "vp2_ish_107",
+   "en": "I'm sure you can lead the way.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "\"Michibiku\" (lead/guide); object not stated."
+  },
+  {
+   "id": "vp2_ish_108",
+   "en": "So this is the power that ends fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_139",
+   "en": "Why are you doing this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_140",
+   "en": "Run away! At this rate, you'll...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Cut short."
+  },
+  {
+   "id": "vp2_ish_141",
+   "en": "Stop it! Don't do anything worse than this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_142",
+   "en": "I'm sorry, because of me.",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Seems to trail off; kept as heard."
+  },
+  {
+   "id": "vp2_ish_143",
+   "en": "No... how terrible...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_144",
+   "en": "Everything is going to be destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_148",
+   "en": "You listen too, to my song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_149",
+   "en": "Thank you. Now we should be able to put an end to the fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_150",
+   "en": "This is the power of Ars. We can understand each other, after all.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "\"Ars\" not in glossary."
+  },
+  {
+   "id": "vp2_ish_154",
+   "en": "To build a new culture, I can't stop here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_155",
+   "en": "Protecting culture and handing it down is a wonderful thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_156",
+   "en": "I just want everyone to hear all kinds of songs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_175",
+   "en": "This is the Emulator's duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_176",
+   "en": "I'll try!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_177",
+   "en": "I entrust the power of Ars to you.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "\"Ars\" not in glossary."
+  },
+  {
+   "id": "vp2_ish_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_179",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_180",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Transcript is \"SUS\" (a sound, 0.7 s), probably a breath or a very short \"hai\"."
+  },
+  {
+   "id": "vp2_ish_181",
+   "en": "Captain, fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_182",
+   "en": "At this rate, the Captain...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp2_ish_183",
+   "en": "Captain, listen to my song. Calm down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_184",
+   "en": "To think the Captain has ended up like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_185",
+   "en": "It's because of my war song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_186",
+   "en": "There's nothing to gain from destruction...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_190",
+   "en": "Thanks to the Captain, I can sing with peace of mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_191",
+   "en": "Thank you, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_194",
+   "en": "The war song... the Emulator's duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_195",
+   "en": "The war song, the Emulator's duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_320",
+   "en": "Why? I don't enjoy singing for you at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_321",
+   "en": "I'm sorry. I don't want to be with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_322",
+   "en": "Do you really have a culture?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_323",
+   "en": "It's thanks to you that this operation succeeded.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_324",
+   "en": "I'll keep relying on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_325",
+   "en": "I'm truly grateful that you helped me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_326",
+   "en": "Thank you, always. I look forward to working with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_327",
+   "en": "I can't put my gratitude into words. Next time, please listen to my song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_328",
+   "en": "With you, I feel we could build a new culture.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_329",
+   "en": "I want to sing a love song for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_330",
+   "en": "So this is love. It feels so strange.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_331",
+   "en": "I want to tell you more. Many songs, and my heart.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_360",
+   "en": "I don't want to be with someone who doesn't know the sorrow of destruction.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_361",
+   "en": "Please think again about what culture is.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_362",
+   "en": "My song doesn't reach you, does it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_363",
+   "en": "As expected. It seems you made it a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_364",
+   "en": "It succeeded because you worked so hard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_365",
+   "en": "Thank you for helping me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_366",
+   "en": "Even a song that isn't for battle can help you, can't it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_367",
+   "en": "I wonder if my song really reached you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_368",
+   "en": "Sing with me. The song of the star Ars.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "\"Ars\" not in glossary; \"Ars no hoshi\" taken as \"the star Ars\"."
+  },
+  {
+   "id": "vp2_ish_369",
+   "en": "I'm glad you're safe. I can sing songs of happy times again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_370",
+   "en": "What kind of love songs do you sing? Teach me sometime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_371",
+   "en": "I wanted to tell you. My precious feelings, to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_600",
+   "en": "The ship of Ars!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "\"Ars\" not in glossary."
+  },
+  {
+   "id": "vp2_ish_601",
+   "en": "Feff!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_602",
+   "en": "...Feff.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Dangu berude Fefu\"; the first words look like garbled Mardook speech, only the name Feff kept."
+  },
+  {
+   "id": "vp2_ish_603",
+   "en": "We must not fight. We must not destroy this planet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_604",
+   "en": "I am Ishtar, Emulator of the Mardook.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Yushitaru Maruryuku\"; read as Ishtar of the Mardook."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "vp2_ish_107: \"Michibiku\" (lead/guide); object not stated."
+  ],
+  "whisper_doubt": [
+   "vp2_ish_602: Heard \"Dangu berude Fefu\"; the first words look like garbled Mardook speech, only the name Feff kept.",
+   "vp2_ish_604: Heard \"Yushitaru Maruryuku\"; read as Ishtar of the Mardook."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Ars (Arusu): Ishtar's word for the culture/star in her songs (Macross II); no glossary entry."
+  ],
+  "unfinished": [
+   "vpf_she_890: Parody of her song line; continues into she_891.",
+   "vp2_ish_140: Cut short.",
+   "vp2_ish_142: Seems to trail off; kept as heard.",
+   "vp2_ish_182: Trails off."
+  ]
+ }
+}

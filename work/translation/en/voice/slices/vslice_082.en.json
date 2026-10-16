@@ -1,0 +1,602 @@
+{
+ "slice": 82,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpz_mil_010",
+   "en": "Take this!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'kurai kurai'; read as 'kurae' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_011",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_012",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Zentradi-style word; Whisper wrote 'debura', not understood."
+  },
+  {
+   "id": "vpz_mil_013",
+   "en": "Damn you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_015",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'fighter, fighter, fighter'; the matching clip in the other version is a short grunt. Not a real line."
+  },
+  {
+   "id": "vpz_mil_016",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'nununu'; matching clip is a grunt."
+  },
+  {
+   "id": "vpz_mil_017",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_018",
+   "en": "Gotcha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_019",
+   "en": "How pathetic.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'muzamadama'; read as 'buzama da na' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_020",
+   "en": "Hyah!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'hey hey hey'; read as a battle cry like the sibling clip."
+  },
+  {
+   "id": "vpz_mil_100",
+   "en": "Commencing operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_101",
+   "en": "Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_102",
+   "en": "I'll be your opponent.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'watashi no aite da'; sibling clip has 'watashi ga aite da'."
+  },
+  {
+   "id": "vpz_mil_103",
+   "en": "Nothing but small fry?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_104",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_105",
+   "en": "Shall I play with you?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'asonde aru'; read as 'asonde yaru ka' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_106",
+   "en": "If I aim there...!",
+   "flags": [
+    "whisper_doubt",
+    "unfinished"
+   ],
+   "notes": "Whisper wrote 'don't aim there'; sibling clip has 'if I aim there'. Clause cut off."
+  },
+  {
+   "id": "vpz_mil_107",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_108",
+   "en": "Got you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_109",
+   "en": "What's wrong? Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_110",
+   "en": "You're weak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_111",
+   "en": "In the end, you're no match for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_112",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter, no words."
+  },
+  {
+   "id": "vpz_mil_113",
+   "en": "No challenge at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_114",
+   "en": "One enemy down.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'ikki gekitsui' with wrong kanji; read as one aircraft shot down, as in the sibling clip."
+  },
+  {
+   "id": "vpz_mil_115",
+   "en": "Target acquired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_116",
+   "en": "Enemy spotted. Moving to attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_117",
+   "en": "Found you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_118",
+   "en": "They put up no fight at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_119",
+   "en": "Have some shame, as a warrior.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_120",
+   "en": "Too weak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_121",
+   "en": "Damn! My shield!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'shimashita shield'; read as 'shimatta, shield o' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_122",
+   "en": "Even without a shield...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vpz_mil_123",
+   "en": "Don't get cocky just because you took out my shield.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_124",
+   "en": "Interesting. I'll take you on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_125",
+   "en": "So you have some skill.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'yaru yo da ga'; read as 'yaru you da na' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_126",
+   "en": "You want a fight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_127",
+   "en": "You're persistent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_128",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_129",
+   "en": "That peculiar fighting style...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Fragment, no verb."
+  },
+  {
+   "id": "vpz_mil_130",
+   "en": "Damn!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'shimashita'; read as 'shimatta'."
+  },
+  {
+   "id": "vpz_mil_131",
+   "en": "You...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_132",
+   "en": "Me, the Ace of Aces...!",
+   "flags": [
+    "whisper_doubt",
+    "unfinished"
+   ],
+   "notes": "Whisper wrote 'gekikyou' (extreme strength); read as 'gekitsuiou' (ace) like the sibling clip. Cut off."
+  },
+  {
+   "id": "vpz_mil_133",
+   "en": "Impossible!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'baka baka'; read as 'baka na'."
+  },
+  {
+   "id": "vpz_mil_134",
+   "en": "You...",
+   "flags": [
+    "whisper_doubt",
+    "unfinished"
+   ],
+   "notes": "Whisper wrote 'konkon'; read as 'kono...' like the sibling clip."
+  },
+  {
+   "id": "vpz_mil_136",
+   "en": "Me, lose? That's absurd!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_137",
+   "en": "I hate you for branding me with defeat.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'inochi o ikasaseta' (made me live); read as 'ommei o kisaseta' (made me wear disgrace) from the sibling clip."
+  },
+  {
+   "id": "vpz_mil_138",
+   "en": "Dying in battle is the best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_139",
+   "en": "What unreliable allies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_140",
+   "en": "Come to die? Go home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_141",
+   "en": "What's wrong? Need cover?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_142",
+   "en": "Allies are dwindling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_143",
+   "en": "Ugh... our allies...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vpz_mil_144",
+   "en": "Were you hit? Hey!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_148",
+   "en": "Enemies this weak? I'm enough by myself.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a garbled first half; sibling clip gives the sense."
+  },
+  {
+   "id": "vpz_mil_149",
+   "en": "A joint operation?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_150",
+   "en": "Reinforcements, huh? Well, thanks for the effort.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_151",
+   "en": "Damn, it's been shot down.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Defense-target failure group; 'it' is the target, assumed."
+  },
+  {
+   "id": "vpz_mil_152",
+   "en": "I failed to defend it.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a garbled katakana string; sibling clip is 'mamotte yarenakatta ka'."
+  },
+  {
+   "id": "vpz_mil_153",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Short shout (eifosu), no clear words."
+  },
+  {
+   "id": "vpz_mil_154",
+   "en": "Mission complete. Returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_155",
+   "en": "Hmph. Child's play.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'timeline'; sibling clip is 'fun, taai no nai'."
+  },
+  {
+   "id": "vpz_mil_156",
+   "en": "Operation successful. Returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_157",
+   "en": "To think it would end like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_158",
+   "en": "Damn, I was distracted by the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_159",
+   "en": "I'll wash away this disgrace someday, I swear!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'chitsujo' (order); read as 'chijoku' (disgrace) from the sibling clip."
+  },
+  {
+   "id": "vpz_mil_160",
+   "en": "I lost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_161",
+   "en": "I'll avenge this, I swear!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'teki'; read as 'ada' (vengeance)."
+  },
+  {
+   "id": "vpz_mil_162",
+   "en": "I-I lost... Me, of all people...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_163",
+   "en": "Prepare for ranged combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_164",
+   "en": "Cover me!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'egoshiro'; read as 'engo shiro' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_165",
+   "en": "Keep your distance and shoot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_166",
+   "en": "Prepare for melee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_167",
+   "en": "Charge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_168",
+   "en": "Get inside their guard!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'torikome'; read as 'tobikome' (dive in)."
+  },
+  {
+   "id": "vpz_mil_169",
+   "en": "Don't interfere!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_170",
+   "en": "Hold position.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'taiji shiro' (exterminate); read as 'taiki shiro' (hold)."
+  },
+  {
+   "id": "vpz_mil_171",
+   "en": "Absolutely no interference.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'muryou' (free); read as 'muyou' (needless)."
+  },
+  {
+   "id": "vpz_mil_172",
+   "en": "Begin all-out attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_173",
+   "en": "Now, do it!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6538 vpz_mil_151: Damn, it's been shot down. - Defense-target failure group; 'it' is the target, assumed."
+  ],
+  "whisper_doubt": [
+   "row 6481 vpz_mil_010: Whisper wrote 'kurai kurai'; read as 'kurae' (sibling clip).",
+   "row 6483 vpz_mil_012: Zentradi-style word; Whisper wrote 'debura', not understood.",
+   "row 6485 vpz_mil_015: Whisper wrote 'fighter, fighter, fighter'; the matching clip in the other version is a short grunt. Not a real line.",
+   "row 6486 vpz_mil_016: Whisper wrote 'nununu'; matching clip is a grunt.",
+   "row 6489 vpz_mil_019: Whisper wrote 'muzamadama'; read as 'buzama da na' (sibling clip).",
+   "row 6490 vpz_mil_020: Whisper wrote 'hey hey hey'; read as a battle cry like the sibling clip.",
+   "row 6493 vpz_mil_102: Whisper wrote 'watashi no aite da'; sibling clip has 'watashi ga aite da'.",
+   "row 6496 vpz_mil_105: Whisper wrote 'asonde aru'; read as 'asonde yaru ka' (sibling clip).",
+   "row 6497 vpz_mil_106: Whisper wrote 'don't aim there'; sibling clip has 'if I aim there'. Clause cut off.",
+   "row 6505 vpz_mil_114: Whisper wrote 'ikki gekitsui' with wrong kanji; read as one aircraft shot down, as in the sibling clip.",
+   "row 6512 vpz_mil_121: Whisper wrote 'shimashita shield'; read as 'shimatta, shield o' (sibling clip).",
+   "row 6516 vpz_mil_125: Whisper wrote 'yaru yo da ga'; read as 'yaru you da na' (sibling clip).",
+   "row 6521 vpz_mil_130: Whisper wrote 'shimashita'; read as 'shimatta'.",
+   "row 6523 vpz_mil_132: Whisper wrote 'gekikyou' (extreme strength); read as 'gekitsuiou' (ace) like the sibling clip. Cut off.",
+   "row 6524 vpz_mil_133: Whisper wrote 'baka baka'; read as 'baka na'.",
+   "row 6525 vpz_mil_134: Whisper wrote 'konkon'; read as 'kono...' like the sibling clip.",
+   "row 6527 vpz_mil_137: Whisper wrote 'inochi o ikasaseta' (made me live); read as 'ommei o kisaseta' (made me wear disgrace) from the sibling clip.",
+   "row 6535 vpz_mil_148: Whisper wrote a garbled first half; sibling clip gives the sense.",
+   "row 6539 vpz_mil_152: Whisper wrote a garbled katakana string; sibling clip is 'mamotte yarenakatta ka'.",
+   "row 6540 vpz_mil_153: Short shout (eifosu), no clear words.",
+   "row 6542 vpz_mil_155: Whisper wrote 'timeline'; sibling clip is 'fun, taai no nai'.",
+   "row 6546 vpz_mil_159: Whisper wrote 'chitsujo' (order); read as 'chijoku' (disgrace) from the sibling clip.",
+   "row 6548 vpz_mil_161: Whisper wrote 'teki'; read as 'ada' (vengeance).",
+   "row 6551 vpz_mil_164: Whisper wrote 'egoshiro'; read as 'engo shiro' (sibling clip).",
+   "row 6555 vpz_mil_168: Whisper wrote 'torikome'; read as 'tobikome' (dive in).",
+   "row 6557 vpz_mil_170: Whisper wrote 'taiji shiro' (exterminate); read as 'taiki shiro' (hold).",
+   "row 6558 vpz_mil_171: Whisper wrote 'muryou' (free); read as 'muyou' (needless)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 6497 vpz_mil_106",
+   "row 6513 vpz_mil_122",
+   "row 6520 vpz_mil_129",
+   "row 6523 vpz_mil_132",
+   "row 6525 vpz_mil_134",
+   "row 6533 vpz_mil_143"
+  ]
+ }
+}

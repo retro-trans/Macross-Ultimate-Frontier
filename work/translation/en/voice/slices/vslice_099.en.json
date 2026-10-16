@@ -1,0 +1,512 @@
+{
+ "slice": 99,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_gam_115",
+   "en": "Is that...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_116",
+   "en": "Here they come!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_117",
+   "en": "Reinforcements?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_118",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_119",
+   "en": "That does it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_120",
+   "en": "I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_121",
+   "en": "Damn it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_122",
+   "en": "My shield's gone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_123",
+   "en": "Hm! My shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_124",
+   "en": "Tch! Out of my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_125",
+   "en": "This much is no problem!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_126",
+   "en": "Ugh! This thing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_127",
+   "en": "Ugh! I can't dodge them all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_128",
+   "en": "You've done it now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_129",
+   "en": "I said get out of my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_130",
+   "en": "Any more damage and I'm in trouble!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_131",
+   "en": "Damn! I can't shake it off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_132",
+   "en": "Move! Get out of my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_133",
+   "en": "Impossible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_134",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_135",
+   "en": "I'm not going down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_137",
+   "en": "I got shot down! Me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_138",
+   "en": "Mylene probably saw that again, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_139",
+   "en": "Friendly unit, damage is severe. Return to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_140",
+   "en": "Friendly unit, withdraw from the combat zone.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has wrong kanji for 'yuugun-ki'; read as friendly craft."
+  },
+  {
+   "id": "vp7_gam_141",
+   "en": "Hey! Don't push it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_142",
+   "en": "Fall back! Fall back immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_143",
+   "en": "Respond! Can't you hear me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_144",
+   "en": "Shot down? Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_148",
+   "en": "Friendlies are here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_149",
+   "en": "This is Gamlin. Thanks for the support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_150",
+   "en": "Friendlies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_151",
+   "en": "Those bastards!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_152",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_153",
+   "en": "That's enough!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_154",
+   "en": "Yes, we won!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_155",
+   "en": "Mission complete. Returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_156",
+   "en": "I'll protect Mylene!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_157",
+   "en": "I-I was too late?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_158",
+   "en": "Scheduled time has elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_159",
+   "en": "Damn! Returning to base!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_160",
+   "en": "Unbelievable!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_161",
+   "en": "Mission failed. I'm unfit for Diamond Force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_162",
+   "en": "The mission has failed. Withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_163",
+   "en": "Return fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_164",
+   "en": "Cover me with fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_165",
+   "en": "Keep your distance and attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_166",
+   "en": "Fight them in close combat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_167",
+   "en": "Crush them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_168",
+   "en": "Close in on the enemy! Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_169",
+   "en": "Stay back!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'omae o sagure' (search for yourself) makes no sense; guessed 'omae wa sagare' (you, fall back)."
+  },
+  {
+   "id": "vp7_gam_170",
+   "en": "Leave this to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_171",
+   "en": "Take defensive positions!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_172",
+   "en": "Now! All-out attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_173",
+   "en": "Good! Full assault!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_174",
+   "en": "Finish it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_176",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_177",
+   "en": "I'm Diamond Force!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_179",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_180",
+   "en": "Understood!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_181",
+   "en": "Captain! Please don't overdo it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_182",
+   "en": "Captain! It's dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_183",
+   "en": "Captain! I'll support you! Give your orders!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_184",
+   "en": "Lost the Captain's craft! Captain!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has wrong kanji for 'ki' in 'taichou-ki'; read as the Captain's craft."
+  },
+  {
+   "id": "vp7_gam_185",
+   "en": "Captain, please respond. Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_186",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A scream."
+  },
+  {
+   "id": "vp7_gam_187",
+   "en": "What is this feeling?! Withdrawing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_188",
+   "en": "I can't fight anymore with this song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_189",
+   "en": "This battle is meaningless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_190",
+   "en": "Your skills are no ordinary level.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'nami' written with the kanji for wave; read as 'nami' (ordinary)."
+  },
+  {
+   "id": "vp7_gam_191",
+   "en": "Skills that rival Diamond Force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_300",
+   "en": "I can handle this alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_301",
+   "en": "Go wild on your own. I'll do my own thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_302",
+   "en": "What are you doing? Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_303",
+   "en": "Leave this to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_304",
+   "en": "Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_305",
+   "en": "Gamlin Kizaki will sweep them aside!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_306",
+   "en": "I'm counting on you. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_307",
+   "en": "Let's see what you can do.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7891: Transcript 'omae o sagure' (search for yourself) makes no sense; guessed 'omae wa sagare' (you, fall back)."
+  ],
+  "whisper_doubt": [
+   "row 7865: Transcript has wrong kanji for 'yuugun-ki'; read as friendly craft.",
+   "row 7891: Transcript 'omae o sagure' (search for yourself) makes no sense; guessed 'omae wa sagare' (you, fall back).",
+   "row 7905: Transcript has wrong kanji for 'ki' in 'taichou-ki'; read as the Captain's craft.",
+   "row 7911: Transcript 'nami' written with the kanji for wave; read as 'nami' (ordinary)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

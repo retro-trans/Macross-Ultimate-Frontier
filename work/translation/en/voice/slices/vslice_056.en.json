@@ -1,0 +1,507 @@
+{
+ "slice": 56,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_om1_158",
+   "en": "Time's up?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_158",
+   "en": "Time treats everybody equally, huh? Lesson learned.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_158",
+   "en": "To think I ran out of time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_158",
+   "en": "Out of time?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_158",
+   "en": "People who can't keep time are the worst, huh? Sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_159",
+   "en": "We were too late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_159",
+   "en": "Damn! We didn't make it in time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_159",
+   "en": "I can still do this! Give me one more chance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_159",
+   "en": "Was I too late?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_159",
+   "en": "How pathetic of me...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript cut off after the first part of fugai-nai; read as 'how pathetic'."
+  },
+  {
+   "id": "vp0_of2_159",
+   "en": "I blew it. Can't believe I ran out of time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_160",
+   "en": "We failed?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_160",
+   "en": "Mission failed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_160",
+   "en": "Guess these things happen, too. Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_160",
+   "en": "Failure?! I'm withdrawing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_160",
+   "en": "Mission failed. Withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_160",
+   "en": "Sorry. I never thought we'd actually fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_161",
+   "en": "Is this beyond me?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_161",
+   "en": "I'm losing my touch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_161",
+   "en": "I give up. The enemy was too tough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_161",
+   "en": "No way! We failed?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_161",
+   "en": "Tch! Is this the end?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_161",
+   "en": "Is this really all I'm capable of?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_162",
+   "en": "Mission failed. Withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_162",
+   "en": "Damn, I screwed up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_162",
+   "en": "Honestly, that was my mistake. Sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_162",
+   "en": "Am I just not strong enough?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_162",
+   "en": "Damn it! Next time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_162",
+   "en": "I'll make up for it next time. I swear!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_163",
+   "en": "Focus on your shooting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_163",
+   "en": "Focus on shooting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_163",
+   "en": "Got a target I want you to shoot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_163",
+   "en": "Shoot, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_163",
+   "en": "Focus on shooting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_163",
+   "en": "Fire, fire!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'uche uche'; probably 'ute ute' (shoot, shoot)."
+  },
+  {
+   "id": "vp0_om0_164",
+   "en": "Cover me, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_164",
+   "en": "I'll take point!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_164",
+   "en": "Keep your distance! Switch your mindset!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_164",
+   "en": "Cover me, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_164",
+   "en": "Support me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_164",
+   "en": "I'm appointing you my rear support!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_165",
+   "en": "Attack from range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_165",
+   "en": "You cover me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_165",
+   "en": "Shoot, and you'll see what I'm thinking!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_165",
+   "en": "Please focus on shooting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_165",
+   "en": "Watch my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_165",
+   "en": "Prepare to fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_166",
+   "en": "Close combat is yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_166",
+   "en": "Close combat's yours!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_166",
+   "en": "Punch 'em like you always do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_166",
+   "en": "Take it to close range!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_166",
+   "en": "Force a close fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_166",
+   "en": "Go for the melee!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_167",
+   "en": "Charge in, please!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a wrong first kanji (fukkonde); read as tsukkonde, charge in."
+  },
+  {
+   "id": "vp0_om1_167",
+   "en": "Charge!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'don't charge' (tsukkomu na); the other pilots say charge in, so read as tsukkome."
+  },
+  {
+   "id": "vp0_om2_167",
+   "en": "Go wild! I'll power you up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_167",
+   "en": "Close combat, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_167",
+   "en": "Charge in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_167",
+   "en": "Charge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_168",
+   "en": "Draw their attention.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_168",
+   "en": "Close combat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_168",
+   "en": "Punch away and you'll see what I'm thinking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_168",
+   "en": "Move up front, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_168",
+   "en": "Close combat's yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_168",
+   "en": "You're promoted to decoy duty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_169",
+   "en": "Focus on defense!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_169",
+   "en": "Defend!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_169",
+   "en": "Bear the pain for now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_169",
+   "en": "Please focus on defense!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_169",
+   "en": "Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_169",
+   "en": "Come on, calm down a bit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_170",
+   "en": "Fall back, I've got this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_170",
+   "en": "Stay back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_170",
+   "en": "Sometimes you gotta be patient, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_170",
+   "en": "Please fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_170",
+   "en": "Focus on defense!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_170",
+   "en": "Quit showing off! Defend!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_171",
+   "en": "Calm down, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_171",
+   "en": "Leave it to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_171",
+   "en": "Hold out and you'll see what I'm thinking.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 4410: Transcript cut off after the first part of fugai-nai; read as 'how pathetic'.",
+   "row 4435: Heard 'uche uche'; probably 'ute ute' (shoot, shoot).",
+   "row 4454: Transcript has a wrong first kanji (fukkonde); read as tsukkonde, charge in.",
+   "row 4455: Heard 'don't charge' (tsukkomu na); the other pilots say charge in, so read as tsukkome."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

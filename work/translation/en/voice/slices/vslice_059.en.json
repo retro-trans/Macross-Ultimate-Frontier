@@ -1,0 +1,511 @@
+{
+ "slice": 59,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_om1_304",
+   "en": "Hey, don't screw up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_304",
+   "en": "All right! Put some spirit into it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_304",
+   "en": "Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_304",
+   "en": "Now, don't let up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_304",
+   "en": "Let's go all out today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_305",
+   "en": "Will we make it back safely?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_305",
+   "en": "Right, let's finish this quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_305",
+   "en": "Show some guts, too! Guts!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_305",
+   "en": "Let's do our best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_305",
+   "en": "Right, let's do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_305",
+   "en": "With me here, this is a piece of cake.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_306",
+   "en": "I think I can fight with peace of mind this time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_306",
+   "en": "Sortieing with you, huh? We should manage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_306",
+   "en": "A mission like this is nothing for us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_306",
+   "en": "I'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_306",
+   "en": "Let's see what you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_306",
+   "en": "With you, I feel safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_307",
+   "en": "I'm glad to sortie with you again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_307",
+   "en": "Counting on your skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_307",
+   "en": "We can do it! There's nothing we can't do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_307",
+   "en": "Look forward to my support, okay?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'shindan' (diagnosis); probably 'kitai' (expect)."
+  },
+  {
+   "id": "vp0_of1_307",
+   "en": "Follow me. I'll show you a real fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_307",
+   "en": "I'll give you my support until you're sick of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_308",
+   "en": "Rely on me a little, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_308",
+   "en": "Feeling pretty good today. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_308",
+   "en": "Let's show 'em our fiery fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_308",
+   "en": "We should be fine on this mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_308",
+   "en": "I'm counting on you a bit. Don't let me down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_308",
+   "en": "Can you keep up with my too-dazzling piloting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_309",
+   "en": "We're absolutely invincible together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_309",
+   "en": "Let's wrap this up and go for a drink.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_309",
+   "en": "Teaming up with you fires me up. You feel it too, right?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'katagitte kuru'; probably 'tagitte kuru' (get fired up)."
+  },
+  {
+   "id": "vp0_of0_309",
+   "en": "I believe in you. Believe in me, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_309",
+   "en": "Let's go! We can do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_309",
+   "en": "I'm trusting you with my back. Just kidding!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_310",
+   "en": "I'll guard your back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_310",
+   "en": "We're teamed up. The result's already obvious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_310",
+   "en": "Can't stop us! No one can block our path!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_310",
+   "en": "With our teamwork, it'll be a breeze, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_310",
+   "en": "Ah, you can rely on me, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_310",
+   "en": "Alright! I'll risk my life for you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_311",
+   "en": "Let's show off our teamwork!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_311",
+   "en": "Let's show 'em our ultimate teamwork.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_311",
+   "en": "Combine my passion and yours, and who knows what reaction we'll get!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_311",
+   "en": "If we make it back safe, treat me to cake.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_311",
+   "en": "If we get back alive, I'll feed you my own cooking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_311",
+   "en": "You shouldn't, really. Treating me to steak when we get back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_320",
+   "en": "I just wanted you to stay out of my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_320",
+   "en": "I told you not to get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_320",
+   "en": "You can't keep up with me. You found that out when you tried.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Aite (opponent/partner) read as partner."
+  },
+  {
+   "id": "vp0_of0_320",
+   "en": "Looks like we made it back somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_320",
+   "en": "I told you not to get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_320",
+   "en": "Is getting in my way that much fun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_321",
+   "en": "From now on, let me do it alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_321",
+   "en": "This duo ends with this one. We're done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_321",
+   "en": "I feel nothing from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_321",
+   "en": "Hmm... no, never mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_321",
+   "en": "Watch your back on the next mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_321",
+   "en": "I can't take it anymore. We're done as a duo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_322",
+   "en": "We're lucky just to have made it back alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_322",
+   "en": "Working with you is a pain, I swear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_322",
+   "en": "I can't team up with a spineless wimp like this. Later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_322",
+   "en": "I might feel easier alone after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_322",
+   "en": "Spare me the babysitting after this one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_322",
+   "en": "I've never had such a painful mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_323",
+   "en": "That's done. Let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_323",
+   "en": "Mission over. Let's go home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_323",
+   "en": "Yeah! Mission accomplished! Returning!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_323",
+   "en": "Let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_323",
+   "en": "It's over. Heading back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_323",
+   "en": "The mission's not over until we're back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_324",
+   "en": "Phew. Glad I didn't mess up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_324",
+   "en": "Looks like we both made it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_324",
+   "en": "Piece of cake!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_324",
+   "en": "Keep this up. Let's do our best next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_324",
+   "en": "Well, you're better than a cat lending a paw.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Idiom: better than having a cat's paw to borrow; read as faint praise."
+  },
+  {
+   "id": "vp0_of2_324",
+   "en": "Keep it up next time as well, you hear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_325",
+   "en": "Let's work together next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_325",
+   "en": "Nice work, Santa.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pun on otsukare (good work) with 'Santa'; pun cannot carry."
+  },
+  {
+   "id": "vp0_om2_325",
+   "en": "That was a fight exciting enough to enjoy.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 4690: Aite (opponent/partner) read as partner.",
+   "row 4716: Idiom: better than having a cat's paw to borrow; read as faint praise.",
+   "row 4719: Pun on otsukare (good work) with 'Santa'; pun cannot carry."
+  ],
+  "whisper_doubt": [
+   "row 4661: Heard 'shindan' (diagnosis); probably 'kitai' (expect).",
+   "row 4672: Heard 'katagitte kuru'; probably 'tagitte kuru' (get fired up)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

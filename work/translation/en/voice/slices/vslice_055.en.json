@@ -1,0 +1,498 @@
+{
+ "slice": 55,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_of2_141",
+   "en": "This is getting dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_142",
+   "en": "Please eject quickly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_142",
+   "en": "Tch! Hurry and eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_142",
+   "en": "Damn it! I want to fly with you again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_142",
+   "en": "Eject, quickly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_142",
+   "en": "Tch! Hurry up and eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_142",
+   "en": "Huh? You got shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_143",
+   "en": "Shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_143",
+   "en": "Damn! I told you so!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_143",
+   "en": "Eject, please! Make it in time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_143",
+   "en": "Please! Respond!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_143",
+   "en": "You got careless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_143",
+   "en": "No way! We were having fun together just now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_144",
+   "en": "Damn it! If only I had the power!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_144",
+   "en": "That damn fool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_144",
+   "en": "What are you doing?! You still need my guidance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_144",
+   "en": "If I had just... a little more...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_144",
+   "en": "Idiot...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_144",
+   "en": "I'll avenge you, okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_148",
+   "en": "Reinforcements? Thank goodness!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_148",
+   "en": "Much appreciated!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_148",
+   "en": "Who called for reinforcements? Nobody told me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_148",
+   "en": "Thanks for the backup!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_148",
+   "en": "Thanks for the backup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_148",
+   "en": "I've been waiting for you! So, can I take a break?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_149",
+   "en": "Thanks for the backup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_149",
+   "en": "Thanks for coming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_149",
+   "en": "Getting lively now. I don't hate this atmosphere.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_149",
+   "en": "Reinforcements! You saved me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_149",
+   "en": "We'll put this backup to use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_149",
+   "en": "Thanks for the backup!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_150",
+   "en": "All right, time to counterattack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_150",
+   "en": "Heaven-sent help, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_150",
+   "en": "I need to rest once in a while too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_150",
+   "en": "With this force...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_150",
+   "en": "They're finally here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_150",
+   "en": "Riding this momentum, here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_151",
+   "en": "I couldn't protect them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_151",
+   "en": "It's my fault.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_151",
+   "en": "Sorry I couldn't protect you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_151",
+   "en": "I couldn't protect them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_151",
+   "en": "I couldn't protect anything...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_151",
+   "en": "Don't go down from this much!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_152",
+   "en": "I wasn't strong enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_152",
+   "en": "They got taken out?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_152",
+   "en": "You bastards! How dare you! How dare you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_152",
+   "en": "It was destroyed?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_152",
+   "en": "And I was right here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_152",
+   "en": "Sorry I couldn't save you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_153",
+   "en": "It's destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_153",
+   "en": "What the hell!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_153",
+   "en": "Seriously, you gotta get it together, man.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_153",
+   "en": "This can't be...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_of1_153",
+   "en": "To be shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_153",
+   "en": "Can't believe it came to this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_154",
+   "en": "Operation complete. Returning at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_154",
+   "en": "Operation done. Heading back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_154",
+   "en": "This slight fever won't cool for a while. I'll cool down, then return to base. Over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_154",
+   "en": "Operation over. Returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_154",
+   "en": "Operation complete. Returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_154",
+   "en": "How's that for my skill?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_155",
+   "en": "Phew, the operation's over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_155",
+   "en": "Hmph, that was easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_155",
+   "en": "It's the difference in passion. Well, a natural result.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_155",
+   "en": "Looks like I can do it if I try!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_155",
+   "en": "Well, not a bad result.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_155",
+   "en": "Mission complete!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_156",
+   "en": "Is it over?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_156",
+   "en": "That's today's work done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_156",
+   "en": "Mission complete. Now let's go home, to our place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_156",
+   "en": "Phew, it's over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_156",
+   "en": "Phew, well, that's that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_156",
+   "en": "When we get back, I've got to maintain you properly. Good work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_157",
+   "en": "Too late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_157",
+   "en": "Tch! Too late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_157",
+   "en": "Nobody's going to accept an ending like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_157",
+   "en": "Didn't make it in time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_157",
+   "en": "Huh, too late?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_157",
+   "en": "I was having so much fun, I forgot all about the time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_158",
+   "en": "Not like this... not an ending like this...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 4373: Trails off."
+  ]
+ }
+}

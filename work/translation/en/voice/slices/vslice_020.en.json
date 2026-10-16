@@ -1,0 +1,535 @@
+{
+ "slice": 20,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1033",
+   "en": "Many enemy pods are dropping in. It looks like close-quarters combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1033",
+   "en": "Enemy pods are dropping in by the dozen. Looks like close-quarters combat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1033",
+   "en": "Many enemy pods dropping in. It looks like close-quarters combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1033",
+   "en": "Many enemy pods dropping in. It looks like close-quarters combat.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says 'toka' (dropped) where the others say 'kouka' (descend); same meaning, no change."
+  },
+  {
+   "id": "vo0_of0_1034",
+   "en": "The enemy is retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1034",
+   "en": "The enemy is retreating!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1034",
+   "en": "The enemy's pulling back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1034",
+   "en": "The enemy is retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1034",
+   "en": "The enemy is retreating!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1035",
+   "en": "New barrier system, rapid deployment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1035",
+   "en": "New barrier system, rapid deployment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1035",
+   "en": "New barrier system deploying fast.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1035",
+   "en": "New barrier system, rapid deployment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1035",
+   "en": "New barrier system, rapid deployment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1036",
+   "en": "Please take down as many enemies as you can before the barrier breaks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1036",
+   "en": "Take down as many enemies as you can before the barrier breaks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1036",
+   "en": "Take out as many enemies as you can before the barrier breaks!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1036",
+   "en": "Take down as many enemies as you can before it breaks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1036",
+   "en": "Hit as many enemies as you can before the barrier breaks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1037",
+   "en": "Barrier generators 4 and 7, power output dropping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1037",
+   "en": "Barrier generators 4 and 7, power output dropping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1037",
+   "en": "Barrier generators 4 and 7, power output dropping!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1037",
+   "en": "Barrier generators 4 and 7, power output dropping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1037",
+   "en": "Barrier generators 4 and 7, power output dropping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1038",
+   "en": "Fault in the Macross barrier system.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1038",
+   "en": "Fault in the Macross barrier system.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1038",
+   "en": "A fault has hit the Macross barrier system.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1038",
+   "en": "Fault in the Macross barrier system.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1038",
+   "en": "Fault in the Macross barrier system.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1039",
+   "en": "The barrier is about to explode! Please get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1039",
+   "en": "The barrier will explode! Get out of there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1039",
+   "en": "The barrier's going to blow! Run!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1039",
+   "en": "The barrier's going to explode! Run!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1039",
+   "en": "The barrier will explode. At least you all, get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1040",
+   "en": "There appear to be no enemy forces left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1040",
+   "en": "There are no enemy forces left, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1040",
+   "en": "Looks like there are no enemy forces left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1040",
+   "en": "Looks like there are no enemy forces left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1040",
+   "en": "No enemy forces left, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1041",
+   "en": "Please escort the liaison shuttle heading to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1041",
+   "en": "Escort the liaison shuttle heading to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1041",
+   "en": "Escort the liaison shuttle heading to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1041",
+   "en": "Escort the liaison shuttle heading to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1041",
+   "en": "Escort the liaison shuttle heading to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1042",
+   "en": "Attention. Please head straight for point A3102 immediately.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript opens with 'ichijo chui' (sounds like 'Ichijo, attention' or 'everyone, attention' = ichidou); dropped the address, kept 'Attention'. Also writes shikyuu with the kanji for 'supply'; it is shikyuu (urgent)."
+  },
+  {
+   "id": "vo0_of1_1042",
+   "en": "Attention. Head straight for point A3102 immediately.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Same opening garble (ichijo chui); dropped the address."
+  },
+  {
+   "id": "vo0_of2_1042",
+   "en": "Attention. Head straight for point A3102 right now!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Same opening garble (ichijo chui); dropped the address."
+  },
+  {
+   "id": "vo0_om0_1042",
+   "en": "Attention. Head straight for point A3102 immediately.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Same opening garble (ichijo chui); dropped the address."
+  },
+  {
+   "id": "vos_mis_1042",
+   "en": "Attention. Head straight for point A3102 immediately.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Same opening garble (ichijo chui); dropped the address."
+  },
+  {
+   "id": "vo0_of0_1043",
+   "en": "The enemy fleet is retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1043",
+   "en": "The enemy fleet is retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1043",
+   "en": "The enemy fleet's pulling back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1043",
+   "en": "The enemy fleet is retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1043",
+   "en": "The enemy fleet is retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1044",
+   "en": "We'd like you to broadcast Lynn Minmay's song to give the Boddole fleet a culture shock.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'Botoru' for 'Bodoru' (Boddole)."
+  },
+  {
+   "id": "vo0_of1_1044",
+   "en": "We need you to broadcast Lynn Minmay's song to give the Boddole fleet a culture shock.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1044",
+   "en": "We want Lynn Minmay's song broadcast to give the Boddole fleet a culture shock.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1044",
+   "en": "Broadcast Lynn Minmay's song to give the Boddole fleet a culture shock, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1044",
+   "en": "We'd like you to broadcast Lynn Minmay's song to give the Boddole fleet a culture shock.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1045",
+   "en": "The decisive battle at last.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1045",
+   "en": "The decisive battle at last.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1045",
+   "en": "Decisive battle at last!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1045",
+   "en": "Decisive battle at last.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1045",
+   "en": "The decisive battle at last.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1046",
+   "en": "Please work with Vrlitwhai's Adoclass fleet and destroy the Boddole fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1046",
+   "en": "Work with Vrlitwhai's Adoclass fleet and destroy the Boddole fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1046",
+   "en": "Work with Vrlitwhai's Adoclass fleet and destroy the Boddole fleet.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'burii-tai' (short form) for Vrlitwhai (Buritai)."
+  },
+  {
+   "id": "vo0_om0_1046",
+   "en": "Work with Vrlitwhai's Adoclass fleet and destroy the Boddole fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1046",
+   "en": "Work with Vrlitwhai's Adoclass fleet and destroy the Boddole fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1047",
+   "en": "Please rescue the survivors.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1047",
+   "en": "Rescue the survivors.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1047",
+   "en": "Rescue the survivors!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1047",
+   "en": "Rescue the survivors.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1047",
+   "en": "Rescue the survivors.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1048",
+   "en": "The survivors have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1048",
+   "en": "The survivors have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1048",
+   "en": "We rescued the survivors!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1048",
+   "en": "Survivors rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1048",
+   "en": "The survivors have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1050",
+   "en": "Some of the Zentradi have turned into a rioting mob. Please suppress them at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'toka shite' (wrong word) for 'to ka shite' (turned into); the others have it right."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1565-1569 (clip 1042): the opening words are garbled (ichijo/ichijou chui); could be 'Ichijo, attention' (Hikaru) or 'everyone, attention'; I kept a plain 'Attention.'",
+   "rows 1575-1579 (clip 1044): the speaker asks the listener to broadcast Lynn Minmay's song; 'the Boddole fleet' used for the short form of Boddole Zer's fleet",
+   "rows 1585-1589 (clip 1046): 'Vrlitwhai's Adoclass fleet' read as the fleet he commands (not 'Vrlitwhai and the Adoclass fleet')",
+   "row 1559/1556 (clip 1040): 'right?' kept, since two operators end with a confirming 'ne'"
+  ],
+  "whisper_doubt": [
+   "row 1524: Transcript says 'toka' (dropped) where the others say 'kouka' (descend); same meaning, no change.",
+   "row 1565: Transcript opens with 'ichijo chui' (sounds like 'Ichijo, attention' or 'everyone, attention' = ichidou); dropped the address, kept 'Attention'. Also writes shikyuu with the kanji for 'supply'; it is shikyuu (urgent).",
+   "row 1566: Same opening garble (ichijo chui); dropped the address.",
+   "row 1567: Same opening garble (ichijo chui); dropped the address.",
+   "row 1568: Same opening garble (ichijo chui); dropped the address.",
+   "row 1569: Same opening garble (ichijo chui); dropped the address.",
+   "row 1575: Transcript has 'Botoru' for 'Bodoru' (Boddole).",
+   "row 1587: Transcript has 'burii-tai' (short form) for Vrlitwhai (Buritai).",
+   "row 1600: Transcript has 'toka shite' (wrong word) for 'to ka shite' (turned into); the others have it right."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Adoclass fleet (Adoclass is in organizations.json notes only)",
+   "Boddole fleet short form (glossary has 'Boddole Zer Main Fleet')"
+  ],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,651 @@
+{
+ "slice": 2,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_024",
+   "en": "Another hit is dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_024",
+   "en": "What are you doing? This is dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_024",
+   "en": "Your aircraft can't take any more damage!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says kitai (expectation); surely kitai (airframe)."
+  },
+  {
+   "id": "vo0_om0_024",
+   "en": "Damage spreading. Any more is dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_024",
+   "en": "What are you doing? Pull yourself together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_025",
+   "en": "Damage growing. Your aircraft won't hold!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_025",
+   "en": "Damage growing. Your aircraft can't take any more.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_025",
+   "en": "Is getting beaten up your hobby?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_025",
+   "en": "You're taking too many hits. Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_025",
+   "en": "Your aircraft's damage is increasing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_026",
+   "en": "Please eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_026",
+   "en": "Eject, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_026",
+   "en": "Clumsy pilots are such a pain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_026",
+   "en": "Eject, quick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_026",
+   "en": "Honestly, what are you doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_027",
+   "en": "Your wingman's damage is increasing.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes ryoki (both aircraft); same sound as ryoki (wingman). Clips 027-031 are the wingman series, so wingman."
+  },
+  {
+   "id": "vo0_of1_027",
+   "en": "Wingman's damage is increasing.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes both aircraft; read as wingman (same sound)."
+  },
+  {
+   "id": "vo0_of2_027",
+   "en": "Your wingman's badly damaged!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes ryoki with a wrong kanji (hunting-oddity); wingman."
+  },
+  {
+   "id": "vo0_om0_027",
+   "en": "Wingman's damage is increasing!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes both aircraft; read as wingman."
+  },
+  {
+   "id": "vos_mis_027",
+   "en": "Wingman's damage is increasing.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes both aircraft; read as wingman."
+  },
+  {
+   "id": "vo0_of0_028",
+   "en": "Wingman is badly damaged.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes both aircraft; read as wingman."
+  },
+  {
+   "id": "vo0_of1_028",
+   "en": "Wingman's badly damaged!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes both aircraft; read as wingman."
+  },
+  {
+   "id": "vo0_of2_028",
+   "en": "Back up your wingman a little!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes ryoki with a wrong kanji; wingman."
+  },
+  {
+   "id": "vo0_om0_028",
+   "en": "Wingman is badly damaged!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes both aircraft; read as wingman."
+  },
+  {
+   "id": "vos_mis_028",
+   "en": "Wingman is badly damaged.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes both aircraft; read as wingman."
+  },
+  {
+   "id": "vo0_of0_029",
+   "en": "Your wingman is in danger!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes ryoki with a wrong kanji; wingman."
+  },
+  {
+   "id": "vo0_of1_029",
+   "en": "Wingman in danger!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes both aircraft; read as wingman."
+  },
+  {
+   "id": "vo0_of2_029",
+   "en": "At this rate your wingman won't last.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for ryoki; wingman."
+  },
+  {
+   "id": "vo0_om0_029",
+   "en": "Your wingman won't last like this!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for ryoki; wingman."
+  },
+  {
+   "id": "vos_mis_029",
+   "en": "Wingman in danger!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for ryoki; wingman."
+  },
+  {
+   "id": "vo0_of0_030",
+   "en": "No! Your wingman can't take any more!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes ryokin (fee) for ryoki; wingman."
+  },
+  {
+   "id": "vo0_of1_030",
+   "en": "No! Your wingman can't hold out any longer!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for ryoki; wingman."
+  },
+  {
+   "id": "vo0_of2_030",
+   "en": "You worked your wingman too hard.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for ryoki; wingman."
+  },
+  {
+   "id": "vo0_om0_030",
+   "en": "Wingman can't hold out! Danger!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes both aircraft; read as wingman."
+  },
+  {
+   "id": "vos_mis_030",
+   "en": "Wingman can't take any more.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes ryokin (fee) for ryoki; wingman."
+  },
+  {
+   "id": "vo0_of0_031",
+   "en": "Wingman destroyed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for ryoki; wingman."
+  },
+  {
+   "id": "vo0_of1_031",
+   "en": "Wingman destroyed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Katakana ryoki; wingman."
+  },
+  {
+   "id": "vo0_of2_031",
+   "en": "Aaah! Your wingman got taken out!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for ryoki; wingman."
+  },
+  {
+   "id": "vo0_om0_031",
+   "en": "Wingman destroyed!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for ryoki; wingman."
+  },
+  {
+   "id": "vos_mis_031",
+   "en": "Wingman shot down! No way they can keep fighting.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for ryoki; wingman."
+  },
+  {
+   "id": "vo0_of0_032",
+   "en": "Friendly backup has arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_032",
+   "en": "Friendlies have come to help.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_032",
+   "en": "Friendlies are here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_032",
+   "en": "Friendly arrival confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_032",
+   "en": "Friendlies are heading your way. Work with them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_033",
+   "en": "Friendly aircraft lightly damaged.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript is garbled (sosho keibi); surely sonsho keibi (slight damage), matching the Itsuki line; also wrong kanji for yuugun."
+  },
+  {
+   "id": "vo0_of1_033",
+   "en": "Friendly aircraft in combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_033",
+   "en": "A friendly aircraft is under attack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes yuugen-ki; friendly aircraft."
+  },
+  {
+   "id": "vo0_om0_033",
+   "en": "Friendly aircraft lightly damaged.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has damage-guard (keibi); read as slight damage (keibi). Also wrong kanji for yuugun."
+  },
+  {
+   "id": "vos_mis_033",
+   "en": "A friendly aircraft is under attack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_of0_034",
+   "en": "Friendly aircraft engaged with the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_034",
+   "en": "Friendly aircraft is taking damage.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_of2_034",
+   "en": "A friendly aircraft is fighting the enemy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_om0_034",
+   "en": "Friendly aircraft engaged with the enemy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vos_mis_034",
+   "en": "Friendlies engaged with the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_035",
+   "en": "Friendly requesting support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_035",
+   "en": "A friendly unit is asking for support.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes yuugi (play) for yuugun; friendly."
+  },
+  {
+   "id": "vo0_of2_035",
+   "en": "A friendly's calling for help.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Garbled yuugun-ki; says rescue request where the others say support request."
+  },
+  {
+   "id": "vo0_om0_035",
+   "en": "Friendly support request.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes nyuugun (enter-force) for yuugun; friendly."
+  },
+  {
+   "id": "vos_mis_035",
+   "en": "Friendly damage is increasing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_036",
+   "en": "Friendly aircraft can't take any more.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes yuugun-ki with a wrong kanji; friendly aircraft."
+  },
+  {
+   "id": "vo0_of1_036",
+   "en": "Friendly aircraft in danger!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_036",
+   "en": "Friendly aircraft is in trouble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_036",
+   "en": "Friendly aircraft can't take any more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_036",
+   "en": "Friendly aircraft can't hold out any longer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji (flag) for ki; friendly aircraft."
+  },
+  {
+   "id": "vo0_of0_037",
+   "en": "Friendly unit's damage is at its limit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_037",
+   "en": "Ally damage rising.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes yuugun-ki with a wrong kanji; friendly aircraft."
+  },
+  {
+   "id": "vo0_of2_037",
+   "en": "Go help the friendly unit!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_om0_037",
+   "en": "Ally damage at its limit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes kigun (a different kanji) for kiki; friendly aircraft."
+  },
+  {
+   "id": "vos_mis_037",
+   "en": "Friendly aircraft damage is at its limit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_of0_038",
+   "en": "Friendly aircraft wrecked.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_of1_038",
+   "en": "Friendly unit can't continue.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_of2_038",
+   "en": "The friendly aircraft got taken out!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_om0_038",
+   "en": "Friendly wrecked.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says taiha (retreat wave); surely taiha (heavy damage), as the other four operators say."
+  },
+  {
+   "id": "vos_mis_038",
+   "en": "Friendly aircraft destroyed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_of0_039",
+   "en": "Friendly aircraft disabled.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_of1_039",
+   "en": "Friendly aircraft shot down.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_of2_039",
+   "en": "Guess that friendly's done for.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vo0_om0_039",
+   "en": "Friendly aircraft disabled.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  },
+  {
+   "id": "vos_mis_039",
+   "en": "Friendly aircraft shot down. Oh no.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for yuugun; friendly."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 83: Transcript says kitai (expectation); surely kitai (airframe).",
+   "row 96: Transcript writes ryoki (both aircraft); same sound as ryoki (wingman). Clips 027-031 are the wingman series, so wingman.",
+   "row 97: Transcript writes both aircraft; read as wingman (same sound).",
+   "row 98: Transcript writes ryoki with a wrong kanji (hunting-oddity); wingman.",
+   "row 99: Transcript writes both aircraft; read as wingman.",
+   "row 100: Transcript writes both aircraft; read as wingman.",
+   "row 101: Transcript writes both aircraft; read as wingman.",
+   "row 102: Transcript writes both aircraft; read as wingman.",
+   "row 103: Transcript writes ryoki with a wrong kanji; wingman.",
+   "row 104: Transcript writes both aircraft; read as wingman.",
+   "row 105: Transcript writes both aircraft; read as wingman.",
+   "row 106: Transcript writes ryoki with a wrong kanji; wingman.",
+   "row 107: Transcript writes both aircraft; read as wingman.",
+   "row 108: Wrong kanji for ryoki; wingman.",
+   "row 109: Wrong kanji for ryoki; wingman.",
+   "row 110: Wrong kanji for ryoki; wingman.",
+   "row 111: Transcript writes ryokin (fee) for ryoki; wingman.",
+   "row 112: Wrong kanji for ryoki; wingman.",
+   "row 113: Wrong kanji for ryoki; wingman.",
+   "row 114: Transcript writes both aircraft; read as wingman.",
+   "row 115: Transcript writes ryokin (fee) for ryoki; wingman.",
+   "row 116: Wrong kanji for ryoki; wingman.",
+   "row 117: Katakana ryoki; wingman.",
+   "row 118: Wrong kanji for ryoki; wingman.",
+   "row 119: Wrong kanji for ryoki; wingman.",
+   "row 120: Wrong kanji for ryoki; wingman.",
+   "row 126: Transcript is garbled (sosho keibi); surely sonsho keibi (slight damage), matching the Itsuki line; also wrong kanji for yuugun.",
+   "row 128: Transcript writes yuugen-ki; friendly aircraft.",
+   "row 129: Transcript has damage-guard (keibi); read as slight damage (keibi). Also wrong kanji for yuugun.",
+   "row 130: Wrong kanji for yuugun; friendly.",
+   "row 132: Wrong kanji for yuugun; friendly.",
+   "row 133: Wrong kanji for yuugun; friendly.",
+   "row 134: Wrong kanji for yuugun; friendly.",
+   "row 137: Transcript writes yuugi (play) for yuugun; friendly.",
+   "row 138: Garbled yuugun-ki; says rescue request where the others say support request.",
+   "row 139: Transcript writes nyuugun (enter-force) for yuugun; friendly.",
+   "row 141: Transcript writes yuugun-ki with a wrong kanji; friendly aircraft.",
+   "row 145: Wrong kanji (flag) for ki; friendly aircraft.",
+   "row 147: Transcript writes yuugun-ki with a wrong kanji; friendly aircraft.",
+   "row 148: Wrong kanji for yuugun; friendly.",
+   "row 149: Transcript writes kigun (a different kanji) for kiki; friendly aircraft.",
+   "row 150: Wrong kanji for yuugun; friendly.",
+   "row 151: Wrong kanji for yuugun; friendly.",
+   "row 152: Wrong kanji for yuugun; friendly.",
+   "row 153: Wrong kanji for yuugun; friendly.",
+   "row 154: Transcript says taiha (retreat wave); surely taiha (heavy damage), as the other four operators say.",
+   "row 155: Wrong kanji for yuugun; friendly.",
+   "row 156: Wrong kanji for yuugun; friendly.",
+   "row 157: Wrong kanji for yuugun; friendly.",
+   "row 158: Wrong kanji for yuugun; friendly.",
+   "row 159: Wrong kanji for yuugun; friendly.",
+   "row 160: Wrong kanji for yuugun; friendly."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

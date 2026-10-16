@@ -1,0 +1,541 @@
+{
+ "slice": 37,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1324",
+   "en": "Battle Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1324",
+   "en": "Battle Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1324",
+   "en": "Battle Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1324",
+   "en": "Battle Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1325",
+   "en": "VF-27 Lucifer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1325",
+   "en": "VF-27 Lucifer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1325",
+   "en": "VF-27 Lucifer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1325",
+   "en": "VF-27 Lucifer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1325",
+   "en": "VF-27 Lucifer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1326",
+   "en": "Battle Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1326",
+   "en": "Battle Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1326",
+   "en": "Battle Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1326",
+   "en": "Battle Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1326",
+   "en": "Battle Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1327",
+   "en": "VF-2SS Valkyrie II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1327",
+   "en": "VF-2SS Valkyrie II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1327",
+   "en": "VF-2SS Valkyrie II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1327",
+   "en": "VF-2SS Valkyrie II",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as VF-2SS Valkyrie II (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1327",
+   "en": "VF-2SS Valkyrie II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1328",
+   "en": "Gigamesh",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1328",
+   "en": "Gigamesh",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1328",
+   "en": "Gigamesh",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1328",
+   "en": "Gigamesh",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1328",
+   "en": "Gigamesh",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1329",
+   "en": "VF-9 Cutlass",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1329",
+   "en": "VF-9 Cutlass",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1329",
+   "en": "VF-9 Cutlass",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1329",
+   "en": "VF-9 Cutlass",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1329",
+   "en": "VF-9 Cutlass",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1330",
+   "en": "All units",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper mangled the name; read as All units (cross-checked with the other operators' rows). Single word 'each aircraft'; used as 'All units'."
+  },
+  {
+   "id": "vo0_of1_1330",
+   "en": "All units",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper mangled the name; read as All units (cross-checked with the other operators' rows). Single word 'each aircraft'; used as 'All units'."
+  },
+  {
+   "id": "vo0_of2_1330",
+   "en": "All units",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper mangled the name; read as All units (cross-checked with the other operators' rows). Single word 'each aircraft'; used as 'All units'."
+  },
+  {
+   "id": "vo0_om0_1330",
+   "en": "All units",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Single word 'each aircraft'; used as 'All units'."
+  },
+  {
+   "id": "vos_mis_1330",
+   "en": "All units",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Single word 'each aircraft'; used as 'All units'."
+  },
+  {
+   "id": "vo0_of0_1332",
+   "en": "Please launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1332",
+   "en": "Launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1332",
+   "en": "Launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1332",
+   "en": "Launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1332",
+   "en": "Launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1334",
+   "en": "Ghost equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1334",
+   "en": "Ghost equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1334",
+   "en": "I'll allow Ghost equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1334",
+   "en": "Ghost equipment authorized. Launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1334",
+   "en": "Ghost equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1335",
+   "en": "All-Out Assault Spec equipment is authorized.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Game text calls this pack an all-out assault spec; the clip wording is literally 'suicide-charge assault spec'."
+  },
+  {
+   "id": "vo0_of1_1335",
+   "en": "All-Out Assault Spec equipment is authorized.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Game text calls this pack an all-out assault spec; the clip wording is literally 'suicide-charge assault spec'."
+  },
+  {
+   "id": "vo0_of2_1335",
+   "en": "I'll allow All-Out Assault Spec equipment.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Game text calls this pack an all-out assault spec; the clip wording is literally 'suicide-charge assault spec'."
+  },
+  {
+   "id": "vo0_om0_1335",
+   "en": "All-Out Assault Spec equipment authorized. Launch!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Game text calls this pack an all-out assault spec; the clip wording is literally 'suicide-charge assault spec'."
+  },
+  {
+   "id": "vos_mis_1335",
+   "en": "All-Out Assault Spec equipment authorized.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Game text calls this pack an all-out assault spec; the clip wording is literally 'suicide-charge assault spec'."
+  },
+  {
+   "id": "vo0_of0_1336",
+   "en": "Reactive Armor equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1336",
+   "en": "Reactive Armor equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1336",
+   "en": "I'll allow Reactive Armor equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1336",
+   "en": "Reactive Armor equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1336",
+   "en": "Reactive Armor equipment authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Reactive Armor (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1337",
+   "en": "Twin Booster equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1337",
+   "en": "Twin Booster equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1337",
+   "en": "I'll allow Twin Booster equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1337",
+   "en": "Twin Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1337",
+   "en": "Twin Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1338",
+   "en": "Super Pack equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1338",
+   "en": "Super Pack equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1338",
+   "en": "I'll allow Super Pack equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1338",
+   "en": "Super Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1338",
+   "en": "Super Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1339",
+   "en": "Armored Pack equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1339",
+   "en": "Armored Pack equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1339",
+   "en": "I'll allow Armored Pack equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1339",
+   "en": "Armored Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1339",
+   "en": "Armored Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1340",
+   "en": "Strike Pack equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1340",
+   "en": "Strike Pack equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1340",
+   "en": "I'll allow Strike Pack equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1340",
+   "en": "Strike Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1340",
+   "en": "Strike Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1341",
+   "en": "FAST Pack equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1341",
+   "en": "FAST Pack equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1341",
+   "en": "I'll allow FAST Pack equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1341",
+   "en": "FAST Pack equipment authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as FAST Pack (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1341",
+   "en": "FAST Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1342",
+   "en": "Full Armored equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 2910: Whisper mangled the name; read as All units (cross-checked with the other operators' rows). Single word 'each aircraft'; used as 'All units'.",
+   "row 2911: Whisper mangled the name; read as All units (cross-checked with the other operators' rows). Single word 'each aircraft'; used as 'All units'.",
+   "row 2912: Whisper mangled the name; read as All units (cross-checked with the other operators' rows). Single word 'each aircraft'; used as 'All units'.",
+   "row 2913: Single word 'each aircraft'; used as 'All units'.",
+   "row 2914: Single word 'each aircraft'; used as 'All units'.",
+   "row 2925: Game text calls this pack an all-out assault spec; the clip wording is literally 'suicide-charge assault spec'.",
+   "row 2926: Game text calls this pack an all-out assault spec; the clip wording is literally 'suicide-charge assault spec'.",
+   "row 2927: Game text calls this pack an all-out assault spec; the clip wording is literally 'suicide-charge assault spec'.",
+   "row 2928: Game text calls this pack an all-out assault spec; the clip wording is literally 'suicide-charge assault spec'.",
+   "row 2929: Game text calls this pack an all-out assault spec; the clip wording is literally 'suicide-charge assault spec'."
+  ],
+  "whisper_doubt": [
+   "row 2898",
+   "row 2910",
+   "row 2911",
+   "row 2912",
+   "row 2934",
+   "row 2958"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

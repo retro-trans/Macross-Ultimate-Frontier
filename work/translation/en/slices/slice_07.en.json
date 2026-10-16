@@ -1,0 +1,533 @@
+{
+ "slice": 7,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "mission_ext:MF_360:strStory",
+   "en": "To prepare for Vajra attacks, a mock battle begins now. Beat Maj. Ozma Lee's\\nSkull Squadron, one of the finest elite units in all of S.M.S.",
+   "flags": [],
+   "notes": "review: refit: 'Win against Major' -> 'Beat Maj.'"
+  },
+  {
+   "id": "mission_ext:MF_370:strMission",
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "flags": [],
+   "notes": "review: refit: 'rescue' -> 'save'"
+  },
+  {
+   "id": "mission_ext:MF_370:strStory",
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "flags": [],
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "id": "mission_ext:MF_371:strMission",
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "flags": [],
+   "notes": "review: refit: 'rescue' -> 'save'"
+  },
+  {
+   "id": "mission_ext:MF_371:strStory",
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "flags": [],
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "id": "mission_ext:MF_372:strMission",
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "flags": [],
+   "notes": "review: refit: 'rescue' -> 'save'"
+  },
+  {
+   "id": "mission_ext:MF_372:strStory",
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "flags": [],
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "id": "mission_ext:MF_375:strMission",
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "flags": [],
+   "notes": "review: refit: 'rescue' -> 'save'"
+  },
+  {
+   "id": "mission_ext:MF_375:strStory",
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "flags": [],
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "id": "mission_ext:MF_376:strMission",
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "flags": [],
+   "notes": "review: refit: 'rescue' -> 'save'"
+  },
+  {
+   "id": "mission_ext:MF_376:strStory",
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "flags": [],
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "id": "mission_ext:MF_377:strMission",
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "flags": [],
+   "notes": "review: refit: 'rescue' -> 'save'"
+  },
+  {
+   "id": "mission_ext:MF_377:strStory",
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "flags": [],
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "id": "mission_ext:MF_380:strMission",
+   "en": "Wipe out the Vajra that suddenly appeared\\nduring the survey of their nest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_380:strStory",
+   "en": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible,\\nbut the Vajra spotted us almost at once. Move swiftly to wipe them out.",
+   "flags": [],
+   "notes": "review: refit: tighter wording; 'Switch to wiping out the Vajra' -> 'Move swiftly to wipe them out'"
+  },
+  {
+   "id": "mission_ext:MF_385:strMission",
+   "en": "Wipe out the Vajra that suddenly appeared\\nduring the survey of their nest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_385:strStory",
+   "en": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible,\\nbut the Vajra spotted us almost at once. Move swiftly to wipe them out.",
+   "flags": [],
+   "notes": "review: refit: tightened wording; 'as soon as the survey began' -> 'almost at once'; matched to row 495 (identical Japanese, refit in story2)"
+  },
+  {
+   "id": "mission_ext:MF_390:strMission",
+   "en": "Wipe out the rioting\\nZentradi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_390:strStory",
+   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rendered the 'imon kouen' as a morale-boosting concert tour. | review: refit: rebalanced lines; 'morale-boosting concert tour' reworded"
+  },
+  {
+   "id": "mission_ext:MF_395:strMission",
+   "en": "Wipe out the rioting\\nZentradi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_395:strStory",
+   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: refit: rebalanced lines; 'morale-boosting concert tour' reworded"
+  },
+  {
+   "id": "mission_ext:MF_400:strMission",
+   "en": "Clear out all the Vajra cocoons\\naboard the Global.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_400:strStory",
+   "en": "The Global, 117th Research Fleet flagship found on planet Gallia 4, has become\\na Vajra lair. To stop the Vajra breeding, clear out every Vajra cocoon aboard.",
+   "flags": [],
+   "notes": "review: refit: tightened wording"
+  },
+  {
+   "id": "mission_ext:MF_401:strMission",
+   "en": "Clear out all the Vajra cocoons\\naboard the Global.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_401:strStory",
+   "en": "The Global, 117th Research Fleet flagship found on planet Gallia 4, has become\\na Vajra lair. To stop the Vajra breeding, clear out every Vajra cocoon aboard.",
+   "flags": [],
+   "notes": "review: refit: tightened wording"
+  },
+  {
+   "id": "mission_ext:MF_410:strMission",
+   "en": "Destroy the giant Vajra ship believed\\nto be commanding the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_410:strStory",
+   "en": "Organized Vajra attacks have put the Frontier fleet in grave danger.\\nHead for the giant Vajra ship believed to be giving orders. Destroy it at once.",
+   "flags": [],
+   "notes": "review: refit: tightened line 2"
+  },
+  {
+   "id": "mission_ext:MF_411:strMission",
+   "en": "Destroy the giant Vajra ship believed\\nto be commanding the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_411:strStory",
+   "en": "Organized Vajra attacks have put the Frontier fleet in grave danger.\\nHead for the giant Vajra ship believed to be giving orders. Destroy it at once.",
+   "flags": [],
+   "notes": "review: refit: tightened line 2"
+  },
+  {
+   "id": "mission_ext:MF_140:strMission",
+   "en": "Wipe out the Vajra so they can't disrupt\\nthe experiment using Ranka Lee's song.",
+   "flags": [],
+   "notes": "review: refit: 'interfere with' -> 'disrupt', line break moved"
+  },
+  {
+   "id": "mission_ext:MF_140:strStory",
+   "en": "Top-secret mission: you will now guard an experiment using Ranka Lee's song.\\nUntil the experiment begins, wipe out the Vajra so they can't interfere.",
+   "flags": [],
+   "notes": "review: refit: tightened wording"
+  },
+  {
+   "id": "mission_ext:MF_150:strMission",
+   "en": "Defend the Macross Quarter and wipe out\\nthe Vajra or survive for 5 minutes.",
+   "flags": [],
+   "notes": "review: refit: 'either' dropped, line break moved"
+  },
+  {
+   "id": "mission_ext:MF_150:strStory",
+   "en": "Evolved Vajra have appeared that even reaction weapons can't harm. They will be\\nhard to destroy, so put defending the Macross Quarter and your survival first.",
+   "flags": [],
+   "notes": "review: refit: restructured; 'top priorities' -> 'first'"
+  },
+  {
+   "id": "mission_ext:MF_155:strMission",
+   "en": "Defend the Macross Quarter and wipe out\\nthe Vajra or survive for 5 minutes.",
+   "flags": [],
+   "notes": "review: refit: 'either' dropped, line break moved"
+  },
+  {
+   "id": "mission_ext:MF_155:strStory",
+   "en": "Evolved Vajra have appeared that even reaction weapons can't harm. They will be\\nhard to destroy, so put defending the Macross Quarter and your survival first.",
+   "flags": [],
+   "notes": "review: refit: restructured; 'top priorities' -> 'first'"
+  },
+  {
+   "id": "mission_ext:MF_160:strMission",
+   "en": "Defend the Battle Frontier for 5 minutes\\nas it prepares a super-long-distance fold.",
+   "flags": [],
+   "notes": "review: refit: 'while it prepares for' -> 'as it prepares', line break moved"
+  },
+  {
+   "id": "mission_ext:MF_160:strStory",
+   "en": "To end the war with the Vajra, a super-long-distance fold has been decided on.\\nDefend the Battle Frontier until the super-long-distance fold begins.",
+   "flags": [],
+   "notes": "review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:MF_170:strMission",
+   "en": "Wipe out the Vajra rampaging\\ninside the Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_170:strStory",
+   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Wipe out the Vajra that have emerged in the Frontier.",
+   "flags": [],
+   "notes": "review: refit: tightened; dropped repeated 'the Frontier' in line 2 first clause"
+  },
+  {
+   "id": "mission_ext:MF_172:strMission",
+   "en": "Wipe out the Vajra rampaging\\ninside the Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_172:strStory",
+   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Wipe out the Vajra that have emerged in the Frontier.",
+   "flags": [],
+   "notes": "review: refit: tightened; dropped repeated 'the Frontier' in line 2 first clause"
+  },
+  {
+   "id": "mission_ext:MF_180:strMission",
+   "en": "Wipe out the deserters trying to escape\\nin the stolen Macross Quarter.",
+   "flags": [],
+   "notes": "review: refit: 'who seized the Macross Quarter' -> 'in the stolen Macross Quarter'"
+  },
+  {
+   "id": "mission_ext:MF_180:strStory",
+   "en": "Some S.M.S. members are trying to hijack the Macross Quarter and escape.\\nAt this rate they'll fold away. You're authorized to shoot down the deserters.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Fold out = escape via space fold. | review: refit: tightened line 2"
+  },
+  {
+   "id": "mission_ext:MF_185:strMission",
+   "en": "To test the VF-171EX, hold a mock battle\\nwith the Sagittarius Squadron.",
+   "flags": [],
+   "notes": "review: refit: 'As a test of' -> 'To test', 'against' -> 'with', line break moved"
+  },
+  {
+   "id": "mission_ext:MF_185:strStory",
+   "en": "A mock battle will now be held to test the VF-171EX, built to fight the Vajra.\\nDefeat the Sagittarius Squadron in this combined machine test and training.",
+   "flags": [],
+   "notes": "review: refit: restructured line 2"
+  },
+  {
+   "id": "mission_ext:MF_190:strMission",
+   "en": "To make the Vajra homeworld ours,\\nwipe out the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_190:strStory",
+   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Wipe out the Vajra, powered by the Galactic Fairy's song.",
+   "flags": [],
+   "notes": "review: refit: restructured; second 'Vajra homeworld' -> 'it'"
+  },
+  {
+   "id": "mission_ext:MF_191:strMission",
+   "en": "To make the Vajra homeworld ours,\\nwipe out the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_191:strStory",
+   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Wipe out the Vajra, powered by the Galactic Fairy's song.",
+   "flags": [],
+   "notes": "review: refit: restructured; second 'Vajra homeworld' -> 'it'"
+  },
+  {
+   "id": "mission_ext:MF_200:strMission",
+   "en": "For the peace of the galaxy,\\ndefeat Grace O'Connor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_200:strStory",
+   "en": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the\\ntrue masterminds. For the peace of the galaxy, defeat Grace O'Connor.",
+   "flags": [],
+   "notes": "review: refit: tightened; dropped 'all along'"
+  },
+  {
+   "id": "mission_ext:MF_201:strMission",
+   "en": "For the peace of the galaxy,\\ndefeat Grace O'Connor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_201:strStory",
+   "en": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the\\ntrue masterminds. For the peace of the galaxy, defeat Grace O'Connor.",
+   "flags": [],
+   "notes": "review: refit: tightened; dropped 'all along'"
+  },
+  {
+   "id": "mission_ext:MF_205:strMission",
+   "en": "For the peace of the galaxy,\\ndefeat Grace O'Connor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_205:strStory",
+   "en": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the\\ntrue masterminds. For the peace of the galaxy, defeat Grace O'Connor.",
+   "flags": [],
+   "notes": "review: refit: tightened; dropped 'all along'"
+  },
+  {
+   "id": "mission_ext:MF_206:strMission",
+   "en": "For the peace of the galaxy,\\ndefeat Grace O'Connor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MF_206:strStory",
+   "en": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the\\ntrue masterminds. For the peace of the galaxy, defeat Grace O'Connor.",
+   "flags": [],
+   "notes": "review: refit: tightened; dropped 'all along'"
+  },
+  {
+   "id": "mission_ext:MY_310:strMission",
+   "en": "To rescue our kin,\\nannihilate the unknown entities.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Vajra-side mission (MY_): 'nakama' rendered 'our kin'."
+  },
+  {
+   "id": "mission_ext:MY_310:strStory",
+   "en": "We have detected a being that shares fold waves with us.\\nTo rescue that being, we shall annihilate the unknown entities.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MY_320:strMission",
+   "en": "Annihilate the unknown entities\\nthat hinder the rescue of our kin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MY_320:strStory",
+   "en": "Our kin, who are one and the same as us, must be rescued at all costs.\\nWe shall annihilate the unknown entities that hinder the rescue.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MY_330:strMission",
+   "en": "Annihilate the unknown entities that have\\nappeared to hinder the rescue of our kin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MY_330:strStory",
+   "en": "We sensed our kin's fold waves and began a rescue, but new unknown entities\\nappeared to hinder it. We shall annihilate the entities hindering the rescue.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: refit: rebalanced lines"
+  },
+  {
+   "id": "mission_ext:MY_340:strMission",
+   "en": "Annihilate those who would\\ninvade the Vajra planet.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MY_340:strStory",
+   "en": "Your key is in my hand, and the queen's throne is already mine.\\nGo now, Vajra. My eyes, my ears, my limbs. Strike with your mighty claws!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Grace speaking. 'Your key' kept as in source (addressed to the Vajra or the enemy). | review: refit: 'those mighty claws of yours' -> 'your mighty claws'"
+  },
+  {
+   "id": "mission_ext:ME_010:strMission",
+   "en": "Wipe out the rogue Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_010:strStory",
+   "en": "An unknown fleet, likely rogue Zentradi forces, has been spotted near Jupiter.\\nBreak the enemy's will to fight with Operation Minmay, then wipe them out.",
+   "flags": [],
+   "notes": "review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:ME_020:strMission",
+   "en": "Wipe out the mysterious mecha\\nrampaging through the city.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Singular/plural unclear; 'mecha' covers both."
+  },
+  {
+   "id": "mission_ext:ME_020:strStory",
+   "en": "Mecha from a mysterious fleet slipped through our defenses and invaded Earth.\\nWipe out the mobile weapons ravaging the city as if seeking something. Now!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: refit: tightened both lines"
+  },
+  {
+   "id": "mission_ext:ME_030:strMission",
+   "en": "Wipe out the Mardook forces seeking\\nto destroy Earth's culture.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_030:strStory",
+   "en": "The Mardook forces have launched an all-out assault to destroy Earth's culture.\\nProtect Earth's culture at all costs and wipe out the Mardook forces.",
+   "flags": [],
+   "notes": "review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:ME_040:strMission",
+   "en": "To retake the communications relay base,\\nwipe out Vindirance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_040:strStory",
+   "en": "Starting the op to retake the relay base held by anti-U.N. group Vindirance.\\nInfiltrate via the canyon leading to the base and wipe out Vindirance's guards.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says anti-U.N. organization; rendered 'anti-U.N. group'. | review: refit: abbreviated 'operation' and 'communications relay base'"
+  },
+  {
+   "id": "mission_ext:ME_041:strMission",
+   "en": "To retake the communications relay base,\\nwipe out Vindirance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_041:strStory",
+   "en": "Starting the op to retake the relay base held by anti-U.N. group Vindirance.\\nInfiltrate via the canyon leading to the base and wipe out Vindirance's guards.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: refit: abbreviated 'operation' and 'communications relay base'"
+  },
+  {
+   "id": "mission_ext:ME_050:strMission",
+   "en": "Wipe out Vindirance, who are scheming\\nto fold to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_050:strStory",
+   "en": "Vindirance is plotting a fold to Earth. It must be stopped at all costs, so\\nreaction weapons are authorized for this operation. Wipe out Vindirance.",
+   "flags": [],
+   "notes": "review: refit: rebalanced lines"
+  },
+  {
+   "id": "mission_ext:ME_060:strMission",
+   "en": "To shatter Latence's ambitions,\\ndestroy the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_060:strStory",
+   "en": "We will now descend to Earth and infiltrate Macross City. To shatter Latence's\\nambitions, destroy the wide-area jamming system in the head of the Macross.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: refit: moved clause across break; 'mounted in' -> 'in'"
+  },
+  {
+   "id": "mission_ext:ME_100:strMission",
+   "en": "Defeat the variable fighters of all eras.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: refit: 'every generation' -> 'all eras'"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 499/501: the visiting troupe is a troop-morale ('imon') concert crew; rendered 'morale-boosting concert tour'.",
+   "row 523: 'fold out and get away' for the deserters escaping via fold.",
+   "rows 538-543: Vajra-side missions; 'nakama' rendered 'our kin', 'etai no shirenai sonzai' rendered 'unknown entities'; declarative 'we shall annihilate' voice kept (strStory rows are not imperative in the source). Row 539 object restored as 'that being'.",
+   "row 544: 'okasou' rendered 'invade' (could also be 'violate/defile').",
+   "row 545: Grace's speech; 'your key' could be addressed to the Vajra or to the enemy, kept as 'your'. Last phrase ('together with your mighty claws') rendered as 'Strike with those mighty claws of yours!'.",
+   "rows 548/549: number of the mysterious machines not stated; used 'mecha' (works for both).",
+   "rows 553/555: 'han-tougou-gun soshiki' rendered 'anti-U.N. group' rather than 'Anti-U.N. Forces'.",
+   "row 559: 'Macross toubu' rendered 'the head of the Macross'.",
+   "row 560: 'rekidai kahen kitai' rendered 'variable fighters of every generation'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

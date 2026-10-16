@@ -1,0 +1,49 @@
+{
+ "fixes": [
+  {
+   "id": "u2810",
+   "en": "Versus Wins: 115",
+   "why": "Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2812",
+   "en": "Versus Wins: 120",
+   "why": "Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2814",
+   "en": "Versus Wins: 125",
+   "why": "Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2816",
+   "en": "Versus Wins: 130",
+   "why": "Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2818",
+   "en": "Versus Wins: 135",
+   "why": "Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2820",
+   "en": "Versus Wins: 140",
+   "why": "Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2822",
+   "en": "Versus Wins: 145",
+   "why": "Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2824",
+   "en": "Versus Wins: 150",
+   "why": "Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u3081",
+   "en": "Seikan Hikou (Skill: Kira☆)\nSeries: Macross Frontier\nVocals: Ranka Lee=Megumi Nakajima\nLyrics: Takashi Matsumoto  Music: Yoko Kanno",
+   "why": "Credit: 'Ranka Lee=Megumi Nakajima' without spaces in the 6 other credit rows in scope."
+  }
+ ]
+}

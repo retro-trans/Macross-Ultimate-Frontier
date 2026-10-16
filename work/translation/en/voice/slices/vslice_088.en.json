@@ -1,0 +1,558 @@
+{
+ "slice": 88,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpz_bti_133",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_134",
+   "en": "Unbelievable!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'shinjirore'; read as 'shinjirarenu'."
+  },
+  {
+   "id": "vpz_bti_135",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_136",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vpz_bti_137",
+   "en": "Is this as far as I go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_138",
+   "en": "Deculture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_139",
+   "en": "The enemy is quite capable too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_140",
+   "en": "You can still move!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'mada ugokenai'; likely a line to a partner in trouble ('still able to move'); the English guesses the direction."
+  },
+  {
+   "id": "vpz_bti_141",
+   "en": "Are you all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_142",
+   "en": "Have you been shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_143",
+   "en": "Our losses are mounting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_144",
+   "en": "Don't panic!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_148",
+   "en": "Friendly reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_149",
+   "en": "Hm? I didn't call for reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_150",
+   "en": "Reinforcements? How many?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'yuugu'; read as 'zouen' or 'yuugun'."
+  },
+  {
+   "id": "vpz_bti_151",
+   "en": "How could this happen?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_152",
+   "en": "I let my guard down!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'nukarutagaga'; read as 'nukatta' (blundered)."
+  },
+  {
+   "id": "vpz_bti_153",
+   "en": "Curse them!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Latin-letter transcript 'Honore'; read as 'onore'."
+  },
+  {
+   "id": "vpz_bti_154",
+   "en": "A natural result.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_155",
+   "en": "Good. The operation is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_156",
+   "en": "The operation is a success. Well done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_157",
+   "en": "That's all. I'm calling off the operation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_158",
+   "en": "Enough. We're pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_159",
+   "en": "Operation terminated! Return at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_160",
+   "en": "Things aren't going as planned.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'mamanaranna'; read as 'mama naran' (not going as planned)."
+  },
+  {
+   "id": "vpz_bti_161",
+   "en": "This operation has failed. Retreat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_162",
+   "en": "We're withdrawing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_163",
+   "en": "Permission to fire granted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_164",
+   "en": "Prepare to fire! Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_165",
+   "en": "Open fire! Begin combat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_166",
+   "en": "Move into close-combat range!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_167",
+   "en": "Charge!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Short and logprob-flagged; read as 'totsugeki seyo'."
+  },
+  {
+   "id": "vpz_bti_168",
+   "en": "Begin close combat!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kakutousen kousen'; read as 'kakutousen wo kaishi suru'."
+  },
+  {
+   "id": "vpz_bti_169",
+   "en": "Enough. Stand back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_170",
+   "en": "You, fall back!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'kisama wa samaze'; read as 'kisama wa sagare'."
+  },
+  {
+   "id": "vpz_bti_171",
+   "en": "Stay away from the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_172",
+   "en": "I'll crush you!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'hinerisugu ze'; read as 'hinettsubusu ze'."
+  },
+  {
+   "id": "vpz_bti_173",
+   "en": "All-out attack authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_174",
+   "en": "All-out attack, begin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_175",
+   "en": "I won't allow this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_176",
+   "en": "No more holding back.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'mou tegaru wa sen zen'; read as 'mou tekagen wa sen'."
+  },
+  {
+   "id": "vpz_bti_177",
+   "en": "On the pride of the Zentradi!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kaketa' read as 'kakete'."
+  },
+  {
+   "id": "vpz_bti_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_179",
+   "en": "Very well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_180",
+   "en": "So be it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_181",
+   "en": "What's the matter, Captain?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'doushita daijou'; read as 'doushita taishou'."
+  },
+  {
+   "id": "vpz_bti_182",
+   "en": "Further damage is dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_183",
+   "en": "Can you still move, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_184",
+   "en": "What a disaster!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Repetition artifact on 'nan to iu koto da'."
+  },
+  {
+   "id": "vpz_bti_185",
+   "en": "Impossible... Shot down...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_186",
+   "en": "Useless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_187",
+   "en": "Protoculture...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_188",
+   "en": "What is this feeling? Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_189",
+   "en": "So this is Culture. We're withdrawing.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kore ga wakaru'; read as 'kore ga bunka ka'."
+  },
+  {
+   "id": "vpz_bti_190",
+   "en": "Splendid work, Captain.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'taitoru' read as 'taichou'."
+  },
+  {
+   "id": "vpz_bti_191",
+   "en": "You're quite a capable captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_300",
+   "en": "All you need to do is follow my orders.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_301",
+   "en": "Take this to heart: I won't tolerate reckless moves.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kimo ni muri wo shite oke' read as 'kimo ni meijite oke'."
+  },
+  {
+   "id": "vpz_bti_302",
+   "en": "Don't hinder me with needless meddling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_303",
+   "en": "You will support me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_304",
+   "en": "Watch how I fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_305",
+   "en": "Battle is about to begin. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_306",
+   "en": "We can't afford to fail this operation. We're going out too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_307",
+   "en": "Let us show them our full strength!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_308",
+   "en": "Live up to my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_309",
+   "en": "I leave it to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_310",
+   "en": "I'm entrusting this operation to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_311",
+   "en": "Let's go! We should have no problem together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_320",
+   "en": "You did well to make it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_321",
+   "en": "Your duty is done. Let's head back at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_322",
+   "en": "Enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_323",
+   "en": "I expect at least this much flying from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_324",
+   "en": "Good. You did well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_325",
+   "en": "Mission accomplished. We're returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_326",
+   "en": "I never expected you to achieve results this great.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_327",
+   "en": "As I thought, you never betray my trust.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_328",
+   "en": "Keep up the good work as my right hand.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_329",
+   "en": "You show promise!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_330",
+   "en": "Your skill is reassuring.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_331",
+   "en": "You performed beyond my expectations.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard with the kanji for 'machine abnormality'; the sense is 'kitai ijou' (beyond expectations)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6968 (vpz_bti_140): Heard 'mada ugokenai'; likely a line to a partner in trouble ('still able to move'); the English guesses the direction.",
+   "row 6977 (vpz_bti_152): Heard 'nukarutagaga'; read as 'nukatta' (blundered).",
+   "row 6995 (vpz_bti_170): Heard 'kisama wa samaze'; read as 'kisama wa sagare'."
+  ],
+  "whisper_doubt": [
+   "row 6962 (vpz_bti_134): Heard 'shinjirore'; read as 'shinjirarenu'.",
+   "row 6968 (vpz_bti_140): Heard 'mada ugokenai'; likely a line to a partner in trouble ('still able to move'); the English guesses the direction.",
+   "row 6975 (vpz_bti_150): Heard 'yuugu'; read as 'zouen' or 'yuugun'.",
+   "row 6977 (vpz_bti_152): Heard 'nukarutagaga'; read as 'nukatta' (blundered).",
+   "row 6978 (vpz_bti_153): Latin-letter transcript 'Honore'; read as 'onore'.",
+   "row 6985 (vpz_bti_160): Heard 'mamanaranna'; read as 'mama naran' (not going as planned).",
+   "row 6992 (vpz_bti_167): Short and logprob-flagged; read as 'totsugeki seyo'.",
+   "row 6993 (vpz_bti_168): Heard 'kakutousen kousen'; read as 'kakutousen wo kaishi suru'.",
+   "row 6995 (vpz_bti_170): Heard 'kisama wa samaze'; read as 'kisama wa sagare'.",
+   "row 6997 (vpz_bti_172): Heard 'hinerisugu ze'; read as 'hinettsubusu ze'.",
+   "row 7001 (vpz_bti_176): Heard 'mou tegaru wa sen zen'; read as 'mou tekagen wa sen'.",
+   "row 7002 (vpz_bti_177): 'kaketa' read as 'kakete'.",
+   "row 7006 (vpz_bti_181): Heard 'doushita daijou'; read as 'doushita taishou'.",
+   "row 7009 (vpz_bti_184): Repetition artifact on 'nan to iu koto da'.",
+   "row 7014 (vpz_bti_189): Heard 'kore ga wakaru'; read as 'kore ga bunka ka'.",
+   "row 7015 (vpz_bti_190): 'taitoru' read as 'taichou'.",
+   "row 7018 (vpz_bti_301): 'kimo ni muri wo shite oke' read as 'kimo ni meijite oke'.",
+   "row 7040 (vpz_bti_331): Heard with the kanji for 'machine abnormality'; the sense is 'kitai ijou' (beyond expectations)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

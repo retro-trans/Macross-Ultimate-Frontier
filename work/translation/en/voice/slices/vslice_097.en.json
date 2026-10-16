@@ -1,0 +1,519 @@
+{
+ "slice": 97,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_nkb_102",
+   "en": "Everyone! Listen to my heart!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_103",
+   "en": "You're gonna get a full dose of my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_104",
+   "en": "Hold it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_105",
+   "en": "Heh, I'll make this place blaze!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_106",
+   "en": "Time to go big! Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_107",
+   "en": "Fighting is stupid! Listen to my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_108",
+   "en": "I'll make it echo across the whole universe!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_109",
+   "en": "Stop fighting! Don't fight!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'tatakaena'; read as 'tatakau na'."
+  },
+  {
+   "id": "vp7_nkb_110",
+   "en": "Don't shoot! Missiles are stupid!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_111",
+   "en": "Still alive, huh! Then I've got plenty more for you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_112",
+   "en": "Damn it! I lost another member of my audience!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_113",
+   "en": "I'm not singing for this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_114",
+   "en": "My songs aren't a tool for killing people!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_115",
+   "en": "Here they come.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_116",
+   "en": "Came to listen, huh? I'll blow you away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_117",
+   "en": "All right, time to belt one out!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ambiguous 'ippatsu iku' (one shot): read as a song."
+  },
+  {
+   "id": "vp7_nkb_118",
+   "en": "Whoa! You made me shoot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_119",
+   "en": "Nothing comes from shooting at each other.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_120",
+   "en": "Stop killing each other! Listen to my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_122",
+   "en": "If it comes to that, I'll just dodge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_123",
+   "en": "My shield's busted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_124",
+   "en": "Tch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_125",
+   "en": "Fighting is stupid!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_126",
+   "en": "You won't listen to my song?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_127",
+   "en": "Come on, you're relentless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_128",
+   "en": "Quit making a racket!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_129",
+   "en": "I'm not going down! The show's just getting started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_130",
+   "en": "Shut up already.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_131",
+   "en": "This won't stop my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_132",
+   "en": "Listen properly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_133",
+   "en": "Don't get in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_134",
+   "en": "Listen to my song, seriously!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_135",
+   "en": "Gonna have to get it fixed again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_136",
+   "en": "Remember this. Next time I'll make you feel it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_137",
+   "en": "Ugh, ow. What a disaster, damn it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_138",
+   "en": "Why won't you listen to my song?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kiki agaranee' is odd; read as 'kiite kurenee'."
+  },
+  {
+   "id": "vp7_nkb_139",
+   "en": "You okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_140",
+   "en": "Like hell you're fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_141",
+   "en": "Geez, every last one of you is trouble!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_142",
+   "en": "Huh? What did you say?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_143",
+   "en": "Oh, man.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_144",
+   "en": "Dammit all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_148",
+   "en": "More fans in the crowd! Now I'm fired up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_149",
+   "en": "Finally wanna hear my song? Fine, I'll give you the full show!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_150",
+   "en": "First things first, you lot, listen to my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_151",
+   "en": "You bastard!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'ierou' (yellow); probably 'yarou' (bastard). Other pilots' clip 151 is an angry reaction to being hit."
+  },
+  {
+   "id": "vp7_nkb_152",
+   "en": "Stop it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_153",
+   "en": "You've gotta be kidding me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_154",
+   "en": "Heh, you all got way too into it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_155",
+   "en": "Someday you'll get my sound too, I promise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_156",
+   "en": "What, has everybody gone already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_157",
+   "en": "Wait! The live show isn't over! Listen up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_158",
+   "en": "I haven't sung enough! Not like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_159",
+   "en": "Hey, you! Stay and listen to the end!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_160",
+   "en": "Sigh, this sucks. Nobody listens to my song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_161",
+   "en": "What am I lacking?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_162",
+   "en": "No, this isn't it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_163",
+   "en": "Stop! Don't shoot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_164",
+   "en": "Don't shoot! Don't you dare shoot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_165",
+   "en": "Pierce their heart!",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Target gender not settled; used 'their'."
+  },
+  {
+   "id": "vp7_nkb_166",
+   "en": "Beating them down with force is pointless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_167",
+   "en": "Force isn't the answer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_168",
+   "en": "Get in closer and let them hear your song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_169",
+   "en": "Don't you dare lay a finger on them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_170",
+   "en": "You just charge in there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_171",
+   "en": "Sit there quietly and listen to my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_172",
+   "en": "Hurling your burning heart out, that's a song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_173",
+   "en": "Slam your heart into it with everything you've got! Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_174",
+   "en": "Give it everything! Go all out, full blast!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_175",
+   "en": "I'm heating up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_176",
+   "en": "Here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_177",
+   "en": "Yeah! Time to burn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_178",
+   "en": "Geez, you're noisy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_179",
+   "en": "Geez, you're such a slave driver.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_180",
+   "en": "Geez, of course I can do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_181",
+   "en": "You just don't get it, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_182",
+   "en": "You're ruining my song! Don't charge in!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'tsukkonda na' (charged in); read as 'tsukkomu na'."
+  },
+  {
+   "id": "vp7_nkb_183",
+   "en": "Geez, quit fighting and listen to my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_184",
+   "en": "I told you shooting at each other doesn't work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_185",
+   "en": "Hey! Don't die! I've still got songs I want you to hear!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7696: Ambiguous 'ippatsu iku' (one shot): read as a song.",
+   "row 7726: Transcript 'ierou' (yellow); probably 'yarou' (bastard). Other pilots' clip 151 is an angry reaction to being hit.",
+   "row 7757: Transcript 'tsukkonda na' (charged in); read as 'tsukkomu na'."
+  ],
+  "whisper_doubt": [
+   "row 7688: Transcript 'tatakaena'; read as 'tatakau na'.",
+   "row 7716: Transcript 'kiki agaranee' is odd; read as 'kiite kurenee'.",
+   "row 7726: Transcript 'ierou' (yellow); probably 'yarou' (bastard). Other pilots' clip 151 is an angry reaction to being hit.",
+   "row 7757: Transcript 'tsukkonda na' (charged in); read as 'tsukkomu na'."
+  ],
+  "kept_omission": [
+   "row 7740: Target gender not settled; used 'their'."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

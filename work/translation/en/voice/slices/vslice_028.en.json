@@ -1,0 +1,561 @@
+{
+ "slice": 28,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1169",
+   "en": "You were shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1169",
+   "en": "You got shot down?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1169",
+   "en": "You were shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1169",
+   "en": "You were shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1170",
+   "en": "Please go and rescue our allies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1170",
+   "en": "Go and rescue our allies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1170",
+   "en": "Go rescue our allies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1170",
+   "en": "Go rescue our allies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1170",
+   "en": "Go and rescue our allies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1171",
+   "en": "We rescued our allies successfully!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1171",
+   "en": "We rescued our allies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1171",
+   "en": "We rescued our allies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1171",
+   "en": "Allies rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1171",
+   "en": "Allies rescued!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1172",
+   "en": "We're escaping from inside the enemy ship.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker is not stated; 'we' used for the first four, Misa's is an imperative."
+  },
+  {
+   "id": "vo0_of1_1172",
+   "en": "We're getting out of the enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1172",
+   "en": "We're getting out of the enemy ship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1172",
+   "en": "We're leaving the enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1172",
+   "en": "Get out of the enemy ship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1173",
+   "en": "Macross Cannon, charging energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1173",
+   "en": "Macross Cannon, charging energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1173",
+   "en": "Macross Cannon, charging energy!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Macross Kenon; surely Macross Cannon."
+  },
+  {
+   "id": "vo0_om0_1173",
+   "en": "Macross Cannon, charging energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1173",
+   "en": "Macross Cannon, charging energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1174",
+   "en": "Our allies are in combat. Please go and support them.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard henko (nonsense); surely engo (support)."
+  },
+  {
+   "id": "vo0_of1_1174",
+   "en": "Our allies are in combat. Go and support them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1174",
+   "en": "Allies are in combat! Go support them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1174",
+   "en": "Allies are in combat! Go support them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1174",
+   "en": "Our allies are in combat. Go and support them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1175",
+   "en": "Please put down the Zentradi riot that broke out on Gallia 4.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1175",
+   "en": "Put down the Zentradi riot that broke out on Gallia 4.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1175",
+   "en": "Put down that Zentradi riot on Gallia 4!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1175",
+   "en": "Put down the Zentradi riot on Gallia 4!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1175",
+   "en": "Put down the Zentradi riot that broke out on Gallia 4.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1176",
+   "en": "Please investigate the inside of the old Macross the Vajra are believed to have sunk.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard shizumerareta (calmed, 'shizume'); surely 'sunk' (shizume), as the others."
+  },
+  {
+   "id": "vo0_of1_1176",
+   "en": "Investigate the inside of the old Macross the Vajra are believed to have sunk.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard shizumerareta with the calm kanji; surely sunk."
+  },
+  {
+   "id": "vo0_of2_1176",
+   "en": "Investigate the inside of the old Macross that the Vajra seem to have sunk!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1176",
+   "en": "Investigate the inside of the old Macross the Vajra are believed to have sunk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1176",
+   "en": "Investigate the interior of the old Macross believed sunk by the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1177",
+   "en": "It's going to explode. Please escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1177",
+   "en": "It's going to blow! Get out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1177",
+   "en": "It's going to blow! Get out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1177",
+   "en": "It's going to blow! Get out of there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1177",
+   "en": "It's going to explode! Get out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1178",
+   "en": "An unidentified fold fault is heading this way. Please evacuate at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1178",
+   "en": "An unidentified fold fault is heading this way. Evacuate at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1178",
+   "en": "An unidentified fold fault is coming this way. Evacuate right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1178",
+   "en": "An unidentified fold fault is heading this way. Evacuate at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1178",
+   "en": "An unidentified fold fault is heading this way. Evacuate at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard fold danso (nonsense); surely fold dansou (fold fault)."
+  },
+  {
+   "id": "vo0_of0_1179",
+   "en": "Many defold reactions confirmed in the space ahead. They keep increasing. Several carrier-class ships too. It's a huge fleet.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default) for defold; 'front middle zone' read as 'front space area' (chuuiki)."
+  },
+  {
+   "id": "vo0_of1_1179",
+   "en": "Many defold reactions confirmed in the space ahead. They keep increasing. Several carrier-class ships too. It's truly a huge fleet.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Front middle zone' read as 'front space area' (chuuiki)."
+  },
+  {
+   "id": "vo0_of2_1179",
+   "en": "Many defold reactions confirmed ahead! More keep appearing! Several carrier-class ships too! What a huge fleet!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Front middle zone' read as 'front space area'."
+  },
+  {
+   "id": "vo0_om0_1179",
+   "en": "Many defold reactions confirmed ahead. More keep appearing. Several carrier-class ships too. It's a huge fleet.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard shoumen chiiki and deforuto; read as front space area, defold."
+  },
+  {
+   "id": "vos_mis_1179",
+   "en": "Many defold reactions confirmed in the space ahead. More keep appearing. Several carrier-class ships too. A huge fleet.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Front middle zone' read as 'front space area'."
+  },
+  {
+   "id": "vo0_of0_1180",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1180",
+   "en": "Captain!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'gancho'; surely kanchou (captain), as the others."
+  },
+  {
+   "id": "vo0_of2_1180",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1180",
+   "en": "Captain!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kanshou (complete victory); surely kanchou (captain)."
+  },
+  {
+   "id": "vos_mis_1180",
+   "en": "Captain!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'puranchou'; surely kanchou (captain)."
+  },
+  {
+   "id": "vo0_of0_1181",
+   "en": "We will conduct an experiment using Ranka Lee's song.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Ranka-rin; surely Ranka Lee."
+  },
+  {
+   "id": "vo0_of1_1181",
+   "en": "We'll run an experiment with Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1181",
+   "en": "We're running an experiment with Ranka Lee's song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1181",
+   "en": "Experiment with Ranka Lee's song begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1181",
+   "en": "We will conduct an experiment using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1182",
+   "en": "Ranka Attack, starting.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'rank'/'ranker'/'danker'; surely Ranka Attack."
+  },
+  {
+   "id": "vo0_of1_1182",
+   "en": "Ranka Attack, begin!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'rank'/'ranker'/'danker'; surely Ranka Attack."
+  },
+  {
+   "id": "vo0_of2_1182",
+   "en": "Ranka Attack, begin!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'rank'/'ranker'/'danker'; surely Ranka Attack."
+  },
+  {
+   "id": "vo0_om0_1182",
+   "en": "Launch the Ranka Attack!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'rank attack shiro'; surely Ranka Attack, start (shidou) - read as an order."
+  },
+  {
+   "id": "vos_mis_1182",
+   "en": "Ranka Attack, starting.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'rank'/'ranker'/'danker'; surely Ranka Attack."
+  },
+  {
+   "id": "vo0_of0_1183",
+   "en": "Please escort the Macross Quarter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1183",
+   "en": "Escort the Macross Quarter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1183",
+   "en": "Escort the Macross Quarter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1183",
+   "en": "Escort the Macross Quarter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1183",
+   "en": "Escort the Macross Quarter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1184",
+   "en": "Gunfire isn't effective against the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1184",
+   "en": "Gunfire isn't working on the Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1184",
+   "en": "Gunfire doesn't work on the Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1184",
+   "en": "Gunfire doesn't work on the Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1184",
+   "en": "Gunfire has no effect on the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1185",
+   "en": "Gunfire isn't working. Please defeat them in melee.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 2175: Speaker is not stated; 'we' used for the first four, Misa's is an imperative.",
+   "rows 2175-2179 (1172): speaker's subject not stated; used 'we' (Misa's is an imperative)",
+   "rows 2210-2214 (1179): 'front middle zone' read as front space area (chuuiki)",
+   "rows 2215-2219 (1180) and 2280-2284: 'Captain!' for a 0.7 s shout; addressee presumably the Macross Quarter captain"
+  ],
+  "whisper_doubt": [
+   "row 2182: Heard Macross Kenon; surely Macross Cannon.",
+   "row 2185: Heard henko (nonsense); surely engo (support).",
+   "row 2195: Heard shizumerareta (calmed, 'shizume'); surely 'sunk' (shizume), as the others.",
+   "row 2196: Heard shizumerareta with the calm kanji; surely sunk.",
+   "row 2209: Heard fold danso (nonsense); surely fold dansou (fold fault).",
+   "row 2210: Heard deforuto (default) for defold; 'front middle zone' read as 'front space area' (chuuiki).",
+   "row 2211: 'Front middle zone' read as 'front space area' (chuuiki).",
+   "row 2212: 'Front middle zone' read as 'front space area'.",
+   "row 2213: Heard shoumen chiiki and deforuto; read as front space area, defold.",
+   "row 2214: 'Front middle zone' read as 'front space area'.",
+   "row 2216: Heard 'gancho'; surely kanchou (captain), as the others.",
+   "row 2218: Heard kanshou (complete victory); surely kanchou (captain).",
+   "row 2219: Heard 'puranchou'; surely kanchou (captain).",
+   "row 2220: Heard Ranka-rin; surely Ranka Lee.",
+   "row 2225: Heard 'rank'/'ranker'/'danker'; surely Ranka Attack.",
+   "row 2226: Heard 'rank'/'ranker'/'danker'; surely Ranka Attack.",
+   "row 2227: Heard 'rank'/'ranker'/'danker'; surely Ranka Attack.",
+   "row 2228: Heard 'rank attack shiro'; surely Ranka Attack, start (shidou) - read as an order.",
+   "row 2229: Heard 'rank'/'ranker'/'danker'; surely Ranka Attack."
+  ],
+  "kept_omission": [
+   "Operator lines: subjects restored where the scene settles them; the one-word and noun-phrase stock lines (e.g. 'Many samples approaching.') stay subjectless as the Japanese is."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

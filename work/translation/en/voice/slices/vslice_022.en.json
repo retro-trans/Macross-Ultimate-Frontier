@@ -1,0 +1,526 @@
+{
+ "slice": 22,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1066",
+   "en": "Battleship at 300 meters. Evasion impossible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1066",
+   "en": "Battleship at 300 meters. We can't dodge it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1066",
+   "en": "Battleship at 300 m. We can't evade!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1066",
+   "en": "Battleship at 300 meters. Evasion impossible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1068",
+   "en": "Enemy infiltrators aboard the ship. Please go and intercept them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1068",
+   "en": "Enemy infiltrators aboard the ship. Go intercept them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1068",
+   "en": "Enemy infiltrators aboard the ship. Get out there and intercept them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1068",
+   "en": "Enemy infiltrators aboard! Intercept them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1068",
+   "en": "Enemy infiltrators aboard the ship. Go intercept them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1069",
+   "en": "Civilians are under attack. Please go and rescue them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1069",
+   "en": "Civilians are under attack. Go and rescue them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1069",
+   "en": "Civilians are under attack. Go rescue them now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1069",
+   "en": "Civilians are under attack. Go rescue them now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1069",
+   "en": "Civilians are under attack. Go and rescue them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1070",
+   "en": "Civilians are falling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1070",
+   "en": "Civilians are falling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1070",
+   "en": "Civilians are falling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1070",
+   "en": "Civilians are falling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1070",
+   "en": "Civilians are falling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1071",
+   "en": "The civilians have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1071",
+   "en": "The civilians have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1071",
+   "en": "We rescued the civilians!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1071",
+   "en": "Civilians rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1071",
+   "en": "The civilians have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1072",
+   "en": "Gravity control system 11 damaged. Subsystems inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1072",
+   "en": "Gravity control system 11 damaged. Subsystems inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1072",
+   "en": "Gravity control system 11 damaged. Subsystems inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1072",
+   "en": "Gravity control system 11 damaged. Subsystems inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1072",
+   "en": "Gravity control system 11 damaged. Subsystems inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1073",
+   "en": "Please retrieve the training Valkyrie that launched without permission.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'hasshin' (transmit) for 'hasshin' (launch), wrong kanji, same sound."
+  },
+  {
+   "id": "vo0_of1_1073",
+   "en": "Bring back the training Valkyrie that launched unauthorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1073",
+   "en": "Retrieve the training Valkyrie that launched unauthorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'hasshin' (transmit) for 'hasshin' (launch), wrong kanji, same sound."
+  },
+  {
+   "id": "vo0_om0_1073",
+   "en": "Retrieve the training Valkyrie that launched illegally!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1073",
+   "en": "Retrieve the training Valkyrie that launched unauthorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'hasshin' (transmit) for 'hasshin' (launch), wrong kanji, same sound."
+  },
+  {
+   "id": "vo0_of0_1074",
+   "en": "Please protect the training Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1074",
+   "en": "Protect the training Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1074",
+   "en": "Protect the training Valkyrie!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1074",
+   "en": "Protect the training Valkyrie!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1074",
+   "en": "Protect the training Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1075",
+   "en": "We will now hold a joint drill with the Destroid unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1075",
+   "en": "We're holding a joint exercise with the Destroid unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1075",
+   "en": "We're holding a joint exercise with the Destroid unit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'koudou' (action) for 'goudou' (joint) exercise."
+  },
+  {
+   "id": "vo0_om0_1075",
+   "en": "Joint exercise with the Destroid unit begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1075",
+   "en": "Joint exercise with the Destroid unit begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1076",
+   "en": "The enemy has fled into a battleship. Please pursue.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1076",
+   "en": "The enemy has fled into a battleship. Pursue them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1076",
+   "en": "The enemy fled into a battleship. Pursue them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1076",
+   "en": "The enemy fled into a battleship. Pursue!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1076",
+   "en": "The enemy has fled into a battleship. Pursue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1077",
+   "en": "We will recreate a song handed down from the Protoculture and play it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1077",
+   "en": "We'll recreate an ancient Protoculture song and play it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1077",
+   "en": "We're going to recreate an ancient Protoculture song and play it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1077",
+   "en": "Recreating an ancient Protoculture song and playing it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1077",
+   "en": "We will recreate a song handed down from the Protoculture and play it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1078",
+   "en": "Massive energy reading confirmed. Please evacuate immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1078",
+   "en": "Massive energy reading confirmed. Evacuate immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1078",
+   "en": "Massive energy reading confirmed. Evacuate right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1078",
+   "en": "Massive energy reading confirmed. Evacuate immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1078",
+   "en": "Massive energy reading confirmed. Evacuate immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1079",
+   "en": "The enemy fortress is preparing to fire its main gun. Please evacuate immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'shihou' (law) for 'shuhou' (main gun)."
+  },
+  {
+   "id": "vo0_of1_1079",
+   "en": "The enemy fortress is preparing to fire its main gun. Evacuate immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1079",
+   "en": "The enemy fortress is readying its main gun. Evacuate right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1079",
+   "en": "The enemy fortress is readying its main gun. Evacuate immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1079",
+   "en": "The enemy fortress is preparing to fire its main gun. Evacuate immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1080",
+   "en": "We're entering the enemy fortress.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1080",
+   "en": "We're going into the enemy fortress!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1080",
+   "en": "We're storming the enemy fortress!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1080",
+   "en": "We're going into the enemy fortress!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1080",
+   "en": "We're entering the enemy fortress!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1082",
+   "en": "Starboard No. 2 thruster hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1082",
+   "en": "Starboard No. 2 thruster hit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'un'ei' (management) for 'ugen' (starboard)."
+  },
+  {
+   "id": "vo0_of2_1082",
+   "en": "Starboard No. 2 thruster hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1082",
+   "en": "Starboard No. 2 thruster hit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'hidan' (flying bullet) for 'hidan' (hit), wrong kanji, same sound."
+  },
+  {
+   "id": "vos_mis_1082",
+   "en": "Starboard No. 2 thruster hit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'hidan' (flying bullet) for 'hidan' (hit), wrong kanji, same sound."
+  },
+  {
+   "id": "vo0_of0_1083",
+   "en": "Missiles incoming. Deploying pinpoint barrier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1083",
+   "en": "Missiles incoming. Deploying pinpoint barrier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1083",
+   "en": "Missiles incoming. Pinpoint barrier deploying!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1083",
+   "en": "Missiles incoming. Deploying pinpoint barrier!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1083",
+   "en": "Missiles incoming. Deploying pinpoint barrier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1084",
+   "en": "Sub-control system damaged.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1685-1689 (clip 1068): 'infiltrators aboard' for 'enemy infiltrated the ship'",
+   "rows 1725-1729 (clip 1076): 'a battleship' (not 'the'); the source gives no referent",
+   "rows 1730-1734 (clip 1077): 'play it' = broadcast; the Protoculture song is not named",
+   "rows 1750-1754: 'Starboard No. 2 thruster' from 'right side, second propulsion unit'"
+  ],
+  "whisper_doubt": [
+   "row 1710: Transcript has 'hasshin' (transmit) for 'hasshin' (launch), wrong kanji, same sound.",
+   "row 1712: Transcript has 'hasshin' (transmit) for 'hasshin' (launch), wrong kanji, same sound.",
+   "row 1714: Transcript has 'hasshin' (transmit) for 'hasshin' (launch), wrong kanji, same sound.",
+   "row 1722: Transcript has 'koudou' (action) for 'goudou' (joint) exercise.",
+   "row 1740: Transcript has 'shihou' (law) for 'shuhou' (main gun).",
+   "row 1751: Transcript has 'un'ei' (management) for 'ugen' (starboard).",
+   "row 1753: Transcript has 'hidan' (flying bullet) for 'hidan' (hit), wrong kanji, same sound.",
+   "row 1754: Transcript has 'hidan' (flying bullet) for 'hidan' (hit), wrong kanji, same sound."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Destroid (standard term used)"
+  ],
+  "unfinished": []
+ }
+}

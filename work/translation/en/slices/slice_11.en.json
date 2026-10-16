@@ -1,0 +1,523 @@
+{
+ "slice": 11,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "mt_021:0996",
+   "en": "Hold the △ button for a moment, then\nrelease it to perform a\ncharged melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_021:09f7",
+   "en": "Press the △ button while dashing\nto perform a dash melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_021:0a3b",
+   "en": "In Battroid mode, chain melee attacks\nwhile holding Down on the D-pad\nto perform a launching melee attack.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "id": "mt_021:0aa4",
+   "en": "A launched enemy is left defenseless\nfor a short time.\nYou can attack it further during that time.",
+   "flags": [],
+   "notes": "review: refit: 'keep attacking it during that window' -> 'attack it further during that time'"
+  },
+  {
+   "id": "mt_021:0b11",
+   "en": "In Battroid mode, press the △ button\nto hit a downed enemy with a down attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_021:0b61",
+   "en": "Please note that Fighter mode\nhas no melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_021:0bb3",
+   "en": "That covers the basics of melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_021:0bde",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": "review: refit: line break moved"
+  },
+  {
+   "id": "mt_030:0835",
+   "en": "Now I'll explain Special Maneuvers 1.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:0867",
+   "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:08c0",
+   "en": "In Fighter mode, while locked on,\nhold the R button to turn\nand bring the enemy dead ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:092d",
+   "en": "In Battroid mode, hold the L button\nto guard.\nGuarding reduces the damage you take.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:099a",
+   "en": "Guarding while no enemy is locked on\nresets the camera angle\nto face forward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:0a01",
+   "en": "While guarding, press Up, Left or Right\non the D-pad to move\nwithout dropping your guard.",
+   "flags": [],
+   "notes": "review: D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "id": "mt_030:0a62",
+   "en": "You can also step left or right and dash\nwhile moving on guard. Be careful:\nyour guard drops while you do.",
+   "flags": [],
+   "notes": "Second line break moved to a natural point; count unchanged. | review: refit: line break moved"
+  },
+  {
+   "id": "mt_030:0adb",
+   "en": "In GERWALK mode, hold the L button\nto hover and hold\nyour position.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:0b44",
+   "en": "While hovering, press Left or Right on the\nD-pad to strafe while facing forward.",
+   "flags": [],
+   "notes": "review: D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856). | review: refit: 'sideways' and 'still' dropped, line break moved"
+  },
+  {
+   "id": "mt_030:0b9c",
+   "en": "You can also step left or right and dash\nwhile strafing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:0be0",
+   "en": "In Battroid or GERWALK mode, press the\n× button right after taking a knockdown hit\nto avoid getting knocked down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:0c53",
+   "en": "And even if you do get knocked down,\nmashing the × button lets you recover\nfrom being down faster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:0cc4",
+   "en": "If you have a wingman, press the SELECT\nbutton together with the D-pad\nto issue tactical commands.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: refit: 'When' -> 'If'"
+  },
+  {
+   "id": "mt_030:0d2d",
+   "en": "The D-pad left tactical command\norders your wingman to focus\non melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:0d88",
+   "en": "The D-pad right tactical command\norders your wingman to focus\non shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:0de3",
+   "en": "The D-pad up tactical command\norders your wingman to focus\non defense.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:0e3a",
+   "en": "The D-pad down tactical command\norders your wingman to unleash\na Special Attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_030:0e95",
+   "en": "That covers Special Maneuvers 1.",
+   "flags": [],
+   "notes": "review: refit: 'the controls for' dropped"
+  },
+  {
+   "id": "mt_030:0ec2",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": "review: refit: line break moved"
+  },
+  {
+   "id": "mt_031:0835",
+   "en": "Now I'll explain Special Maneuvers 2.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:0867",
+   "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:08c0",
+   "en": "Hold the L button and press the ○ button\nto spend 1 block of the SP Gauge\nand fire a Charge Shot.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:092d",
+   "en": "Hold the L button and press the △ button\nto spend 1 block of the SP Gauge\nand perform a Charge Melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:099a",
+   "en": "Please note that Charge Melee is\nnot available in Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:09ec",
+   "en": "Hold the L button and press the × button\nto spend 1 block of the SP Gauge\nand perform a Charge Boost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:0a5d",
+   "en": "In Fighter mode, a Charge Boost\nhits like a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:0aab",
+   "en": "In Battroid and GERWALK modes,\npress the △ button during a Charge Boost\nto perform a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:0b10",
+   "en": "Press the △ and ○ buttons together\nto spend 3 blocks of the SP Gauge\nand unleash a powerful Special Attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:0b89",
+   "en": "Press the ○ and × buttons together\nto spend a set number of blocks\nand use a Command Skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:0bf4",
+   "en": "Hold the L button and press the △ and\n○ buttons together to perform a\nCombo Special Attack with your wingman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:0c65",
+   "en": "A Combo Special Attack uses\n3 blocks of the SP Gauge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_031:0cb1",
+   "en": "That covers Special Maneuvers 2.",
+   "flags": [],
+   "notes": "review: refit: 'the controls for' dropped"
+  },
+  {
+   "id": "mt_031:0cde",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": "review: refit: line break moved"
+  },
+  {
+   "id": "mt_032:083c",
+   "en": "Now I'll explain how to carry containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_032:0872",
+   "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_032:08cb",
+   "en": "Lock on to a container and\nmove close to it, and you can\npick it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_032:0922",
+   "en": "You can only carry containers\nin GERWALK or Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_032:0970",
+   "en": "Press the □ button to set\nthe container down where you are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_032:09b2",
+   "en": "Also, be careful: you can't\nattack while you're\ncarrying a container.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_032:0a17",
+   "en": "That covers how to carry containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_032:0a46",
+   "en": "Training's over once you bring the container\nto the designated point, reach the target\narea, or run out of time.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: refit: line breaks moved"
+  },
+  {
+   "id": "mt_040:082d",
+   "en": "Now I'll explain the basic Real Flight\ncontrols for Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_040:0893",
+   "en": "During training, flight mode is set to\nReal Flight, and controller settings are\nreset to defaults. Please keep this in mind.",
+   "flags": [],
+   "notes": "review: refit: as row 742"
+  },
+  {
+   "id": "mt_040:090e",
+   "en": "Press Up on the D-pad to pitch down,\nand Down on the D-pad to pitch up.",
+   "flags": [],
+   "notes": "review: D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "id": "mt_040:095a",
+   "en": "Press Left or Right on the D-pad to roll.",
+   "flags": [],
+   "notes": "review: D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "id": "mt_040:0989",
+   "en": "Hold the L button and press Left or Right\non the D-pad to yaw.",
+   "flags": [],
+   "notes": "review: D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "id": "mt_040:09d3",
+   "en": "Press the × button to boost.\nYou can keep boosting until the\nboost gauge is full.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "mt_040:0a36",
+   "en": "Quickly press Up, Left or Right on the D-pad\ntwice in the same direction to roll\nthat way.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; capitalised D-pad directions"
+  },
+  {
+   "id": "mt_040:0a95",
+   "en": "Quickly press Down on the D-pad twice\nto fire reverse thrust and decelerate sharply.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; one rendering"
+  },
+  {
+   "id": "mt_040:0adf",
+   "en": "Hold the △ button to\nbrake and slow down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_040:0b35",
+   "en": "In Real Flight, hold the R button\nwhile locked on to swing\nthe camera toward your target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_040:0ba2",
+   "en": "That covers the basic Real Flight controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_040:0bdf",
+   "en": "All right, go ahead and practice\nflying in Real Flight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_040:0c25",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": "review: refit: line break moved"
+  },
+  {
+   "id": "mt_041:08c7",
+   "en": "Now I'll explain the newly added special\nmaneuvers and the special maneuvers\nwhose controls have been updated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_041:0934",
+   "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_041:098d",
+   "en": "With your current option parts equipped,\nthe option part transformation limit means\nyou can't switch to Fighter on the ground.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: term added to glossary | review: refit: 'Fighter mode' -> 'Fighter'"
+  },
+  {
+   "id": "mt_041:0a08",
+   "en": "Press the ○, △, □ and\n× buttons at the same time\nto purge your option parts.",
+   "flags": [],
+   "notes": "review: term added to glossary"
+  },
+  {
+   "id": "mt_041:0a75",
+   "en": "In Fighter mode, with an enemy locked on,\nhold the R button to turn\nand bring the enemy dead ahead.",
+   "flags": [],
+   "notes": "review: refit: 'while locked on to an enemy' -> 'with an enemy locked on'"
+  },
+  {
+   "id": "mt_041:0ae6",
+   "en": "Fighter mode no longer has a Charge Melee.\nInstead, it can now perform a Charge Boost\nthat hits like a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_041:0b55",
+   "en": "Press the ○ and × buttons together\nto spend a set number of blocks\nand use a Command Skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_041:0bd4",
+   "en": "Hold Up on the D-pad while locking on\nto switch your lock to enemy aces\nor disabled wingmen.",
+   "flags": [],
+   "notes": "review: D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "id": "mt_041:0c4f",
+   "en": "Lock on to a disabled wingman and\nmove close to bring them\nback into action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_041:0caa",
+   "en": "That covers the new special maneuvers\nand those with updated controls.",
+   "flags": [],
+   "notes": "review: refit: 'newly added' -> 'new'; repeated 'special maneuvers' -> 'those'"
+  },
+  {
+   "id": "mt_041:0d04",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": "review: refit: line break moved"
+  },
+  {
+   "id": "mt_042:0830",
+   "en": "Now I'll explain the\nAnti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_042:0892",
+   "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_042:08eb",
+   "en": "Hold the × button and press the □ button\nto shoot down enemy missiles with gunfire:\nthat's the Anti-Missile Action.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "mt_042:096c",
+   "en": "When you're targeted by an enemy missile,\na Missile Marker appears\non screen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_042:09d3",
+   "en": "A yellow Missile Marker shows an enemy\nmissile that is outside the range\nof your Anti-Missile Action.",
+   "flags": [],
+   "notes": "Source breaks mid-word across the Anti-/Missile Action term; English breaks at natural points, count unchanged."
+  },
+  {
+   "id": "mt_042:0a3a",
+   "en": "Once the Missile Marker turns red,\nyou can shoot that enemy missile down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_042:0a92",
+   "en": "You can shoot missiles down\nin Battroid or GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 809/826/828/840/863/872: the tutorial category rendered 'Special Maneuvers 1/2' and 'special maneuvers'; it should match the MT_030/MT_031/MT_041 briefing titles (rows 634, 636, 642, another slice).",
+   "row 803 (and 804): the move that knocks an enemy upward rendered 'launching melee attack' / 'launched enemy'; move name not in glossary.",
+   "rows 830-835, 868: charge moves rendered 'Charge Shot', 'Charge Melee', 'Charge Boost' (glossary only has 'Charge Attack' for the generic term). Rows 825/836/838/839 use 'Special Attack' / 'Combo Special Attack' because the source spells the word out instead of writing SP (glossary: SP Attack / Combo SP Attack provisional).",
+   "rows 821-825, 838, 870, 871: the allied unit rendered 'wingman' (singular; 'wingmen' in 870 for the generic list). Singular chosen because the player normally fights with one partner.",
+   "row 849: this tutorial is voiced by Sheryl (briefing row 639) and only this line keeps a casual feminine sentence ending, so it is slightly casual ('Training's over once...'). 'Bring the container to the designated point' interprets the source verb 'recover/collect at the designated position'.",
+   "row 855: 'You can keep boosting until the boost gauge is full' follows the source literally (the gauge presumably fills while boosting).",
+   "row 865: 'option part transformation limit' is a literal rendering of a game-system term.",
+   "row 876: restructured as 'Hold x and press square to shoot down enemy missiles with gunfire: that's the Anti-Missile Action' to keep three lines; meaning unchanged."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "rows 865/866 'opushon paatsu': rendered 'option parts' (glossary has 'Add-on Equipment' for a different word, tsuika soubi; possibly the same in-game concept, check against the UI).",
+   "'houkou kii' (directional pad): rendered 'D-pad' throughout.",
+   "'tokushu dousa' (tutorial category): rendered 'Special Maneuvers'.",
+   "'chaaji shageki / chaaji kakutou / chaaji buusuto': rendered 'Charge Shot / Charge Melee / Charge Boost'."
+  ],
+  "unfinished": []
+ }
+}

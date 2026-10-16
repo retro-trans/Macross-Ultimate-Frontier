@@ -1,0 +1,529 @@
+{
+ "slice": 63,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vph_ddi_134",
+   "en": "Don't get cocky!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_135",
+   "en": "I can still fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_136",
+   "en": "Me... even me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_137",
+   "en": "Impossible. An ending like this is impossible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_138",
+   "en": "Absurd. Me, shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_139",
+   "en": "Do you want to die, rookie?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_140",
+   "en": "Fumbling over something this easy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_141",
+   "en": "Don't let your guard down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_142",
+   "en": "That damn rookie!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a nonsense word (hyukku); read as hiyokko (rookie), matching the neighbouring partner-scold lines."
+  },
+  {
+   "id": "vph_ddi_143",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_144",
+   "en": "Pathetic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_148",
+   "en": "I'll thank you for the help.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_149",
+   "en": "I'd have been fine on my own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_150",
+   "en": "Reinforcements now? Not bad timing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_151",
+   "en": "I, of all people!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_152",
+   "en": "How could this happen!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_153",
+   "en": "Well, you're quite good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_154",
+   "en": "What a pointless operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_155",
+   "en": "Mission complete. Returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_156",
+   "en": "Guess there was no need for me to sortie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_157",
+   "en": "Tch! Out of time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_158",
+   "en": "Guess I enjoyed the dance a bit too much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_159",
+   "en": "Damn it, we didn't make it in time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_160",
+   "en": "Failure? I won't accept it. I won't!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_161",
+   "en": "Me, failing? That's a joke that isn't funny.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_162",
+   "en": "Tch, pathetic. Withdrawing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_163",
+   "en": "Give covering fire. Don't waste ammo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_164",
+   "en": "Fall back and cover my rear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_165",
+   "en": "I'll draw the enemy in. Cover me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_166",
+   "en": "Take them in close combat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_167",
+   "en": "Move up and act as a decoy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_168",
+   "en": "I'm leaving the melee to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_169",
+   "en": "Get back!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote an extra syllable (yokoo); read as sagatteroyo."
+  },
+  {
+   "id": "vph_ddi_170",
+   "en": "Attacking isn't all there is to fighting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_171",
+   "en": "Stay quiet until your next orders.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_172",
+   "en": "Show me a dance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_173",
+   "en": "Show me what you've got!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_174",
+   "en": "Do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_175",
+   "en": "The fun's just beginning!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_176",
+   "en": "Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_177",
+   "en": "I'll show you how to really fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_178",
+   "en": "OK.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_179",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_180",
+   "en": "Can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_181",
+   "en": "I need you to get it together, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_182",
+   "en": "Don't drag me down, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_183",
+   "en": "I'll cover the Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_184",
+   "en": "I'm taking command from here. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_185",
+   "en": "A rookie for a captain? Spare me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_186",
+   "en": "The Captain's down? Damn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_187",
+   "en": "What is this song? I'm pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_188",
+   "en": "There's no way to fight in this situation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_189",
+   "en": "To think a song would move even me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_190",
+   "en": "Don't hog all the fun, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_191",
+   "en": "You're something, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_192",
+   "en": "Impressive, Nora.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote gookingudana; guessed sasuga da na (well done) before the partner's name Nora."
+  },
+  {
+   "id": "vph_ddi_300",
+   "en": "Flying shoulder to shoulder with a rookie. A nice little stroll, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_301",
+   "en": "Tch, got stuck with a worthless partner.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote kumasarete; read as kumasarete (was paired with)."
+  },
+  {
+   "id": "vph_ddi_302",
+   "en": "Listen. Just don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_303",
+   "en": "Can you keep up, rookie?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_304",
+   "en": "Let's see what you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_305",
+   "en": "Mission's starting. Can you do it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_306",
+   "en": "Follow me, rookie.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote yokko; read as hiyokko (rookie)."
+  },
+  {
+   "id": "vph_ddi_307",
+   "en": "I'm expecting good work from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_308",
+   "en": "Looks like I can have fun with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_309",
+   "en": "I'm counting on your skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_310",
+   "en": "Don't go stealing my kills, too.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote tamashii (soul); read as emono (prey/kill) to match the partner-lines of this block. Literal reading would be 'don't take even my soul'."
+  },
+  {
+   "id": "vph_ddi_311",
+   "en": "Watch my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_320",
+   "en": "Damn, I'm done with babysitting.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote shinuguri; read as omori (babysitting), as in Roy's matching clip."
+  },
+  {
+   "id": "vph_ddi_321",
+   "en": "What do you think a battlefield is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_322",
+   "en": "You're worse than a rookie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_323",
+   "en": "Looks like the mission's a success. Returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_324",
+   "en": "How many times do I have to say it? Handle your machine like a lady, delicate as a feather.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'shojo' (many women); read as shukujo (lady)."
+  },
+  {
+   "id": "vph_ddi_325",
+   "en": "I expect you to handle at least this much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_326",
+   "en": "You handle your machine boldly, but it's not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_327",
+   "en": "You still lack delicacy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_328",
+   "en": "You're getting a bit better.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_329",
+   "en": "You've gotten good, rookie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_330",
+   "en": "You've grown into quite a man.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote yoko (side); read as otoko (man) or ude (arm/skill). Block 300-331 is for a male partner; Nora's matching clip says 'man's face'."
+  },
+  {
+   "id": "vph_ddi_331",
+   "en": "Just what I'd expect from a pilot I acknowledge.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5016 (vph_ddi_192): Whisper wrote gookingudana; guessed sasuga da na (well done) before the partner's name Nora.",
+   "row 5027 (vph_ddi_310): Whisper wrote tamashii (soul); read as emono (prey/kill) to match the partner-lines of this block. Literal reading would be 'don't take even my soul'.",
+   "row 5039 (vph_ddi_330): Whisper wrote yoko (side); read as otoko (man) or ude (arm/skill). Block 300-331 is for a male partner; Nora's matching clip says 'man's face'."
+  ],
+  "whisper_doubt": [
+   "row 4969 (vph_ddi_142): Whisper wrote a nonsense word (hyukku); read as hiyokko (rookie), matching the neighbouring partner-scold lines.",
+   "row 4993 (vph_ddi_169): Whisper wrote an extra syllable (yokoo); read as sagatteroyo.",
+   "row 5016 (vph_ddi_192): Whisper wrote gookingudana; guessed sasuga da na (well done) before the partner's name Nora.",
+   "row 5018 (vph_ddi_301): Whisper wrote kumasarete; read as kumasarete (was paired with).",
+   "row 5023 (vph_ddi_306): Whisper wrote yokko; read as hiyokko (rookie).",
+   "row 5027 (vph_ddi_310): Whisper wrote tamashii (soul); read as emono (prey/kill) to match the partner-lines of this block. Literal reading would be 'don't take even my soul'.",
+   "row 5029 (vph_ddi_320): Whisper wrote shinuguri; read as omori (babysitting), as in Roy's matching clip.",
+   "row 5033 (vph_ddi_324): Whisper wrote 'shojo' (many women); read as shukujo (lady).",
+   "row 5039 (vph_ddi_330): Whisper wrote yoko (side); read as otoko (man) or ude (arm/skill). Block 300-331 is for a male partner; Nora's matching clip says 'man's face'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

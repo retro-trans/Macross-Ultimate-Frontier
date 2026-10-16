@@ -1,0 +1,527 @@
+{
+ "slice": 96,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpp_myu_148",
+   "en": "Reinforcements are here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_149",
+   "en": "That's a little reassuring.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_150",
+   "en": "Are those friendlies?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_154",
+   "en": "With me supporting you, there's no way we'd fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_155",
+   "en": "I'm just a stagehand. Still, I managed to be of some use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_156",
+   "en": "Even without singing, there are things I can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_175",
+   "en": "Honestly, get it together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_176",
+   "en": "I have to do my best too.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'baka shinakya' (be foolish); likely 'ganbaranakya' (must try hard)."
+  },
+  {
+   "id": "vpp_myu_177",
+   "en": "I'm done making excuses.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_178",
+   "en": "All right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_179",
+   "en": "I just have to do it, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_180",
+   "en": "Yes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_181",
+   "en": "At this rate, you're in danger.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript says 'taichou' (physical condition); target is likely the Captain's craft or health."
+  },
+  {
+   "id": "vpp_myu_182",
+   "en": "You're too reckless, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_183",
+   "en": "You're pushing too hard, Captain.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'muki' (inorganic); read as 'mucha' (reckless)."
+  },
+  {
+   "id": "vpp_myu_184",
+   "en": "No... how could this happen...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_185",
+   "en": "The Captain got shot down? No way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_186",
+   "en": "Captain! Eject, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_190",
+   "en": "Not bad, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_191",
+   "en": "As expected of you, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_192",
+   "en": "Reckless as ever.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_193",
+   "en": "With Guld around, I can relax.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_194",
+   "en": "Reach them, my song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_320",
+   "en": "I hate you! I never want to see your face again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_321",
+   "en": "That's it! You wear me out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_322",
+   "en": "Enough already! This is why I didn't want to team up with you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_323",
+   "en": "That was pretty good, for you, don't you think?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_324",
+   "en": "I'm supporting you. Of course it succeeded.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_325",
+   "en": "Succeeding at this is only expected, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_326",
+   "en": "I can't believe it... you actually pulled it off.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has an extra 'hito' (person); read as 'shinjirarenai... masaka'."
+  },
+  {
+   "id": "vpp_myu_327",
+   "en": "I envy you, having something you can be that passionate about.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_328",
+   "en": "Of course you'd pull it off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_329",
+   "en": "I wish my song could reach your heart.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_330",
+   "en": "A dream, huh. Watching you makes me want to try again too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_331",
+   "en": "Idiot. Don't make me worry any more than this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_360",
+   "en": "I was a fool to think I could produce you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_361",
+   "en": "You really have a rotten personality.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_362",
+   "en": "I hate you, you know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_363",
+   "en": "There's no way there was a problem with my support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_364",
+   "en": "You should be able to do this much. Don't get cocky.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_365",
+   "en": "Well, do your best next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_366",
+   "en": "You pulled it off. You're really something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_367",
+   "en": "That was a reckless way to fight. Oh, I mean that as a compliment, by the way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_368",
+   "en": "No more stupid stunts. You're a girl too, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_369",
+   "en": "Watching you reminds me of myself back then. I wonder why.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_370",
+   "en": "I want to live without losing sight of my dreams, like you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_371",
+   "en": "I'm always the one getting helped. Thank you, always.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_600",
+   "en": "Isamu? Is that you, Isamu?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_601",
+   "en": "Isamu, run!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_602",
+   "en": "Stop it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_603",
+   "en": "Why... why did it come to this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_604",
+   "en": "Isamu! Isamu!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_605",
+   "en": "Isamu!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_606",
+   "en": "You were wrong. You went about it the wrong way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_607",
+   "en": "A mistake you can't take back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_608",
+   "en": "I'm sure I did too.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Very short, no referent; could trail off."
+  },
+  {
+   "id": "vpp_myu_610",
+   "en": "A dream?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_611",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_000",
+   "en": "All right! Let's go out with a bang!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_001",
+   "en": "I'll nail it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_002",
+   "en": "I'll continue the live show there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_003",
+   "en": "Hey! Stop it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_004",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_005",
+   "en": "You idiot!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'bagyara'; probably 'bakkyaro' (you damn fool)."
+  },
+  {
+   "id": "vp7_nkb_006",
+   "en": "You'll pay for that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_007",
+   "en": "What the hell!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_008",
+   "en": "That hurts, damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_009",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A gasp."
+  },
+  {
+   "id": "vp7_nkb_010",
+   "en": "Oh, crap!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_011",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_012",
+   "en": "Dammit!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper low confidence, no speech detected; probably a short curse."
+  },
+  {
+   "id": "vp7_nkb_013",
+   "en": "What the hell!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_014",
+   "en": "Crap!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Pained grunts."
+  },
+  {
+   "id": "vp7_nkb_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A grunt."
+  },
+  {
+   "id": "vp7_nkb_018",
+   "en": "Oh, I blew it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_019",
+   "en": "Oh no!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_020",
+   "en": "I said listen!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_100",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_101",
+   "en": "Listen to my song!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7613: Transcript says 'taichou' (physical condition); target is likely the Captain's craft or health.",
+   "row 7656: Very short, no referent; could trail off.",
+   "row 7664: Transcript 'bagyara'; probably 'bakkyaro' (you damn fool).",
+   "row 7671: Whisper low confidence, no speech detected; probably a short curse."
+  ],
+  "whisper_doubt": [
+   "row 7608: Transcript 'baka shinakya' (be foolish); likely 'ganbaranakya' (must try hard).",
+   "row 7615: Transcript 'muki' (inorganic); read as 'mucha' (reckless).",
+   "row 7630: Transcript has an extra 'hito' (person); read as 'shinjirarenai... masaka'.",
+   "row 7664: Transcript 'bagyara'; probably 'bakkyaro' (you damn fool).",
+   "row 7671: Whisper low confidence, no speech detected; probably a short curse."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

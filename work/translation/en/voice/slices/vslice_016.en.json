@@ -1,0 +1,536 @@
+{
+ "slice": 16,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_621",
+   "en": "Skull 3 got captured by an enemy ship! Infiltrate it and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_621",
+   "en": "Skull 3 was captured by an enemy ship. Infiltrate it and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_621",
+   "en": "Skull 3 has been captured by an enemy ship. Infiltrate it and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_622",
+   "en": "Skull 3 seems to be held deep inside an enemy ship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Skull Shirii'; Skull 3 (Sukaru Surii) per the others."
+  },
+  {
+   "id": "vo0_of1_622",
+   "en": "Skull 3 seems to be held deep inside an enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_622",
+   "en": "Skull 3 seems to be held deep inside an enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_622",
+   "en": "Skull 3 seems to be held deep inside an enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_622",
+   "en": "Skull 3 seems to be held deep inside an enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_623",
+   "en": "Starting the operation using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_623",
+   "en": "Starting the operation using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_623",
+   "en": "Starting the operation using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_623",
+   "en": "Starting the operation using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_623",
+   "en": "Starting the operation using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_624",
+   "en": "I'm not seeing any damage to the Vajra from shooting weapons.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Bajirai' for Vajra."
+  },
+  {
+   "id": "vo0_of1_624",
+   "en": "I'm not seeing any damage to the Vajra from shooting weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_624",
+   "en": "Hey, shooting weapons aren't working on the Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_624",
+   "en": "No damage to the Vajra from shooting weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_624",
+   "en": "No damage to the Vajra from shooting weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_625",
+   "en": "Container recovery is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_625",
+   "en": "Container recovery is done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_625",
+   "en": "Good, container recovery complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_625",
+   "en": "Container recovery looks complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_625",
+   "en": "Container recovery complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_626",
+   "en": "The citizen rescue is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_626",
+   "en": "The citizen rescue is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_626",
+   "en": "Citizen rescue complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_626",
+   "en": "Citizen rescue looks complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_626",
+   "en": "Citizen rescue complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_628",
+   "en": "This is Delta 1. Launch when ready.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_628",
+   "en": "This is Delta 1. Launch when ready.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_628",
+   "en": "This is Delta 1. Launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_628",
+   "en": "This is Delta 1. Launch when ready.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_628",
+   "en": "This is Delta 1. Launch when ready.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_630",
+   "en": "Ranka Lee's song has stopped the Vajra attack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Dankarii' for Ranka Lee."
+  },
+  {
+   "id": "vo0_of1_630",
+   "en": "Ranka Lee's song has stopped the Vajra attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_630",
+   "en": "Ranka Lee's song stopped the Vajra attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_630",
+   "en": "Ranka Lee's song stopped the Vajra attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_630",
+   "en": "Ranka Lee's song has stopped the Vajra attack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Rankadi' for Ranka Lee."
+  },
+  {
+   "id": "vo0_of0_631",
+   "en": "Um, please save the chatter for later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_631",
+   "en": "Chatting mid-battle? You must have time to spare.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_631",
+   "en": "Hey, stop yapping at me. You're annoying.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'uttanshii'; probably 'uttoushii' (annoying)."
+  },
+  {
+   "id": "vo0_om0_631",
+   "en": "Idle chatter mid-battle? You've got nerve.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_631",
+   "en": "Quit the idle chatter and focus on the fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_632",
+   "en": "Fold reaction detected.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'default' (deforuto) for 'fold' (foorudo)."
+  },
+  {
+   "id": "vo0_of1_632",
+   "en": "Fold reaction.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'default' for 'fold'."
+  },
+  {
+   "id": "vo0_of2_632",
+   "en": "Fold reaction!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'deforudo' for 'fold'."
+  },
+  {
+   "id": "vo0_om0_632",
+   "en": "Fold reaction!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'default' for 'fold'."
+  },
+  {
+   "id": "vos_mis_632",
+   "en": "Fold reaction.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'deforudo' for 'fold'."
+  },
+  {
+   "id": "vo0_of0_633",
+   "en": "An enemy ship has just folded in.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'default' for 'fold'."
+  },
+  {
+   "id": "vo0_of1_633",
+   "en": "An enemy ship folded in.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'default' for 'fold'."
+  },
+  {
+   "id": "vo0_of2_633",
+   "en": "An enemy ship folded in!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'deforudo' for 'fold'."
+  },
+  {
+   "id": "vo0_om0_633",
+   "en": "Enemy ship folded in!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'default' for 'fold'."
+  },
+  {
+   "id": "vos_mis_633",
+   "en": "An enemy ship has just folded in.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'deforudo' for 'fold'."
+  },
+  {
+   "id": "vo0_of0_634",
+   "en": "Oh, it's been a while. Let's work together again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_634",
+   "en": "Oh, it's been a while. Let's work together again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_634",
+   "en": "You again? Well, let's work together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_634",
+   "en": "It's been a while. Let's work together again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_634",
+   "en": "Long time no see. Let's work together again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_635",
+   "en": "I'm Itsuki Yamashiro, your bridge operator. I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_636",
+   "en": "I'm Yuu Akimizu, and I'll be your bridge operator. Pleased to work with you.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'birijji' for bridge."
+  },
+  {
+   "id": "vo0_of1_636",
+   "en": "I'm Claire Stanford, your bridge operator. Nice to meet you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_636",
+   "en": "I'm Pinon Colette, your bridge operator. Follow my orders and there won't be any problem.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'bureechi' for bridge."
+  },
+  {
+   "id": "vo0_of0_900",
+   "en": "I'll be handling your Valkyrie flight training. Pleased to work with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_900",
+   "en": "I'll be in charge of your Valkyrie special maneuver training. Nice to meet you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_900",
+   "en": "I'm in charge of Valkyrie attack training. I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_901",
+   "en": "I'll explain the basic controls in Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_901",
+   "en": "I'll explain the special maneuvers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_901",
+   "en": "I'll explain the basics of shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_902",
+   "en": "During training, the controller settings are reset to default. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_902",
+   "en": "During training, the controller settings are reset to default. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_902",
+   "en": "During training, the controller settings are reset to default. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_903",
+   "en": "Press left or right on the D-pad to turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_903",
+   "en": "In Fighter mode, hold the L button while locked on and you'll turn to keep the enemy in front of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_903",
+   "en": "R button locks on to an enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_904",
+   "en": "Press up on the D-pad to lower the nose and descend, down to raise the nose and climb.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_904",
+   "en": "In Battroid mode, hold the L button to guard. Guarding reduces the damage you take.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_904",
+   "en": "Press the R button again to switch your lock to another enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_905",
+   "en": "Press the X button to boost. You can boost until the boost gauge is full.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_905",
+   "en": "While guarding, press up, left or right on the D-pad to move as you guard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_905",
+   "en": "Hold R and press up on the D-pad to switch the lock to ground weapons or enemy warships.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1229-1233: 'Delta 1' callsign speaker/addressee unclear; read as the operator telling the pilot to launch",
+   "row 1278 vo0_of0_905: source says boost can be used until the gauge reaches maximum; kept literal ('is full'), the game may mean until it is depleted",
+   "D-pad = 'directional keys' (houkou kii); X button = cross button"
+  ],
+  "whisper_doubt": [
+   "rows 1204,1214,1234,1238,1241,1244-1253,1260,1262"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Skull 3 (callsign), Delta 1 (callsign)"
+  ],
+  "unfinished": []
+ }
+}

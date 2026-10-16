@@ -1,0 +1,1937 @@
+{
+ "slice": 10,
+ "rows_in_slice": 320,
+ "rows_examined": 320,
+ "rows": [
+  {
+   "id": "u2489",
+   "en": "Swift as Lightning",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2490",
+   "en": "Crack Pilot",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2491",
+   "en": "Elite Pilot",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2492",
+   "en": "Battle-Hardened",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2493",
+   "en": "King of Melee",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2494",
+   "en": "Asura",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2495",
+   "en": "God of Battle",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2496",
+   "en": "Expert",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2497",
+   "en": "Ace Pilot",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2498",
+   "en": "First-Gen Diehard",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2499",
+   "en": "Destroid Diehard",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2500",
+   "en": "Speed Star",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2501",
+   "en": "Hard Puncher",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2502",
+   "en": "Spiritia Dream",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2503",
+   "en": "Hard Rocker",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2504",
+   "en": "Zentradi",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2505",
+   "en": "Star Performer",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2506",
+   "en": "Purple Flight",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2507",
+   "en": "Gojappe",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2508",
+   "en": "To the Endth☆",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2509",
+   "en": "Turkey",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2510",
+   "en": "Rising Star",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2511",
+   "en": "New Face",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2512",
+   "en": "Up-and-Comer",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2513",
+   "en": "Dark Horse",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2514",
+   "en": "Head Honcho",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2515",
+   "en": "Professional",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2516",
+   "en": "Emperor",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2517",
+   "en": "Army of One",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2518",
+   "en": "Unrivaled",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2519",
+   "en": "Overlord",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2520",
+   "en": "Fierce Deity",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2521",
+   "en": "Demon God",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2522",
+   "en": "Roy Focker Medal",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2523",
+   "en": "Super Dimension Fortress",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2524",
+   "en": "Super Dimension Restaurant",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2525",
+   "en": "Galactic Diva",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2526",
+   "en": "Super Idol",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2527",
+   "en": "Super Dimension Cinderella",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2528",
+   "en": "Missile Maniac",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2529",
+   "en": "Fan Favorite",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2530",
+   "en": "Battle Master",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2531",
+   "en": "Skill Master",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2532",
+   "en": "Tactician",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2533",
+   "en": "True Master",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2534",
+   "en": "Ace Frontier",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2535",
+   "en": "Skull Leader",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2536",
+   "en": "King of Fists",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2537",
+   "en": "Galactic Vocalist",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2538",
+   "en": "Battroid Diehard",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2539",
+   "en": "GERWALK Diehard",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2540",
+   "en": "Fighter Diehard",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2541",
+   "en": "Skull Squadron",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2542",
+   "en": "Hikaru Ichijyo\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2543",
+   "en": "Pineapple Salad",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2544",
+   "en": "Focker\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2545",
+   "en": "Genius",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2546",
+   "en": "Max\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2547",
+   "en": "Vermillion Flight",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2548",
+   "en": "Kakizaki\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2549",
+   "en": "Ally Killer",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2550",
+   "en": "Quamzin\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2551",
+   "en": "Milia\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2552",
+   "en": "Strongest Bride",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2553",
+   "en": "Milia (U.N. Forces)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2554",
+   "en": "Militant Commander",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2555",
+   "en": "Vrlitwhai\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2556",
+   "en": "Hellraiser",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2557",
+   "en": "Isamu\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2558",
+   "en": "Kamikaze Daredevil",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2559",
+   "en": "Guld\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2560",
+   "en": "Basara\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2561",
+   "en": "Sound Force",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2562",
+   "en": "Mylene\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2563",
+   "en": "Diamond Force",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2564",
+   "en": "Gamlin\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2565",
+   "en": "Strongest Captain",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2566",
+   "en": "Max (7)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2567",
+   "en": "Beautiful Mayor",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2568",
+   "en": "Milia (7)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2569",
+   "en": "Gigile\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2570",
+   "en": "Vanguard of Beauty",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2571",
+   "en": "Gavil\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2572",
+   "en": "Kabuki Actor",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2573",
+   "en": "Alto\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2574",
+   "en": "One Shot, One Kill",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2575",
+   "en": "Michael\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2576",
+   "en": "Young Master",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2577",
+   "en": "Luca\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2578",
+   "en": "Ozma\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2579",
+   "en": "Pixie Team",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2580",
+   "en": "Klan\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2581",
+   "en": "Clumsy Genes",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2582",
+   "en": "Klan (Micronian)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2583",
+   "en": "Handsome Cyborg",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2584",
+   "en": "Brera\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2585",
+   "en": "Old Lady!?",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2586",
+   "en": "Misa Hayase\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2587",
+   "en": "Greenhorn",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2588",
+   "en": "Owned at Start",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2589",
+   "en": "Kiddo",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2590",
+   "en": "Half-Hatched Punk",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2591",
+   "en": "Valued Customer",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2592",
+   "en": "Owned at start with\nsave data carryover",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Unlock condition: owned from the start when save data is carried over."
+  },
+  {
+   "id": "u2593",
+   "en": "Frontier Master",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2594",
+   "en": "Storm of Thanks",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2595",
+   "en": "Apprentice",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2596",
+   "en": "Mission Clear Rate\n5%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2597",
+   "en": "Nameless",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2598",
+   "en": "Mission Clear Rate\n10%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2599",
+   "en": "Old Hand",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2600",
+   "en": "Mission Clear Rate\n15%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2601",
+   "en": "Self-Taught",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2602",
+   "en": "Mission Clear Rate\n20%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2603",
+   "en": "Completionist KING",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2604",
+   "en": "Mission Clear Rate\n25%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2605",
+   "en": "Mission Clear Rate\n30%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2606",
+   "en": "Proud Camper",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2607",
+   "en": "Mission Clear Rate\n35%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2608",
+   "en": "Technician",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2609",
+   "en": "Mission Clear Rate\n40%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2610",
+   "en": "Master of Evasion",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2611",
+   "en": "Mission Clear Rate\n45%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2612",
+   "en": "No Holding Back",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2613",
+   "en": "Mission Clear Rate\n50%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2614",
+   "en": "Spare Me Your Opinions",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2615",
+   "en": "Mission Clear Rate\n55%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2616",
+   "en": "The Great Me",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2617",
+   "en": "Mission Clear Rate\n60%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2618",
+   "en": "Chicken Punk",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2619",
+   "en": "Mission Clear Rate\n65%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2620",
+   "en": "Super Chicken",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2621",
+   "en": "Mission Clear Rate\n70%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2622",
+   "en": "Lethal Charm",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2623",
+   "en": "Mission Clear Rate\n75%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2624",
+   "en": "Overthrowing the Top",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2625",
+   "en": "Mission Clear Rate\n80%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2626",
+   "en": "Late Bloomer",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2627",
+   "en": "Mission Clear Rate\n85%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2628",
+   "en": "Elite",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2629",
+   "en": "Mission Clear Rate\n90%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2630",
+   "en": "Punching Bag",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2631",
+   "en": "Mission Clear Rate\n95%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2632",
+   "en": "Soothing Soul",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2633",
+   "en": "Mission Clear Rate\n100%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2634",
+   "en": "You're not getting away!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2635",
+   "en": "Versus Matches: 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2636",
+   "en": "I like the sky better than the sea.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1012, changed identically"
+  },
+  {
+   "id": "u2637",
+   "en": "Versus Matches: 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2638",
+   "en": "I... believe in you...!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2639",
+   "en": "Versus Matches: 5",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2640",
+   "en": "Heh, you fledgling. Let's go!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2641",
+   "en": "Versus Matches: 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2642",
+   "en": "Can you keep up with me?",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2643",
+   "en": "Versus Matches: 10",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2644",
+   "en": "Like I'd fight a war scared o' booze!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1016, changed identically"
+  },
+  {
+   "id": "u2645",
+   "en": "Versus Matches: 15",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2646",
+   "en": "Heh, the boy again?",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2647",
+   "en": "Versus Matches: 20",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2648",
+   "en": "That damn fledgling...",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2649",
+   "en": "Versus Matches: 25",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2650",
+   "en": "Dance, dance, dance!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2651",
+   "en": "Versus Matches: 30",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2652",
+   "en": "Stupid... way too damn stupid!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1020, changed identically"
+  },
+  {
+   "id": "u2653",
+   "en": "Versus Matches: 35",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2654",
+   "en": "No! It's Kadun's fault!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2655",
+   "en": "Versus Matches: 40",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2656",
+   "en": "Where's the Bird Human's head?",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1022, changed identically"
+  },
+  {
+   "id": "u2657",
+   "en": "Versus Matches: 45",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2658",
+   "en": "Kadun!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2659",
+   "en": "Versus Matches: 50",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2660",
+   "en": "Haha, looks like I'm dead.",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2661",
+   "en": "Versus Matches: 55",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2662",
+   "en": "Thrilling, isn't it?",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2663",
+   "en": "Versus Matches: 60",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2664",
+   "en": "I don't wanna hear your weird song.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1026, changed identically"
+  },
+  {
+   "id": "u2665",
+   "en": "Versus Matches: 65",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2666",
+   "en": "Still playing the noble knight, huh?",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1027, changed identically"
+  },
+  {
+   "id": "u2667",
+   "en": "Versus Matches: 70",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2668",
+   "en": "Stealth",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2669",
+   "en": "Versus Matches: 75",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2670",
+   "en": "Heh, sorry. It was an accident.",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2671",
+   "en": "Versus Matches: 80",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2672",
+   "en": "Limiter off!!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2673",
+   "en": "Versus Matches: 85",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2674",
+   "en": "A toast to our reunion after 7 years!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1031, changed identically"
+  },
+  {
+   "id": "u2675",
+   "en": "Versus Matches: 90",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2676",
+   "en": "Why did you come to this planet?",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2677",
+   "en": "Versus Matches: 95",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2678",
+   "en": "No one else gets the white one!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2679",
+   "en": "Versus Matches: 100",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2680",
+   "en": "That one wants to fight me.",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2681",
+   "en": "Versus Matches: 105",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2682",
+   "en": "It's okay. I can do this!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2683",
+   "en": "Versus Matches: 110",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2684",
+   "en": "Put me... put me in a Valkyrie!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2685",
+   "en": "Versus Matches: 115",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2686",
+   "en": "I'll borrow your luck for now.",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2687",
+   "en": "Versus Matches: 120",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2688",
+   "en": "Attaaack!!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2689",
+   "en": "Versus Matches: 125",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2690",
+   "en": "Just as I feel it... I'll fly!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2691",
+   "en": "Versus Matches: 130",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2692",
+   "en": "Don't mouth off on a whim, brat!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1040, changed identically"
+  },
+  {
+   "id": "u2693",
+   "en": "Versus Matches: 135",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2694",
+   "en": "Guess I've lost too much blood...",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2695",
+   "en": "Versus Matches: 140",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2696",
+   "en": "You're really still just a kid after all.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1042, changed identically"
+  },
+  {
+   "id": "u2697",
+   "en": "Versus Matches: 145",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2698",
+   "en": "What do you have wings for?!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1043, changed identically"
+  },
+  {
+   "id": "u2699",
+   "en": "Versus Matches: 150",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2700",
+   "en": "All units, Planet Dance!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2701",
+   "en": "Versus Matches: 160",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2702",
+   "en": "Got a gripe? Take the top next time.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1045, changed identically"
+  },
+  {
+   "id": "u2703",
+   "en": "Versus Matches: 170",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2704",
+   "en": "An amateur? You're good for one.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1046, changed identically | review: subject restored"
+  },
+  {
+   "id": "u2705",
+   "en": "Versus Matches: 180",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2706",
+   "en": "I only did my duty, Commander.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1047, changed identically"
+  },
+  {
+   "id": "u2707",
+   "en": "Versus Matches: 190",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2708",
+   "en": "Right! ...Wait, this is crazy!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2709",
+   "en": "Versus Matches: 200",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2710",
+   "en": "I don't care if you call me a coward.",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2711",
+   "en": "Versus Matches: 210",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2712",
+   "en": "Fall back, rookie!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2713",
+   "en": "Versus Matches: 220",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2714",
+   "en": "A reckless idiot, but good instincts.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1051, changed identically"
+  },
+  {
+   "id": "u2715",
+   "en": "Versus Matches: 230",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2716",
+   "en": "Take that! Take that! Take that!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1052, changed identically"
+  },
+  {
+   "id": "u2717",
+   "en": "Versus Matches: 240",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2718",
+   "en": "Who can love if they fear dying?!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1053, changed identically"
+  },
+  {
+   "id": "u2719",
+   "en": "Versus Matches: 250",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2720",
+   "en": "It's in your hands now!!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2721",
+   "en": "Versus Matches: 260",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2722",
+   "en": "All hands, sadly, this is not a drill.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1055, changed identically"
+  },
+  {
+   "id": "u2723",
+   "en": "Versus Matches: 270",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2724",
+   "en": "You're in my way. Move!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2725",
+   "en": "Versus Matches: 280",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2726",
+   "en": "Perish! Scatter to the galaxy's end!!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1057, changed identically"
+  },
+  {
+   "id": "u2727",
+   "en": "Versus Matches: 290",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2728",
+   "en": "I'll cover you!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2729",
+   "en": "Versus Matches: 300",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2730",
+   "en": "Big Brother, you idiot!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2731",
+   "en": "Versus Wins: 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2732",
+   "en": "Life is One, Two, Deculture!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2733",
+   "en": "Versus Wins: 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2734",
+   "en": "Don't regret--go all in and shatter!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1061, changed identically"
+  },
+  {
+   "id": "u2735",
+   "en": "Versus Wins: 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2736",
+   "en": "Hold me tight! To the galaxy's end!!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1062, changed identically"
+  },
+  {
+   "id": "u2737",
+   "en": "Versus Wins: 5",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2738",
+   "en": "The Vajra sing with their bellies!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2739",
+   "en": "Versus Wins: 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2740",
+   "en": "Listen to my song!!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2741",
+   "en": "Versus Wins: 10",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2742",
+   "en": "Oh my, you don't want me along?",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1065, changed identically"
+  },
+  {
+   "id": "u2743",
+   "en": "Versus Wins: 13",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2744",
+   "en": "Thank you, everyone! I love you!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2745",
+   "en": "Versus Wins: 16",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2746",
+   "en": "I rarely offer this service, y'know!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1067, changed identically"
+  },
+  {
+   "id": "u2747",
+   "en": "Versus Wins: 19",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2748",
+   "en": "There's no way I can pilot a robot!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2749",
+   "en": "Versus Wins: 22",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2750",
+   "en": "I-I didn't do anything!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2751",
+   "en": "Versus Wins: 25",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2752",
+   "en": "Missions! Is that all you think of?!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1070, changed identically"
+  },
+  {
+   "id": "u2753",
+   "en": "Versus Wins: 28",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2754",
+   "en": "You can still sing, can't you!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2755",
+   "en": "Versus Wins: 31",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2756",
+   "en": "I want you to sing this song.",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2757",
+   "en": "Versus Wins: 34",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2758",
+   "en": "I'll never again say I'll quit singing.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1073, changed identically"
+  },
+  {
+   "id": "u2759",
+   "en": "Versus Wins: 37",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2760",
+   "en": "Was I a genius all along...?",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2761",
+   "en": "Versus Wins: 40",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2762",
+   "en": "*pant pant*... Ah... how beautiful.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1075, changed identically"
+  },
+  {
+   "id": "u2763",
+   "en": "Versus Wins: 43",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2764",
+   "en": "I-I'm still alive, somehow.",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2765",
+   "en": "Versus Wins: 46",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2766",
+   "en": "Aw, man... my steak...",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2767",
+   "en": "Versus Wins: 49",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2768",
+   "en": "No good! I won't make it! Waaagh!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1078, changed identically"
+  },
+  {
+   "id": "u2769",
+   "en": "Versus Wins: 52",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2770",
+   "en": "Me, lose? That's absurd.",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2771",
+   "en": "Versus Wins: 55",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2772",
+   "en": "I hate you for the shame of defeat!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1080, changed identically"
+  },
+  {
+   "id": "u2773",
+   "en": "Versus Wins: 58",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2774",
+   "en": "As a warrior, learn some shame.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1081, changed identically"
+  },
+  {
+   "id": "u2775",
+   "en": "Versus Wins: 61",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2776",
+   "en": "Me... the one hailed as Ace of Aces...",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1082, changed identically"
+  },
+  {
+   "id": "u2777",
+   "en": "Versus Wins: 64",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2778",
+   "en": "We will now cover your ship.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1083, changed identically"
+  },
+  {
+   "id": "u2779",
+   "en": "Versus Wins: 67",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2780",
+   "en": "Show me this thing called 'kiiss'...",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1084, changed identically"
+  },
+  {
+   "id": "u2781",
+   "en": "Versus Wins: 70",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2782",
+   "en": "What was that mountain called...?",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1085, changed identically"
+  },
+  {
+   "id": "u2783",
+   "en": "Versus Wins: 73",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2784",
+   "en": "I'll make it ring to the galaxy's end!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1086, changed identically"
+  },
+  {
+   "id": "u2785",
+   "en": "Versus Wins: 76",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2786",
+   "en": "I'll make the universe ring with it!!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1087, changed identically"
+  },
+  {
+   "id": "u2787",
+   "en": "Versus Wins: 79",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2788",
+   "en": "Hurl a burning heart--that's a song!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1088, changed identically"
+  },
+  {
+   "id": "u2789",
+   "en": "Versus Wins: 82",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2790",
+   "en": "All right, I'll play my heart out!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1089, changed identically"
+  },
+  {
+   "id": "u2791",
+   "en": "Versus Wins: 85",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2792",
+   "en": "Special live show time! Let's start!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1090, changed identically"
+  },
+  {
+   "id": "u2793",
+   "en": "Versus Wins: 88",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2794",
+   "en": "Mylene must have seen that again...",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2795",
+   "en": "Versus Wins: 91",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2796",
+   "en": "You're no match for me in my day.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1092, changed identically"
+  },
+  {
+   "id": "u2797",
+   "en": "Versus Wins: 94",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2798",
+   "en": "Versus Wins: 97",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2799",
+   "en": "Macross Cannon, fire!!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2800",
+   "en": "Versus Wins: 100",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2801",
+   "en": "Papa is not cheating on anyone.",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2802",
+   "en": "Versus Wins: 103",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2803",
+   "en": "I'll give you a full taste of fear.",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1096, changed identically"
+  },
+  {
+   "id": "u2804",
+   "en": "Versus Wins: 106",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2805",
+   "en": "Sivil! Where's Sivil?!",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u2806",
+   "en": "Versus Wins: 109",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2807",
+   "en": "I'll wreck you! Suppression Beauty!",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: refit: UI copy of title row 1098, changed identically"
+  },
+  {
+   "id": "u2808",
+   "en": "Versus Wins: 112",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u2592: save-data carryover unlock condition wording.",
+   "Unlock pattern '<pilot>\nUnlocked' coined for 'usable' conditions; slice 11 continues the pattern."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

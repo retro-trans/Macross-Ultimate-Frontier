@@ -1,0 +1,532 @@
+{
+ "slice": 92,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpx_gld_181",
+   "en": "Target craft's damage status confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_182",
+   "en": "The Chief needs cover, it seems.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'taishou' rendered 'Chief'; it is how Guld addresses the player/partner in these clips."
+  },
+  {
+   "id": "vpx_gld_183",
+   "en": "At this rate, the target is in danger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_184",
+   "en": "Chief, come in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_185",
+   "en": "I never thought the Chief would go down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_186",
+   "en": "Loss of target craft confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_187",
+   "en": "What is this feeling? Withdrawing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_188",
+   "en": "Time to head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_189",
+   "en": "I'm not in the mood to fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_190",
+   "en": "As expected, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_191",
+   "en": "You've got decent skills, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_192",
+   "en": "Pretty good for someone so reckless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_300",
+   "en": "Run while you still can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_301",
+   "en": "Learn how far apart our skills are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_302",
+   "en": "Stay out of my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_303",
+   "en": "Hey, how are you holding up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_304",
+   "en": "Systems are green. We're good to go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_305",
+   "en": "All right, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_307",
+   "en": "I won't lose.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_308",
+   "en": "Let's go! Are you with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_309",
+   "en": "Looking forward to drinks after this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_310",
+   "en": "We'll be fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_311",
+   "en": "Leave the support to me. Focus on the fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_320",
+   "en": "Still the same coward, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_321",
+   "en": "Oh, you're alive. Lucky bastard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_322",
+   "en": "You were the one who was supposed to turn to dust.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_323",
+   "en": "Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_324",
+   "en": "Well, time to head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_325",
+   "en": "That's it, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_326",
+   "en": "I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_327",
+   "en": "Both your machine and your skills seem decent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_328",
+   "en": "All that's left is to settle this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_329",
+   "en": "Come on, let's get back and have a drink.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_330",
+   "en": "Stay up here a bit longer?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'yamanai ka'; read as 'tobanai ka' or 'tomaranai ka'."
+  },
+  {
+   "id": "vpx_gld_331",
+   "en": "I'm glad we can fly side by side.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_340",
+   "en": "You can't do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_341",
+   "en": "Turn back. You're only holding us back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_342",
+   "en": "I hate babysitting, but...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off: 'o-mori wa gomen da ga'."
+  },
+  {
+   "id": "vpx_gld_343",
+   "en": "Watch what I can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_344",
+   "en": "Stay sharp out here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_345",
+   "en": "Don't do anything reckless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_346",
+   "en": "Now then, let's see what you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_347",
+   "en": "Leave the support to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_348",
+   "en": "I'll cover you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_349",
+   "en": "I'm going to rely on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_350",
+   "en": "I'll protect you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_351",
+   "en": "Now then, time to have some fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_360",
+   "en": "What a waste.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_361",
+   "en": "I'm impressed you were tough enough not to die.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kifuku suru'; read as 'keifuku suru' (admire)."
+  },
+  {
+   "id": "vpx_gld_362",
+   "en": "I'm surprised you made it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_363",
+   "en": "I'm heading back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_364",
+   "en": "Looks like it's over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_365",
+   "en": "Decent skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_366",
+   "en": "Not bad, keeping up with me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_367",
+   "en": "Best of all, we got back safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_368",
+   "en": "I'm counting on you from here on too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_369",
+   "en": "I exist to protect you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_370",
+   "en": "I'm leaving my lucky charm with you until we meet again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_371",
+   "en": "Let me buy you a drink tonight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_601",
+   "en": "Let's settle the Project!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'purojekuto' as transcribed; probably Project Super Nova."
+  },
+  {
+   "id": "vpx_gld_615",
+   "en": "Hey, Isamu. How's it going?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_616",
+   "en": "You win, Isamu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_617",
+   "en": "Looks like I win this time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_620",
+   "en": "So close.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_621",
+   "en": "You were the one to turn to dust.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_622",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_623",
+   "en": "You're the one who started it! Dredging up the past now?!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'saki ni ashi o tsuita'; read as 'saki ni te o dashita'; 'netsu o suru' read as 'mushikaesu'."
+  },
+  {
+   "id": "vpx_gld_624",
+   "en": "Because you walked out on your own seven years ago!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_625",
+   "en": "I got stuck with the bill 13 times!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'omorasareta'; read as 'ogorasareta'; could also be 'otosareta' (shot down)."
+  },
+  {
+   "id": "vpx_gld_626",
+   "en": "You're the one who broke my plane at the school festival, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_627",
+   "en": "Don't play dumb! What a piece of work you are!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_628",
+   "en": "You always smash everything that matters to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_629",
+   "en": "The things that matter to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_630",
+   "en": "Even back then, seven years ago, if it weren't for you... if only you...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kisuma' read as 'kisama' (you)."
+  },
+  {
+   "id": "vpx_gld_632",
+   "en": "That's right. It was me. I did it all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_633",
+   "en": "And then I locked away my memories myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_634",
+   "en": "Did I lose that person in exchange for my true memories?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'aitsu' is unspecified; kept gender-neutral."
+  },
+  {
+   "id": "vpx_gld_635",
+   "en": "I'm broken. Am I going mad?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_636",
+   "en": "So you're unharmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_637",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Sigh."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7282 (vpx_gld_182): 'taishou' rendered 'Chief'; it is how Guld addresses the player/partner in these clips.",
+   "row 7314 (vpx_gld_330): Heard 'yamanai ka'; read as 'tobanai ka' or 'tomaranai ka'.",
+   "row 7340 (vpx_gld_601): 'purojekuto' as transcribed; probably Project Super Nova.",
+   "row 7347 (vpx_gld_623): Heard 'saki ni ashi o tsuita'; read as 'saki ni te o dashita'; 'netsu o suru' read as 'mushikaesu'.",
+   "row 7349 (vpx_gld_625): Heard 'omorasareta'; read as 'ogorasareta'; could also be 'otosareta' (shot down).",
+   "row 7357 (vpx_gld_634): 'aitsu' is unspecified; kept gender-neutral."
+  ],
+  "whisper_doubt": [
+   "row 7314 (vpx_gld_330): Heard 'yamanai ka'; read as 'tobanai ka' or 'tomaranai ka'.",
+   "row 7329 (vpx_gld_361): Heard 'kifuku suru'; read as 'keifuku suru' (admire).",
+   "row 7347 (vpx_gld_623): Heard 'saki ni ashi o tsuita'; read as 'saki ni te o dashita'; 'netsu o suru' read as 'mushikaesu'.",
+   "row 7349 (vpx_gld_625): Heard 'omorasareta'; read as 'ogorasareta'; could also be 'otosareta' (shot down).",
+   "row 7354 (vpx_gld_630): 'kisuma' read as 'kisama' (you)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 7318 (vpx_gld_342): Trails off: 'o-mori wa gomen da ga'."
+  ]
+ }
+}

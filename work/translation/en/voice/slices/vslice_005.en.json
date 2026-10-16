@@ -1,0 +1,506 @@
+{
+ "slice": 5,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_074",
+   "en": "The defense target's damage is growing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_074",
+   "en": "Defense target damage rising.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_074",
+   "en": "Get serious soon, or the defense target will be destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_074",
+   "en": "Defense target damage is growing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_074",
+   "en": "Defense target damage is growing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_075",
+   "en": "The defense target is at its limit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_075",
+   "en": "The defense target is badly damaged. It can't hold much longer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_075",
+   "en": "At this rate the defense target won't last.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_075",
+   "en": "The defense target is at its limit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_075",
+   "en": "Defense target at damage limit. Any more and...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "The line trails off after \"any more\"."
+  },
+  {
+   "id": "vo0_of0_076",
+   "en": "Defense target damage rising. It can't last!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_076",
+   "en": "The defense target can't take any more.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_076",
+   "en": "At this rate the defense target won't last.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_076",
+   "en": "Defense target damage rising. It can't last.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_076",
+   "en": "Defense target is going down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_077",
+   "en": "The defense target has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_077",
+   "en": "The defense target was destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_077",
+   "en": "Can't even protect one defense target. This is why I hate hacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_077",
+   "en": "The defense target has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_077",
+   "en": "Defense target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_078",
+   "en": "The defense target has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_078",
+   "en": "Defense target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_078",
+   "en": "Aaah, the defense target got destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_078",
+   "en": "Defense target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_078",
+   "en": "We lost the defense target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_079",
+   "en": "Please protect as many defense targets as you can.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has \"fork no\" (foku); surely hitotsu demo ooku no (as many as possible), as the other four say."
+  },
+  {
+   "id": "vo0_of1_079",
+   "en": "Protect as many defense targets as you can!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_079",
+   "en": "Protect as many of those defense targets as you can!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_079",
+   "en": "Protect as many defense targets as you can!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_079",
+   "en": "Protect as many targets as you can, understood?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_083",
+   "en": "The defense target's damage is growing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_083",
+   "en": "The defense target's damage is growing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_083",
+   "en": "Hey, half the defense targets are already gone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_083",
+   "en": "Defense target damage is growing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_083",
+   "en": "Half the defense targets are damaged. Protect what's left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_084",
+   "en": "All defense targets are lost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_084",
+   "en": "All defense targets lost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_084",
+   "en": "The targets are all gone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_084",
+   "en": "All defense targets lost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_084",
+   "en": "All defense targets lost. What were you doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_085",
+   "en": "The defense target is still intact.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes kenzai (visible) with the wrong kanji; kenzai (alive and well)."
+  },
+  {
+   "id": "vo0_of1_085",
+   "en": "The defense target is still intact.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes kenzai with the wrong kanji; kenzai (intact)."
+  },
+  {
+   "id": "vo0_of2_085",
+   "en": "Defending a target is the bare minimum.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_085",
+   "en": "Defense successful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_085",
+   "en": "Thank goodness. The defense target is safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_086",
+   "en": "The friendly withdrawal is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_086",
+   "en": "Looks like the friendlies got away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_086",
+   "en": "Looks like the friendly withdrawal is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_086",
+   "en": "Friendly withdrawal complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_086",
+   "en": "Looks like the enemy has given up. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_087",
+   "en": "The defense target has begun to withdraw.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_087",
+   "en": "Buy time for the unit that's pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_087",
+   "en": "The defense target's started to withdraw.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_087",
+   "en": "The defense target has begun to withdraw.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_087",
+   "en": "Defense target is withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_088",
+   "en": "Please buy time until the defense target gets away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_088",
+   "en": "Hold the enemy back for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_088",
+   "en": "You buy time and cover the defense target's escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_088",
+   "en": "Buy time until the defense target gets away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_088",
+   "en": "Friendlies have begun to leave the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_089",
+   "en": "Hold the enemy back until the defense target is out, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_089",
+   "en": "Defense target is leaving the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_089",
+   "en": "Hold the enemy back until the defense target's out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_089",
+   "en": "Hold the enemy back until the defense target leaves the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_089",
+   "en": "Fighters near the defense target, support the friendlies' retreat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_090",
+   "en": "The defense target is almost out of the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_090",
+   "en": "Defense target is almost out of the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_090",
+   "en": "Just a little more and the defense target gets out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_090",
+   "en": "The defense target is almost out of the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_090",
+   "en": "The defense target will be out of the combat zone soon. Hold on until then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_091",
+   "en": "The defense target has left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_091",
+   "en": "Defense target's departure from the zone confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_091",
+   "en": "The defense target is out. Confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_091",
+   "en": "Defense target left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_091",
+   "en": "The defense target has left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_092",
+   "en": "The defense target's departure is confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_092",
+   "en": "Defense target escaped successfully.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_092",
+   "en": "Looks like you got the defense target out safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_092",
+   "en": "Defense target departure confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_092",
+   "en": "The defense target escaped safely.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 346: Transcript has \"fork no\" (foku); surely hitotsu demo ooku no (as many as possible), as the other four say.",
+   "row 361: Transcript writes kenzai (visible) with the wrong kanji; kenzai (alive and well).",
+   "row 362: Transcript writes kenzai with the wrong kanji; kenzai (intact)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

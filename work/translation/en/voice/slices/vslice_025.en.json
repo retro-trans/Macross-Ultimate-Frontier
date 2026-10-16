@@ -1,0 +1,572 @@
+{
+ "slice": 25,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1118",
+   "en": "Get the container to safety.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1118",
+   "en": "Carry the container to a safe place!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1118",
+   "en": "Get the container to a safe place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1118",
+   "en": "Carry the container to a safe place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1119",
+   "en": "Please protect the Destroids carrying civilians.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1119",
+   "en": "Protect the Destroids carrying civilians.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1119",
+   "en": "Protect the Destroids with civilians aboard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1119",
+   "en": "Protect the Destroids with civilians aboard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1119",
+   "en": "Protect the Destroids carrying civilians.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1120",
+   "en": "The Destroids carrying civilians are taking damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1120",
+   "en": "The Destroids carrying civilians are taking damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1120",
+   "en": "The Destroids with civilians aboard are taking hits!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1120",
+   "en": "The Destroids with civilians aboard are taking hits!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1120",
+   "en": "The civilian-carrying Destroids are taking damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1121",
+   "en": "The Destroids carrying civilians have been wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1121",
+   "en": "Civilian-carrying Destroids are wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1121",
+   "en": "The Destroids with civilians aboard got wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1121",
+   "en": "Civilian-carrying Destroids got wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1121",
+   "en": "The civilian-carrying Destroids are wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1122",
+   "en": "Please retake the fold generator at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1122",
+   "en": "Retake the fold generator, whatever it takes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1122",
+   "en": "Retake that fold generator, whatever it takes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1122",
+   "en": "Retake the fold generator at all costs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1122",
+   "en": "Retake the fold generator at all costs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1123",
+   "en": "Please defend the generator unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1123",
+   "en": "Defend the generator unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1123",
+   "en": "Defend the generator!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1123",
+   "en": "Defend the generator!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1123",
+   "en": "Defend the generator unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1124",
+   "en": "Please destroy the generator unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1124",
+   "en": "Destroy the generator unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1124",
+   "en": "Destroy the generator!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1124",
+   "en": "Destroy the generator!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1124",
+   "en": "Destroy the generator unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1125",
+   "en": "Defold reaction in nearby airspace.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); almost certainly deforudo = defold, as the other four say."
+  },
+  {
+   "id": "vo0_of1_1125",
+   "en": "Defold reaction in nearby airspace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1125",
+   "en": "Defold reaction in nearby airspace!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1125",
+   "en": "Defold reaction in the nearby area!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default) and kin'ku (zone) for kuiki/kuuiki; reads as defold reaction, nearby airspace."
+  },
+  {
+   "id": "vos_mis_1125",
+   "en": "Defold reaction in nearby airspace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1126",
+   "en": "A large ship has appeared. It looks like the enemy flagship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kikan (engine/organization); most likely kikan = flagship."
+  },
+  {
+   "id": "vo0_of1_1126",
+   "en": "A large ship has appeared. That looks like the enemy flagship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kikan (return); most likely kikan = flagship."
+  },
+  {
+   "id": "vo0_of2_1126",
+   "en": "A large ship has appeared! Looks like the enemy flagship!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kikan (return); most likely kikan = flagship."
+  },
+  {
+   "id": "vo0_om0_1126",
+   "en": "A large ship has appeared. Looks like the enemy flagship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kikan (engine); most likely kikan = flagship."
+  },
+  {
+   "id": "vos_mis_1126",
+   "en": "Large ship appeared. Looks like the enemy flagship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kikan (engine); most likely kikan = flagship."
+  },
+  {
+   "id": "vo0_of0_1127",
+   "en": "Kinryu has come to back us up.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard taii (captain); four others say taiin (team member). Kept the name only."
+  },
+  {
+   "id": "vo0_of1_1127",
+   "en": "Kinryu has come to back us up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1127",
+   "en": "Kinryu has come to back us up!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Kinryu-tai (Kinryu's squad); others say taiin."
+  },
+  {
+   "id": "vo0_om0_1127",
+   "en": "Kinryu has come to back us up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1127",
+   "en": "Kinryu has come to back us up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1128",
+   "en": "Overall length estimated at 300 meters. It's clearly different from any enemy so far.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard taichou (captain); almost certainly zenchou (overall length), since 300 m is a size."
+  },
+  {
+   "id": "vo0_of1_1128",
+   "en": "Overall length estimated at 300 m. It's clearly unlike any enemy so far.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard taichou (captain); almost certainly zenchou (overall length)."
+  },
+  {
+   "id": "vo0_of2_1128",
+   "en": "Estimated length, 300 meters! It's clearly different from any enemy so far!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard taichou (captain); almost certainly zenchou (overall length)."
+  },
+  {
+   "id": "vo0_om0_1128",
+   "en": "Estimated length, 300 m. Clearly different from any enemy so far.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard taichou (captain) and 'imamade mo' for 'imamade no'; zenchou, enemy."
+  },
+  {
+   "id": "vos_mis_1128",
+   "en": "Overall length estimated at 300 meters. It's clearly unlike any enemy so far.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard taichou (captain); almost certainly zenchou (overall length)."
+  },
+  {
+   "id": "vo0_of0_1129",
+   "en": "Docker has come to back us up.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Docker-tai (Docker's squad); others say taiin."
+  },
+  {
+   "id": "vo0_of1_1129",
+   "en": "Docker has come to back us up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1129",
+   "en": "Docker has come to back us up!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Docker-tai (squad); others say taiin."
+  },
+  {
+   "id": "vo0_om0_1129",
+   "en": "Docker has come to back us up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1129",
+   "en": "Docker has come to back us up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1130",
+   "en": "A training unit has appeared.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard henshuuki (editing machine); surely enshuuki (exercise/training unit)."
+  },
+  {
+   "id": "vo0_of1_1130",
+   "en": "A training unit has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1130",
+   "en": "A training unit has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1130",
+   "en": "A training unit has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1130",
+   "en": "A training unit has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1131",
+   "en": "Aircraft sighted. It's a training unit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard henshuuki (editing machine); surely enshuuki (training unit)."
+  },
+  {
+   "id": "vo0_of1_1131",
+   "en": "Aircraft sighted. It's a training unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1131",
+   "en": "Contact confirmed. It's a training unit!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard teki e kakunin (nonsense); surely kiei kakunin (aircraft sighted)."
+  },
+  {
+   "id": "vo0_om0_1131",
+   "en": "Aircraft sighted. It's a training unit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1131",
+   "en": "Aircraft sighted. It's a training unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1132",
+   "en": "The next training unit is coming.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard enshuuki written with 'ki' (period); surely enshuuki (training unit)."
+  },
+  {
+   "id": "vo0_of1_1132",
+   "en": "Next training unit incoming.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard enshuuki with 'ki' (period); surely training unit."
+  },
+  {
+   "id": "vo0_of2_1132",
+   "en": "Next training unit incoming!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard enshuuki with 'ki' (period); surely training unit."
+  },
+  {
+   "id": "vo0_om0_1132",
+   "en": "Next training unit incoming!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard enshuuki with 'ki' (period); surely training unit."
+  },
+  {
+   "id": "vos_mis_1132",
+   "en": "Next training unit incoming.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard enshuuki with 'ki' (period); surely training unit."
+  },
+  {
+   "id": "vo0_of0_1133",
+   "en": "Please work with Sound Force and shoot down Gepelnitchi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1133",
+   "en": "Work with Sound Force and take down Gepelnitchi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1133",
+   "en": "Work with Sound Force and take down Gepelnitchi!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1133",
+   "en": "Work with Sound Force and take down Gepelnitchi!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1133",
+   "en": "Work with Sound Force and take down Gepelnitchi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1135",
+   "en": "Please wipe out the enemies interfering with the Spiritia collection.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1960-1964 (clip 1126): 'kikan' read as flagship (all five heard engine/organization/return); rows 1970-1974 (1128): 'taichou' read as zenchou, overall length, since 300 m is a size",
+   "rows 1965-1969, 1975-1979: 'taiin' (squad member) rendered as the bare name"
+  ],
+  "whisper_doubt": [
+   "row 1955: Heard deforuto (default); almost certainly deforudo = defold, as the other four say.",
+   "row 1958: Heard deforuto (default) and kin'ku (zone) for kuiki/kuuiki; reads as defold reaction, nearby airspace.",
+   "row 1960: Heard kikan (engine/organization); most likely kikan = flagship.",
+   "row 1961: Heard kikan (return); most likely kikan = flagship.",
+   "row 1962: Heard kikan (return); most likely kikan = flagship.",
+   "row 1963: Heard kikan (engine); most likely kikan = flagship.",
+   "row 1964: Heard kikan (engine); most likely kikan = flagship.",
+   "row 1965: Heard taii (captain); four others say taiin (team member). Kept the name only.",
+   "row 1967: Heard Kinryu-tai (Kinryu's squad); others say taiin.",
+   "row 1970: Heard taichou (captain); almost certainly zenchou (overall length), since 300 m is a size.",
+   "row 1971: Heard taichou (captain); almost certainly zenchou (overall length).",
+   "row 1972: Heard taichou (captain); almost certainly zenchou (overall length).",
+   "row 1973: Heard taichou (captain) and 'imamade mo' for 'imamade no'; zenchou, enemy.",
+   "row 1974: Heard taichou (captain); almost certainly zenchou (overall length).",
+   "row 1975: Heard Docker-tai (Docker's squad); others say taiin.",
+   "row 1977: Heard Docker-tai (squad); others say taiin.",
+   "row 1980: Heard henshuuki (editing machine); surely enshuuki (exercise/training unit).",
+   "row 1985: Heard henshuuki (editing machine); surely enshuuki (training unit).",
+   "row 1987: Heard teki e kakunin (nonsense); surely kiei kakunin (aircraft sighted).",
+   "row 1990: Heard enshuuki written with 'ki' (period); surely enshuuki (training unit).",
+   "row 1991: Heard enshuuki with 'ki' (period); surely training unit.",
+   "row 1992: Heard enshuuki with 'ki' (period); surely training unit.",
+   "row 1993: Heard enshuuki with 'ki' (period); surely training unit.",
+   "row 1994: Heard enshuuki with 'ki' (period); surely training unit."
+  ],
+  "kept_omission": [
+   "Operator lines: subjects restored where the scene settles them; the one-word and noun-phrase stock lines (e.g. 'Many samples approaching.') stay subjectless as the Japanese is."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

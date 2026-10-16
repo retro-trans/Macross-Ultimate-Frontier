@@ -1,0 +1,335 @@
+{
+ "fixes": [
+  {
+   "row": 225,
+   "en": "Commencing the operation to wipe out the U.N.'s foe: the \"Anti-U.N. Forces.\"\\nAnnihilate the Anti-U.N. TYPE-29 fighter formation.",
+   "why": "refit: \"U.N. Forces\" to \"U.N.'s\", \"enemy\" to \"foe\"; L2 drops repeated \"Forces'\""
+  },
+  {
+   "row": 227,
+   "en": "Commencing the operation to wipe out the U.N.'s foe: the \"Anti-U.N. Forces.\"\\nAnnihilate the Anti-U.N. TYPE-29 fighter formation.",
+   "why": "refit: \"U.N. Forces\" to \"U.N.'s\", \"enemy\" to \"foe\"; L2 drops repeated \"Forces'\""
+  },
+  {
+   "row": 229,
+   "en": "The \"VF-0\": a variable fighter developed with the ASS-1's OverTechnology.\\nTo survive the battles ahead, you'll now undergo VF-0 conversion training.",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 231,
+   "en": "The Anti-U.N. Forces made a surprise attack with VFs built using our tech.\\nSortie at once and annihilate the Anti-U.N. variable fighters.",
+   "why": "refit: \"variable fighters\" abbreviated to \"VFs\" in L1, \"technology\" to \"tech\"; second Anti-U.N. mention shortened"
+  },
+  {
+   "row": 233,
+   "en": "To prepare for the escalating Anti-U.N. war, we'll hold a mock battle drill.\\nWin the mock battle against U.N. Forces ace Major Roy Focker.",
+   "why": "refit: \"mock battle as training\" to \"mock battle drill\"; L2 aligned with row 265 (same source line)"
+  },
+  {
+   "row": 235,
+   "en": "The Anti-U.N. Forces are trying to seize the AFOS fragment on Mayan Island.\\nExpect unfamiliar underwater combat, but wipe out the Anti-U.N. at all costs.",
+   "why": "refit: tighter wording, second mention \"Anti-U.N.\""
+  },
+  {
+   "row": 237,
+   "en": "The Anti-U.N. Forces attack the Asuka to seize the AFOS fragment under study.\\nDefend the carrier Asuka and annihilate the Anti-U.N. at all costs.",
+   "why": "refit: restructured so the Asuka is named as the target in L1; second mention \"Anti-U.N.\""
+  },
+  {
+   "row": 239,
+   "en": "The Anti-U.N. Forces attack the Asuka to seize the AFOS fragment under study.\\nDefend the carrier Asuka and annihilate the Anti-U.N. at all costs.",
+   "why": "refit: restructured so the Asuka is named as the target in L1; second mention \"Anti-U.N.\""
+  },
+  {
+   "row": 241,
+   "en": "The Bird Human's head: another AFOS fragment, newly found on Mayan Island.\\nFind it before the Anti-U.N. Forces do and bring it to the target area.",
+   "why": "refit: L2 refers to the head as \"it\" (named in L1)"
+  },
+  {
+   "row": 243,
+   "en": "We lost the Bird Human's head in a fierce battle with the Anti-U.N. Forces.\\nWe can't let them recover it. Wipe out the Anti-U.N. Forces searching for it.",
+   "why": "refit: \"lost track of ... after\" to \"lost ... in\""
+  },
+  {
+   "row": 245,
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "why": "refit: second mention \"Anti-U.N.\""
+  },
+  {
+   "row": 247,
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "why": "refit: second mention \"Anti-U.N.\""
+  },
+  {
+   "row": 249,
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "why": "refit: second mention \"Anti-U.N.\""
+  },
+  {
+   "row": 251,
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "why": "refit: second mention \"Anti-U.N.\""
+  },
+  {
+   "row": 253,
+   "en": "To seize the AFOS fragment being studied by the U.N. Forces, we will now\\nraid the carrier Asuka. Wipe out the U.N. escorts and seize the AFOS fragment.",
+   "why": "refit: \"escorting U.N. units\" to \"U.N. escorts\""
+  },
+  {
+   "row": 255,
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the U.N. to claim the AFOS fragments for our Anti-U.N. Forces.",
+   "why": "refit: second mention \"U.N.\""
+  },
+  {
+   "row": 257,
+   "en": "During its launch ceremony, the Macross fired its main gun at an unknown fleet.\\nBattle with the aliens looks unavoidable. Get into intercept position at once.",
+   "why": "refit: \"unidentified space fleet\" to \"unknown fleet\""
+  },
+  {
+   "row": 259,
+   "en": "During its launch ceremony, the Macross fired its main gun at an unknown fleet.\\nBattle with the aliens looks unavoidable. Get into intercept position at once.",
+   "why": "refit: \"unidentified space fleet\" to \"unknown fleet\""
+  },
+  {
+   "row": 261,
+   "en": "To escape the giant aliens' attack, the Macross now attempts a space launch.\\nEscort the blundering VF-1D while wiping out the giant alien ground forces.",
+   "why": "refit: \"blundering around the battlefield\" to \"blundering\""
+  },
+  {
+   "row": 263,
+   "en": "Beginning the Transformation to fire the main gun at the giant alien fleet.\\nDefend the Macross at all costs while the Transformation is under way.",
+   "why": "refit: L1 restructured; L2 unchanged"
+  },
+  {
+   "row": 265,
+   "en": "Our rookies lack experience, so we'll now hold a mock battle as training.\\nWin the mock battle against U.N. Forces ace Major Roy Focker.",
+   "why": "refit: L1 restructured; L2 aligned with row 233 (same source line)"
+  },
+  {
+   "row": 267,
+   "en": "To break out of this defensive fight, we'll surprise-attack the giant aliens.\\nDefend the Macross until its main gun fires.",
+   "why": "refit: \"purely defensive\" to \"defensive\", \"launch a surprise attack on\" to \"surprise-attack\""
+  },
+  {
+   "row": 269,
+   "en": "To break out of this defensive fight, we'll surprise-attack the giant aliens.\\nDefend the Macross until its main gun fires.",
+   "why": "refit: \"purely defensive\" to \"defensive\", \"launch a surprise attack on\" to \"surprise-attack\""
+  },
+  {
+   "row": 271,
+   "en": "With supplies drained by repeated battles, we'll restock at Sara Base on Mars.\\nRecover the supply containers. If enemies appear, switch to wiping them out.",
+   "why": "refit: restructured both lines"
+  },
+  {
+   "row": 273,
+   "en": "Enemy units spotted approaching the Macross. A scramble has been ordered.\\nMiss Macross may be on your mind, but go at once and wipe out the enemy.",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 275,
+   "en": "Just short of Earth, the giant aliens have demanded the Macross surrender.\\nWe'll recon to learn their aims. Escort the Cat's Eye and wipe out the enemy.",
+   "why": "refit: \"the enemy's true intent\" to \"their aims\""
+  },
+  {
+   "row": 277,
+   "en": "Just short of Earth, the giant aliens have demanded the Macross surrender.\\nWe'll recon to learn their aims. Escort the Cat's Eye and wipe out the enemy.",
+   "why": "refit: \"the enemy's true intent\" to \"their aims\""
+  },
+  {
+   "row": 279,
+   "en": "We've rescued Lt. Hayase and the others held captive on a Zentradi battleship,\\nbut we haven't escaped the enemy ship yet. Get out of it at all costs.",
+   "why": "refit: \"Lieutenant\" to \"Lt.\", second \"enemy ship\" to \"it\""
+  },
+  {
+   "row": 281,
+   "en": "The Zentradi have surrounded the Macross to stop it from returning to Earth.\\nIt's a hard-line move, but destroy the Zentradi to break their encirclement.",
+   "why": "refit: \"Zentradi forces\" to \"Zentradi\", tighter wording"
+  },
+  {
+   "row": 283,
+   "en": "The Zentradi have attacked the Macross, back on Earth after a year away.\\nWipe out the Zentradi forces trying to smoke the Macross out into space.",
+   "why": "refit: \"for the first time in a year\" to \"after a year away\"; L2 unchanged"
+  },
+  {
+   "row": 285,
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "why": "refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+  },
+  {
+   "row": 287,
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "why": "refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+  },
+  {
+   "row": 289,
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "why": "refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+  },
+  {
+   "row": 291,
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "why": "refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+  },
+  {
+   "row": 293,
+   "en": "The Ontario Autonomous Zone has agreed to take in the Macross's civilians, but\\nthe Zentradi have appeared. Wipe them out so the civilians can be taken in.",
+   "why": "refit: restructured (Zone as subject), second Zentradi mention as \"them\""
+  },
+  {
+   "row": 295,
+   "en": "You'll now escort the liaison shuttle taking Capt. Hayase to U.N. HQ on Earth.\\nEscort it until it reaches a safe zone, then switch to wiping out the enemy.",
+   "why": "refit: \"Captain\" to \"Capt.\", \"U.N. Forces HQ\" to \"U.N. HQ\", second \"shuttle\" to \"it\""
+  },
+  {
+   "row": 299,
+   "en": "At humanity's first interstellar wedding, the Zentradi hit the Macross all-out.\\nWe've taken our first step to peace and can't stop here. Wipe out the enemy.",
+   "why": "refit: \"launched an all-out attack on\" to \"hit ... all-out\""
+  },
+  {
+   "row": 301,
+   "en": "Fearing the power of Earth's culture, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
+   "why": "refit: \"Golg Boddole Zer\" to \"Boddole Zer\", \"hopeless gap in strength\" to \"hopeless odds\""
+  },
+  {
+   "row": 303,
+   "en": "Fearing the power of Earth's culture, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
+   "why": "refit: \"Golg Boddole Zer\" to \"Boddole Zer\", \"hopeless gap in strength\" to \"hopeless odds\""
+  },
+  {
+   "row": 305,
+   "en": "Zentradi who can't fit in on Earth stole arms and are attacking civilian areas.\\nWe cannot let civilians come to harm. Put down the rampaging Zentradi.",
+   "why": "refit: \"civilian residential areas\" to \"civilian areas\", \"weapons\" to \"arms\"; L2 unchanged"
+  },
+  {
+   "row": 307,
+   "en": "To build up our forces, we'll capture the Zentradi automated spaceship factory.\\nWipe out the Zentradi forces defending the factory and take the factory.",
+   "why": "refit: \"carry out an operation to capture\" to \"capture\"; L2 unchanged"
+  },
+  {
+   "row": 309,
+   "en": "To build up our forces, we'll capture the Zentradi automated spaceship factory.\\nWipe out the Zentradi forces defending the factory and take the factory.",
+   "why": "refit: \"carry out an operation to capture\" to \"capture\"; L2 unchanged"
+  },
+  {
+   "row": 311,
+   "en": "Quamzin, who won't coexist with Earthlings, is raiding the factory to steal\\nthe micronization device. We can't allow that. Wipe out Quamzin's faction.",
+   "why": "refit: line break moved inside sentence 1; \"cannot let them take the device\" to \"can't allow that\""
+  },
+  {
+   "row": 313,
+   "en": "Quamzin has taken civilians hostage and is demanding a battleship as ransom.\\nRescuing the hostages safely comes first. Wipe out Quamzin's faction.",
+   "why": "refit: L2 restructured; L1 unchanged"
+  },
+  {
+   "row": 315,
+   "en": "Quamzin's faction is raiding the industrial zone to steal the reaction engine.\\nWipe them out to protect the reaction engine in the industrial complex block.",
+   "why": "refit: \"district\" to \"zone\", second faction mention as \"them\""
+  },
+  {
+   "row": 317,
+   "en": "Out to destroy the Macross, Quamzin's faction has suddenly hit Macross City.\\nWipe them out at once to protect the Macross and the people of Macross City.",
+   "why": "refit: \"appeared in\" to \"hit\", second faction mention as \"them\""
+  },
+  {
+   "row": 319,
+   "en": "Out to destroy the Macross, Quamzin's faction has suddenly hit Macross City.\\nWipe them out at once to protect the Macross and the people of Macross City.",
+   "why": "refit: \"appeared in\" to \"hit\", second faction mention as \"them\""
+  },
+  {
+   "row": 321,
+   "en": "As special training, we will now hold a mock battle using melee attacks only.\\nFleet Commander Vrlitwhai himself joins this mock battle. Defeat Vrlitwhai.",
+   "why": "refit: L2 tighter; L1 unchanged"
+  },
+  {
+   "row": 323,
+   "en": "We captured Micronians, but enemy mobile weapons have broken into the ship.\\nTo stop them retaking the captives, annihilate the Micronian intruders.",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 325,
+   "en": "Ignoring the order to halt attacks on Micronians, Quamzin attacked their ship.\\nWe can't let Quamzin get ahead of us. We're launching our own attack too.",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 327,
+   "en": "Fleet Cmdr. Vrlitwhai, contaminated by Culture, made his own Micronian truce.\\nWe cannot allow Culture to contaminate anyone else. Erase the Micronians.",
+   "why": "refit: \"Commander\" to \"Cmdr.\", \"agreed to a ceasefire ... on his own authority\" to \"made his own ... truce\"; L2 unchanged"
+  },
+  {
+   "row": 329,
+   "en": "As the Macross heads home from beyond the solar system, the Zentradi appear.\\nFirst break their formation with reaction weapons, then annihilate them.",
+   "why": "refit: restructured; \"home to Earth\" to \"home\", \"preemptive strike\" to \"First ...\""
+  },
+  {
+   "row": 331,
+   "en": "As the Macross heads home from beyond the solar system, the Zentradi appear.\\nFirst break their formation with reaction weapons, then annihilate them.",
+   "why": "refit: restructured; \"home to Earth\" to \"home\", \"preemptive strike\" to \"First ...\""
+  },
+  {
+   "row": 333,
+   "en": "As the Macross heads home from beyond the solar system, the Zentradi appear.\\nFirst break their formation with reaction weapons, then annihilate them.",
+   "why": "refit: restructured; \"home to Earth\" to \"home\", \"preemptive strike\" to \"First ...\""
+  },
+  {
+   "row": 335,
+   "en": "As the Macross heads home from beyond the solar system, the Zentradi appear.\\nFirst break their formation with reaction weapons, then annihilate them.",
+   "why": "refit: restructured; \"home to Earth\" to \"home\", \"preemptive strike\" to \"First ...\""
+  },
+  {
+   "row": 337,
+   "en": "We've spotted a pilot flying a Valkyrie around Saturn without permission.\\nUnauthorized use of a Valkyrie won't be tolerated. Capture the pilot at once.",
+   "why": "refit: \"took a Valkyrie out without permission and is flying it\" merged"
+  },
+  {
+   "row": 339,
+   "en": "The Zentradi have taken Macross crew members captive. To rescue the hostages,\\ninfiltrate the enemy ship and go at once to where they're thought to be held.",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 341,
+   "en": "To prepare for relentless Zentradi raids, we'll now conduct special training.\\nWin a mock battle against the rumored genius pilot, Maximilian Jenius.",
+   "why": "refit: \"the genius pilot everyone is talking about\" to \"the rumored genius pilot\""
+  },
+  {
+   "row": 343,
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "why": "refit: tighter wording, second Macross mention dropped"
+  },
+  {
+   "row": 345,
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "why": "refit: tighter wording, second Macross mention dropped"
+  },
+  {
+   "row": 347,
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "why": "refit: tighter wording, second Macross mention dropped"
+  },
+  {
+   "row": 349,
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "why": "refit: tighter wording, second Macross mention dropped"
+  },
+  {
+   "row": 351,
+   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "why": "refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+  },
+  {
+   "row": 353,
+   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "why": "refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+  },
+  {
+   "row": 355,
+   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "why": "refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+  },
+  {
+   "row": 357,
+   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "why": "refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+  }
+ ],
+ "unfit": []
+}

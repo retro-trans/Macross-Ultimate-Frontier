@@ -1,0 +1,510 @@
+{
+ "slice": 129,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_kln_154",
+   "en": "Mission over. Heading home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_155",
+   "en": "Looks like this mission was a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_156",
+   "en": "Now, shall I make that idiot buy me tea?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_157",
+   "en": "Out of time? Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_158",
+   "en": "To think it would end like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_159",
+   "en": "Time's up. This is the end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_160",
+   "en": "Mission failed. Retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_161",
+   "en": "Damn it! Retreat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_162",
+   "en": "I can still fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_163",
+   "en": "Keep firing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_164",
+   "en": "I'm counting on your cover.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_165",
+   "en": "I'm trusting you with my back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_166",
+   "en": "Charge in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_167",
+   "en": "I'll cover you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_168",
+   "en": "Melee is yours!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_170",
+   "en": "Get behind me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_171",
+   "en": "You're too reckless! Stay back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_173",
+   "en": "Show me your trump card!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_174",
+   "en": "Now's the time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_175",
+   "en": "Can you love if you're afraid to die?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_176",
+   "en": "I'll punish you with this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_178",
+   "en": "Right!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript is just a; read as an acknowledgement (slot 178-180)"
+  },
+  {
+   "id": "vpf_kln_179",
+   "en": "I know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_181",
+   "en": "The captain seems to be in danger. Covering.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_182",
+   "en": "What are you doing, Captain?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_183",
+   "en": "Captain, fall back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_184",
+   "en": "The captain's down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_185",
+   "en": "Answer me! Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_186",
+   "en": "Damn it! To think it'd come to this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_187",
+   "en": "Time to go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_188",
+   "en": "This feeling... I'm pulling out.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Phrase kono kimochi looks odd; probably a song-related line (kono uta ii...)"
+  },
+  {
+   "id": "vpf_kln_189",
+   "en": "No good. We're going home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_191",
+   "en": "That's only natural for a captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_192",
+   "en": "Well done, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_193",
+   "en": "Not bad, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_300",
+   "en": "A man who's just a reckless fool is a nuisance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_301",
+   "en": "I've no use for cowards.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_302",
+   "en": "You don't have to follow me, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_303",
+   "en": "Let's go! On my Zentradi pride!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_304",
+   "en": "Don't lose sight of me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_305",
+   "en": "Don't fall behind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_306",
+   "en": "Still a pretty relaxed fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_307",
+   "en": "A man should do things with sincerity.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_308",
+   "en": "Don't die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_309",
+   "en": "I'm entrusting this battle to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_310",
+   "en": "Can you love if you're afraid to die?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard koe (voice); read as koi (love), as in the sibling lines"
+  },
+  {
+   "id": "vpf_kln_311",
+   "en": "You're welcome to rely on me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_320",
+   "en": "Cowards should stay home in bed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_321",
+   "en": "I'd rather you didn't rely on me next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_322",
+   "en": "You've got no promise at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_323",
+   "en": "You've got decent sense. It depends on your training from here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_324",
+   "en": "Keep up the hard work from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_325",
+   "en": "Come on, we're going home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_326",
+   "en": "You show promise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_327",
+   "en": "Keeping up with me. Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_328",
+   "en": "We're going home together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_329",
+   "en": "I'm glad you made it back safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_330",
+   "en": "You're a full-fledged warrior now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_331",
+   "en": "Deculture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_340",
+   "en": "Just don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_341",
+   "en": "Just don't become a pariah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_342",
+   "en": "I won't forgive you if you fall behind the men.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_343",
+   "en": "Right, let's stay calm.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_344",
+   "en": "I'll show you Zentradi spirit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_345",
+   "en": "Don't let your guard down in battle. Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_346",
+   "en": "Don't push too hard. I mean it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_347",
+   "en": "Watch my back. I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_348",
+   "en": "Fighting side by side isn't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_349",
+   "en": "I can't just back down in silence anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_350",
+   "en": "We get to fly together again. That's reassuring.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_351",
+   "en": "You and I can do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_360",
+   "en": "Wouldn't you be better off staying home quietly?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_361",
+   "en": "A Zentradi woman has more than this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_362",
+   "en": "That took a lot more trouble than it should have.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_363",
+   "en": "Glad you made it back alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_364",
+   "en": "Not a bad result.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_365",
+   "en": "Let's go back. To everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_366",
+   "en": "Pretty good for a Micronian woman.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Line names the partner as a woman; kept literal (partner gender varies in game)"
+  },
+  {
+   "id": "vpf_kln_367",
+   "en": "Looks like you're good enough to partner with me now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_368",
+   "en": "You're a bit reliable. I stand corrected.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 10271: Phrase kono kimochi looks odd; probably a song-related line (kono uta ii...)",
+   "row 10318: Line names the partner as a woman; kept literal (partner gender varies in game)"
+  ],
+  "whisper_doubt": [
+   "row 10262: Transcript is just a; read as an acknowledgement (slot 178-180)",
+   "row 10271: Phrase kono kimochi looks odd; probably a song-related line (kono uta ii...)",
+   "row 10286: Heard koe (voice); read as koi (love), as in the sibling lines"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

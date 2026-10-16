@@ -1,0 +1,523 @@
+{
+ "slice": 76,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_lyn_362",
+   "en": "I've never had a job this tiring.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_363",
+   "en": "I have a singing lesson now. I have to get back soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_364",
+   "en": "It's over. That was scary.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_365",
+   "en": "That was rough. I'm glad it's over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_366",
+   "en": "Please keep working with me from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_367",
+   "en": "Good work. When we're back, let's celebrate at Nyan-Nyan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_368",
+   "en": "You're an amazing person! I'm so surprised.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_369",
+   "en": "I wonder if my song really reached them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_370",
+   "en": "I'll keep trying my hardest to help you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_371",
+   "en": "I feel bad, you always rescue me. I know, want to be in my concert next time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_600",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream, no words."
+  },
+  {
+   "id": "vps_lyn_601",
+   "en": "You're the one from before.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_602",
+   "en": "Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_603",
+   "en": "Oh? Oh no, my hair's a total mess!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_604",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Giggle, no words."
+  },
+  {
+   "id": "vps_lyn_605",
+   "en": "The neighborhood chief entered me without asking!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_606",
+   "en": "No, nobody I'd call a boyfriend yet. I do have lots of friends, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_607",
+   "en": "Oh, no, my cousin's like a big brother to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_608",
+   "en": "Ow, that hurts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_609",
+   "en": "Ahh, ow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_610",
+   "en": "Ugh. What bad luck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_611",
+   "en": "I thought it was all over. It feels just like a dream.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_612",
+   "en": "Just for today, it's for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_613",
+   "en": "I wonder if Hikaru will come to save me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_614",
+   "en": "If you'd quit the military, I'd quit being a singer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_615",
+   "en": "Why? Why do you go off to fight, even going that far?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_616",
+   "en": "I'm going to some town I don't know. I'll try singing again there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_617",
+   "en": "I won't say I'll quit singing anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_619",
+   "en": "You saved me, didn't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_620",
+   "en": "Wow, it's wonderful! Ahh, it's the best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_621",
+   "en": "It isn't Hikaru's fault. I forced him to do it.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'hikaru' as the word for light; read as the name Hikaru."
+  },
+  {
+   "id": "vps_lyn_623",
+   "en": "Hikaru.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_624",
+   "en": "Hikaru!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_625",
+   "en": "Hikaru, Hikaru!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_626",
+   "en": "If I don't sing here, my dead mom and dad won't rest in peace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_627",
+   "en": "I'll sing! With all my heart!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_628",
+   "en": "One, two, three, four, one, two, three, four!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_700",
+   "en": "What? Well, that's...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_701",
+   "en": "A plane into a robot? What do you mean?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_702",
+   "en": "No way, you're the pilot, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_703",
+   "en": "Really? Then why?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_704",
+   "en": "Yocchan.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Nickname 'Yocchan'; not in the glossary."
+  },
+  {
+   "id": "vps_lyn_705",
+   "en": "This must be expensive, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_706",
+   "en": "Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_708",
+   "en": "Are you okay, Yocchan?",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Nickname 'Yocchan'; not in the glossary."
+  },
+  {
+   "id": "vps_lyn_709",
+   "en": "Yeah, somehow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_710",
+   "en": "Really?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_711",
+   "en": "Are you better now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_712",
+   "en": "Well, then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_713",
+   "en": "Yes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_715",
+   "en": "That's so sudden.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_717",
+   "en": "Please, let me go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_719",
+   "en": "I only thought of you as a friend, just a friend, so I only...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_720",
+   "en": "I'm sorry, Hikaru. But I'm still thinking of Kaifun...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sentence is cut off; the feeling toward Kaifun is not stated."
+  },
+  {
+   "id": "vps_lyn_721",
+   "en": "But...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_723",
+   "en": "What is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_726",
+   "en": "Dad... Mom...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_727",
+   "en": "It's all over. After Earth, it's us next.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_728",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_729",
+   "en": "Sing?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "One word; could be a question or 'I'll sing'."
+  },
+  {
+   "id": "vps_lyn_730",
+   "en": "Goodbye, Hikaru.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_731",
+   "en": "Yes. Just for today, it's for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_733",
+   "en": "Don't go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_734",
+   "en": "Please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_735",
+   "en": "Hikaru!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'shikaruu'; read as 'Hikaru'."
+  },
+  {
+   "id": "vps_lyn_736",
+   "en": "Why? Why do you go off to fight, even going that far?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_737",
+   "en": "Huh?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_738",
+   "en": "N-no way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_739",
+   "en": "No, if we're evacuating, you come too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_740",
+   "en": "No, no! Then take me with you. Don't leave me all alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_741",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_742",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "7 s clip transcribed as one word (heard 'hikaru'); likely singing or humming."
+  },
+  {
+   "id": "vps_lyn_743",
+   "en": "And good work to you, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_744",
+   "en": "Yes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_745",
+   "en": "Ms. Hayase, I don't know when it will be, but when I can sing my own true songs, then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_746",
+   "en": "Would you let me aboard your ship, too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_748",
+   "en": "Stay well until then, Hikaru.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_749",
+   "en": "Well, I'm off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_750",
+   "en": "See you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_751",
+   "en": "Good evening, everyone. I'm Lynn Minmay.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6054: Sentence is cut off; the feeling toward Kaifun is not stated.",
+   "row 6060: One word; could be a question or 'I'll sing'."
+  ],
+  "whisper_doubt": [
+   "row 6031: Transcript has 'hikaru' as the word for light; read as the name Hikaru.",
+   "row 6065: Heard 'shikaruu'; read as 'Hikaru'.",
+   "row 6072: 7 s clip transcribed as one word (heard 'hikaru'); likely singing or humming."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 6042: Nickname 'Yocchan'; not in the glossary.",
+   "row 6045: Nickname 'Yocchan'; not in the glossary."
+  ],
+  "unfinished": []
+ }
+}

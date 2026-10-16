@@ -1,0 +1,514 @@
+{
+ "slice": 98,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_nkb_186",
+   "en": "Damn it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_187",
+   "en": "Huh, not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_188",
+   "en": "This sound... it's got me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_189",
+   "en": "Feels so good, I'll sing too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_300",
+   "en": "Hold on a sec.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_301",
+   "en": "You've gotta be kidding me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_302",
+   "en": "I can't put up with this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_304",
+   "en": "OK! Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_305",
+   "en": "I'm going!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_306",
+   "en": "Let's go. Can't let a kid wander off alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_307",
+   "en": "Heh, here we go. Even more blazing this time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_308",
+   "en": "Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_309",
+   "en": "Let's go big!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_311",
+   "en": "Let your heart burn to the hot beat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_320",
+   "en": "I don't like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_321",
+   "en": "Fighting is stupid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_322",
+   "en": "You don't win by forcing things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_323",
+   "en": "Not bad at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_324",
+   "en": "Phew. Is it over?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_325",
+   "en": "Still not there yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_326",
+   "en": "Heh, not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_327",
+   "en": "You've got me beat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_328",
+   "en": "Heh heh heh, that's what I'm talking about!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_329",
+   "en": "Got carried away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_330",
+   "en": "The real thrill is yet to come!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_331",
+   "en": "That felt great today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_340",
+   "en": "Everybody's such a pain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_341",
+   "en": "Do you even get it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_342",
+   "en": "Don't panic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_343",
+   "en": "I'm good over here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_344",
+   "en": "So, where are you taking me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_345",
+   "en": "Fine, let's do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_346",
+   "en": "Wooo! I'll burn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_347",
+   "en": "I'll ride in style!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_348",
+   "en": "Bomber!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_349",
+   "en": "Let's get pumped, everybody!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_350",
+   "en": "What a hot-blooded woman!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_351",
+   "en": "I wanted to see you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_360",
+   "en": "This sucks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_361",
+   "en": "Worst stage ever.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_362",
+   "en": "I'll never understand a woman's heart.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_363",
+   "en": "Okay for now, somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_364",
+   "en": "It's over already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_365",
+   "en": "Let's do it again next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_366",
+   "en": "Starting to get a feel for the groove?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_367",
+   "en": "Not bad at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_368",
+   "en": "Nice machine. It'll get even better depending on who rides it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_369",
+   "en": "My song got through.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_370",
+   "en": "Everybody, Bomber!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_371",
+   "en": "I'll make it echo to the ends of the galaxy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_000",
+   "en": "Sortieing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_001",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_002",
+   "en": "I'll fulfill my duty as Diamond Force!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_003",
+   "en": "Just as I thought!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_004",
+   "en": "This is nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_005",
+   "en": "Is that all?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A grunt."
+  },
+  {
+   "id": "vp7_gam_007",
+   "en": "Damn you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_008",
+   "en": "Dammit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_009",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_010",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_011",
+   "en": "Fire!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'fo' (four); probably 'faiya' (Fire) or similar."
+  },
+  {
+   "id": "vp7_gam_012",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A scream."
+  },
+  {
+   "id": "vp7_gam_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A grunt."
+  },
+  {
+   "id": "vp7_gam_017",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_020",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A brief breath or chuckle."
+  },
+  {
+   "id": "vp7_gam_100",
+   "en": "Beginning the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_101",
+   "en": "Commencing operation now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_102",
+   "en": "Arrived at the operation area. Carrying out the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_103",
+   "en": "You won't escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_104",
+   "en": "I'll shoot you down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_105",
+   "en": "Target locked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_107",
+   "en": "Take this!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'zeroo' with low confidence; maybe 'zero kyori' (point blank) or an attack shout. Guessed."
+  },
+  {
+   "id": "vp7_gam_108",
+   "en": "On the honor of Diamond Force!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_109",
+   "en": "This time I'll take you down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_110",
+   "en": "Got you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_111",
+   "en": "Shatter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_112",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_113",
+   "en": "Enemy destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_114",
+   "en": "Target down!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7822: Transcript 'fo' (four); probably 'faiya' (Fire) or similar.",
+   "row 7833: Transcript 'zeroo' with low confidence; maybe 'zero kyori' (point blank) or an attack shout. Guessed."
+  ],
+  "whisper_doubt": [
+   "row 7822: Transcript 'fo' (four); probably 'faiya' (Fire) or similar.",
+   "row 7833: Transcript 'zeroo' with low confidence; maybe 'zero kyori' (point blank) or an attack shout. Guessed."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

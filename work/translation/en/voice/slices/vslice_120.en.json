@@ -1,0 +1,549 @@
+{
+ "slice": 120,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_alt_663",
+   "en": "Luca, Gran Squadron.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "'Gran-tai' not in glossary; probably a unit call sign in a radio hail. Kept as heard."
+  },
+  {
+   "id": "vpf_alt_664",
+   "en": "Skull 4 to Battle Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_665",
+   "en": "Listen, Sheryl. This time I'll rescue Ranka for sure. So lend me your strength. Wake her up with your song!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Shiriru' read as Sheryl."
+  },
+  {
+   "id": "vpf_alt_666",
+   "en": "Yeah, with your song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_667",
+   "en": "I heard your voice back then. The cry of your heart.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_668",
+   "en": "No thought, and it blooms. Thought, and it never does. I'll just fly as I feel.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Zeami-style flower aphorism; rendered loosely."
+  },
+  {
+   "id": "vpf_alt_669",
+   "en": "Ranka, can you hear me? My voice, Sheryl's song?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Rankan'."
+  },
+  {
+   "id": "vpf_alt_670",
+   "en": "Wake up, Ranka! Take back your song, your true song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_673",
+   "en": "Here I come!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_674",
+   "en": "Some evolution! You're sacrificing the Vajra for it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_675",
+   "en": "Brera!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_676",
+   "en": "It's because we're alone that we can love someone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_000",
+   "en": "Brera Sterne, launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_001",
+   "en": "Antares 1, ready to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Antares (Brera's squadron/callsign) not in glossary."
+  },
+  {
+   "id": "vpy_blr_002",
+   "en": "Mission understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_003",
+   "en": "Too soft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_004",
+   "en": "Not worth dodging.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_005",
+   "en": "No problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_006",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_007",
+   "en": "A mistake like this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_008",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpy_blr_009",
+   "en": "Take this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_010",
+   "en": "This ends it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_011",
+   "en": "Get lost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_012",
+   "en": "What is this...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_013",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (transcript 'gi')."
+  },
+  {
+   "id": "vpy_blr_014",
+   "en": "I don't like this.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'kigen da na' (mood); probably 'fuyukai/fukigen da na' (displeased), cf. Grace clip 013-015."
+  },
+  {
+   "id": "vpy_blr_015",
+   "en": "Just a graze.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'kasutta ka': he is the one grazed (cf. Jeffrey 017 'it only grazed me'); could also be his shot grazing the enemy."
+  },
+  {
+   "id": "vpy_blr_016",
+   "en": "I was hit?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Could be his shot ('did it hit?'); read as being hit like 015/017."
+  },
+  {
+   "id": "vpy_blr_017",
+   "en": "Shallow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_018",
+   "en": "Not yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_019",
+   "en": "You're wide open.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_020",
+   "en": "I won't miss.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_100",
+   "en": "Let's do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_101",
+   "en": "Mission start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_102",
+   "en": "Commencing the sweep.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript uses the kanji for 'supreme leader' (soutou); read as the homophone for sweep/mop-up."
+  },
+  {
+   "id": "vpy_blr_103",
+   "en": "Target locked.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript kanji means 'supplement'; read as the homophone 'hosoku' = lock-on."
+  },
+  {
+   "id": "vpy_blr_104",
+   "en": "There.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_105",
+   "en": "You won't escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_106",
+   "en": "Vanish.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_107",
+   "en": "Scatter to the ends of the galaxy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_108",
+   "en": "It's over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_109",
+   "en": "Stop it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_110",
+   "en": "You're unworthy to face me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_111",
+   "en": "Too slow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_112",
+   "en": "Weak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_113",
+   "en": "Why did you fight me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_114",
+   "en": "Enemy unit destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_115",
+   "en": "Here they come.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_116",
+   "en": "I'll remove you by force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_117",
+   "en": "Target locked. Destroying it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_118",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_119",
+   "en": "It's for the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_120",
+   "en": "Move. You're in the way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_121",
+   "en": "So the shield is gone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_122",
+   "en": "Shield durability limit exceeded.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_123",
+   "en": "Only the shield broke.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_124",
+   "en": "A waste of effort.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_125",
+   "en": "Damage minor. Continuing the mission.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript kanji means 'damage security'; read as the homophone 'keibi' = minor."
+  },
+  {
+   "id": "vpy_blr_126",
+   "en": "If it's only this much...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_127",
+   "en": "It doesn't affect the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_128",
+   "en": "What is this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_129",
+   "en": "I can still fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_130",
+   "en": "Why?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_131",
+   "en": "But not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_132",
+   "en": "The damage keeps rising.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_133",
+   "en": "I can't be taken down here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_134",
+   "en": "I can still move.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'mada ugoku na' (don't move yet); likely 'mada ugoku' / 'ugokeru' (still moving) after 133 'can't fall here'."
+  },
+  {
+   "id": "vpy_blr_135",
+   "en": "Damage has entered the danger zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_136",
+   "en": "This looks like the end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_137",
+   "en": "So this is the end of an empty fighting machine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_138",
+   "en": "I hear a song. The song that embraces everything.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_139",
+   "en": "Are you really all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_140",
+   "en": "You're in the way. Stay back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_141",
+   "en": "You don't belong on a battlefield.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_142",
+   "en": "Who were you fighting for?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_143",
+   "en": "Withdraw from the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_144",
+   "en": "I couldn't protect them.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Object of 'mamorenakatta' not stated; partner/captain presumed, left neutral."
+  },
+  {
+   "id": "vpy_blr_148",
+   "en": "Reinforcements?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_149",
+   "en": "Why did you come to help?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9521 (vpf_alt_663): 'Gran-tai' not in glossary; probably a unit call sign in a radio hail. Kept as heard.",
+   "row 9526 (vpf_alt_668): Zeami-style flower aphorism; rendered loosely.",
+   "row 9547 (vpy_blr_014): Transcript 'kigen da na' (mood); probably 'fuyukai/fukigen da na' (displeased), cf. Grace clip 013-015.",
+   "row 9548 (vpy_blr_015): 'kasutta ka': he is the one grazed (cf. Jeffrey 017 'it only grazed me'); could also be his shot grazing the enemy.",
+   "row 9549 (vpy_blr_016): Could be his shot ('did it hit?'); read as being hit like 015/017.",
+   "row 9588 (vpy_blr_134): Transcript 'mada ugoku na' (don't move yet); likely 'mada ugoku' / 'ugokeru' (still moving) after 133 'can't fall here'."
+  ],
+  "whisper_doubt": [
+   "row 9521 (vpf_alt_663): 'Gran-tai' not in glossary; probably a unit call sign in a radio hail. Kept as heard.",
+   "row 9523 (vpf_alt_665): Transcript 'Shiriru' read as Sheryl.",
+   "row 9527 (vpf_alt_669): Transcript 'Rankan'.",
+   "row 9547 (vpy_blr_014): Transcript 'kigen da na' (mood); probably 'fuyukai/fukigen da na' (displeased), cf. Grace clip 013-015.",
+   "row 9556 (vpy_blr_102): Transcript uses the kanji for 'supreme leader' (soutou); read as the homophone for sweep/mop-up.",
+   "row 9557 (vpy_blr_103): Transcript kanji means 'supplement'; read as the homophone 'hosoku' = lock-on.",
+   "row 9579 (vpy_blr_125): Transcript kanji means 'damage security'; read as the homophone 'keibi' = minor.",
+   "row 9588 (vpy_blr_134): Transcript 'mada ugoku na' (don't move yet); likely 'mada ugoku' / 'ugokeru' (still moving) after 133 'can't fall here'."
+  ],
+  "kept_omission": [
+   "row 9598 (vpy_blr_144): Object of 'mamorenakatta' not stated; partner/captain presumed, left neutral."
+  ],
+  "missing_glossary": [
+   "row 9521 (vpf_alt_663): 'Gran-tai' not in glossary; probably a unit call sign in a radio hail. Kept as heard.",
+   "row 9534 (vpy_blr_001): Antares (Brera's squadron/callsign) not in glossary."
+  ],
+  "unfinished": []
+ }
+}

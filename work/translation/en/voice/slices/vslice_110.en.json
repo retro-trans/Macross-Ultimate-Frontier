@@ -1,0 +1,519 @@
+{
+ "slice": 110,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_mln_136",
+   "en": "Aw, I got hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_137",
+   "en": "No way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_138",
+   "en": "Hey, what if I get killed?!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Clips 136-138 are self near-death lines, so 'I'; could be aimed at the enemy."
+  },
+  {
+   "id": "vp7_mln_139",
+   "en": "What are you doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_140",
+   "en": "Geez, you're such a klutz!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_141",
+   "en": "You're nothing but trouble!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_142",
+   "en": "No way! You got shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_143",
+   "en": "You'll pay for that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_144",
+   "en": "How awful!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reaction to partner going down; could also be aimed at the enemy."
+  },
+  {
+   "id": "vp7_mln_148",
+   "en": "Forget it! Mind your own business!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_149",
+   "en": "I don't need a bodyguard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_150",
+   "en": "Hurry up and come help me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_151",
+   "en": "W-what are you doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_152",
+   "en": "Argh! Why does it always end up like this?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_153",
+   "en": "It's not my fault!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_154",
+   "en": "Yahoo! Great success!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'second place no success'; read as dai seikou (great success)."
+  },
+  {
+   "id": "vp7_mln_155",
+   "en": "That was a piece of cake!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_156",
+   "en": "Huh? It's already over?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_157",
+   "en": "Ugh, we didn't make it in time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_158",
+   "en": "Huh? Time's up already? Oh, come on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_159",
+   "en": "What a total mess.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_160",
+   "en": "Ugh, this is the worst.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_161",
+   "en": "What on earth is going on?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_162",
+   "en": "Wh-what?! No way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_163",
+   "en": "Cover me with your fire, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_164",
+   "en": "Back me up properly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_165",
+   "en": "Come on, shoot more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_166",
+   "en": "Now! Charge in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_167",
+   "en": "Beat them to a pulp!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_168",
+   "en": "You expect a girl to do the close combat?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_169",
+   "en": "Don't run ahead on your own!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_170",
+   "en": "Stay back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_171",
+   "en": "Hands off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_172",
+   "en": "Give it everything you've got!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_173",
+   "en": "Okay? Go all out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_174",
+   "en": "Special attack, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_175",
+   "en": "I'm fired up now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_176",
+   "en": "Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_177",
+   "en": "Here we go! ...Just kidding.",
+   "flags": [],
+   "notes": "Playing on Basara's catchphrase."
+  },
+  {
+   "id": "vp7_mln_178",
+   "en": "I know that much!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_179",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_180",
+   "en": "Okay, I'll give it a try!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_181",
+   "en": "You're going to get shot down, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_182",
+   "en": "You're the captain, right? Pull yourself together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_183",
+   "en": "Captain, are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_184",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_185",
+   "en": "Captain, don't die!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_186",
+   "en": "Captain? No way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_187",
+   "en": "Hey, this song is pretty good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_188",
+   "en": "I'm done fighting. I'm going home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_189",
+   "en": "This feeling... I want to sing too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_190",
+   "en": "Come on, just be happy about it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_191",
+   "en": "Not bad! That was cool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_300",
+   "en": "Why are you in front of me?! Get out of my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_301",
+   "en": "Launch? You've got to be kidding!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_302",
+   "en": "What if you get killed?!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Addressed to the partner."
+  },
+  {
+   "id": "vp7_mln_303",
+   "en": "I'm going on ahead!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper flagged nospeech; transcript plausible."
+  },
+  {
+   "id": "vp7_mln_304",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_307",
+   "en": "I'm gonna burn it all up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_308",
+   "en": "I'll do it! I have to do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_309",
+   "en": "I'll go!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'watashi wa ikou' is odd; probably 'watashi ga iku' or 'ikuwa'."
+  },
+  {
+   "id": "vp7_mln_310",
+   "en": "Yahoo! Here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_311",
+   "en": "Now I'll make you hurt!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_320",
+   "en": "Geez, what if you'd gotten killed?!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same text as clip 138/302; result line to partner."
+  },
+  {
+   "id": "vp7_mln_322",
+   "en": "We've got to take this more seriously.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_323",
+   "en": "That wasn't bad, was it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_324",
+   "en": "Well, that was something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_325",
+   "en": "Geez, where were you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_326",
+   "en": "You're pretty good, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_327",
+   "en": "Not bad as a partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_328",
+   "en": "I'll give you credit for your piloting, at least.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_329",
+   "en": "All right, as soon as we get back, it's my live show!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_330",
+   "en": "Weird... I wasn't scared at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_340",
+   "en": "Honestly, you do whatever you want!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_342",
+   "en": "You can't do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_343",
+   "en": "H-hey, wait up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_345",
+   "en": "I'll do my best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_346",
+   "en": "Here we go! ...Just kidding!",
+   "flags": [],
+   "notes": "Playing on Basara's catchphrase."
+  },
+  {
+   "id": "vp7_mln_348",
+   "en": "Sorry to keep you waiting! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_350",
+   "en": "Here I go! Leave it to me!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8723 (vp7_mln_138): Clips 136-138 are self near-death lines, so 'I'; could be aimed at the enemy.",
+   "row 8729 (vp7_mln_144): Reaction to partner going down; could also be aimed at the enemy.",
+   "row 8776 (vp7_mln_302): Addressed to the partner.",
+   "row 8777 (vp7_mln_303): Whisper flagged nospeech; transcript plausible.",
+   "row 8784 (vp7_mln_320): Same text as clip 138/302; result line to partner."
+  ],
+  "whisper_doubt": [
+   "row 8736 (vp7_mln_154): Whisper wrote 'second place no success'; read as dai seikou (great success).",
+   "row 8777 (vp7_mln_303): Whisper flagged nospeech; transcript plausible.",
+   "row 8781 (vp7_mln_309): Transcript 'watashi wa ikou' is odd; probably 'watashi ga iku' or 'ikuwa'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

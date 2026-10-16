@@ -1,0 +1,528 @@
+{
+ "slice": 54,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_of0_128",
+   "en": "You've done it now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_128",
+   "en": "I can keep going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_128",
+   "en": "Not bad at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_129",
+   "en": "I can still move!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_129",
+   "en": "Look at me, I'm no better than a rookie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_129",
+   "en": "That's it! Keep me entertained!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_129",
+   "en": "It starts now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_129",
+   "en": "How impudent!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_129",
+   "en": "Maybe I let them get too cocky.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_130",
+   "en": "Ugh, I can still go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_130",
+   "en": "You've got to take a hit to give one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_130",
+   "en": "I finally see you as an enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_130",
+   "en": "This is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_130",
+   "en": "I can't be shot down yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_130",
+   "en": "Now I'm warming up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_131",
+   "en": "I won't go down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_131",
+   "en": "Can't dodge it all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_131",
+   "en": "I'd like to thank you for surprising me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_131",
+   "en": "No! I can't dodge it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_131",
+   "en": "Tch. Can't dodge it all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_131",
+   "en": "You read my habits? Do you like me or something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_132",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_132",
+   "en": "Took a bit too many hits.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_132",
+   "en": "Hah, you're pretty good yourself, pal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_132",
+   "en": "I'll hold out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_132",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_132",
+   "en": "Calm down, calm down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_133",
+   "en": "Can't dodge it all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_133",
+   "en": "As long as it moves...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_om2_133",
+   "en": "Am I trembling? Me, of all people?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_133",
+   "en": "At this rate...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_of1_133",
+   "en": "Don't get cocky!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_133",
+   "en": "Shoot me down? Do it in one shot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_134",
+   "en": "It won't hold!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kitai' (hope); surely 'kitai' (airframe)."
+  },
+  {
+   "id": "vp0_om1_134",
+   "en": "Pushing me this far...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_om2_134",
+   "en": "Great, I love this tension!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_134",
+   "en": "Just a little more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_134",
+   "en": "I can still fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_134",
+   "en": "Am I in a pinch or something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_135",
+   "en": "Is it hopeless?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_135",
+   "en": "Like hell I'll go down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_135",
+   "en": "My technique can't keep up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_135",
+   "en": "Will I get through this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_135",
+   "en": "Me, pushed this far...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_of2_135",
+   "en": "A real crisis... This is when it counts!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_136",
+   "en": "Huh? Is this the end?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_136",
+   "en": "This is as far as I go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_136",
+   "en": "I'm the only one who needs to go down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_136",
+   "en": "Is this... the end?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_136",
+   "en": "To be shot down in a place like this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_136",
+   "en": "Sorry! I'll recover you and fix you up properly later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_137",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream; Whisper repeated a vowel."
+  },
+  {
+   "id": "vp0_om1_137",
+   "en": "Is this all my strength amounts to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_137",
+   "en": "It's okay! I'm tough as... Aaaah!",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Cut off by a scream."
+  },
+  {
+   "id": "vp0_of0_137",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream; Whisper repeated a vowel."
+  },
+  {
+   "id": "vp0_of1_137",
+   "en": "My skills have gotten rusty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_137",
+   "en": "Oh no, I got shot down. Better luck next time, me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_138",
+   "en": "Not here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_138",
+   "en": "Damn it! No good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_138",
+   "en": "Never thought I'd be the first to burn out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_138",
+   "en": "No... not here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_138",
+   "en": "I wanted to give it a try...",
+   "flags": [
+    "uncertain",
+    "kept_omission"
+   ],
+   "notes": "Object of 'shite mitakatta' is missing in the transcript; start of the sentence may be lost."
+  },
+  {
+   "id": "vp0_of2_138",
+   "en": "Damn it! I'll get you back for this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_139",
+   "en": "Please fall back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_139",
+   "en": "Charge in, then!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_139",
+   "en": "Just think about staying alive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_139",
+   "en": "Danger! Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_139",
+   "en": "Danger! Back off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_139",
+   "en": "Come on, get it together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_140",
+   "en": "Don't be reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_140",
+   "en": "Quit being reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_140",
+   "en": "I'll protect you at full power!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_140",
+   "en": "Don't be reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_140",
+   "en": "You okay?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper flagged no speech; plausible short question."
+  },
+  {
+   "id": "vp0_of2_140",
+   "en": "Behind you, behind you! You're smoking!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_141",
+   "en": "Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_141",
+   "en": "Hey! You okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_141",
+   "en": "We're in trouble at this rate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_141",
+   "en": "Are you okay?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_141",
+   "en": "Don't be reckless!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 4302: Object of 'shite mitakatta' is missing in the transcript; start of the sentence may be lost."
+  ],
+  "whisper_doubt": [
+   "row 4274: Heard 'kitai' (hope); surely 'kitai' (airframe).",
+   "row 4314: Whisper flagged no speech; plausible short question."
+  ],
+  "kept_omission": [
+   "row 4302: Object of 'shite mitakatta' is missing in the transcript; start of the sentence may be lost."
+  ],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 4269: Trails off.",
+   "row 4271: Trails off.",
+   "row 4275: Trails off.",
+   "row 4284: Trails off.",
+   "row 4294: Cut off by a scream."
+  ]
+ }
+}

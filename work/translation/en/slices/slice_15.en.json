@@ -1,0 +1,434 @@
+{
+ "slice": 15,
+ "rows_in_slice": 67,
+ "rows_examined": 67,
+ "rows": [
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5233:col1",
+   "en": "Angel Ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5234:col1",
+   "en": "Support Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5235:col1",
+   "en": "Records Strategist",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source pairs 'record(s)' with 'staff officer/strategist'; no unlock text available to confirm whether it refers to battle records or record-keeping."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5236:col1",
+   "en": "Mecha Collector",
+   "flags": [],
+   "notes": "Source word means airframe/machine; 'Mecha' covers Valkyries and Destroids alike."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5237:col1",
+   "en": "Champion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5238:col1",
+   "en": "Eternal Champion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5239:col1",
+   "en": "Ultimate Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5240:col1",
+   "en": "Close Range? Bring It On!!",
+   "flags": [],
+   "notes": "Source: close range + slang 'bring it on'; double exclamation kept."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5241:col1",
+   "en": "Long-Range Support Type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5242:col1",
+   "en": "Vocalist Declaration!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5243:col1",
+   "en": "Battroid Love",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5244:col1",
+   "en": "GERWALK Love",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5245:col1",
+   "en": "Fighter Love",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5246:col1",
+   "en": "Nyan-Nyan Shop Owner",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5247:col1",
+   "en": "My S-L-A-V-E",
+   "flags": [],
+   "notes": "Sheryl's line about Alto; the source spells 'slave' out syllable by syllable with dots, rendered letter by letter at full strength."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5248:col1",
+   "en": "Go In and Get Smashed to Pieces",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Twist on the idiom 'go for broke' (literally 'hit it and break'), with the harsher verb 'shatter to pieces'. Kept as an imperative to the listener; speaker unknown."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5249:col1",
+   "en": "To the Endth of the Galaxy☆",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source is a lisped/baby-talk form of 'to the ends of the galaxy' (the Sheryl/Ranka slogan); rendered with an English lisp. Who says it (likely micronized Klan or a child) not confirmed."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5250:col1",
+   "en": "Professor Piro-Piro",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Onomatopoeic nickname + honorific for teacher/doctor; referent not identified (possibly a guitar-riff sound). Kept the sound as-is."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5251:col1",
+   "en": "Sniper of Seduction",
+   "flags": [],
+   "notes": "Fits Michel (sniper and womanizer)."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5252:col1",
+   "en": "Boob Meister",
+   "flags": [],
+   "notes": "Crude slang kept at full strength."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5253:col1",
+   "en": "Lone Wolf",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5254:col1",
+   "en": "Booze and Women",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5255:col1",
+   "en": "Sadistic",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5256:col1",
+   "en": "Daisy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source is the flower name (daisy); referent not identified."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5257:col1",
+   "en": "Faceless",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5258:col1",
+   "en": "Strongest Groom",
+   "flags": [],
+   "notes": "Likely Max (his wedding to Milia). | review: Pair with row 966 'Strongest Bride' (Max/Milia wedding titles, same source wording); the mismatched 'The Mightiest Groom' broke the pairing."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5259:col1",
+   "en": "Deculture!",
+   "flags": [],
+   "notes": "Glossary form 'Deculture!' used; source has no exclamation mark."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5260:col1",
+   "en": "Virtual Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5261:col1",
+   "en": "Pink Pecker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5262:col1",
+   "en": "Street Performer?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5263:col1",
+   "en": "Macross 7 Fleet Commander",
+   "flags": [],
+   "notes": "Max's post; source literally 'fleet leader'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5264:col1",
+   "en": "Spiritia Paradise",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5265:col1",
+   "en": "Wandering Vocalist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5266:col1",
+   "en": "Dynamite!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5267:col1",
+   "en": "Dynamite...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5268:col1",
+   "en": "Mischievous Dandy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5269:col1",
+   "en": "White Larva",
+   "flags": [],
+   "notes": "Uses the glossary word 'Larva' (Vajra Larva)."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5270:col1",
+   "en": "Red Rampager",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5271:col1",
+   "en": "Guide of the Wind",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5272:col1",
+   "en": "Kadun of the Curse",
+   "flags": [],
+   "notes": "Built parallel to the glossary term 'Kadun of Battle'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5273:col1",
+   "en": "The First Miss Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5274:col1",
+   "en": "Love Drifts Away",
+   "flags": [],
+   "notes": "Minmay song title (romaji: Ai wa Nagareru) not in glossary. | review: Macross Wiki title of the Minmay song | review: term now in glossary"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5275:col1",
+   "en": "\"Nyan-Nyan\" Poster Girl",
+   "flags": [],
+   "notes": "Corner brackets around the shop name rendered as double quotes."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5276:col1",
+   "en": "Shao Pai Long",
+   "flags": [],
+   "notes": "Source uses a variant kanji for 'dragon'; same song as glossary entry."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5277:col1",
+   "en": "Do You Remember Love?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5278:col1",
+   "en": "Secret Date!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5279:col1",
+   "en": "School Festival Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5280:col1",
+   "en": "Wanted! Spiritia!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5281:col1",
+   "en": "Basara's Self-Proclaimed Disciple",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5282:col1",
+   "en": "Rookie Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5283:col1",
+   "en": "Seikan Hikou",
+   "flags": [],
+   "notes": "Glossary spelling. | review: refit: unencodable o-macron -> glossary spelling 'Seikan Hikou'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5284:col1",
+   "en": "Anata no Oto",
+   "flags": [],
+   "notes": "Ranka song title written in katakana (romaji: Anata no Oto, 'Your Sound'); not in glossary, romanized like Seikan Hiko/Aimo. | review: term now in glossary"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5285:col1",
+   "en": "Aimo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5286:col1",
+   "en": "Top Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5287:col1",
+   "en": "Sagittarius ☆ 9 PM",
+   "flags": [],
+   "notes": "Glossary title minus 'Don't be late', which the source also omits."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5288:col1",
+   "en": "Northern Cross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5289:col1",
+   "en": "Song Priestess",
+   "flags": [],
+   "notes": "Source: song + shrine maiden."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5290:col1",
+   "en": "Wholesome Boy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5291:col1",
+   "en": "Reliable Big Bro",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5292:col1",
+   "en": "Tough Guy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5293:col1",
+   "en": "Bit of an Airhead",
+   "flags": [],
+   "notes": "Source: 'light natural airhead'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5294:col1",
+   "en": "Big Sis",
+   "flags": [],
+   "notes": "Source: tough boss-lady 'big sister' term."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5295:col1",
+   "en": "Peppy Kid",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5296:col1",
+   "en": "Black-Rimmed Glasses",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5297:col1",
+   "en": "Hard Worker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5298:col1",
+   "en": "Admired Big Sister",
+   "flags": [],
+   "notes": "Source: the older-sister type everyone looks up to."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5299:col1",
+   "en": "Voice Therapist",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 1123: Source pairs 'record(s)' with 'staff officer/strategist'; no unlock text available to confirm whether it refers to battle records or record-keeping.",
+   "row 1136: Twist on the idiom 'go for broke' (literally 'hit it and break'), with the harsher verb 'shatter to pieces'. Kept as an imperative to the listener; speaker unknown.",
+   "row 1137: Source is a lisped/baby-talk form of 'to the ends of the galaxy' (the Sheryl/Ranka slogan); rendered with an English lisp. Who says it (likely micronized Klan or a child) not confirmed.",
+   "row 1138: Onomatopoeic nickname + honorific for teacher/doctor; referent not identified (possibly a guitar-riff sound). Kept the sound as-is.",
+   "row 1144: Source is the flower name (daisy); referent not identified."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 1162: Minmay song 'Ai wa Nagareru' used as 'Love Flows By'",
+   "row 1172: Ranka song 'Anata no Oto' kept in romaji"
+  ],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,528 @@
+{
+ "slice": 8,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_196",
+   "en": "There must be a bulkhead switch somewhere.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_196",
+   "en": "There's a bulkhead switch somewhere.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says kakuheiki (nuclear weapon); surely kabe/kakuheki (bulkhead), as in Yuu's line."
+  },
+  {
+   "id": "vo0_of2_196",
+   "en": "There should be a switch nearby that opens the bulkhead. Find it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_196",
+   "en": "Find the switch that opens the bulkhead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_196",
+   "en": "There should be a switch somewhere that opens the bulkhead.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says kakuheiki (nuclear weapon); surely bulkhead (kakuheki)."
+  },
+  {
+   "id": "vo0_of0_197",
+   "en": "Please open the bulkhead.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says kakuheiki (nuclear weapon) for bulkhead (kakuheki)."
+  },
+  {
+   "id": "vo0_of1_197",
+   "en": "Open the bulkhead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_197",
+   "en": "Hit the switch and open the bulkhead!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_197",
+   "en": "Open the bulkhead!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_197",
+   "en": "Open the bulkhead and get inside.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says kakuheiki (nuclear weapon) for bulkhead (kakuheki)."
+  },
+  {
+   "id": "vo0_of0_200",
+   "en": "Please be careful not to damage the surroundings.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says Romari; surely shui (the surroundings), as the others say."
+  },
+  {
+   "id": "vo0_of1_200",
+   "en": "Keep damage to the surroundings to a minimum.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_200",
+   "en": "Keep the damage to the surroundings down. Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_200",
+   "en": "Don't forget to limit damage to the surroundings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_200",
+   "en": "Be careful not to cause damage to the surroundings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_201",
+   "en": "This operation is expected to drag on. Please watch your aircraft's damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_201",
+   "en": "This operation is expected to be prolonged. Watch your damage rate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_201",
+   "en": "This op looks like a long one. Don't let your concentration slip.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_201",
+   "en": "This operation is expected to be prolonged. Watch your aircraft's damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_201",
+   "en": "This operation is expected to be prolonged. Watch your aircraft's damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_221",
+   "en": "We're stalling the enemy. Shoot down their aircraft, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_221",
+   "en": "We're stalling the enemy. Take out their aircraft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_221",
+   "en": "To stall the enemy, you go be the bait.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_221",
+   "en": "Stall the enemy. Shoot down their aircraft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_221",
+   "en": "Hold the enemy off here to buy time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_243",
+   "en": "A friendly unit requests support. Please go help right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_243",
+   "en": "A friendly unit requests support. Go help right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_243",
+   "en": "Hey, a friendly unit's calling for support!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_243",
+   "en": "Friendly support request.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_243",
+   "en": "Friendly unit requests rescue. Move to support at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_244",
+   "en": "Wipe out nearby enemies to open a path for the friendlies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_244",
+   "en": "Annihilate the enemy and open a path for the friendlies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_244",
+   "en": "Wipe out nearby enemies to open a path for the friendlies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_244",
+   "en": "Wipe out nearby enemies to open a path for the friendlies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_244",
+   "en": "Opening a path for friendlies. Begin the attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_246",
+   "en": "The enemy has broken through the defense line. Please intercept.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_246",
+   "en": "The enemy broke through the defense line. Intercept.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_246",
+   "en": "Hey, the enemy broke through the defense line! Don't let them get any farther in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_246",
+   "en": "They broke the defense line! Don't let them in further!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_246",
+   "en": "The enemy broke through the defense line! Nearby pilots, intercept!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_247",
+   "en": "Enemy reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_247",
+   "en": "Enemy reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_247",
+   "en": "Enemy reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_247",
+   "en": "Enemy reinforcements confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_247",
+   "en": "Enemy aircraft appearing in the combat area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_248",
+   "en": "Enemies are coming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_248",
+   "en": "Enemy reinforcements coming.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_248",
+   "en": "Cheer up, reinforcements! The enemy's, that is.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript ends in \"teki no na\" (enemy's name); probably teki no (the enemy's), a sarcastic joke."
+  },
+  {
+   "id": "vo0_om0_248",
+   "en": "Enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_248",
+   "en": "Enemies are heading your way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_249",
+   "en": "I'm picking up an enemy signature.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_249",
+   "en": "That signal is an enemy. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_249",
+   "en": "Hey, an enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_249",
+   "en": "Enemy reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_249",
+   "en": "Detecting an approaching enemy. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_250",
+   "en": "Enemy aircraft confirmed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says tekkyo (removal); surely tekki (enemy aircraft), as Claire says."
+  },
+  {
+   "id": "vo0_of1_250",
+   "en": "Enemy aircraft confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_250",
+   "en": "Here comes the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_250",
+   "en": "Enemy's here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_250",
+   "en": "Enemy aircraft appearing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_251",
+   "en": "Enemy contact.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a garbled word (teki-ei); probably teki-ei (enemy shadow, contact) or a reaction (hanno)."
+  },
+  {
+   "id": "vo0_of1_251",
+   "en": "New enemy confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_251",
+   "en": "Picked up an enemy signal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_251",
+   "en": "Enemy signal detected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_251",
+   "en": "Enemy signal detected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_252",
+   "en": "New enemy contact confirmed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_252",
+   "en": "Picked up an enemy signal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_252",
+   "en": "Enemy contact confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_252",
+   "en": "Enemy contact confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_252",
+   "en": "Contact on radar. Enemy aircraft.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says teki no kie (enemy's vanishing); surely teki no kiei (enemy aircraft)."
+  },
+  {
+   "id": "vo0_of0_253",
+   "en": "Again! Enemy aircraft confirmed!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says teki no inin (cause); surely teki no kiei (enemy aircraft)."
+  },
+  {
+   "id": "vo0_of1_253",
+   "en": "Enemy aircraft appearing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_253",
+   "en": "What a pain, more enemies are coming.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_253",
+   "en": "Enemy aircraft confirmed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says teki no ki-ei with the wrong kanji (camp); surely kiei (aircraft shadow)."
+  },
+  {
+   "id": "vos_mis_253",
+   "en": "More enemy reinforcements. This time the enemy may be serious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_254",
+   "en": "Enemy reinforcements won't stop!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_254",
+   "en": "The enemy reinforcements keep coming.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_254",
+   "en": "Looks like the enemy's making another appearance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_254",
+   "en": "More reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_254",
+   "en": "Enemies keep coming one after another. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 562: Transcript says kakuheiki (nuclear weapon); surely kabe/kakuheki (bulkhead), as in Yuu's line.",
+   "row 565: Transcript says kakuheiki (nuclear weapon); surely bulkhead (kakuheki).",
+   "row 566: Transcript says kakuheiki (nuclear weapon) for bulkhead (kakuheki).",
+   "row 570: Transcript says kakuheiki (nuclear weapon) for bulkhead (kakuheki).",
+   "row 571: Transcript says Romari; surely shui (the surroundings), as the others say.",
+   "row 608: Transcript ends in \"teki no na\" (enemy's name); probably teki no (the enemy's), a sarcastic joke.",
+   "row 616: Transcript says tekkyo (removal); surely tekki (enemy aircraft), as Claire says.",
+   "row 621: Transcript has a garbled word (teki-ei); probably teki-ei (enemy shadow, contact) or a reaction (hanno).",
+   "row 630: Transcript says teki no kie (enemy's vanishing); surely teki no kiei (enemy aircraft).",
+   "row 631: Transcript says teki no inin (cause); surely teki no kiei (enemy aircraft).",
+   "row 634: Transcript says teki no ki-ei with the wrong kanji (camp); surely kiei (aircraft shadow)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

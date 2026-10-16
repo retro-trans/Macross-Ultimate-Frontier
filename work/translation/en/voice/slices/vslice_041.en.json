@@ -1,0 +1,510 @@
+{
+ "slice": 41,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_1436",
+   "en": "It's the Vajra! Intercept them right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1436",
+   "en": "It's the Vajra. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1436",
+   "en": "It's the Vajra. Intercept them immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1437",
+   "en": "Enemy contact! Please intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1437",
+   "en": "Enemy! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1437",
+   "en": "Enemy! Intercept them right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1437",
+   "en": "Enemy! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1437",
+   "en": "Intercept the enemy immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1438",
+   "en": "Enemy force. Please intercept at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1438",
+   "en": "Enemy force! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1438",
+   "en": "Enemy force! Intercept them right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1438",
+   "en": "Enemy force! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1438",
+   "en": "Enemy force. Intercept them immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1450",
+   "en": "VF-0 Phoenix, you're cleared to equip the Option Parts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1450",
+   "en": "VF-0 Phoenix, I authorize the Option Parts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1450",
+   "en": "VF-0 Phoenix, I'll let you equip the Option Parts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1450",
+   "en": "VF-0 Phoenix, equip the Option Parts. Authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1450",
+   "en": "VF-0 Phoenix, equipping the Option Parts is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1451",
+   "en": "VF-0 Phoenix, you're cleared to equip the Reactive Armor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1451",
+   "en": "VF-0 Phoenix, I authorize equipping the Reactive Armor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1451",
+   "en": "VF-0 Phoenix, I'll let you equip the Reactive Armor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1451",
+   "en": "VF-0 Phoenix, equip the Reactive Armor. Authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1451",
+   "en": "VF-0 Phoenix, permission granted to equip the Reactive Armor.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'deactive' for 'reactive' (Reactive Armor)."
+  },
+  {
+   "id": "vo0_of0_1452",
+   "en": "SV-51, you're cleared to equip the Twin Booster.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote SV-01; the unit is the SV-51."
+  },
+  {
+   "id": "vo0_of1_1452",
+   "en": "SV-51, I authorize equipping the Twin Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1452",
+   "en": "SV-51, I'll let you equip the Twin Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1452",
+   "en": "SV-51, equipping the Twin Booster is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1452",
+   "en": "SV-51, permission granted to equip the Twin Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1453",
+   "en": "VF-1 Valkyrie, you're cleared to equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1453",
+   "en": "VF-1 Valkyrie, I authorize the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1453",
+   "en": "VF-1 Valkyrie, I'll let you equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1453",
+   "en": "VF-1 Valkyrie, equipping the Super Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1453",
+   "en": "VF-1 Valkyrie, equipping the Super Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1454",
+   "en": "VF-1 Valkyrie, you're cleared to equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1454",
+   "en": "VF-1 Valkyrie, I authorize the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1454",
+   "en": "VF-1 Valkyrie, I'll let you equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1454",
+   "en": "VF-1 Valkyrie, equipping the Armored Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1454",
+   "en": "VF-1 Valkyrie, equipping the Armored Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1455",
+   "en": "VF-1 Valkyrie, you're cleared to equip the Strike Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1455",
+   "en": "VF-1 Valkyrie, I authorize the Strike Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1455",
+   "en": "VF-1 Valkyrie, I'll let you equip the Strike Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1455",
+   "en": "VF-1 Valkyrie, equipping the Strike Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1455",
+   "en": "VF-1 Valkyrie, equipping the Strike Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1456",
+   "en": "VF-11 Thunderbolt, you're cleared to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1456",
+   "en": "VF-11 Thunderbolt, I authorize equipping the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1456",
+   "en": "VF-11 Thunderbolt, I'll let you equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1456",
+   "en": "VF-11 Thunderbolt, equipping the FAST Pack is authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'back' for 'pack' (FAST Pack)."
+  },
+  {
+   "id": "vos_mis_1456",
+   "en": "VF-11 Thunderbolt, permission granted to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1457",
+   "en": "VF-11 Thunderbolt, you're cleared to equip the Full Armored gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1457",
+   "en": "VF-11 Thunderbolt, I authorize the Full Armored gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1457",
+   "en": "VF-11 Thunderbolt, I'll let you equip the Full Armored gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1457",
+   "en": "VF-11 Thunderbolt, equip the Full Armored gear. Authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1457",
+   "en": "VF-11 Thunderbolt, permission granted to equip the Full Armored gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1458",
+   "en": "YF-19 Excalibur, you're cleared to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1458",
+   "en": "YF-19 Excalibur, I'm authorizing you to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1458",
+   "en": "YF-19 Excalibur, I'll let you equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1458",
+   "en": "YF-19 Excalibur, equipping the FAST Pack is authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'back' for 'pack' (FAST Pack)."
+  },
+  {
+   "id": "vos_mis_1458",
+   "en": "YF-19 Excalibur, permission granted to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1459",
+   "en": "YF-21 Sturmvogel, you're cleared to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1459",
+   "en": "YF-21 Sturmvogel, I'm authorizing you to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1459",
+   "en": "YF-21 Sturmvogel, I'll let you equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1459",
+   "en": "YF-21 Sturmvogel, equipping the FAST Pack is authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'back' for 'pack' (FAST Pack)."
+  },
+  {
+   "id": "vos_mis_1459",
+   "en": "YF-21 Sturmvogel, permission granted to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1460",
+   "en": "Mylene Valkyrie, cleared to equip the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1460",
+   "en": "Mylene Valkyrie, I authorize the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1460",
+   "en": "Mylene Valkyrie, I'll let you equip the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1460",
+   "en": "Mylene Valkyrie: the Sound Booster authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1460",
+   "en": "Mylene Valkyrie, equipping the Sound Booster is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1461",
+   "en": "Fire Valkyrie, cleared to equip the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1461",
+   "en": "Fire Valkyrie, I authorize the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1461",
+   "en": "Fire Valkyrie, I'll let you equip the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1461",
+   "en": "Fire Valkyrie: the Sound Booster authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1461",
+   "en": "Fire Valkyrie, equipping the Sound Booster is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1462",
+   "en": "Storm Valkyrie, cleared to equip the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1462",
+   "en": "Storm Valkyrie, I authorize the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1462",
+   "en": "Storm Valkyrie, I'll let you equip the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1462",
+   "en": "Storm Valkyrie: the Sound Booster authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1462",
+   "en": "Storm Valkyrie, equipping the Sound Booster is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1463",
+   "en": "VF-22 Sturmvogel II, you're cleared to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1463",
+   "en": "VF-22 Sturmvogel II, I'm authorizing you to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 3223: Whisper wrote 'deactive' for 'reactive' (Reactive Armor).",
+   "row 3224: Whisper wrote SV-01; the unit is the SV-51.",
+   "row 3247: Whisper wrote 'back' for 'pack' (FAST Pack).",
+   "row 3257: Whisper wrote 'back' for 'pack' (FAST Pack).",
+   "row 3262: Whisper wrote 'back' for 'pack' (FAST Pack)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

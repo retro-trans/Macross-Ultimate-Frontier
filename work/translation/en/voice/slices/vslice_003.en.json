@@ -1,0 +1,511 @@
+{
+ "slice": 3,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_040",
+   "en": "Attack target acquired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_040",
+   "en": "Target acquired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_040",
+   "en": "A target's showed up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_040",
+   "en": "Target acquired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_040",
+   "en": "Enemy has entered the combat area. Intercept!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_041",
+   "en": "Attack target confirmed in the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_041",
+   "en": "Target confirmed in the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_041",
+   "en": "A target's showed up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_041",
+   "en": "Target confirmed in the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_041",
+   "en": "Target has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_042",
+   "en": "Target found! Please be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_042",
+   "en": "Target found.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_042",
+   "en": "So that's the target. Looks like trouble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_042",
+   "en": "Target found. Stay alert.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_042",
+   "en": "Target is on radar.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_043",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_043",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_043",
+   "en": "That's it, that's the target!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_043",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_043",
+   "en": "Target locked on. Begin the attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_044",
+   "en": "The target is lightly damaged.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says sonsho keibi (damage guard/warning); surely sonsho keibi (slight damage), which fits Pinon's and Misa's \"keep attacking\"."
+  },
+  {
+   "id": "vo0_of1_044",
+   "en": "The target's only lightly damaged.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same: keibi heard as damage guard; slight damage."
+  },
+  {
+   "id": "vo0_of2_044",
+   "en": "Keep attacking the target, just like that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_044",
+   "en": "Target lightly damaged.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same: keibi heard as damage guard; slight damage."
+  },
+  {
+   "id": "vos_mis_044",
+   "en": "Please continue the attack on the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_045",
+   "en": "The target is still alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_045",
+   "en": "Target still intact.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_045",
+   "en": "Finish the target off, just like that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_045",
+   "en": "Target's still standing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_045",
+   "en": "Our attack on the target seems to be working.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_046",
+   "en": "The target is definitely taking damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_046",
+   "en": "The target's definitely taking damage, isn't it?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Soft sentence-final yo ne from the cool operator."
+  },
+  {
+   "id": "vo0_of2_046",
+   "en": "Don't let up! The target's still alive!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes kenzai (visible) with the wrong kanji; kenzai (alive and well)."
+  },
+  {
+   "id": "vo0_om0_046",
+   "en": "The target is definitely taking damage!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_046",
+   "en": "Please continue the attack as is.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_047",
+   "en": "The target is nearly down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_047",
+   "en": "The target is almost down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_047",
+   "en": "Just a bit more and you've got the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_047",
+   "en": "The target is almost down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_047",
+   "en": "One more step until the target is destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_048",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_048",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_048",
+   "en": "Looks like you took the target down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_048",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_048",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_049",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_049",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_049",
+   "en": "Looks like you took the target down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_049",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_049",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_052",
+   "en": "Half the turrets are destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_052",
+   "en": "You've destroyed half the turrets.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_052",
+   "en": "That's exactly half the turrets gone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_052",
+   "en": "Half the turrets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_052",
+   "en": "About half the enemy turrets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_053",
+   "en": "All turrets confirmed destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_053",
+   "en": "All turrets confirmed destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_053",
+   "en": "That's all the turrets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_053",
+   "en": "All turrets destroyed. Confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_053",
+   "en": "All enemy turrets confirmed destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_054",
+   "en": "Half the targets have been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_054",
+   "en": "There are still targets remaining.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_054",
+   "en": "Half the targets are down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_054",
+   "en": "Half the targets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_054",
+   "en": "About half the targets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_055",
+   "en": "All targets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_055",
+   "en": "That's all the targets shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_055",
+   "en": "All the targets are destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_055",
+   "en": "All targets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_055",
+   "en": "No reaction on radar. The enemy seems wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_056",
+   "en": "Please stop the target from breaking through.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_056",
+   "en": "The target has begun breaking through.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_056",
+   "en": "Stop the target from breaking through!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_056",
+   "en": "Stop the target from breaking through.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_056",
+   "en": "The enemy's trying to break through the zone. Stop them at all costs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_057",
+   "en": "The target is about to break through.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_057",
+   "en": "The target's about to break through! Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_057",
+   "en": "What are you doing? The target's about to break through!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_057",
+   "en": "The target is breaking through!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_057",
+   "en": "The enemy's escaping the zone! Hurry!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 192: Soft sentence-final yo ne from the cool operator."
+  ],
+  "whisper_doubt": [
+   "row 181: Transcript says sonsho keibi (damage guard/warning); surely sonsho keibi (slight damage), which fits Pinon's and Misa's \"keep attacking\".",
+   "row 182: Same: keibi heard as damage guard; slight damage.",
+   "row 184: Same: keibi heard as damage guard; slight damage.",
+   "row 193: Transcript writes kenzai (visible) with the wrong kanji; kenzai (alive and well)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,335 @@
+{
+ "fixes": [
+  {
+   "row": 359,
+   "en": "To prepare for emergencies like a Zentradi remnant revolt or unseen threats,\\nregular U.N. Forces training begins. Beat each Destroid squad in mock battle.",
+   "why": "refit: 'as yet unseen' -> 'unseen'; 'we will now conduct' -> 'begins'; 'fight mock battles... and win' -> 'beat... in mock battle'"
+  },
+  {
+   "row": 361,
+   "en": "Rioting Zentradi remnants have ignored a call to surrender and still run wild.\\nTo put down the riot at once, annihilate the Zentradi remnants.",
+   "why": "refit: 'are still on the rampage' -> 'still run wild'"
+  },
+  {
+   "row": 363,
+   "en": "This test assesses your aptitude as a test pilot for Project Super Nova,\\nthe next main VF contest. Win the mock battle against the Valkyrie squad.",
+   "why": "refit: 'competition for the next main variable fighter' -> 'next main VF contest'"
+  },
+  {
+   "row": 365,
+   "en": "A flight test now begins to measure the prototype's thrust, agility and more.\\nRun a time trial to measure how long you take to clear all the waypoints.",
+   "why": "refit: 'flight performance, including thrust and maneuverability' -> 'thrust, agility and more'"
+  },
+  {
+   "row": 367,
+   "en": "To test the prototype's agility, we'll fly it in a confined space like a base.\\nRun a time trial: destroy all targets and reach the target area.",
+   "why": "refit: 'like the inside of a base' -> 'like a base'; dropped 'as fast as you can' (implied by time trial)"
+  },
+  {
+   "row": 369,
+   "en": "To gauge the prototype's combat ability, we'll now stage an arena mock battle.\\nBattle a large number of targets, simulating combat against multiple enemies.",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 371,
+   "en": "We've had reports of Zentradi remnants appearing from a planet near Eden.\\nWe'll now annihilate them, also as a live combat test of the prototype.",
+   "why": "refit: 'planet Eden' -> 'Eden'; second mention of Zentradi remnants -> 'them'"
+  },
+  {
+   "row": 373,
+   "en": "For prototype combat data in varied settings, a mock air battle now begins.\\nDestroy the VF-11 and drone-escorted bombers short of the target area.",
+   "why": "refit: 'in a range of environments' -> 'in varied settings'; 'before they reach' -> 'short of'"
+  },
+  {
+   "row": 375,
+   "en": "For prototype combat data in varied settings, a mock sea battle now begins.\\nSink the multipurpose carrier escorted by VF-11s, Destroids and an Aegis ship.",
+   "why": "refit: 'Destroid squads' -> 'Destroids'; 'Destroy' -> 'Sink' (carrier)"
+  },
+  {
+   "row": 377,
+   "en": "For prototype combat data in varied settings, a mock ground battle now begins.\\nDestroy the base defended by VF-11s and Destroid squads.",
+   "why": "refit: 'in a range of environments' -> 'in varied settings'"
+  },
+  {
+   "row": 379,
+   "en": "For head-to-head prototype data, we now hold a mock battle against the rival.\\nNeedless to say, it's the most crucial test for selection. Win at any cost.",
+   "why": "refit: 'prototype against prototype' -> 'head-to-head'; 'rival model' -> 'rival'"
+  },
+  {
+   "row": 381,
+   "en": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth.\\nTo end this crisis of unknown cause, subdue the rampaging soldiers at once.",
+   "why": "refit: 'U.N. Forces soldiers' -> 'U.N. troops'; 'bring this emergency under control' -> 'end this crisis'"
+  },
+  {
+   "row": 383,
+   "en": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth.\\nTo end this crisis of unknown cause, subdue the rampaging soldiers at once.",
+   "why": "refit: 'U.N. Forces soldiers' -> 'U.N. troops'; 'bring this emergency under control' -> 'end this crisis'"
+  },
+  {
+   "row": 385,
+   "en": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth.\\nTo end this crisis of unknown cause, subdue the rampaging soldiers at once.",
+   "why": "refit: 'U.N. Forces soldiers' -> 'U.N. troops'; 'bring this emergency under control' -> 'end this crisis'"
+  },
+  {
+   "row": 387,
+   "en": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth.\\nTo end this crisis of unknown cause, subdue the rampaging soldiers at once.",
+   "why": "refit: 'U.N. Forces soldiers' -> 'U.N. troops'; 'bring this emergency under control' -> 'end this crisis'"
+  },
+  {
+   "row": 389,
+   "en": "Sharon Apple has run out of control and seized U.N. Forces central command.\\nTo free the people her song is manipulating, destroy Sharon immediately.",
+   "why": "refit: passive -> active; tighter wording"
+  },
+  {
+   "row": 391,
+   "en": "Sharon Apple has run out of control and seized U.N. Forces central command.\\nTo free the people her song is manipulating, destroy Sharon immediately.",
+   "why": "refit: passive -> active; tighter wording"
+  },
+  {
+   "row": 393,
+   "en": "Sharon Apple has run out of control and seized U.N. Forces central command.\\nTo free the people her song is manipulating, destroy Sharon immediately.",
+   "why": "refit: passive -> active; tighter wording"
+  },
+  {
+   "row": 395,
+   "en": "Sharon Apple has run out of control and seized U.N. Forces central command.\\nTo free the people her song is manipulating, destroy Sharon immediately.",
+   "why": "refit: passive -> active; tighter wording"
+  },
+  {
+   "row": 397,
+   "en": "I want to see him. I want to see him smile. He... Isamu will be here soon.\\nI've waited for you, Isamu. Only you. Nothing stands between us anymore...",
+   "why": "refit: 'the joy on his face' -> 'him smile'; 'I've been waiting' -> 'I've waited'"
+  },
+  {
+   "row": 399,
+   "en": "I want to see him. I want to see him smile. He... Isamu will be here soon.\\nI've waited for you, Isamu. Only you. Nothing stands between us anymore...",
+   "why": "refit: 'the joy on his face' -> 'him smile'; 'I've been waiting' -> 'I've waited'"
+  },
+  {
+   "row": 401,
+   "en": "A vanguard craft reports to Battle 7 that an unknown force has ambushed it.\\nAnnihilate the unknown craft to keep them away from the Macross 7 fleet.",
+   "why": "refit: 'unidentified' -> 'unknown'; 'any closer to' -> 'away from'"
+  },
+  {
+   "row": 403,
+   "en": "A vanguard craft reports to Battle 7 that an unknown force has ambushed it.\\nAnnihilate the unknown craft to keep them away from the Macross 7 fleet.",
+   "why": "refit: 'unidentified' -> 'unknown'; 'any closer to' -> 'away from'"
+  },
+  {
+   "row": 405,
+   "en": "Danger always lurks on a journey through vast space. To prepare for the worst,\\nbeat Diamond Force member Lt. Gamlin Kizaki in a training mock battle.",
+   "why": "refit: 'the vastness of space' -> 'vast space'; 'emergencies' -> 'the worst'"
+  },
+  {
+   "row": 407,
+   "en": "Citizens kidnapped by the Varauta Army are being carried off in containers.\\nAnnihilate the Varauta escort and bring the containers to the designated area.",
+   "why": "refit: 'Varauta forces transporting the containers' -> 'Varauta escort'"
+  },
+  {
+   "row": 409,
+   "en": "The Varauta Army is trying to re-fold City 7, now cut off from Battle 7.\\nRetake the generator, annihilate the Varauta Army and stop the re-fold.",
+   "why": "refit: 'which has been cut off' -> 'now cut off'"
+  },
+  {
+   "row": 411,
+   "en": "The Varauta Army suddenly appeared during the crowded Battroid Carnival.\\nKeep citizens safe: guard the Monsters while annihilating the Varauta Army.",
+   "why": "refit: 'where crowds of citizens had gathered' -> 'crowded'; restructured purpose clause"
+  },
+  {
+   "row": 413,
+   "en": "Battle 7's relief escorts were wiped out instantly by a mysterious Varauta foe.\\nAnnihilate the Varauta Army to protect the citizens of City 7.",
+   "why": "refit: 'escort ships sent from Battle 7 to help' -> 'Battle 7's relief escorts'"
+  },
+  {
+   "row": 415,
+   "en": "Just as City 7 is dragged toward a blazing star, the Varauta Army attacks.\\nAnnihilate the Varauta Army at once and escape from the star.",
+   "why": "refit: 'has chosen this crisis to attack' folded into 'Just as... attacks'"
+  },
+  {
+   "row": 417,
+   "en": "Just as City 7 is dragged toward a blazing star, the Varauta Army attacks.\\nAnnihilate the Varauta Army at once and escape from the star.",
+   "why": "refit: 'has chosen this crisis to attack' folded into 'Just as... attacks'"
+  },
+  {
+   "row": 419,
+   "en": "Varauta forces struck suddenly near Lux. Macross 7 faces its worst crisis yet.\\nSink the Varauta flagship to break their chain of command and end this crisis.",
+   "why": "refit: 'unprecedented crisis' -> 'worst crisis yet'; 'Macross 7 fleet' -> 'Macross 7'"
+  },
+  {
+   "row": 421,
+   "en": "Varauta forces struck suddenly near Lux. Macross 7 faces its worst crisis yet.\\nSink the Varauta flagship to break their chain of command and end this crisis.",
+   "why": "refit: 'unprecedented crisis' -> 'worst crisis yet'; 'Macross 7 fleet' -> 'Macross 7'"
+  },
+  {
+   "row": 423,
+   "en": "We've spotted a likely Protodeviln, approx. 300 m long, unlike any foe so far.\\nMake survival your top priority, and destroy the Protodeviln if possible.",
+   "why": "refit: 'enemy contact believed to be' -> 'likely'; 'clearly unlike' -> 'unlike'"
+  },
+  {
+   "row": 425,
+   "en": "We captured a Protodeviln, but let its would-be rescuers break into Battle 7.\\nAnnihilate the intruders and stop them from seizing the Protodeviln.",
+   "why": "refit: 'the enemy coming to rescue it' -> 'its would-be rescuers'; 'the enemy inside Battle 7' -> 'the intruders'"
+  },
+  {
+   "row": 427,
+   "en": "The Protodeviln have gotten serious and are attacking the Macross 7 fleet.\\nWe can't let the Protodeviln beat us here. Annihilate the Varauta Army.",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 429,
+   "en": "Ahead of the escalating Protodeviln war, a mock battle will now be held.\\nBeat the married duo: a genius pilot of old in the latest model, and an ex-ace.",
+   "why": "refit: 'husband-and-wife' -> 'married'; 'of years past' -> 'of old'; 'machine' -> 'model'; 'former ace' -> 'ex-ace'"
+  },
+  {
+   "row": 431,
+   "en": "We now launch Operation Stargazer, a surprise assault by a small elite force.\\nWipe out the Varauta Army at all costs to fire reaction weapons into the cave.",
+   "why": "refit: dropped quote marks; 'target cave' -> 'the cave'; 'Annihilate' -> 'Wipe out'"
+  },
+  {
+   "row": 433,
+   "en": "Capt. Gamlin, possessed by the Protodeviln, is on a rampage, wrecking bases.\\nWe can't allow more damage. You're authorized to shoot down Capt. Gamlin.",
+   "why": "refit: 'military facilities' -> 'bases'; Captain -> Capt."
+  },
+  {
+   "row": 435,
+   "en": "To thwart Gepelnitchi's ambition, the \"Spiritia Farm Project,\"\\nand to protect galactic peace, destroy Varauta Army commander Gepelnitchi.",
+   "why": "refit: 'the peace of the galaxy' -> 'galactic peace'"
+  },
+  {
+   "row": 437,
+   "en": "To thwart Gepelnitchi's ambition, the \"Spiritia Farm Project,\"\\nand to protect galactic peace, destroy Varauta Army commander Gepelnitchi.",
+   "why": "refit: 'the peace of the galaxy' -> 'galactic peace'"
+  },
+  {
+   "row": 439,
+   "en": "To thwart Gepelnitchi's ambition, the \"Spiritia Farm Project,\"\\nand to protect galactic peace, destroy Varauta Army commander Gepelnitchi.",
+   "why": "refit: 'the peace of the galaxy' -> 'galactic peace'"
+  },
+  {
+   "row": 441,
+   "en": "To thwart Gepelnitchi's ambition, the \"Spiritia Farm Project,\"\\nand to protect galactic peace, destroy Varauta Army commander Gepelnitchi.",
+   "why": "refit: 'the peace of the galaxy' -> 'galactic peace'"
+  },
+  {
+   "row": 443,
+   "en": "A vanguard ship has been wiped out by a large rogue Meltrandi fleet.\\nThey mustn't get any closer to the Macross 7 fleet. Annihilate the rogue fleet.",
+   "why": "refit: 'We can't let them' -> 'They mustn't'"
+  },
+  {
+   "row": 445,
+   "en": "Reviving our master, Lord Gepelnitchi, requires a vast amount of Spiritia.\\nAttack the fleet showing a massive Spiritia reaction and harvest its Spiritia.",
+   "why": "refit: restructured; 'where... was detected' -> 'showing'"
+  },
+  {
+   "row": 451,
+   "en": "The Anima Spiritia's power has at last revived Lord Gepelnitchi's true body.\\nFight beside the mighty Lord Gepelnitchi and annihilate those Anima Spiritia.",
+   "why": "refit: active voice; 'fearsomely powerful' -> 'mighty'"
+  },
+  {
+   "row": 453,
+   "en": "Galaxy Whales are nearing orbit; we've detected likely poachers hunting them.\\nArrest them once confirmed. You may ignore the civilian craft also spotted.",
+   "why": "refit: 'confirmed as poachers' -> 'confirmed'; merged civilian-craft clause"
+  },
+  {
+   "row": 455,
+   "en": "When the Galaxy Whales near Zola, poachers flock to the planet in droves.\\nTo prepare, the Zolan Star Patrol holds its regular training: a mock battle.",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 457,
+   "en": "The Galaxy Whales are nearing Zola again: prime hunting season for poachers.\\nWe can't ignore their poaching any longer. Take the poachers into custody.",
+   "why": "refit: 'turn a blind eye to' -> 'ignore'"
+  },
+  {
+   "row": 459,
+   "en": "Undercover with the poachers, Officer Liza is trying to flee in a stolen VF-17.\\nEscort her to the target area, then arrest the poachers and black marketeers.",
+   "why": "refit: 'Once she is safe, move on to' -> 'then'"
+  },
+  {
+   "row": 461,
+   "en": "Poachers aim a reaction weapon at the white Galaxy Whale hampering their hunt.\\nProtect the whale from the weapon at all costs and arrest the poachers.",
+   "why": "refit: 'plan to use... to get rid of' -> 'aim... at'; second mentions shortened"
+  },
+  {
+   "row": 463,
+   "en": "Basara: \"Sing to the whales? Heh, not just the whales! I'll make all of you\\n         out here listen to my song! Here we go! Listen to my song!!\"",
+   "why": "refit: 'You want me to sing to the whales?' -> 'Sing to the whales?'; 'every last one of you out here' -> 'all of you out here'"
+  },
+  {
+   "row": 465,
+   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "why": "refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+  },
+  {
+   "row": 467,
+   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "why": "refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+  },
+  {
+   "row": 469,
+   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "why": "refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+  },
+  {
+   "row": 471,
+   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "why": "refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+  },
+  {
+   "row": 473,
+   "en": "A mock battle now begins as our regular joint drill with the New U.N. Forces.\\nShow them what S.M.S. can really do, and win the mock battle.",
+   "why": "refit: dropped repeat of 'against the New U.N. Forces'"
+  },
+  {
+   "row": 475,
+   "en": "The Victors that struck Macross Frontier never left; they seem to be hiding\\nin Island 3's foundation block. Annihilate them before they near Island 1.",
+   "why": "refit: 'did not retreat' -> 'never left'; break moved mid-sentence (as JP)"
+  },
+  {
+   "row": 477,
+   "en": "The final test for S.M.S. applicants begins now. To help out, join the\\napplicants in a mock battle against Pixie Team, led by Capt. Klan Klang.",
+   "why": "refit: 'To help with the test' -> 'To help out'; Captain -> Capt."
+  },
+  {
+   "row": 481,
+   "en": "To prepare for Vajra attacks, a mock battle begins now. Beat Maj. Ozma Lee's\\nSkull Squadron, one of the finest elite units in all of S.M.S.",
+   "why": "refit: 'Win against Major' -> 'Beat Maj.'"
+  },
+  {
+   "row": 483,
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "why": "refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "row": 485,
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "why": "refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "row": 487,
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "why": "refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "row": 489,
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "why": "refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "row": 491,
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "why": "refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "row": 493,
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "why": "refit: 'Galaxy survivors' -> 'survivors'"
+  },
+  {
+   "row": 495,
+   "en": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible,\\nbut the Vajra spotted us almost at once. Move swiftly to wipe them out.",
+   "why": "refit: tighter wording; 'Switch to wiping out the Vajra' -> 'Move swiftly to wipe them out'"
+  }
+ ],
+ "unfit": []
+}

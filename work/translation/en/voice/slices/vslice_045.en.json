@@ -1,0 +1,558 @@
+{
+ "slice": 45,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_2308",
+   "en": "Queadluun-Rau, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_om0_2308",
+   "en": "Queadluun-Rau, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2308",
+   "en": "Queadluun-Rau, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2309",
+   "en": "Glavil, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2309",
+   "en": "Glavil, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2309",
+   "en": "Glavil, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2309",
+   "en": "Glavil, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2309",
+   "en": "Glavil, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2310",
+   "en": "Lord Gepelnitchi, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2310",
+   "en": "Lord Gepelnitchi, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2310",
+   "en": "Lord Gepelnitchi, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_om0_2310",
+   "en": "Lord Gepelnitchi, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2310",
+   "en": "Lord Gepelnitchi, you're cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_of0_2311",
+   "en": "VF-5000 Star Mirage, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2311",
+   "en": "VF-5000 Star Mirage, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2311",
+   "en": "VF-5000 Star Mirage, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2311",
+   "en": "VF-5000 Star Mirage, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2311",
+   "en": "VF-5000 Star Mirage, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2312",
+   "en": "VAC-3 Invader, you're cleared to launch. Please do your best!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcribed as VAC-3; glossary has VA-C-3 Invader Kai."
+  },
+  {
+   "id": "vo0_of1_2312",
+   "en": "VAC-3 Invader, you're cleared to launch. Give it your all.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcribed as VAC-3; glossary has VA-C-3 Invader Kai."
+  },
+  {
+   "id": "vo0_of2_2312",
+   "en": "VAC-3 Invader, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcribed as VAC-3; glossary has VA-C-3 Invader Kai."
+  },
+  {
+   "id": "vo0_om0_2312",
+   "en": "VAC-3 Invader, launch approved. Go give it your best!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts. Transcribed as VAC-3; glossary has VA-C-3 Invader Kai."
+  },
+  {
+   "id": "vos_mis_2312",
+   "en": "VAC-3 Invader, you're cleared to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcribed as VAC-3; glossary has VA-C-3 Invader Kai."
+  },
+  {
+   "id": "vo0_of0_2313",
+   "en": "Graham Hoilie, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2313",
+   "en": "Graham Hoilie, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2313",
+   "en": "Graham Hoilie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2313",
+   "en": "Graham Hoilie, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2313",
+   "en": "Graham Hoilie, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2314",
+   "en": "Destroid Cheyenne II, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2314",
+   "en": "Destroid Cheyenne II, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2314",
+   "en": "Destroid Cheyenne II, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2314",
+   "en": "Destroid Cheyenne II, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2314",
+   "en": "Destroid Cheyenne II, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2315",
+   "en": "VF-171 Nightmare Plus, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2315",
+   "en": "VF-171 Nightmare Plus, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2315",
+   "en": "VF-171 Nightmare Plus, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_om0_2315",
+   "en": "VF-171 Nightmare Plus, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2315",
+   "en": "VF-171 Nightmare Plus, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2316",
+   "en": "VF-171EX Nightmare Plus, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2316",
+   "en": "VF-171EX Nightmare Plus, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2316",
+   "en": "VF-171EX Nightmare Plus, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_om0_2316",
+   "en": "VF-171EX Nightmare Plus, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2316",
+   "en": "VF-171EX Nightmare Plus, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2317",
+   "en": "RVF-171EX Nightmare Plus, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2317",
+   "en": "RVF-171EX Nightmare Plus, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2317",
+   "en": "RVF-171EX Nightmare Plus, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_om0_2317",
+   "en": "RVF-171EX Nightmare Plus, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2317",
+   "en": "RVF-171EX Nightmare Plus, you're cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_of0_2318",
+   "en": "VF-25 Messiah, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2318",
+   "en": "VF-25 Messiah, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2318",
+   "en": "VF-25 Messiah, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2318",
+   "en": "VF-25 Messiah, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2318",
+   "en": "VF-25 Messiah, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2319",
+   "en": "RVF-25 Messiah, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'RVF number 2'; it is the RVF-25."
+  },
+  {
+   "id": "vo0_of1_2319",
+   "en": "RVF-25 Messiah, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2319",
+   "en": "RVF-25 Messiah, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2319",
+   "en": "RVF-25 Messiah, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2319",
+   "en": "RVF-25 Messiah, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2320",
+   "en": "Queadluun-Rhea, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_of1_2320",
+   "en": "Queadluun-Rhea, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2320",
+   "en": "Queadluun-Rhea, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2320",
+   "en": "Queadluun-Rhea, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2320",
+   "en": "Queadluun-Rhea, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2321",
+   "en": "Klan Klang's team, you're cleared to launch. Please do your best!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  },
+  {
+   "id": "vo0_of1_2321",
+   "en": "Klan Klang's team, cleared to launch. Give it your all.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  },
+  {
+   "id": "vo0_of2_2321",
+   "en": "Klan Klang's team, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  },
+  {
+   "id": "vo0_om0_2321",
+   "en": "Klan Klang's team, launch approved. Go give it your best!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  },
+  {
+   "id": "vos_mis_2321",
+   "en": "Klan Klang's team, you're cleared to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  },
+  {
+   "id": "vo0_of0_2322",
+   "en": "Konig Monster, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2322",
+   "en": "Konig Monster, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2322",
+   "en": "Konig Monster, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2322",
+   "en": "Konig Monster, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2322",
+   "en": "Konig Monster, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2323",
+   "en": "Macross Quarter, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2323",
+   "en": "Macross Quarter, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2323",
+   "en": "Macross Quarter, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2323",
+   "en": "Macross Quarter, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2323",
+   "en": "Macross Quarter, you're cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_of0_2324",
+   "en": "Battle Frontier, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2324",
+   "en": "Battle Frontier, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3539: Transcribed as VAC-3; glossary has VA-C-3 Invader Kai.",
+   "row 3540: Transcribed as VAC-3; glossary has VA-C-3 Invader Kai.",
+   "row 3541: Transcribed as VAC-3; glossary has VA-C-3 Invader Kai.",
+   "row 3542: Unit or item name misheard; read from the other operators' transcripts. Transcribed as VAC-3; glossary has VA-C-3 Invader Kai.",
+   "row 3543: Transcribed as VAC-3; glossary has VA-C-3 Invader Kai.",
+   "row 3584: Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji.",
+   "row 3585: Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji.",
+   "row 3586: Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji.",
+   "row 3587: Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji.",
+   "row 3588: Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  ],
+  "whisper_doubt": [
+   "row 3521: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3531: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3533: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3542: Unit or item name misheard; read from the other operators' transcripts. Transcribed as VAC-3; glossary has VA-C-3 Invader Kai.",
+   "row 3556: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3561: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3566: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3568: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3574: Whisper wrote 'RVF number 2'; it is the RVF-25.",
+   "row 3579: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3598: Whisper wrote the wrong kanji for hasshin (launch)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

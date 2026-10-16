@@ -1,0 +1,506 @@
+{
+ "slice": 112,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_ray_144",
+   "en": "Our dream isn't over yet, you and me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_148",
+   "en": "Reinforcements? What a nice surprise.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'ureshii ko-san'; read as ureshii goosan (welcome miscalculation)."
+  },
+  {
+   "id": "vp7_ray_149",
+   "en": "Sound Force here. We're counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_150",
+   "en": "Not a bad rhythm.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_151",
+   "en": "You're doing whatever you please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_152",
+   "en": "What the hell are you doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_153",
+   "en": "We lost the rhythm, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_154",
+   "en": "Everybody had a good groove today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_155",
+   "en": "That was a good show.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_156",
+   "en": "Looks like we'll make today's show somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_157",
+   "en": "We didn't make it. Now I'm just like Basara.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_158",
+   "en": "Being too careful got us into this mess.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_159",
+   "en": "Damn, out of time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_160",
+   "en": "The operation failed. We're pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_161",
+   "en": "Looks like we played a terrible set.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_162",
+   "en": "Can't believe it came to this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_163",
+   "en": "Sorry, but could you cover me with fire?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_164",
+   "en": "I'd appreciate some covering fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_165",
+   "en": "Fire from there and it'll set a good rhythm.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_166",
+   "en": "Sorry to trouble you, but go in for close combat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_167",
+   "en": "Why not try close combat for a change?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_168",
+   "en": "Get out in front and stand out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_169",
+   "en": "Hey! You're too reckless! Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_170",
+   "en": "Leave this to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_171",
+   "en": "Easy, calm down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_172",
+   "en": "Go all out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_173",
+   "en": "You can do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_174",
+   "en": "Formation Medley!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_175",
+   "en": "Sorry, but I'm picking up the tempo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_176",
+   "en": "Let me cut loose a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_177",
+   "en": "Now for the best part!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_178",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_179",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Short 'ah' interjection."
+  },
+  {
+   "id": "vp7_ray_180",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_181",
+   "en": "Captain, don't get so fired up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_182",
+   "en": "You're overdoing it, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_183",
+   "en": "Your groove is a bit off, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_184",
+   "en": "Told you so, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_185",
+   "en": "I never thought the captain would exit mid-show.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_186",
+   "en": "Damn! The captain's been shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_187",
+   "en": "What a sound. No way I can fight this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_188",
+   "en": "I give up. I never thought the Song Energy would be this strong.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_189",
+   "en": "Just how much Song Energy is this song putting out?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'nan chiba song'; read as a quantity of Song Energy."
+  },
+  {
+   "id": "vp7_ray_190",
+   "en": "As expected of you, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_191",
+   "en": "Nice rhythm, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_192",
+   "en": "Basara's got a great groove today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_193",
+   "en": "Nice, Mylene! Keep it up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_300",
+   "en": "I've got no complaint about teaming up with you, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_301",
+   "en": "just don't do anything that kills the groove.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_302",
+   "en": "Well, I guess so. Do it your way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_303",
+   "en": "What a dangerous world it's become, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_304",
+   "en": "All right, let's go. Ready?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_305",
+   "en": "Do it right. I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_306",
+   "en": "This should be easy for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_307",
+   "en": "Show me that fire of yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_308",
+   "en": "Shall we hit them with a big one, too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_309",
+   "en": "Don't die! I can't go through what happened back then again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_310",
+   "en": "Let's make this the best show ever!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_311",
+   "en": "With you, I feel like we could do something huge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_320",
+   "en": "That was the worst show, bar none.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_321",
+   "en": "I never thought it'd be this bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_322",
+   "en": "Looks like this duo breaks up after this one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_323",
+   "en": "Let's keep working together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_324",
+   "en": "That was rough, wasn't it?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript begins 'dou?' ; probably 'aa' or filler."
+  },
+  {
+   "id": "vp7_ray_325",
+   "en": "We both had a rough time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_326",
+   "en": "You're rough around the edges, but I think you're doing well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_327",
+   "en": "You've got a pretty good sense for this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_328",
+   "en": "Keep it up next time, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_329",
+   "en": "That was a great show! Glad I got to do it with you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_330",
+   "en": "I knew you were special the moment I saw you, but this good? Wow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_331",
+   "en": "A great show takes a great partner, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_340",
+   "en": "I admire your spirit of challenge, but I'd advise against it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_341",
+   "en": "Please don't get shot down right in front of me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_342",
+   "en": "I'll back you up as much as I can, but even I have limits.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_343",
+   "en": "Let's enjoy the show! I'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_344",
+   "en": "We should be able to handle an op like this easily.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_345",
+   "en": "The operation's about to start. Stay sharp.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_346",
+   "en": "You can do it. I guarantee it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_347",
+   "en": "I wonder what kind of show this will be.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_348",
+   "en": "Just do it like you always do and you'll be fine. I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 8882 (vp7_ray_148): Whisper 'ureshii ko-san'; read as ureshii goosan (welcome miscalculation).",
+   "row 8923 (vp7_ray_189): Whisper 'nan chiba song'; read as a quantity of Song Energy.",
+   "row 8944 (vp7_ray_324): Transcript begins 'dou?' ; probably 'aa' or filler."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

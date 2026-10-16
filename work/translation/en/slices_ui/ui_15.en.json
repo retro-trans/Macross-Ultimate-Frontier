@@ -1,0 +1,995 @@
+{
+ "slice": 15,
+ "rows_in_slice": 141,
+ "rows_examined": 141,
+ "rows": [
+  {
+   "id": "u3385",
+   "en": "Zentradi Main Fleet Supreme Commander. Fearing a myth that\\nProtoculture contact saps the will to fight, he deems cultured\\nhumans Protoculture, to be destroyed. (CV: Osamu Ichikawa)",
+   "flags": [],
+   "notes": "review: refit: 'legend' -> 'myth'; restructured: 'he'd destroy cultured humanity as Protoculture' | review: restored that he judges humanity to be Protoculture and sets out to destroy it"
+  },
+  {
+   "id": "u3386",
+   "en": "Zentradi Main Fleet Supreme Commander, and the central\\nbio-unit of his flagship. He grasps a little of Culture, and will\\nuse any means, however cruel, to win. (CV: Osamu Ichikawa)",
+   "flags": [],
+   "notes": "review: \"Boddole\" alone is not a glossary form (Boddole Zer); the same source phrase is rendered as Boddole Zer's flagship in u0752, and since this profile is Boddole Zer himself, \"his flagship\" is accurate. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3387",
+   "en": "Chosen as a new fighter's test pilot for his superb flying skill.\\nHe grew up with Myung and Guld but cut ties after an incident.\\nDalmatian High School's wild child. (CV: Takumi Yamazaki)",
+   "flags": [],
+   "notes": "review: refit: 'childhood friend of' -> 'grew up with'; 'a certain incident' -> 'an incident'"
+  },
+  {
+   "id": "u3388",
+   "en": "Yang does not appear.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3389",
+   "en": "Chief developer of the YF-21, a BDI-system prototype, and its\\npilot too. He clashes hard with Isamu over the next-gen fighter\\nrace and childhood friend Myung. (CV: Unsho Ishizuka)",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3390",
+   "en": "Sharon's producer. Once childhood friends with Isamu and\\nGuld, she cut ties after an incident. Meeting them on Eden 7\\nyears later, she is torn between the two. (CV: Rika Fukami)",
+   "flags": [],
+   "notes": "review: refit: 'a certain incident' -> 'an incident'"
+  },
+  {
+   "id": "u3391",
+   "en": "A virtual idol who became the galaxy's No. 1 right after debut.\\nWith songs that have a hypnotic effect, she controls people\\nand plunges Macross City into chaos.",
+   "flags": [],
+   "notes": "No CV credit in the source. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3392",
+   "en": "My profile? Don't dig into someone's past. Forget that, listen\\nto my song! Wanna know me? Hear my song and you'll get it.\\nHere we gooo! (CV: Nobutoshi Canna)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Written in Basara's own voice. CV reading: official romanisation 'Nobutoshi Canna' (also credited 'Nobutoshi Kanna'). | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3393",
+   "en": "FIRE BOMBER's new vocalist. Max and Milia's child, she has\\nflown Valkyries since she was little, so she's a fine pilot too.\\nAt an age where two boys are on her mind. (CV: Tomo Sakurai)",
+   "flags": [],
+   "notes": "Band name kept in Latin caps as the source writes it. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3394",
+   "en": "An elite pilot who joined special assault unit Diamond Force\\nyoung. He saw Basara, who sings in battle, as an enemy, but in\\ntime trusts him and the power of song. (CV: Takehito Koyasu)",
+   "flags": [],
+   "notes": "review: refit: 'believe in' -> 'trusts'"
+  },
+  {
+   "id": "u3395",
+   "en": "For his service in the Zentradi war, he became commander of\\nthe Macross 7 colony fleet. Though retired, his genius piloting\\nis intact, and he flew Valkyries in ops. (CV: Sho Hayami)",
+   "flags": [],
+   "notes": "review: refit: 'retired from the front line' -> 'though retired'; 'operations' -> 'ops'"
+  },
+  {
+   "id": "u3396",
+   "en": "City 7's mayor and a former Zentradi ace pilot. She still sorties\\nwhen City 7 is attacked, and citizens back her as their fighting\\nmayor. (CV: Eri Takeda)",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3397",
+   "en": "Leader of FIRE BOMBER. A former U.N. Forces ace, he left the\\nmilitary after an incident. Always backing Basara and Mylene,\\nhe claims he's 28, which is doubtful. (CV: Masashi Sugawara)",
+   "flags": [],
+   "notes": "review: refit: 'a certain incident' -> 'an incident'"
+  },
+  {
+   "id": "u3398",
+   "en": "FIRE BOMBER's drummer. Taciturn, she rarely speaks, and\\nmostly communicates through her drums. A pure-blooded\\nZentradi with extraordinary strength.",
+   "flags": [],
+   "notes": "No CV credit in the source. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3399",
+   "en": "Miho Miho does not appear.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3400",
+   "en": "Docker does not appear.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3401",
+   "en": "Kinryu does not appear.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3402",
+   "en": "As Varauta Army commander, he was to raid Macross 7 for\\nSpiritia, but he defies Gepelnitchi's orders to awaken one of\\nhis comrades, \"Sivil\". (CV: Tomohiro Nishimura)",
+   "flags": [],
+   "notes": "review: refit: 'Macross 7 fleet' -> 'Macross 7'"
+  },
+  {
+   "id": "u3403",
+   "en": "He took over the Varauta Army from Gigile and tormented the\\nMacross 7 fleet. He dubs all he sees some kind of \"Beauty\". He\\ncan fuse with Glavil into his ultimate form. (CV: Akio Suyama)",
+   "flags": [],
+   "notes": "Gavil's catchphrase pattern rendered with 'Beauty' per terms.json. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3404",
+   "en": "Varauta Army Supreme Commander, with the dread power to\\ndrain all the galaxy's Spiritia. For his Spiritia Farm Project,\\nmeant to give endless Spiritia, he relentlessly hunted Basara.",
+   "flags": [],
+   "notes": "No CV credit in the source. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3405",
+   "en": "A Protodeviln girl. Drawn to Basara's song, she seeks him\\nout again and again. In the end she sings with him and evolves\\ninto a self-regenerating Spiritia race. (CV: Akiko Nakagawa)",
+   "flags": [],
+   "notes": "review: refit: 'in the form of a young girl' -> 'Protodeviln girl'; 'final battle' -> 'in the end'; 'species' -> 'race'"
+  },
+  {
+   "id": "u3406",
+   "en": "\"The galaxy sure has some strange folks in it...\" -- Graham\\n(CV: Nobutoshi Canna)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "CV reading: 'Nobutoshi Canna' (also credited 'Nobutoshi Kanna')."
+  },
+  {
+   "id": "u3407",
+   "en": "A taciturn man bent only on killing the white Galaxy Whale that\\ntook his right arm and his wife. Oddly, he hit it off with Basara,\\nwhich surprised even his daughter Elma. (CV: Joji Nakata)",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3408",
+   "en": "Liza does not appear.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3409",
+   "en": "A sunny, innocent, slightly ditzy girl from planet Zola who\\ndreams of being a pro singer. How she makes it and her name\\nrings across the galaxy is a tale for later. (CV: Aya Sakaguchi)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "CV given name written in hiragana; read as 'Aya'. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3410",
+   "en": "A high schooler in pilot training who becomes a Valkyrie pilot\\nafter a Vajra attack. Born to a famed kabuki line, his gift and\\nlooks once had him play female roles. (CV: Yuichi Nakamura)",
+   "flags": [],
+   "notes": "review: refit: restructured: 'his gift and looks once had him play female roles'"
+  },
+  {
+   "id": "u3411",
+   "en": "Alto's classmate, a crack sniper. Motto: \"Enemies or women, I\\nbring down whatever I aim at.\" He and Klan go way back. His\\nolder sister was also a soldier and sniper. (CV: Hiroshi Kamiya)",
+   "flags": [],
+   "notes": "Motto keeps the double meaning of 'bring down' (shoot down / win over). | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3412",
+   "en": "Alto's junior. An electronics whiz, he is also special adviser\\nto major firm L.A.I.'s tech research division. In battle he flies\\nthe EW RVF-25, controlling drone fighters. (CV: Jun Fukuyama)",
+   "flags": [],
+   "notes": "review: refit: 'electronic-warfare' -> 'EW'; 'unmanned' -> 'drone'"
+  },
+  {
+   "id": "u3413",
+   "en": "Skull Squadron leader in S.M.S., Alto & co.'s private special-ops\\nmilitary outfit. Ex-New U.N. Forces veteran, he took in Ranka\\nfor certain reasons and cares for her. (CV: Katsuyuki Konishi)",
+   "flags": [],
+   "notes": "review: refit: 'former' -> 'Ex-'; 'Alto and the others' -> 'Alto & co.'"
+  },
+  {
+   "id": "u3414",
+   "en": "S.M.S. Pixie Team leader, flying a crimson Queadluun-Rhea.\\nIn battle she's a giant Zentradi, but when micronized her body\\nturns into a little girl's. (CV: Megumi Toyoguchi)",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3415",
+   "en": "S.M.S. Pixie Team leader. Micronized, a genetic anomaly\\ngives her a young girl's body, and oddly a childish personality.\\nMichel teases her; they always bicker. (CV: Megumi Toyoguchi)",
+   "flags": [],
+   "notes": "review: refit: compressed; 'always quarrelling' -> 'always bicker'"
+  },
+  {
+   "id": "u3416",
+   "en": "Captain of the Macross Quarter and the pillar of S.M.S.\\nA former pilot, reportedly as skilled as Ozma, with a broad\\nview that reads the tide of battle. (CV: Toru Okawa)",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3417",
+   "en": "The Super Dimension Cinderella who met Alto & co. and ran up\\nthe glorious stairway to idol stardom. Kira☆. Her love battle\\nwith Sheryl over Alto has just begun. (CV: Megumi Nakajima)",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3418",
+   "en": "A top idol hailed as the Galactic Fairy. Supremely confident in\\nbeing Sheryl, she is extremely proud. Her love battle with\\nRanka over Alto has only just begun. (CV: Aya Endo)",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3419",
+   "en": "Bobby does not appear.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3420",
+   "en": "A cyborg pilot who blocked Alto time and again. Emotionless,\\nhe saw his missions as his whole reason to exist, but through\\nhis time with Ranka he slowly changes. (CV: Soichiro Hoshi)",
+   "flags": [],
+   "notes": "review: refit: 'stood in Alto's way' -> 'blocked Alto'; 'gradually' -> 'slowly'"
+  },
+  {
+   "id": "u3421",
+   "en": "No description for the Vajra.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3422",
+   "en": "Sheryl's formidable manager, but in truth the mastermind who\\nbrought the Vajra to the Frontier fleet. She schemes to use the\\npower of Ranka and the Vajra to rule all. (CV: Kikuko Inoue)",
+   "flags": [],
+   "notes": "review: refit: 'the entire universe' -> 'all'"
+  },
+  {
+   "id": "u3423",
+   "en": "Hibiki does not appear.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3424",
+   "en": "Silvie does not appear.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3425",
+   "en": "An Emulator of the Mardook army. Taken by Hibiki, she met\\nEarth culture and learned what culture means. Through Ars's\\nsong, she ended the Mardook war. (CV: Hiroko Kasahara)",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "'Ars' is a plain romanisation of a term in the source (whose song ends the war); not in the glossary or the cached wiki page, needs checking against Macross II sources. | review: refit: 'war with the Mardook army' -> 'Mardook war'"
+  },
+  {
+   "id": "u3426",
+   "en": "A rookie who has dreamed of being a pilot since he was small.\\nHonest and earnest, with a slightly timid streak, but once his\\nblood is up, he shows a bold side. (CV: Jun Konno)",
+   "flags": [],
+   "notes": "Yuuto Kagura (male, renamable player character). | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3427",
+   "en": "Raised rich, he wanted for nothing, but bored of a life with no\\nthrills, he became a pilot. A seasoned veteran, foul-mouthed\\nbut admired as a good big brother. (CV: Tetsu Inada)",
+   "flags": [],
+   "notes": "Gary Murdoch (male). | review: refit: 'veteran of many battlefields' -> 'seasoned veteran'"
+  },
+  {
+   "id": "u3428",
+   "en": "A passionate pilot who deeply loves the sky. His impulsiveness\\nlands him in all kinds of trouble, on and off the job. His hobby\\nis collecting oddly patterned T-shirts. (CV: Yuki Hayashi)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Luis Fernando (male). CV reading assumed 'Yuki Hayashi'. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3429",
+   "en": "Born into a military family where all must serve, she became\\na pilot, rare for a woman even there. Bright and friendly to all,\\nshe often gives men the wrong idea. (CV: Hinako Sasaki)",
+   "flags": [],
+   "notes": "Miyuki Shirakawa (female). | review: refit: 'with men and women alike' -> 'to all'"
+  },
+  {
+   "id": "u3430",
+   "en": "Trained hard from childhood by her mercenary father, she's\\na proven pilot. Perhaps as a single dad raised her, she's rough,\\nbut has a feminine side: her hobby is cooking. (CV: Miho Hino)",
+   "flags": [],
+   "notes": "Hilda V. Bergen (female). | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3431",
+   "en": "An unlucky pilot who joined to be a mechanic, but her aptitude\\ntest made her a pilot. A quarter Zentradi, she's always full of\\nneedless energy -- her strong point. (CV: Yoko Nishino)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Yui Hoshimura (female). CV reading assumed 'Yoko Nishino'. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3432",
+   "en": "Aegis does not appear.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3433",
+   "en": "Gilliam does not appear.",
+   "flags": [],
+   "notes": "Developer placeholder text in the source."
+  },
+  {
+   "id": "u3434",
+   "en": "An unlucky girl who enlisted to be a mechanic, only to be\\nmade a pilot by her aptitude test. Still, with natural cheer and\\nneedlessly high energy, she enjoys it all. (CV: Yoko Nishino)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Yui Hoshimura (female). CV reading assumed 'Yoko Nishino'. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3435",
+   "en": "Kinryu",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3436",
+   "en": "Scott & Kannara & Nepias",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Monster crew trio (Macross 7). Kanji surname read as 'Kannara' (guess); the other two romanised from katakana."
+  },
+  {
+   "id": "u3437",
+   "en": "Ray & Veffidas",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3438",
+   "en": "Captain Max",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3439",
+   "en": "Gamlin & Mylene",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3440",
+   "en": "Irina Hayakawa",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Macross 7 fleet pilot; given name first as written. Gender not assumed."
+  },
+  {
+   "id": "u3441",
+   "en": "Ortek",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Emerald Force wingman of Docker (m7_420); could also be 'Ortec'."
+  },
+  {
+   "id": "u3442",
+   "en": "Matthews",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Emerald Force wingman of Docker (m7_420)."
+  },
+  {
+   "id": "u3443",
+   "en": "Dick",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Diamond Force wingman of Gamlin (m7_420)."
+  },
+  {
+   "id": "u3444",
+   "en": "Molly",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Diamond Force wingman of Gamlin (m7_420); could also be 'Morley'. Gender unknown."
+  },
+  {
+   "id": "u3445",
+   "en": "Gamlin Kizaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3446",
+   "en": "Chlore",
+   "flags": [],
+   "notes": "Spelling from Chlore Fleet / Queadluun-Rau (Chlore) in the glossary."
+  },
+  {
+   "id": "u3447",
+   "en": "Shin Kudo/VF-0D(SK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3448",
+   "en": "Carrier Asuka II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3449",
+   "en": "Search Point",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3450",
+   "en": "Shin Kudo/VF-0A(SK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3451",
+   "en": "Grace O'Connor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3452",
+   "en": "Irina Squad",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Unit of Irina Hayakawa (demo units, md_330). | review: Glossary organizations.json fixes this unit name as \"Irina Squad\"."
+  },
+  {
+   "id": "u3453",
+   "en": "Feff",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3454",
+   "en": "Mariafokina Barnrose",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3455",
+   "en": "Magic Mirror Base",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Vindirance communications relay base (me_041); 'Magic Mirror' taken as the base's name."
+  },
+  {
+   "id": "u3456",
+   "en": "Suzie Newtlet",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Macross VF-X2 Ravens pilot; spelling from Macross Wiki links."
+  },
+  {
+   "id": "u3457",
+   "en": "Gilliam Angreat",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3458",
+   "en": "Shun Toma",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Macross VF-X2 Ravens pilot; Macross Wiki writes 'Shun Toma' (the katakana has the family name first)."
+  },
+  {
+   "id": "u3459",
+   "en": "Manfred Brando/VF-17S",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Macross VF-X2 villain (Critical Path Corporation president); spelling from Macross Wiki."
+  },
+  {
+   "id": "u3460",
+   "en": "Wilbur Garland",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3461",
+   "en": "Shin Kudo/VF-0D(SK)",
+   "flags": [],
+   "notes": "Source has a full-width space between the names."
+  },
+  {
+   "id": "u3462",
+   "en": "Shin Kudo/VF-0A(SK)",
+   "flags": [],
+   "notes": "Source has a full-width space between the names."
+  },
+  {
+   "id": "u3463",
+   "en": "Physica S. Fulcrum",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Macross 7 Diamond Force pilot (male); spelling from Macross Wiki links."
+  },
+  {
+   "id": "u3464",
+   "en": "Matthew Langley",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Minor pilot in me_130; romanised from katakana."
+  },
+  {
+   "id": "u3465",
+   "en": "Maria Velasquez Hoilie",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Family name follows the glossary 'Hoilie' (Elma/Graham/Liza's family)."
+  },
+  {
+   "id": "u3466",
+   "en": "Patrol Leader",
+   "flags": [],
+   "notes": "Zolan Star Patrol squad leader (me_130)."
+  },
+  {
+   "id": "u3467",
+   "en": "Gavigla",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Fused name of Gavil + Glavil; romanised to match both glossary spellings."
+  },
+  {
+   "id": "u3468",
+   "en": "Warera Nantes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3469",
+   "en": "Conda Bromco",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3470",
+   "en": "Loli Dosel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3471",
+   "en": "Oigul",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Zentradi soldier in Quamzin's faction (SDF Macross); romanised from katakana."
+  },
+  {
+   "id": "u3472",
+   "en": "Hayao Kakizaki/VF-1A(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3473",
+   "en": "Maruyama",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "VF-171 pilot in me_160; romanised from katakana."
+  },
+  {
+   "id": "u3474",
+   "en": "Nene Rora",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3475",
+   "en": "Canaria Berstein",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Macross Frontier VB-6 pilot; spelling from Macross Wiki links."
+  },
+  {
+   "id": "u3476",
+   "en": "Bruno J. Global",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3477",
+   "en": "Grace O'Connor",
+   "flags": [],
+   "notes": "Source has two trailing full-width spaces (padding); dropped."
+  },
+  {
+   "id": "u3478",
+   "en": "Sakutaro",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Dengeki V editor pen name (real magazine staff cameo, me_170)."
+  },
+  {
+   "id": "u3479",
+   "en": "Atsugoro",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Dengeki V editor pen name (real magazine staff cameo, me_170)."
+  },
+  {
+   "id": "u3480",
+   "en": "Editor-in-Chief Nishioka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3481",
+   "en": "Basara Sato",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Famitsu writer pen name (me_180), kept in the order written."
+  },
+  {
+   "id": "u3482",
+   "en": "Bunbunmaru",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Famitsu writer pen name (me_180)."
+  },
+  {
+   "id": "u3483",
+   "en": "Kamikaze Nagata",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Famitsu writer pen name (me_180); kanji surname read as 'Nagata' (could be 'Osada')."
+  },
+  {
+   "id": "u3484",
+   "en": "Hamamura Tsushin",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3485",
+   "en": "Canaria & Ranka",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Canaria Berstein is not in the glossary."
+  },
+  {
+   "id": "u3486",
+   "en": "Jun",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Sagittarius Squadron pilot (mf_185); romanised from katakana."
+  },
+  {
+   "id": "u3487",
+   "en": "Alto & Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3488",
+   "en": "Henry Gilliam/VF-25F(HG)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Original Skull Squadron second-in-command killed in Macross Frontier ep. 1; spelling from Macross Wiki."
+  },
+  {
+   "id": "u3489",
+   "en": "Raramia Rerenia",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3490",
+   "en": "Hideout",
+   "flags": [],
+   "notes": "Thieves' hideout (mf_350)."
+  },
+  {
+   "id": "u3491",
+   "en": "Michael & Ranka",
+   "flags": [],
+   "notes": "Source uses the formal given name, not the nickname Michel."
+  },
+  {
+   "id": "u3492",
+   "en": "Temjin/QDL-REA",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Zentradi rebel leader on Gallia 4 (Macross Frontier)."
+  },
+  {
+   "id": "u3493",
+   "en": "Michael & Sheryl",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3494",
+   "en": "Large Vajra Mothership",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3495",
+   "en": "Sheryl & Michael",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3496",
+   "en": "Zolan Star Patrol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3497",
+   "en": "Kariba",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Poacher-side unit in mg_030 (key MSH000, likely the mothership); meaning unconfirmed."
+  },
+  {
+   "id": "u3498",
+   "en": "Asuka II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3499",
+   "en": "Maximilian Jenius/VF-1A(MJ)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3500",
+   "en": "Warera 25258",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3501",
+   "en": "Loli 28356",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3502",
+   "en": "Conda 88333",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3503",
+   "en": "Ichijyo & Minmay",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source pairs Hikaru's family name with Minmay; kept as written rather than 'Hikaru & Minmay'."
+  },
+  {
+   "id": "u3504",
+   "en": "Quamzin 03350",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3505",
+   "en": "Milia 639",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3506",
+   "en": "Ichijyo & Hayase",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Both family names as written (Hikaru and Misa)."
+  },
+  {
+   "id": "u3507",
+   "en": "Carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3508",
+   "en": "Base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3509",
+   "en": "Hikaru Ichijyo/VF-1S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3510",
+   "en": "Minmay & Kaifun",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3511",
+   "en": "Lynn Kaifun",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3512",
+   "en": "Lap Lamiz",
+   "flags": [],
+   "notes": "Glossary short form of Moruk Lap Lamiz."
+  },
+  {
+   "id": "u3513",
+   "en": "Factory/FACTORY",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3514",
+   "en": "Lap Lamiz/QDL-RAU",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3515",
+   "en": "Reaction Engine",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3516",
+   "en": "Quamzin & Lap Lamiz",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3517",
+   "en": "Sara Base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3518",
+   "en": "Blue Wind",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Label of a unit in ms_370 (key QLQ001); literal rendering, referent unknown."
+  },
+  {
+   "id": "u3519",
+   "en": "Milia Fallyna/VF-1A(1P)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3520",
+   "en": "Maximilian Jenius/VF-1A(2P)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3521",
+   "en": "Max & Milia/VF-1D(MJ)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3522",
+   "en": "Boddole Zer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3523",
+   "en": "Collection Point/REPOSITORY",
+   "flags": [],
+   "notes": "Container-transport tutorial drop-off point."
+  },
+  {
+   "id": "u3524",
+   "en": "Parts BOX",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3525",
+   "en": "Temjin",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Zentradi rebel leader (Macross Frontier)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3392: Written in Basara's own voice. CV reading: official romanisation 'Nobutoshi Canna' (also credited 'Nobutoshi Kanna').",
+   "u3406: CV reading: 'Nobutoshi Canna' (also credited 'Nobutoshi Kanna').",
+   "u3409: CV given name written in hiragana; read as 'Aya'.",
+   "u3425: 'Ars' is a plain romanisation of a term in the source (whose song ends the war); not in the glossary or the cached wiki page, needs checking against Macross II sources.",
+   "u3428: Luis Fernando (male). CV reading assumed 'Yuki Hayashi'.",
+   "u3431: Yui Hoshimura (female). CV reading assumed 'Yoko Nishino'.",
+   "u3434: Yui Hoshimura (female). CV reading assumed 'Yoko Nishino'.",
+   "u3436: Monster crew trio (Macross 7). Kanji surname read as 'Kannara' (guess); the other two romanised from katakana.",
+   "u3441: Emerald Force wingman of Docker (m7_420); could also be 'Ortec'.",
+   "u3444: Diamond Force wingman of Gamlin (m7_420); could also be 'Morley'. Gender unknown.",
+   "u3455: Vindirance communications relay base (me_041); 'Magic Mirror' taken as the base's name.",
+   "u3465: Family name follows the glossary 'Hoilie' (Elma/Graham/Liza's family).",
+   "u3467: Fused name of Gavil + Glavil; romanised to match both glossary spellings.",
+   "u3471: Zentradi soldier in Quamzin's faction (SDF Macross); romanised from katakana.",
+   "u3483: Famitsu writer pen name (me_180); kanji surname read as 'Nagata' (could be 'Osada').",
+   "u3497: Poacher-side unit in mg_030 (key MSH000, likely the mothership); meaning unconfirmed.",
+   "u3503: Source pairs Hikaru's family name with Minmay; kept as written rather than 'Hikaru & Minmay'.",
+   "u3506: Both family names as written (Hikaru and Misa).",
+   "u3518: Label of a unit in ms_370 (key QLQ001); literal rendering, referent unknown."
+  ],
+  "missing_glossary": [
+   "u3425: An Emulator of the Mardook army. Carried off by Hibiki, she came into contact\\nwith Earth's culture and learned what culture means. Through the song of\\nArs, she brought the war with the Mardook to an end. (CV: Hiroko Kasahara)",
+   "u3436: Scott & Kannara & Nepias",
+   "u3440: Irina Hayakawa",
+   "u3441: Ortek",
+   "u3442: Matthews",
+   "u3443: Dick",
+   "u3444: Molly",
+   "u3452: Irina's Squad",
+   "u3456: Suzie Newtlet",
+   "u3458: Shun Toma",
+   "u3459: Manfred Brando/VF-17S",
+   "u3463: Physica S. Fulcrum",
+   "u3464: Matthew Langley",
+   "u3465: Maria Velasquez Hoilie",
+   "u3467: Gavigla",
+   "u3471: Oigul",
+   "u3473: Maruyama",
+   "u3475: Canaria Berstein",
+   "u3478: Sakutaro",
+   "u3479: Atsugoro",
+   "u3481: Basara Sato",
+   "u3482: Bunbunmaru",
+   "u3483: Kamikaze Nagata",
+   "u3485: Canaria & Ranka",
+   "u3486: Jun",
+   "u3488: Henry Gilliam/VF-25F(HG)",
+   "u3492: Temjin/QDL-REA",
+   "u3497: Kariba",
+   "u3525: Temjin"
+  ],
+  "unfinished": []
+ }
+}

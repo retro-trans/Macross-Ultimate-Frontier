@@ -1,0 +1,539 @@
+{
+ "slice": 5,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "mission_ext:MZ_310:strStory",
+   "en": "As special training, we will now hold a mock battle using melee attacks only.\\nFleet Commander Vrlitwhai himself joins this mock battle. Defeat Vrlitwhai.",
+   "flags": [],
+   "notes": "review: refit: L2 tighter; L1 unchanged"
+  },
+  {
+   "id": "mission_ext:MZ_320:strMission",
+   "en": "Annihilate the Micronian mobile weapons\\nthat have infiltrated the ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MZ_320:strStory",
+   "en": "We captured Micronians, but enemy mobile weapons have broken into the ship.\\nTo stop them retaking the captives, annihilate the Micronian intruders.",
+   "flags": [],
+   "notes": "review: refit: tighter wording"
+  },
+  {
+   "id": "mission_ext:MZ_330:strMission",
+   "en": "Annihilate the Micronian mobile weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MZ_330:strStory",
+   "en": "Ignoring the order to halt attacks on Micronians, Quamzin attacked their ship.\\nWe can't let Quamzin get ahead of us. We're launching our own attack too.",
+   "flags": [],
+   "notes": "review: refit: tighter wording"
+  },
+  {
+   "id": "mission_ext:MZ_340:strMission",
+   "en": "To stop the contamination by Culture,\\nerase the Micronian vermin.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Zentradi-side briefing; 'bunka' rendered as 'Culture' (capitalised, series usage); the contemptuous plural suffix rendered as 'vermin'. | review: term added to glossary"
+  },
+  {
+   "id": "mission_ext:MZ_340:strStory",
+   "en": "Fleet Cmdr. Vrlitwhai, contaminated by Culture, made his own Micronian truce.\\nWe cannot allow Culture to contaminate anyone else. Erase the Micronians.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Culture' as in row 326. Source uses an honorific-free report of Vrlitwhai's act; 'on his own authority' for acting on his own judgment. | review: term added to glossary | review: refit: \"Commander\" to \"Cmdr.\", \"agreed to a ceasefire ... on his own authority\" to \"made his own ... truce\"; L2 unchanged"
+  },
+  {
+   "id": "mission_ext:MI_010:strMission",
+   "en": "To make it home to Earth,\\nannihilate the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_010:strStory",
+   "en": "As the Macross heads home from beyond the solar system, the Zentradi appear.\\nFirst break their formation with reaction weapons, then annihilate them.",
+   "flags": [],
+   "notes": "review: refit: restructured; \"home to Earth\" to \"home\", \"preemptive strike\" to \"First ...\""
+  },
+  {
+   "id": "mission_ext:MI_011:strMission",
+   "en": "To make it home to Earth,\\nannihilate the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_011:strStory",
+   "en": "As the Macross heads home from beyond the solar system, the Zentradi appear.\\nFirst break their formation with reaction weapons, then annihilate them.",
+   "flags": [],
+   "notes": "review: refit: restructured; \"home to Earth\" to \"home\", \"preemptive strike\" to \"First ...\""
+  },
+  {
+   "id": "mission_ext:MI_015:strMission",
+   "en": "To make it home to Earth,\\nannihilate the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_015:strStory",
+   "en": "As the Macross heads home from beyond the solar system, the Zentradi appear.\\nFirst break their formation with reaction weapons, then annihilate them.",
+   "flags": [],
+   "notes": "review: refit: restructured; \"home to Earth\" to \"home\", \"preemptive strike\" to \"First ...\""
+  },
+  {
+   "id": "mission_ext:MI_016:strMission",
+   "en": "To make it home to Earth,\\nannihilate the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_016:strStory",
+   "en": "As the Macross heads home from beyond the solar system, the Zentradi appear.\\nFirst break their formation with reaction weapons, then annihilate them.",
+   "flags": [],
+   "notes": "review: refit: restructured; \"home to Earth\" to \"home\", \"preemptive strike\" to \"First ...\""
+  },
+  {
+   "id": "mission_ext:MI_020:strMission",
+   "en": "Capture the U.N. Forces pilot who is\\nflying a Valkyrie without authorization.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_020:strStory",
+   "en": "We've spotted a pilot flying a Valkyrie around Saturn without permission.\\nUnauthorized use of a Valkyrie won't be tolerated. Capture the pilot at once.",
+   "flags": [],
+   "notes": "review: refit: \"took a Valkyrie out without permission and is flying it\" merged"
+  },
+  {
+   "id": "mission_ext:MI_030:strMission",
+   "en": "To rescue the hostages,\\nhead to the target area immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_030:strStory",
+   "en": "The Zentradi have taken Macross crew members captive. To rescue the hostages,\\ninfiltrate the enemy ship and go at once to where they're thought to be held.",
+   "flags": [],
+   "notes": "review: refit: tighter wording"
+  },
+  {
+   "id": "mission_ext:MI_040:strMission",
+   "en": "As part of your training,\\nfight a mock battle against Max.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_040:strStory",
+   "en": "To prepare for relentless Zentradi raids, we'll now conduct special training.\\nWin a mock battle against the rumored genius pilot, Maximilian Jenius.",
+   "flags": [],
+   "notes": "Full name Maximilian Jenius kept as in the source. | review: refit: \"the genius pilot everyone is talking about\" to \"the rumored genius pilot\""
+  },
+  {
+   "id": "mission_ext:MI_050:strMission",
+   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_050:strStory",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "flags": [],
+   "notes": "review: refit: tighter wording, second Macross mention dropped"
+  },
+  {
+   "id": "mission_ext:MI_051:strMission",
+   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_051:strStory",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "flags": [],
+   "notes": "review: refit: tighter wording, second Macross mention dropped"
+  },
+  {
+   "id": "mission_ext:MI_055:strMission",
+   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_055:strStory",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "flags": [],
+   "notes": "review: refit: tighter wording, second Macross mention dropped"
+  },
+  {
+   "id": "mission_ext:MI_056:strMission",
+   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_056:strStory",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "flags": [],
+   "notes": "review: refit: tighter wording, second Macross mention dropped"
+  },
+  {
+   "id": "mission_ext:MI_060:strMission",
+   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_060:strStory",
+   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "flags": [],
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+  },
+  {
+   "id": "mission_ext:MI_061:strMission",
+   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_061:strStory",
+   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "flags": [],
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+  },
+  {
+   "id": "mission_ext:MI_065:strMission",
+   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_065:strStory",
+   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "flags": [],
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+  },
+  {
+   "id": "mission_ext:MI_066:strMission",
+   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MI_066:strStory",
+   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "flags": [],
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+  },
+  {
+   "id": "mission_ext:MP_310:strMission",
+   "en": "As part of your training, fight\\nmock battles with the Destroid squads.",
+   "flags": [],
+   "notes": "review: refit: 'against' -> 'with', line break moved"
+  },
+  {
+   "id": "mission_ext:MP_310:strStory",
+   "en": "To prepare for emergencies like a Zentradi remnant revolt or unseen threats,\\nregular U.N. Forces training begins. Beat each Destroid squad in mock battle.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source uses the old U.N. Forces short form in the Macross Plus era; followed the brief's literal mapping. | review: refit: 'as yet unseen' -> 'unseen'; 'we will now conduct' -> 'begins'; 'fight mock battles... and win' -> 'beat... in mock battle'"
+  },
+  {
+   "id": "mission_ext:MP_320:strMission",
+   "en": "Annihilate the rioting\\nZentradi remnants.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MP_320:strStory",
+   "en": "Rioting Zentradi remnants have ignored a call to surrender and still run wild.\\nTo put down the riot at once, annihilate the Zentradi remnants.",
+   "flags": [],
+   "notes": "review: refit: 'are still on the rampage' -> 'still run wild'"
+  },
+  {
+   "id": "mission_ext:MP_330:strMission",
+   "en": "To assess your aptitude as a test pilot,\\nfight the Valkyrie squad in a mock battle.",
+   "flags": [],
+   "notes": "review: refit: reordered"
+  },
+  {
+   "id": "mission_ext:MP_330:strStory",
+   "en": "This test assesses your aptitude as a test pilot for Project Super Nova,\\nthe next main VF contest. Win the mock battle against the Valkyrie squad.",
+   "flags": [],
+   "notes": "Source typo (next-machine for next-term) read as 'next main variable fighter'. Break kept at the matching point after the test-pilot clause. | review: refit: 'competition for the next main variable fighter' -> 'next main VF contest'"
+  },
+  {
+   "id": "mission_ext:MP_340:strMission",
+   "en": "Pass each waypoint as it is designated,\\nas quickly as you can.",
+   "flags": [],
+   "notes": "review: refit: 'Fly through' -> 'Pass'"
+  },
+  {
+   "id": "mission_ext:MP_340:strStory",
+   "en": "A flight test now begins to measure the prototype's thrust, agility and more.\\nRun a time trial to measure how long you take to clear all the waypoints.",
+   "flags": [],
+   "notes": "review: refit: 'flight performance, including thrust and maneuverability' -> 'thrust, agility and more'"
+  },
+  {
+   "id": "mission_ext:MP_350:strMission",
+   "en": "Destroy the targets as you\\nhead for the target area at speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MP_350:strStory",
+   "en": "To test the prototype's agility, we'll fly it in a confined space like a base.\\nRun a time trial: destroy all targets and reach the target area.",
+   "flags": [],
+   "notes": "review: refit: 'like the inside of a base' -> 'like a base'; dropped 'as fast as you can' (implied by time trial)"
+  },
+  {
+   "id": "mission_ext:MP_360:strMission",
+   "en": "Destroy as many enemies as you can\\nwithin the 5-minute time limit.",
+   "flags": [],
+   "notes": "Source lacks a final full stop; added one for consistency with the other objectives."
+  },
+  {
+   "id": "mission_ext:MP_360:strStory",
+   "en": "To gauge the prototype's combat ability, we'll now stage an arena mock battle.\\nBattle a large number of targets, simulating combat against multiple enemies.",
+   "flags": [],
+   "notes": "review: refit: tighter wording"
+  },
+  {
+   "id": "mission_ext:MP_370:strMission",
+   "en": "As a live combat test of the prototype,\\nannihilate the Zentradi remnants.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MP_370:strStory",
+   "en": "We've had reports of Zentradi remnants appearing from a planet near Eden.\\nWe'll now annihilate them, also as a live combat test of the prototype.",
+   "flags": [],
+   "notes": "review: refit: 'planet Eden' -> 'Eden'; second mention of Zentradi remnants -> 'them'"
+  },
+  {
+   "id": "mission_ext:MP_380:strMission",
+   "en": "Stop the bombers escorted by VF-11s\\nfrom reaching the target area.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Number of bombers not stated in the source; plural chosen."
+  },
+  {
+   "id": "mission_ext:MP_380:strStory",
+   "en": "For prototype combat data in varied settings, a mock air battle now begins.\\nDestroy the VF-11 and drone-escorted bombers short of the target area.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Bombers plural, as row 372. | review: refit: 'in a range of environments' -> 'in varied settings'; 'before they reach' -> 'short of'"
+  },
+  {
+   "id": "mission_ext:MP_390:strMission",
+   "en": "Destroy the carrier\\nescorted by VF-11s.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MP_390:strStory",
+   "en": "For prototype combat data in varied settings, a mock sea battle now begins.\\nSink the multipurpose carrier escorted by VF-11s, Destroids and an Aegis ship.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Aegis ship' kept literal; 'multipurpose carrier' for the general-purpose carrier. | review: term added to glossary | review: refit: 'Destroid squads' -> 'Destroids'; 'Destroy' -> 'Sink' (carrier)"
+  },
+  {
+   "id": "mission_ext:MP_400:strMission",
+   "en": "Destroy the base\\ndefended by VF-11s.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MP_400:strStory",
+   "en": "For prototype combat data in varied settings, a mock ground battle now begins.\\nDestroy the base defended by VF-11s and Destroid squads.",
+   "flags": [],
+   "notes": "review: refit: 'in a range of environments' -> 'in varied settings'"
+  },
+  {
+   "id": "mission_ext:MP_410:strMission",
+   "en": "Defeat the rival aircraft in the competition.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MP_410:strStory",
+   "en": "For head-to-head prototype data, we now hold a mock battle against the rival.\\nNeedless to say, it's the most crucial test for selection. Win at any cost.",
+   "flags": [],
+   "notes": "review: refit: 'prototype against prototype' -> 'head-to-head'; 'rival model' -> 'rival'"
+  },
+  {
+   "id": "mission_ext:MP_420:strMission",
+   "en": "Subdue the U.N. Forces soldiers who have\\nrun amok at the anniversary ceremony.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Commemorative ceremony rendered 'anniversary ceremony' (Macross Plus 30th-anniversary event)."
+  },
+  {
+   "id": "mission_ext:MP_420:strStory",
+   "en": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth.\\nTo end this crisis of unknown cause, subdue the rampaging soldiers at once.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As row 380. | review: refit: 'U.N. Forces soldiers' -> 'U.N. troops'; 'bring this emergency under control' -> 'end this crisis'"
+  },
+  {
+   "id": "mission_ext:MP_421:strMission",
+   "en": "Subdue the U.N. Forces soldiers who have\\nrun amok at the anniversary ceremony.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Commemorative ceremony rendered 'anniversary ceremony' (Macross Plus 30th-anniversary event)."
+  },
+  {
+   "id": "mission_ext:MP_421:strStory",
+   "en": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth.\\nTo end this crisis of unknown cause, subdue the rampaging soldiers at once.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As row 380. | review: refit: 'U.N. Forces soldiers' -> 'U.N. troops'; 'bring this emergency under control' -> 'end this crisis'"
+  },
+  {
+   "id": "mission_ext:MP_425:strMission",
+   "en": "Subdue the U.N. Forces soldiers who have\\nrun amok at the anniversary ceremony.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Commemorative ceremony rendered 'anniversary ceremony' (Macross Plus 30th-anniversary event)."
+  },
+  {
+   "id": "mission_ext:MP_425:strStory",
+   "en": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth.\\nTo end this crisis of unknown cause, subdue the rampaging soldiers at once.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As row 380. | review: refit: 'U.N. Forces soldiers' -> 'U.N. troops'; 'bring this emergency under control' -> 'end this crisis'"
+  },
+  {
+   "id": "mission_ext:MP_426:strMission",
+   "en": "Subdue the U.N. Forces soldiers who have\\nrun amok at the anniversary ceremony.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Commemorative ceremony rendered 'anniversary ceremony' (Macross Plus 30th-anniversary event)."
+  },
+  {
+   "id": "mission_ext:MP_426:strStory",
+   "en": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth.\\nTo end this crisis of unknown cause, subdue the rampaging soldiers at once.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As row 380. | review: refit: 'U.N. Forces soldiers' -> 'U.N. troops'; 'bring this emergency under control' -> 'end this crisis'"
+  },
+  {
+   "id": "mission_ext:MP_430:strMission",
+   "en": "To stop Sharon's rampage,\\ndestroy Sharon immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MP_430:strStory",
+   "en": "Sharon Apple has run out of control and seized U.N. Forces central command.\\nTo free the people her song is manipulating, destroy Sharon immediately.",
+   "flags": [],
+   "notes": "Sharon referred to as 'her' per glossary; source uses the female pronoun too. | review: refit: passive -> active; tighter wording"
+  },
+  {
+   "id": "mission_ext:MP_431:strMission",
+   "en": "To stop Sharon's rampage,\\ndestroy Sharon immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MP_431:strStory",
+   "en": "Sharon Apple has run out of control and seized U.N. Forces central command.\\nTo free the people her song is manipulating, destroy Sharon immediately.",
+   "flags": [],
+   "notes": "review: refit: passive -> active; tighter wording"
+  },
+  {
+   "id": "mission_ext:MP_435:strMission",
+   "en": "To stop Sharon's rampage,\\ndestroy Sharon immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MP_435:strStory",
+   "en": "Sharon Apple has run out of control and seized U.N. Forces central command.\\nTo free the people her song is manipulating, destroy Sharon immediately.",
+   "flags": [],
+   "notes": "review: refit: passive -> active; tighter wording"
+  },
+  {
+   "id": "mission_ext:MP_436:strMission",
+   "en": "To stop Sharon's rampage,\\ndestroy Sharon immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MP_436:strStory",
+   "en": "Sharon Apple has run out of control and seized U.N. Forces central command.\\nTo free the people her song is manipulating, destroy Sharon immediately.",
+   "flags": [],
+   "notes": "review: refit: passive -> active; tighter wording"
+  },
+  {
+   "id": "mission_ext:MX_010:strMission",
+   "en": "Defeat Guld, who is standing in the way\\nof meeting Isamu.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sharon-side mission: the meeting with Isamu is Sharon's; kept impersonal 'of meeting Isamu' as the source does."
+  },
+  {
+   "id": "mission_ext:MX_010:strStory",
+   "en": "I want to see him. I want to see him smile. He... Isamu will be here soon.\\nI've waited for you, Isamu. Only you. Nothing stands between us anymore...",
+   "flags": [],
+   "notes": "Monologue in Sharon's voice (first person, addressed to Isamu). | review: refit: 'the joy on his face' -> 'him smile'; 'I've been waiting' -> 'I've waited'"
+  },
+  {
+   "id": "mission_ext:MX_011:strMission",
+   "en": "Defeat Guld, who is standing in the way\\nof meeting Isamu.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As row 396."
+  },
+  {
+   "id": "mission_ext:MX_011:strStory",
+   "en": "I want to see him. I want to see him smile. He... Isamu will be here soon.\\nI've waited for you, Isamu. Only you. Nothing stands between us anymore...",
+   "flags": [],
+   "notes": "As row 397. | review: refit: 'the joy on his face' -> 'him smile'; 'I've been waiting' -> 'I've waited'"
+  },
+  {
+   "id": "mission_ext:M7_310:strMission",
+   "en": "Wipe out the unknowns that just appeared.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Unidentified aircraft' for the group of unidentified machines; 'units' also possible. | review: same source as row 402; one rendering | review: refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 326-327: 'bunka' rendered as 'Culture' (Zentradi term for human culture); not in terms.json.",
+   "row 326: contemptuous plural suffix on Micronian rendered as 'Micronian vermin'.",
+   "rows 359, 380-395: source uses the old U.N. Forces short form in the Macross Plus era (could be New U.N.); followed the brief's literal mapping.",
+   "rows 372-373: bomber count unstated; plural chosen.",
+   "row 375: 'Aegis ship' kept literal.",
+   "rows 380-387: commemorative ceremony rendered 'anniversary ceremony' (Macross Plus 30th-anniversary event).",
+   "rows 396, 398: Sharon-side objective; the reunion is Sharon's, phrased impersonally as 'meeting Isamu'.",
+   "row 400: 'unidentified aircraft' for the group of unidentified machines; could be 'units'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "bunka (Culture, the Zentradi term for human culture): used as 'Culture'",
+   "iijisu-kan (Aegis-type escort warship): used as 'Aegis ship'"
+  ],
+  "unfinished": []
+ }
+}

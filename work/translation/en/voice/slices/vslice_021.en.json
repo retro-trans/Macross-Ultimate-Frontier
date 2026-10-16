@@ -1,0 +1,587 @@
+{
+ "slice": 21,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1050",
+   "en": "Some of the Zentradi have turned into a rioting mob. Suppress them immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1050",
+   "en": "Some Zentradi have turned into a rioting mob. Put them down right away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1050",
+   "en": "Some Zentradi have turned into a mob and are rampaging! Suppress them at once!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'shin-atsu' (wrong kanji) for 'chin-atsu' (suppress)."
+  },
+  {
+   "id": "vos_mis_1050",
+   "en": "Some Zentradi have turned into a rioting mob. Suppress them immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1051",
+   "en": "Please protect the Micronizer from the rioting Zentradi.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'booto-ka' for 'bouto-ka' (rioting). Micronizer (maikuron souchi) is not in the glossary."
+  },
+  {
+   "id": "vo0_of1_1051",
+   "en": "Protect the Micronizer from the rioting Zentradi.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Micronizer (maikuron souchi) is not in the glossary."
+  },
+  {
+   "id": "vo0_of2_1051",
+   "en": "Protect the Micronizer from the rioting Zentradi!",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'booto-ka' for 'bouto-ka' (rioting). Micronizer is not in the glossary."
+  },
+  {
+   "id": "vo0_om0_1051",
+   "en": "Protect the Micronizer from the rioting Zentradi!",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'booto-ka' for 'bouto-ka' (rioting). Micronizer is not in the glossary."
+  },
+  {
+   "id": "vos_mis_1051",
+   "en": "Protect the Micronizer from the rioting Zentradi.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'booto-ka' for 'bouto-ka' (rioting). Micronizer is not in the glossary."
+  },
+  {
+   "id": "vo0_of0_1052",
+   "en": "The Micronizer has been seized.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'dasshu' (dash) where 'dasshu' = seizure is meant (same sound, different kanji). Micronizer not in glossary."
+  },
+  {
+   "id": "vo0_of1_1052",
+   "en": "The Micronizer has been seized!",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'dasshu' (dash), meant as seizure (same sound). Micronizer not in glossary."
+  },
+  {
+   "id": "vo0_of2_1052",
+   "en": "Hey, the Micronizer has been seized!",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'dasshu' (dash), meant as seizure (same sound). Micronizer not in glossary."
+  },
+  {
+   "id": "vo0_om0_1052",
+   "en": "The Micronizer has been seized!",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'dasshutsu' (escape), probably the same mishearing of seizure; Micronizer not in glossary."
+  },
+  {
+   "id": "vos_mis_1052",
+   "en": "The Micronizer has been seized.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'dasshu' (dash), meant as seizure (same sound). Micronizer not in glossary."
+  },
+  {
+   "id": "vo0_of0_1053",
+   "en": "The defense target has been seized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'dasshu' (dash), meant as seizure (same sound); Claire and Itsuki have the right kanji."
+  },
+  {
+   "id": "vo0_of1_1053",
+   "en": "The defense target has been seized!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1053",
+   "en": "Hey, the defense target has been seized!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'dasshu' (dash), meant as seizure (same sound)."
+  },
+  {
+   "id": "vo0_om0_1053",
+   "en": "The defense target has been seized!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1053",
+   "en": "The defense target has been seized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'dasshu' (dash), meant as seizure (same sound)."
+  },
+  {
+   "id": "vo0_of0_1054",
+   "en": "A Zentradi force has taken hostages and is demanding one battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1054",
+   "en": "A Zentradi force has taken hostages and is demanding one battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1054",
+   "en": "A Zentradi force has taken hostages and wants one battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1054",
+   "en": "A Zentradi force has taken hostages and is demanding one battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1054",
+   "en": "A Zentradi force has taken hostages and is demanding one battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1055",
+   "en": "Please work with the Destroid unit and take them down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1055",
+   "en": "Work with the Destroid unit and take them down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1055",
+   "en": "Team up with the Destroid unit and take them down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1055",
+   "en": "Join the Destroid unit and take them down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1055",
+   "en": "Work with the Destroid unit and take them down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1056",
+   "en": "The hostages have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1056",
+   "en": "The hostages have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1056",
+   "en": "We got the hostages out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1056",
+   "en": "Hostages rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1056",
+   "en": "Hostages rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1057",
+   "en": "Please protect the factory and the reaction engine from the Zentradi force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1057",
+   "en": "Protect the factory and the reaction engine from the Zentradi force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1057",
+   "en": "Protect the factory and the reaction engine from the Zentradi force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1057",
+   "en": "Protect the factory and the reaction engine from the Zentradi force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1057",
+   "en": "Protect the factory and the reaction engine from the Zentradi force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1058",
+   "en": "The factory is under attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1058",
+   "en": "The factory is under attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1058",
+   "en": "The factory is under attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1058",
+   "en": "The factory is under attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1058",
+   "en": "The factory is under attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1059",
+   "en": "Damage to the factory is spreading.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1059",
+   "en": "Damage to the factory is spreading.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1059",
+   "en": "Damage to the factory is spreading!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1059",
+   "en": "Damage to the factory is spreading!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1059",
+   "en": "Damage to the factory is spreading.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1060",
+   "en": "The factory has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1060",
+   "en": "The factory has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1060",
+   "en": "Hey, the factory's been destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1060",
+   "en": "The factory has been destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1060",
+   "en": "The factory has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1061",
+   "en": "The enemy has taken the reaction engine. Please stop their escape.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'handou' (recoil) for 'hannou' (reaction) engine."
+  },
+  {
+   "id": "vo0_of1_1061",
+   "en": "The enemy has taken the reaction engine. Stop their escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1061",
+   "en": "The enemy took the reaction engine. Stop them getting away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1061",
+   "en": "The enemy has taken the reaction engine. Stop their escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1061",
+   "en": "The enemy has taken the reaction engine. Stop their escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1062",
+   "en": "The reaction engine has been recovered.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'handou' (recoil) for 'hannou' (reaction) engine."
+  },
+  {
+   "id": "vo0_of1_1062",
+   "en": "The reaction engine has been recovered.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1062",
+   "en": "We got the reaction engine back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1062",
+   "en": "Reaction engine recovered.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1062",
+   "en": "Reaction engine recovered.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1063",
+   "en": "The reaction engine has been seized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'dasshu' (dash), meant as seizure (same sound)."
+  },
+  {
+   "id": "vo0_of1_1063",
+   "en": "The reaction engine has been seized!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'dasshu' (dash), meant as seizure (same sound)."
+  },
+  {
+   "id": "vo0_of2_1063",
+   "en": "The reaction engine has been seized!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'dasshu' (dash), meant as seizure (same sound)."
+  },
+  {
+   "id": "vo0_om0_1063",
+   "en": "The reaction engine has been seized!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'dasshutsu' (escape), probably the same mishearing of seizure."
+  },
+  {
+   "id": "vos_mis_1063",
+   "en": "The reaction engine has been seized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'dasshu' (dash), meant as seizure (same sound)."
+  },
+  {
+   "id": "vo0_of0_1064",
+   "en": "One gunboat closing fast. Range about 50 km, bearing 1 o'clock, altitude 300.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes houkou with the kanji for 'roar'; it is houkou (direction), as in 1 o'clock direction. Claire's row has it right."
+  },
+  {
+   "id": "vo0_of1_1064",
+   "en": "One gunboat closing fast. Range about 50 km, bearing 1 o'clock, altitude 300.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1064",
+   "en": "One gunboat closing fast. Range about 50 km, bearing 1 o'clock, altitude 300.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'hokan inseki' (gunboat meteor) for 'hokan ichi-seki' (one gunboat), and the kanji for 'roar' instead of 'direction' (houkou)."
+  },
+  {
+   "id": "vo0_om0_1064",
+   "en": "One gunboat closing fast. Range about 50 km, bearing 1 o'clock, altitude 300.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'roar' for 'direction' (1 o'clock direction)."
+  },
+  {
+   "id": "vos_mis_1064",
+   "en": "One gunboat closing fast. Range about 50 km, bearing 1 o'clock, altitude 300.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'roar' for 'direction' (1 o'clock direction)."
+  },
+  {
+   "id": "vo0_of0_1065",
+   "en": "The enemy ship is still intact!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1065",
+   "en": "The enemy ship is still intact!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1065",
+   "en": "The enemy ship's still going strong!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1065",
+   "en": "The enemy ship's still going strong!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1065",
+   "en": "Enemy ship still intact.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1066",
+   "en": "Battleship at 300 meters. Evasion impossible.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1605-1609, 1610-1614 (clips 1051-1052): 'Micronizer' chosen for the machine device (maikuron souchi); could also be 'micron device' - glossary needs a decision",
+   "rows 1610-1619: seizure (dasshu) read for 'dash' because the target is a defense objective being taken",
+   "row 1670-1674 (clip 1064): bearing '1 o'clock' read from Claire's 'ichiji houkou'; altitude unit not spoken, left bare",
+   "rows 1620-1624 (clip 1054): 'a Zentradi force' for ichi-gun (a faction/army)"
+  ],
+  "whisper_doubt": [
+   "row 1603: Transcript has 'shin-atsu' (wrong kanji) for 'chin-atsu' (suppress).",
+   "row 1605: Transcript has 'booto-ka' for 'bouto-ka' (rioting). Micronizer (maikuron souchi) is not in the glossary.",
+   "row 1607: Transcript has 'booto-ka' for 'bouto-ka' (rioting). Micronizer is not in the glossary.",
+   "row 1608: Transcript has 'booto-ka' for 'bouto-ka' (rioting). Micronizer is not in the glossary.",
+   "row 1609: Transcript has 'booto-ka' for 'bouto-ka' (rioting). Micronizer is not in the glossary.",
+   "row 1610: Transcript has 'dasshu' (dash) where 'dasshu' = seizure is meant (same sound, different kanji). Micronizer not in glossary.",
+   "row 1611: Transcript has 'dasshu' (dash), meant as seizure (same sound). Micronizer not in glossary.",
+   "row 1612: Transcript has 'dasshu' (dash), meant as seizure (same sound). Micronizer not in glossary.",
+   "row 1613: Transcript has 'dasshutsu' (escape), probably the same mishearing of seizure; Micronizer not in glossary.",
+   "row 1614: Transcript has 'dasshu' (dash), meant as seizure (same sound). Micronizer not in glossary.",
+   "row 1615: Transcript has 'dasshu' (dash), meant as seizure (same sound); Claire and Itsuki have the right kanji.",
+   "row 1617: Transcript has 'dasshu' (dash), meant as seizure (same sound).",
+   "row 1619: Transcript has 'dasshu' (dash), meant as seizure (same sound).",
+   "row 1655: Transcript has 'handou' (recoil) for 'hannou' (reaction) engine.",
+   "row 1660: Transcript has 'handou' (recoil) for 'hannou' (reaction) engine.",
+   "row 1665: Transcript has 'dasshu' (dash), meant as seizure (same sound).",
+   "row 1666: Transcript has 'dasshu' (dash), meant as seizure (same sound).",
+   "row 1667: Transcript has 'dasshu' (dash), meant as seizure (same sound).",
+   "row 1668: Transcript has 'dasshutsu' (escape), probably the same mishearing of seizure.",
+   "row 1669: Transcript has 'dasshu' (dash), meant as seizure (same sound).",
+   "row 1670: Transcript writes houkou with the kanji for 'roar'; it is houkou (direction), as in 1 o'clock direction. Claire's row has it right.",
+   "row 1672: Transcript has 'hokan inseki' (gunboat meteor) for 'hokan ichi-seki' (one gunboat), and the kanji for 'roar' instead of 'direction' (houkou).",
+   "row 1673: Transcript has 'roar' for 'direction' (1 o'clock direction).",
+   "row 1674: Transcript has 'roar' for 'direction' (1 o'clock direction)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Micronizer (maikuron souchi)",
+   "reaction engine",
+   "Destroid (standard term used)"
+  ],
+  "unfinished": []
+ }
+}

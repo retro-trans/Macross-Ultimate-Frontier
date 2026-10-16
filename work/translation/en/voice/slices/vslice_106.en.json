@@ -1,0 +1,584 @@
+{
+ "slice": 106,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_mac_328",
+   "en": "You've got skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_329",
+   "en": "Hm, you were even better than before.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_330",
+   "en": "Your skill as a pilot is considerable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_331",
+   "en": "I can watch you fight without worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_340",
+   "en": "I haven't cleared you to sortie yet, you know.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Direction inferred: Max scolding a partner who launched early."
+  },
+  {
+   "id": "vp7_mac_341",
+   "en": "This battle is a dangerous gamble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_342",
+   "en": "Please fulfill your responsibility.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_343",
+   "en": "Be very careful, now.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'gure-gure mo' read as 'kure-gure mo' (be very careful)."
+  },
+  {
+   "id": "vp7_mac_344",
+   "en": "Watch the enemy closely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_345",
+   "en": "This is a mission. Do it right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_346",
+   "en": "Do your duty proud.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_347",
+   "en": "I know the risks. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_348",
+   "en": "No failures. I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_349",
+   "en": "I'm here. Don't worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_350",
+   "en": "Sorry, but I'll be relying on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_351",
+   "en": "You and I together will finish this quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_360",
+   "en": "Almost there, but not quite.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_361",
+   "en": "You don't belong on a battlefield.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_362",
+   "en": "I can't help but call it luck that you're even safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_363",
+   "en": "We somehow pulled through.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_364",
+   "en": "Your help next time, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_365",
+   "en": "Now, shall we head back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_366",
+   "en": "Take a good long break when you get back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_367",
+   "en": "Was my support of any use to you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_368",
+   "en": "Your skill wasn't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_369",
+   "en": "Your skill rivals Milia's.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_370",
+   "en": "I'm surrounded by excellent female pilots.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_371",
+   "en": "You fought like a true genius.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_600",
+   "en": "There's no need for me to step in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_601",
+   "en": "Milia, let's show them our timeless teamwork!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_615",
+   "en": "Something's off. Stay on guard.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'kono kanji' (this feeling) paraphrased."
+  },
+  {
+   "id": "vp7_mac_616",
+   "en": "My genius title is on the line.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'tensai no na ga tsuyosugiru' makes no sense; guessed a 'name of genius is at stake' sense."
+  },
+  {
+   "id": "vp7_mac_617",
+   "en": "Seems you're not yet at my level.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Addressee (enemy) inferred from Milia's matching clip 617."
+  },
+  {
+   "id": "vp7_mac_620",
+   "en": "I can't grasp the situation. Open all video feeds. All of them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_621",
+   "en": "We may need to shell down.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'sheru daun' (shell down) is a game/series term not in the glossary; kept literal."
+  },
+  {
+   "id": "vp7_mac_622",
+   "en": "Eyes on the monitor!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_623",
+   "en": "Audio on a good line. Shell down!",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": "Words 'ii kaisen' (good line) may be 'ichi kaisen' (one line); 'shell down' not in glossary."
+  },
+  {
+   "id": "vp7_mac_624",
+   "en": "Who told you to shell off? Shell down!",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Whisper wrote 'seru' for 'sheru'."
+  },
+  {
+   "id": "vp7_mac_625",
+   "en": "Shell on now, shell down meanwhile.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'sheru on / sheru down' not in glossary."
+  },
+  {
+   "id": "vp7_mac_626",
+   "en": "Stand down. Recover each unit's survivors and return them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_627",
+   "en": "We are currently threatened by an unidentified enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_628",
+   "en": "We'll hold realistic drills. Use them in the battles ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_629",
+   "en": "Diamond Force is also taking part in the drills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_630",
+   "en": "I'm counting on you all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_631",
+   "en": "Moving to rescue City 7 now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_632",
+   "en": "Beginning transformation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_633",
+   "en": "Macross Cannon, fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_634",
+   "en": "All ships, launch Valkyrie squadrons. Vanguard ships, ready to fire.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'zen-eikan' is written with the kanji for 'all'; read as 'zen-ei-kan' (vanguard ships), as in the second take."
+  },
+  {
+   "id": "vp7_mac_635",
+   "en": "Recall Emerald Force and Diamond Force at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hoosu' (horse) read as 'foosu' (force)."
+  },
+  {
+   "id": "vp7_mac_636",
+   "en": "Emerald Force, sortie at once. All forces, take intercept positions.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hoosu' read as 'foosu' (force)."
+  },
+  {
+   "id": "vp7_mac_637",
+   "en": "That must be the leader unit. D1, wait for rear support.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'Riwan' read as 'D1' (Diamond 1); 'kouhou' (PR) read as 'kouhou' (rear) support."
+  },
+  {
+   "id": "vp7_mac_638",
+   "en": "No way... so this is the Protodeviln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_639",
+   "en": "The Macross 7 fleet faces an unprecedented threat: the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_640",
+   "en": "To counter this threat, we'll hold live drills with our newest gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_641",
+   "en": "Mayor Milia and I, Maximilian Jenius, will take part in this training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_642",
+   "en": "We will raid and annihilate the Protodeviln base.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper has the kanji for 'absorb'; probably 'raid' (same sound, kyuushuu)."
+  },
+  {
+   "id": "vp7_mac_643",
+   "en": "This is our operation: Operation Stargazer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_644",
+   "en": "All units: annihilating the enemy is your absolute mission. Act swiftly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_645",
+   "en": "The fate of the entire galaxy, not just Macross 7, rides on this operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_647",
+   "en": "Operation complete. All units, leave the atmosphere at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_648",
+   "en": "A rogue Meltrandi fleet! To think such a huge fleet still remained!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_649",
+   "en": "I am Maximilian Jenius, commander of the Macross 7 fleet, the U.N. Forces' 7th Emigrant Fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_650",
+   "en": "Please, hear me out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_651",
+   "en": "The Zentradi are walking the path of coexistence with us humans.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_652",
+   "en": "Over 100,000 Zentradi live in this fleet as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_653",
+   "en": "To prevent any more pointless fighting, I want to hold peace talks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_654",
+   "en": "Shield destroyed? What of it? Don't worry.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whose shield and who is being reassured is not stated."
+  },
+  {
+   "id": "vp7_mac_655",
+   "en": "Just a graze? Nothing to worry about.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same as 654."
+  },
+  {
+   "id": "vp7_mac_656",
+   "en": "I can't fight anymore. What? Don't worry about it.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pattern of 654-657 unclear (a two-voice exchange compressed into one clip)."
+  },
+  {
+   "id": "vp7_mac_657",
+   "en": "Looks like there was no need for me to step in. What? Never mind.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same as 656."
+  },
+  {
+   "id": "vp7_mac_658",
+   "en": "I'm taking the limiters off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_max_621",
+   "en": "We may need to shell down.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'sheru daun' not in glossary; second take of mac_621."
+  },
+  {
+   "id": "vp7_max_622",
+   "en": "Eyes on the monitor!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_max_623",
+   "en": "Audio on a good line. Shell down!",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": "Second take of mac_623; 'kaisen' written as 'battle' kanji by Whisper."
+  },
+  {
+   "id": "vp7_max_624",
+   "en": "Who told you to shell off? Shell down!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Second take of mac_624."
+  },
+  {
+   "id": "vp7_max_625",
+   "en": "Shell on now, shell down meanwhile.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Second take of mac_625."
+  },
+  {
+   "id": "vp7_max_626",
+   "en": "Stand down. Recover each unit's survivors and return them.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kakudai seizonmono' read as 'kakutai seizonsha' (each unit's survivors)."
+  },
+  {
+   "id": "vp7_max_628",
+   "en": "We'll hold realistic drills. Use them in the battles ahead.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Garbled 'ii' in the transcript; read as 'okonai' (conduct)."
+  },
+  {
+   "id": "vp7_max_631",
+   "en": "Moving to rescue City 7 now.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'shite 7' read as 'Shiti Sebun' (City 7)."
+  },
+  {
+   "id": "vp7_max_633",
+   "en": "Macross Cannon, fire!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8405 (vp7_mac_340): Direction inferred: Max scolding a partner who launched early.",
+   "row 8431 (vp7_mac_615): 'kono kanji' (this feeling) paraphrased.",
+   "row 8432 (vp7_mac_616): 'tensai no na ga tsuyosugiru' makes no sense; guessed a 'name of genius is at stake' sense.",
+   "row 8433 (vp7_mac_617): Addressee (enemy) inferred from Milia's matching clip 617.",
+   "row 8437 (vp7_mac_623): Words 'ii kaisen' (good line) may be 'ichi kaisen' (one line); 'shell down' not in glossary.",
+   "row 8451 (vp7_mac_637): 'Riwan' read as 'D1' (Diamond 1); 'kouhou' (PR) read as 'kouhou' (rear) support.",
+   "row 8456 (vp7_mac_642): Whisper has the kanji for 'absorb'; probably 'raid' (same sound, kyuushuu).",
+   "row 8467 (vp7_mac_654): Whose shield and who is being reassured is not stated.",
+   "row 8468 (vp7_mac_655): Same as 654.",
+   "row 8469 (vp7_mac_656): Pattern of 654-657 unclear (a two-voice exchange compressed into one clip).",
+   "row 8470 (vp7_mac_657): Same as 656.",
+   "row 8474 (vp7_max_623): Second take of mac_623; 'kaisen' written as 'battle' kanji by Whisper."
+  ],
+  "whisper_doubt": [
+   "row 8408 (vp7_mac_343): 'gure-gure mo' read as 'kure-gure mo' (be very careful).",
+   "row 8432 (vp7_mac_616): 'tensai no na ga tsuyosugiru' makes no sense; guessed a 'name of genius is at stake' sense.",
+   "row 8438 (vp7_mac_624): Whisper wrote 'seru' for 'sheru'.",
+   "row 8448 (vp7_mac_634): 'zen-eikan' is written with the kanji for 'all'; read as 'zen-ei-kan' (vanguard ships), as in the second take.",
+   "row 8449 (vp7_mac_635): 'hoosu' (horse) read as 'foosu' (force).",
+   "row 8450 (vp7_mac_636): 'hoosu' read as 'foosu' (force).",
+   "row 8451 (vp7_mac_637): 'Riwan' read as 'D1' (Diamond 1); 'kouhou' (PR) read as 'kouhou' (rear) support.",
+   "row 8456 (vp7_mac_642): Whisper has the kanji for 'absorb'; probably 'raid' (same sound, kyuushuu).",
+   "row 8477 (vp7_max_626): 'kakudai seizonmono' read as 'kakutai seizonsha' (each unit's survivors).",
+   "row 8478 (vp7_max_628): Garbled 'ii' in the transcript; read as 'okonai' (conduct).",
+   "row 8479 (vp7_max_631): 'shite 7' read as 'Shiti Sebun' (City 7)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 8435 (vp7_mac_621): 'sheru daun' (shell down) is a game/series term not in the glossary; kept literal.",
+   "row 8437 (vp7_mac_623): Words 'ii kaisen' (good line) may be 'ichi kaisen' (one line); 'shell down' not in glossary.",
+   "row 8438 (vp7_mac_624): Whisper wrote 'seru' for 'sheru'.",
+   "row 8439 (vp7_mac_625): 'sheru on / sheru down' not in glossary.",
+   "row 8472 (vp7_max_621): 'sheru daun' not in glossary; second take of mac_621.",
+   "row 8474 (vp7_max_623): Second take of mac_623; 'kaisen' written as 'battle' kanji by Whisper.",
+   "row 8475 (vp7_max_624): Second take of mac_624.",
+   "row 8476 (vp7_max_625): Second take of mac_625."
+  ],
+  "unfinished": []
+ }
+}

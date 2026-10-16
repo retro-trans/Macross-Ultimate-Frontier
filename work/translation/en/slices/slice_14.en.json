@@ -1,0 +1,540 @@
+{
+ "slice": 14,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5153:col1",
+   "en": "Guess I've lost too much blood...",
+   "flags": [],
+   "notes": "Dying line (Roy Focker, SDF Macross); subject 'I' restored."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5154:col1",
+   "en": "You're really still just a kid after all.",
+   "flags": [],
+   "notes": "review: refit: tightened word order"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5155:col1",
+   "en": "What do you have wings for?!",
+   "flags": [],
+   "notes": "review: refit: restructured question"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5156:col1",
+   "en": "All units, Planet Dance!",
+   "flags": [],
+   "notes": "Formation/maneuver call named after the Fire Bomber song; not in glossary. | review: term now in glossary"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5157:col1",
+   "en": "Got a gripe? Take the top next time.",
+   "flags": [],
+   "notes": "review: refit: 'If you've got a complaint' -> 'Got a gripe?'; 'top spot' -> 'top'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5158:col1",
+   "en": "An amateur? You're good for one.",
+   "flags": [],
+   "notes": "Subjects restored on both clauses. | review: refit: compressed both clauses; subject of 2nd clause dropped | review: subject restored"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5159:col1",
+   "en": "I only did my duty, Commander.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title for the squad leader rendered 'Commander' (gender-neutral); speaker likely Luca to Ozma. | review: refit: 'what anyone would do' -> 'my duty'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5160:col1",
+   "en": "Right! ...Wait, this is crazy!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Agrees, then balks at an unreasonable order; avoided 'sir' since addressee is not settled."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5161:col1",
+   "en": "I don't care if you call me a coward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5162:col1",
+   "en": "Fall back, rookie!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5163:col1",
+   "en": "A reckless idiot, but good instincts.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Remark about a third person (likely Ozma about Alto); 'the kid' keeps gender neutral while restoring a subject. | review: refit: merged 'idiot, and reckless'; dropped 'the kid's got'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5164:col1",
+   "en": "Take that! Take that! Take that!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Repeated battle shout (ora x5); rendered as a shouted attack cry rather than romaji. | review: refit: 4 repeats -> 3"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5165:col1",
+   "en": "Who can love if they fear dying?!",
+   "flags": [],
+   "notes": "review: refit: rhetorical question compressed, kept generic subject"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5166:col1",
+   "en": "It's in your hands now!!",
+   "flags": [],
+   "notes": "Entrusting line; object unspecified in source, so 'it' left general."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5167:col1",
+   "en": "All hands, sadly, this is not a drill.",
+   "flags": [],
+   "notes": "Commanding officer's address to the crew. | review: refit: 'I regret to say' -> 'sadly'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5168:col1",
+   "en": "You're in my way. Move!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5169:col1",
+   "en": "Perish! Scatter to the galaxy's end!!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Imperative 'scatter' read as a kill cry at enemies (fall like petals), not an order to friendly units. | review: refit: 'the ends of the galaxy' -> 'the galaxy's end'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5170:col1",
+   "en": "I'll cover you!",
+   "flags": [],
+   "notes": "Rough second-person pronoun; plain 'you' in English."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5171:col1",
+   "en": "Big Brother, you idiot!",
+   "flags": [],
+   "notes": "Ranka to Ozma."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5172:col1",
+   "en": "Life is One, Two, Deculture!",
+   "flags": [],
+   "notes": "Glossary term Deculture."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5173:col1",
+   "en": "Don't regret--go all in and shatter!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Twist on the idiom 'go for it and get smashed'; kept the 'shatter' image. | review: Misread: the source says 'rather than regret it, go all in and shatter'; the old line ('If you're going to regret it...') reversed the logic. | review: refit: kept logic 'rather than regret, go all in and shatter'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5174:col1",
+   "en": "Hold me tight! To the galaxy's end!!",
+   "flags": [],
+   "notes": "Concert opening line. | review: refit: famous line: kept 'Hold me tight!', 'ends of the galaxy' -> 'galaxy's end'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5175:col1",
+   "en": "The Vajra sing with their bellies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5176:col1",
+   "en": "Listen to my song!!",
+   "flags": [],
+   "notes": "Sheryl's catchphrase; standard rendering."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5177:col1",
+   "en": "Oh my, you don't want me along?",
+   "flags": [],
+   "notes": "review: refit: 'want to be with me' -> 'want me along'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5178:col1",
+   "en": "Thank you, everyone! I love you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5179:col1",
+   "en": "I rarely offer this service, y'know!",
+   "flags": [],
+   "notes": "review: refit: 'don't give out ... very often' -> 'rarely offer'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5180:col1",
+   "en": "There's no way I can pilot a robot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5181:col1",
+   "en": "I-I didn't do anything!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5182:col1",
+   "en": "Missions! Is that all you think of?!",
+   "flags": [],
+   "notes": "review: Misread: 'is that all you have' means the listener cares about nothing but the mission; 'Is that all you've got?!' reads as a taunt about strength. | review: refit: 'Mission this, mission that' -> 'Missions!'; kept 'all you think of' (not the strength taunt)"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5183:col1",
+   "en": "You can still sing, can't you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5184:col1",
+   "en": "I want you to sing this song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5185:col1",
+   "en": "I'll never again say I'll quit singing.",
+   "flags": [],
+   "notes": "review: refit: restructured"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5186:col1",
+   "en": "Was I a genius all along...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5187:col1",
+   "en": "*pant pant*... Ah... how beautiful.",
+   "flags": [],
+   "notes": "review: refit: three pants merged into one marker"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5188:col1",
+   "en": "I-I'm still alive, somehow.",
+   "flags": [],
+   "notes": "Speaker uses a regional dialect form; rendered plainly."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5189:col1",
+   "en": "Aw, man... my steak...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5190:col1",
+   "en": "No good! I won't make it! Waaagh!",
+   "flags": [],
+   "notes": "review: refit: dropped 'It's'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5191:col1",
+   "en": "Me, lose? That's absurd.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5192:col1",
+   "en": "I hate you for the shame of defeat!",
+   "flags": [],
+   "notes": "review: refit: 'branding me with the disgrace' -> 'the shame'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5193:col1",
+   "en": "As a warrior, learn some shame.",
+   "flags": [],
+   "notes": "review: refit: 'you should learn' -> imperative 'learn'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5194:col1",
+   "en": "Me... the one hailed as Ace of Aces...",
+   "flags": [],
+   "notes": "Trailing line kept unfinished; the noun for top ace rendered 'Ace of Aces'. | review: refit: 'they called the' -> 'hailed as'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5195:col1",
+   "en": "We will now cover your ship.",
+   "flags": [],
+   "notes": "review: refit: 'provide cover for' -> 'cover'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5196:col1",
+   "en": "Show me this thing called 'kiiss'...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Zentradi speaker drawls the loanword for kiss; stretched spelling keeps the alien mispronunciation. | review: refit: 'you call a' -> 'called'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5197:col1",
+   "en": "What was that mountain called...?",
+   "flags": [],
+   "notes": "review: refit: dropped 'again'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5198:col1",
+   "en": "I'll make it ring to the galaxy's end!",
+   "flags": [],
+   "notes": "'It' = the song (Basara). | review: refit: 'ring out to the ends of the galaxy' -> 'ring to the galaxy's end'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5199:col1",
+   "en": "I'll make the universe ring with it!!",
+   "flags": [],
+   "notes": "'It' = the song (Basara). | review: refit: 'echo through the whole universe' -> 'universe ring with it'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5200:col1",
+   "en": "Hurl a burning heart--that's a song!",
+   "flags": [],
+   "notes": "review: refit: 'Slamming your burning heart into it' -> 'Hurl a burning heart'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5201:col1",
+   "en": "All right, I'll play my heart out!",
+   "flags": [],
+   "notes": "review: refit: 'I'm gonna' -> 'I'll'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5202:col1",
+   "en": "Special live show time! Let's start!",
+   "flags": [],
+   "notes": "review: refit: 'It's time for a' -> '... time!'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5203:col1",
+   "en": "Mylene must have seen that again...",
+   "flags": [],
+   "notes": "Honorific dropped."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5204:col1",
+   "en": "You're no match for me in my day.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source has no subject; 'you' restored as the person being judged against the speaker's past. | review: refit: 'nowhere near what I was in my younger days' -> 'no match for me in my day'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5205:col1",
+   "en": "Eyes on the monitor!",
+   "flags": [],
+   "notes": "review: refit: 'Don't take your eyes off' -> 'Eyes on'; also fits the u0352 mission-name copy"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5206:col1",
+   "en": "Macross Cannon, fire!!",
+   "flags": [],
+   "notes": "Weapon name not in glossary. | review: term now in glossary"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5207:col1",
+   "en": "Papa is not cheating on anyone.",
+   "flags": [],
+   "notes": "Father referring to himself in third person."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5208:col1",
+   "en": "I'll give you a full taste of fear.",
+   "flags": [],
+   "notes": "review: refit: 'make you taste fear to the fullest' -> 'give you a full taste'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5209:col1",
+   "en": "Sivil! Where's Sivil?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5210:col1",
+   "en": "I'll wreck you! Suppression Beauty!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Gavil's '-bi' (beauty) catchphrase; object of destroy restored as 'you'. | review: term added to glossary | review: refit: 'destroy you utterly' -> 'wreck you'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5211:col1",
+   "en": "Heh, you came. Annihilation Beauty.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Gavil's '-bi' (beauty) catchphrase. | review: term added to glossary | review: refit: 'so you've shown yourself' -> 'you came'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5212:col1",
+   "en": "Yack deculture!",
+   "flags": [],
+   "notes": "Glossary term."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5213:col1",
+   "en": "How dare mere lower lifeforms...!!",
+   "flags": [],
+   "notes": "Trailing outburst kept unfinished."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5214:col1",
+   "en": "Heh, such futile struggling...!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5215:col1",
+   "en": "Now learn our power!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5216:col1",
+   "en": "Ah... it's connected...",
+   "flags": [
+    "kept_omission",
+    "uncertain"
+   ],
+   "notes": "Source says only 'connected'; what or who is connected is not settled by the line, kept as impersonal 'it'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5217:col1",
+   "en": "Those goddamn bugs...!!",
+   "flags": [],
+   "notes": "Crude insult kept at strength."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5218:col1",
+   "en": "We now have the whole universe!",
+   "flags": [],
+   "notes": "review: refit: 'have now taken ... for ourselves' -> 'now have'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5219:col1",
+   "en": "Weak Finisher",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Epithet: lacks finishing power."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5220:col1",
+   "en": "Can't Stand Losing",
+   "flags": [],
+   "notes": "Epithet."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5221:col1",
+   "en": "Sitting Duck",
+   "flags": [],
+   "notes": "Idiom for an easy mark (duck bringing its own leeks)."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5222:col1",
+   "en": "Luck Is Skill Too",
+   "flags": [],
+   "notes": "Epithet."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5223:col1",
+   "en": "Headlong Charger",
+   "flags": [],
+   "notes": "Four-character idiom for reckless charging."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5224:col1",
+   "en": "Assistant Master",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rank below master at a martial-arts school (deputy instructor)."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5225:col1",
+   "en": "Gambler",
+   "flags": [],
+   "notes": "Someone who stakes everything on winning."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5226:col1",
+   "en": "Finesse Fighter",
+   "flags": [],
+   "notes": "Epithet: skill-based style. | review: Duplicate title: row 998 (loanword 'technician') is already 'Technician'; this one is the native word for a technique-focused style, so two shop titles showed the same English."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5227:col1",
+   "en": "One-Hit Kill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5228:col1",
+   "en": "Cool and Collected",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5229:col1",
+   "en": "Full Mastery",
+   "flags": [],
+   "notes": "Four-character idiom for receiving full mastery from one's teacher."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5230:col1",
+   "en": "Legendary Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5231:col1",
+   "en": "Missile Heaven",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5232:col1",
+   "en": "Everyone's Idol",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 1047: Title for the squad leader rendered 'Commander' (gender-neutral); speaker likely Luca to Ozma.",
+   "row 1048: Agrees, then balks at an unreasonable order; avoided 'sir' since addressee is not settled.",
+   "row 1051: Remark about a third person (likely Ozma about Alto); 'the kid' keeps gender neutral while restoring a subject.",
+   "row 1052: Repeated battle shout (ora x5); rendered as a shouted attack cry rather than romaji.",
+   "row 1057: Imperative 'scatter' read as a kill cry at enemies (fall like petals), not an order to friendly units.",
+   "row 1061: Twist on the idiom 'go for it and get smashed'; kept the 'shatter' image.",
+   "row 1084: Zentradi speaker drawls the loanword for kiss; stretched spelling keeps the alien mispronunciation.",
+   "row 1092: Source has no subject; 'you' restored as the person being judged against the speaker's past.",
+   "row 1098: Gavil's '-bi' (beauty) catchphrase; object of destroy restored as 'you'.",
+   "row 1099: Gavil's '-bi' (beauty) catchphrase.",
+   "row 1104: Source says only 'connected'; what or who is connected is not settled by the line, kept as impersonal 'it'.",
+   "row 1107: Epithet: lacks finishing power.",
+   "row 1112: Rank below master at a martial-arts school (deputy instructor)."
+  ],
+  "kept_omission": [
+   "row 1104: Source says only 'connected'; what or who is connected is not settled by the line, kept as impersonal 'it'."
+  ],
+  "missing_glossary": [
+   "row 1044: maneuver call 'Planet Dance' (romaji puranetto dansu) - used as 'Planet Dance'",
+   "row 1094: weapon 'Macross Cannon' (makurosu kyanon) - used as 'Macross Cannon'",
+   "rows 1098/1099: Gavil's catchphrases seiatsu-bi / senmetsu-bi - used as 'Suppression Beauty' / 'Annihilation Beauty'"
+  ],
+  "unfinished": []
+ }
+}

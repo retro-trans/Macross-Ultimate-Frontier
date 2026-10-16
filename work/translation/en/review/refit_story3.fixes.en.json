@@ -1,0 +1,335 @@
+{
+ "fixes": [
+  {
+   "row": 497,
+   "en": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible,\\nbut the Vajra spotted us almost at once. Move swiftly to wipe them out.",
+   "why": "refit: tightened wording; 'as soon as the survey began' -> 'almost at once'; matched to row 495 (identical Japanese, refit in story2)"
+  },
+  {
+   "row": 499,
+   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them.",
+   "why": "refit: rebalanced lines; 'morale-boosting concert tour' reworded"
+  },
+  {
+   "row": 501,
+   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them.",
+   "why": "refit: rebalanced lines; 'morale-boosting concert tour' reworded"
+  },
+  {
+   "row": 503,
+   "en": "The Global, 117th Research Fleet flagship found on planet Gallia 4, has become\\na Vajra lair. To stop the Vajra breeding, clear out every Vajra cocoon aboard.",
+   "why": "refit: tightened wording"
+  },
+  {
+   "row": 505,
+   "en": "The Global, 117th Research Fleet flagship found on planet Gallia 4, has become\\na Vajra lair. To stop the Vajra breeding, clear out every Vajra cocoon aboard.",
+   "why": "refit: tightened wording"
+  },
+  {
+   "row": 507,
+   "en": "Organized Vajra attacks have put the Frontier fleet in grave danger.\\nHead for the giant Vajra ship believed to be giving orders. Destroy it at once.",
+   "why": "refit: tightened line 2"
+  },
+  {
+   "row": 509,
+   "en": "Organized Vajra attacks have put the Frontier fleet in grave danger.\\nHead for the giant Vajra ship believed to be giving orders. Destroy it at once.",
+   "why": "refit: tightened line 2"
+  },
+  {
+   "row": 511,
+   "en": "Top-secret mission: you will now guard an experiment using Ranka Lee's song.\\nUntil the experiment begins, wipe out the Vajra so they can't interfere.",
+   "why": "refit: tightened wording"
+  },
+  {
+   "row": 513,
+   "en": "Evolved Vajra have appeared that even reaction weapons can't harm. They will be\\nhard to destroy, so put defending the Macross Quarter and your survival first.",
+   "why": "refit: restructured; 'top priorities' -> 'first'"
+  },
+  {
+   "row": 515,
+   "en": "Evolved Vajra have appeared that even reaction weapons can't harm. They will be\\nhard to destroy, so put defending the Macross Quarter and your survival first.",
+   "why": "refit: restructured; 'top priorities' -> 'first'"
+  },
+  {
+   "row": 517,
+   "en": "To end the war with the Vajra, a super-long-distance fold has been decided on.\\nDefend the Battle Frontier until the super-long-distance fold begins.",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 519,
+   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Wipe out the Vajra that have emerged in the Frontier.",
+   "why": "refit: tightened; dropped repeated 'the Frontier' in line 2 first clause"
+  },
+  {
+   "row": 521,
+   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Wipe out the Vajra that have emerged in the Frontier.",
+   "why": "refit: tightened; dropped repeated 'the Frontier' in line 2 first clause"
+  },
+  {
+   "row": 523,
+   "en": "Some S.M.S. members are trying to hijack the Macross Quarter and escape.\\nAt this rate they'll fold away. You're authorized to shoot down the deserters.",
+   "why": "refit: tightened line 2"
+  },
+  {
+   "row": 525,
+   "en": "A mock battle will now be held to test the VF-171EX, built to fight the Vajra.\\nDefeat the Sagittarius Squadron in this combined machine test and training.",
+   "why": "refit: restructured line 2"
+  },
+  {
+   "row": 527,
+   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Wipe out the Vajra, powered by the Galactic Fairy's song.",
+   "why": "refit: restructured; second 'Vajra homeworld' -> 'it'"
+  },
+  {
+   "row": 529,
+   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Wipe out the Vajra, powered by the Galactic Fairy's song.",
+   "why": "refit: restructured; second 'Vajra homeworld' -> 'it'"
+  },
+  {
+   "row": 531,
+   "en": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the\\ntrue masterminds. For the peace of the galaxy, defeat Grace O'Connor.",
+   "why": "refit: tightened; dropped 'all along'"
+  },
+  {
+   "row": 533,
+   "en": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the\\ntrue masterminds. For the peace of the galaxy, defeat Grace O'Connor.",
+   "why": "refit: tightened; dropped 'all along'"
+  },
+  {
+   "row": 535,
+   "en": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the\\ntrue masterminds. For the peace of the galaxy, defeat Grace O'Connor.",
+   "why": "refit: tightened; dropped 'all along'"
+  },
+  {
+   "row": 537,
+   "en": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the\\ntrue masterminds. For the peace of the galaxy, defeat Grace O'Connor.",
+   "why": "refit: tightened; dropped 'all along'"
+  },
+  {
+   "row": 543,
+   "en": "We sensed our kin's fold waves and began a rescue, but new unknown entities\\nappeared to hinder it. We shall annihilate the entities hindering the rescue.",
+   "why": "refit: rebalanced lines"
+  },
+  {
+   "row": 545,
+   "en": "Your key is in my hand, and the queen's throne is already mine.\\nGo now, Vajra. My eyes, my ears, my limbs. Strike with your mighty claws!",
+   "why": "refit: 'those mighty claws of yours' -> 'your mighty claws'"
+  },
+  {
+   "row": 547,
+   "en": "An unknown fleet, likely rogue Zentradi forces, has been spotted near Jupiter.\\nBreak the enemy's will to fight with Operation Minmay, then wipe them out.",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 549,
+   "en": "Mecha from a mysterious fleet slipped through our defenses and invaded Earth.\\nWipe out the mobile weapons ravaging the city as if seeking something. Now!",
+   "why": "refit: tightened both lines"
+  },
+  {
+   "row": 551,
+   "en": "The Mardook forces have launched an all-out assault to destroy Earth's culture.\\nProtect Earth's culture at all costs and wipe out the Mardook forces.",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 553,
+   "en": "Starting the op to retake the relay base held by anti-U.N. group Vindirance.\\nInfiltrate via the canyon leading to the base and wipe out Vindirance's guards.",
+   "why": "refit: abbreviated 'operation' and 'communications relay base'"
+  },
+  {
+   "row": 555,
+   "en": "Starting the op to retake the relay base held by anti-U.N. group Vindirance.\\nInfiltrate via the canyon leading to the base and wipe out Vindirance's guards.",
+   "why": "refit: abbreviated 'operation' and 'communications relay base'"
+  },
+  {
+   "row": 557,
+   "en": "Vindirance is plotting a fold to Earth. It must be stopped at all costs, so\\nreaction weapons are authorized for this operation. Wipe out Vindirance.",
+   "why": "refit: rebalanced lines"
+  },
+  {
+   "row": 559,
+   "en": "We will now descend to Earth and infiltrate Macross City. To shatter Latence's\\nambitions, destroy the wide-area jamming system in the head of the Macross.",
+   "why": "refit: moved clause across break; 'mounted in' -> 'in'"
+  },
+  {
+   "row": 561,
+   "en": "Variable fighters, developed using the OverTechnology of the Macross.\\nTo learn how they evolved, battle the variable fighters of every generation.",
+   "why": "refit: pronoun for repeated 'variable fighters'"
+  },
+  {
+   "row": 565,
+   "en": "Venue security test for Fire Bomber's special live: can you stay cool through\\nBasara and the band's red-hot songs? Win the mock battle vs. Fire Bomber.",
+   "why": "refit: restructured as a test question"
+  },
+  {
+   "row": 567,
+   "en": "Basara: \"Now it's red-hot live time! We'll slam our hearts right into you!\\n         So let's go big and flashy! Get wild and FIRE!\"",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 569,
+   "en": "The Macross that ended the interstellar war passed its name on to colony ships.\\nMake it out alive from Macross Heaven, packed with ships bearing that name.",
+   "why": "refit: restructured; dropped 'that travel the galaxy'"
+  },
+  {
+   "row": 571,
+   "en": "The enemy is throwing sheer numbers at us. Teach them that \"quality\" beats\\n\"quantity\" in battle: sweep away the small-fry horde in the wasteland at once.",
+   "why": "refit: restructured"
+  },
+  {
+   "row": 573,
+   "en": "The enemy is throwing sheer numbers at us. Teach them that \"quality\" beats\\n\"quantity\" in battle: sweep away the small-fry horde in the wasteland at once.",
+   "why": "refit: restructured"
+  },
+  {
+   "row": 575,
+   "en": "Sheryl: \"From here on, it's special live time. Are you ready, Ranka-chan?\"\\nRanka: \"Yes! So... everyone, hold me tight! To the ends of the galaxy!! Kira☆\"",
+   "why": "refit: 'All the way to the ends of the galaxyyy' -> 'To the ends of the galaxy'"
+  },
+  {
+   "row": 577,
+   "en": "Dr. Editor-in-Chief Nishioka formed Editorial Sentai Dengeki V for world peace!\\nWhen these Dengeki editors' hearts unite, their giant robot smashes evil!!",
+   "why": "refit: restructured; dropped quotes around team name"
+  },
+  {
+   "row": 579,
+   "en": "To guard a prized collection, Hamamura Tsushin made the Weekly Famitsu office\\na super dimension fortress. Find out what collection is worth going that far.",
+   "why": "refit: restructured; 'editorial office' -> 'office'; 'worth going that far to protect' -> 'worth going that far'"
+  },
+  {
+   "row": 581,
+   "en": "Wipe out the Regults rampaging in the city now, but we sense a \"giant\" power\\nbehind them, so never drop your guard. Annihilate those with \"giant\" power.",
+   "why": "refit: tightened"
+  },
+  {
+   "row": 583,
+   "en": "A mock battle now begins vs. the special forces unit codenamed \"Moon Island\".\\nThey're all problem children, but reportedly skilled. Defeat Moon Island.",
+   "why": "refit: tightened; 'Moon Island Platoon' -> 'Moon Island' as in source"
+  },
+  {
+   "row": 585,
+   "en": "Roy Focker: the U.N. ace who loves booze, women, and above all the open sky.\\nDefeat Focker, whose skills have made him the very model of a pilot.",
+   "why": "refit: 'U.N. Forces ace pilot' -> 'U.N. ace'"
+  },
+  {
+   "row": 587,
+   "en": "Shin Kudo washed up on Mayan Island and grew through the many people he met.\\nDefeat Shin, the idiot who'd throw his life away for the woman he holds dear.",
+   "why": "refit: tightened"
+  },
+  {
+   "row": 591,
+   "en": "Sara Nome, Guide of the Wind, charged with stopping the Bird Human's revival.\\nDefeat the Bird Human, revived in spite of all her efforts.",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 593,
+   "en": "Genius pilot Max and ace Milia, who made the first-ever interstellar marriage.\\nDefeat the Jenius couple, also a bridge to peace with the Zentradi.",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 597,
+   "en": "Golg Boddole Zer: Zentradi fleet Supreme Commander over a full 5 million ships.\\nDefeat the ruthless Boddole Zer, who'd readily kill his own troops to win.",
+   "why": "refit: tightened"
+  },
+  {
+   "row": 599,
+   "en": "Isamu and Guld: stuck together since childhood, they fight whenever they meet.\\nDefeat the Dalmatian High School duo, seemingly at odds but friends at heart.",
+   "why": "refit: tightened"
+  },
+  {
+   "row": 601,
+   "en": "Maximilian Jenius, space carrier Battle 7's captain and a commander of genius.\\nDefeat the Battle 7, which fought its way through the fierce Protodeviln war.",
+   "why": "refit: restructured"
+  },
+  {
+   "row": 603,
+   "en": "Gavil, a Protodeviln with a unique sense of beauty, and Glavil, a monster-like\\nProtodeviln of immense combat power. Defeat the Beauty and the Monster.",
+   "why": "refit: moved break"
+  },
+  {
+   "row": 605,
+   "en": "His Excellency Gepelnitchi: Varauta supreme commander, mightiest Protodeviln.\\nDefeat His Excellency Gepelnitchi, who could drain the galaxy of its Spiritia.",
+   "why": "refit: tightened"
+  },
+  {
+   "row": 607,
+   "en": "Gamlin Kizaki, elite pilot of the U.N. Forces' Diamond Force.\\nDefeat Gamlin, nicknamed \"Martian\" as a child for his wide forehead.",
+   "why": "refit: restructured line 2"
+  },
+  {
+   "row": 609,
+   "en": "Graham, who hates and would kill the Galaxy Whales, and Basara, who was\\nmoved to sing to them. Defeat these men burning with passion for the whales.",
+   "why": "refit: moved break; 'Galaxy Whales' -> 'whales' on second mention"
+  },
+  {
+   "row": 611,
+   "en": "Ozma Lee: seasoned S.M.S. Skull Squadron leader, overprotective of his sister.\\nDefeat Ozma, who smashed death flag after death flag throughout the story.",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 613,
+   "en": "The Macross Quarter: ARMD-class in size, yet it bears the name Macross.\\nDefeat the Macross Quarter, captained by Jeffrey Wilder.",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 615,
+   "en": "Klan Klang, Pixie Team leader, clumsy not just in her genes but in love too.\\nDefeat Klan, a maiden sunk in rage and grief after losing the one she loved.",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 617,
+   "en": "\"Being linked to you made it clear. However far you go, people are alone!\"\\n\"That's why we...!\", \"But!!\", \"It's precisely because we're alone that...\",",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 619,
+   "en": "Manipulated by Grace, Ranka Lee guards the Vajra planet to atone for her sins.\\nDefeat Ranka, who sings to protect the Vajra homeworld.",
+   "why": "refit: tightened line 1"
+  },
+  {
+   "row": 621,
+   "en": "Even the Protoculture feared their power, envied it, and at last deified them,\\ncopying their form: the super-dimensional Vajra. Defeat Grace's Vajra Queen.",
+   "why": "refit: restructured; 'controlled by Grace' -> 'Grace's'"
+  },
+  {
+   "row": 623,
+   "en": "Macross is full of giant battleships, and needless to say, so is this game.\\nDefeat the giant enemy battleships making their debut in this game.",
+   "why": "refit: restructured"
+  },
+  {
+   "row": 625,
+   "en": "Ranka: \"I, Ranka Lee, am gonna explain the basic Fighter mode controls!\\n        I'm nervous I won't explain it well, but I'll do my best. Kira☆\"",
+   "why": "refit: tightened line 2"
+  },
+  {
+   "row": 629,
+   "en": "Ranka: \"Okay! Next, I'll explain the basic GERWALK mode controls.\\n        Listen to me and get the GERWALK mode controls down perfectly!\"",
+   "why": "refit: 'my explanation' -> 'me'"
+  },
+  {
+   "row": 631,
+   "en": "Sheryl: \"It's a pain, but next I'll explain the basics of shooting attacks.\\n         You've got ME explaining, so if you don't learn it, you'll be sorry.\"",
+   "why": "refit: tightened line 2"
+  },
+  {
+   "row": 633,
+   "en": "Ranka: \"Umm... here I'll explain the basics of melee attacks.\\n        It's tough with so much to learn, but I'll do my best explaining too!\"",
+   "why": "refit: tightened line 2"
+  },
+  {
+   "row": 635,
+   "en": "Sheryl: \"Here I'll mostly explain the special maneuvers related to piloting.\\n         If you're aiming to go pro, you'd better learn at least this much.\"",
+   "why": "refit: dropped 'properly'"
+  },
+  {
+   "row": 637,
+   "en": "Ranka: \"Here I'll mainly explain the SP-related special maneuvers.\\n        They look a bit hard, but listen closely and learn them well, okay?\"",
+   "why": "refit: tightened line 2"
+  },
+  {
+   "row": 643,
+   "en": "Sheryl: \"Here I'll explain the controls that changed since the previous game.\"\\nRanka: \"Explaining with Sheryl makes me nervous, but I'll do my best!\"",
+   "why": "refit: tightened line 2"
+  }
+ ],
+ "unfit": []
+}

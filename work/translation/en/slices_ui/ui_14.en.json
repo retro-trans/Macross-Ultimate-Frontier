@@ -1,0 +1,771 @@
+{
+ "slice": 14,
+ "rows_in_slice": 119,
+ "rows_examined": 119,
+ "rows": [
+  {
+   "id": "u3266",
+   "en": "RVF-25 Messiah (Luca)\\nThe VF-25's electronic-warfare custom. Luca's is light green.\\nHas a big back radome and carries remote-piloted drones.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3267",
+   "en": "Queadluun-Rhea (Standard)\\nEvolved Queadluun-Rau with a back beam cannon and better\\narm weapons. Deployed mainly as the Pixie Team's mainstay.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Standard' coined for the generic (non-personal) unit suffix; used for every such unit in this slice."
+  },
+  {
+   "id": "u3268",
+   "en": "Queadluun-Rhea (Klan)\\nKlan's personal unit, colored red. A powered suit by nature,\\nit pairs with Klan's own skill to make a formidable machine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3269",
+   "en": "Klan Klang\\nPixie Team leader Captain Klan Klang, in her macronized form.\\nRaging and grieving at Michel's death, she mowed down Vajra.",
+   "flags": [],
+   "notes": "Zentran-ized rendered 'macronized' (terms.json)."
+  },
+  {
+   "id": "u3270",
+   "en": "VB-6 Konig Monster\\nA variable bomber based on the Monster. It excels at mobile\\nhit-and-run attacks and boasts awesome, unrivaled firepower.",
+   "flags": [],
+   "notes": "Konig without umlaut: o-umlaut is not in Shift-JIS (mecha.json note)."
+  },
+  {
+   "id": "u3271",
+   "en": "Macross Quarter\\nOnly ARMD-class in size, yet it bears the Macross name.\\nThis agile, hard-hitting ship was once seized by pirates.",
+   "flags": [],
+   "notes": "'seized by pirates' follows the source literally."
+  },
+  {
+   "id": "u3272",
+   "en": "Battle Frontier\\nThe linchpin of Frontier's defense: a huge multirole stealth\\nattack space carrier. In a crisis, it houses the government.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3273",
+   "en": "Vajra (S)\\nSmall type of an insect-like alien life form. Its head fires\\nenergy blasts and homing missiles. Its tail blade allows melee.",
+   "flags": [],
+   "notes": "Missile-like guided weapons compressed to 'homing missiles' to fit the unconfirmed width."
+  },
+  {
+   "id": "u3274",
+   "en": "Vajra (L)\\nOver 5 times the small type's size, with great firepower: a big\\nback beam that smashes battleships in one hit, missiles, guns.",
+   "flags": [],
+   "notes": "Machine-gun-like weapons compressed to 'guns'."
+  },
+  {
+   "id": "u3275",
+   "en": "VF-27 Lucifer (Standard)\\nBuilt from the YF-24 exclusively for cyborg soldiers. Its\\nmobility is too extreme for a flesh-and-blood body to endure.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Standard' coined for the generic unit suffix."
+  },
+  {
+   "id": "u3276",
+   "en": "VF-27 Lucifer (Brera)\\nBrera's personal VF-27, in his signature color, purple.\\nIts high performance troubled Alto's team time and again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3277",
+   "en": "Battle Galaxy\\nMacross Galaxy's Battle-class carrier. Thought lost in a Vajra\\nattack, it was in fact part of a plot by Grace and her allies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3278",
+   "en": "VF-2SS Valkyrie II\\nThe U.N. Forces' main Valkyrie, built with Zentradi technology.\\nSilvie and others flew it with distinction against the Mardook.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3279",
+   "en": "Gigamesh (Standard)\\nThe Mardook's main mobile weapon, made for melee, with\\nclaws all over its body and wing cutters on its shoulders.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Standard' coined for the generic unit suffix."
+  },
+  {
+   "id": "u3280",
+   "en": "Gigamesh (Feff)\\nFeff's personal Gigamesh, in his signature color, red.\\nIt fought Silvie fiercely inside the ship as she tried to escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3281",
+   "en": "VF-1S Valkyrie (Barnrose)\\nPersonal unit of Mariafokina Barnrose, leader of Vindirance.\\nPilot skill or specs? Old as it is, it rivaled the newest units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3282",
+   "en": "VF-19A Excalibur Ravens Type\\nThe VF-19 of special forces unit VF-X Ravens. High-performing\\nbut twitchy, it takes great skill to master.",
+   "flags": [],
+   "notes": "Display name keeps 'Excalibur' because the source line includes it (mecha.json lists 'VF-19A Ravens Type'); same pattern as 'VF-19P Excalibur Patrol Type'."
+  },
+  {
+   "id": "u3283",
+   "en": "VF-22 Sturmvogel II (Wilbur)\\nPersonal unit of Wilbur Garland, VF-X Ravens commander.\\nIt showed off its might in purging the rebellious Vindirance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3284",
+   "en": "VF-9 Cutlass (Max)\\nOf the Dancing Skull squadron. Max's unit, in his signature\\ncolor, blue, tore across the battlefield alongside Milia.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Dancing Skull squadron (Macross M3) is not in organizations.json."
+  },
+  {
+   "id": "u3285",
+   "en": "VF-9 Cutlass (Milia)\\nOf the Dancing Skull squadron. Milia's unit, in her signature\\ncolor, red, tore across the battlefield alongside Max.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Dancing Skull squadron (Macross M3) is not in organizations.json."
+  },
+  {
+   "id": "u3286",
+   "en": "Macross Zero",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3287",
+   "en": "Shin Kudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3288",
+   "en": "D.D. Ivanov",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3289",
+   "en": "Macross: Do You Remember Love?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3290",
+   "en": "Lynn Minmay (Final Battle)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3291",
+   "en": "Lynn Minmay (Pilot Suit)",
+   "flags": [],
+   "notes": "P-suit rendered 'Pilot Suit'; same for every P-suit costume row."
+  },
+  {
+   "id": "u3292",
+   "en": "Maximilian Jenius (Giant)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Giant form rendered '(Macronized)' after terms.json macronize; '(Giant)' is the shorter literal option. | review: harmonized"
+  },
+  {
+   "id": "u3293",
+   "en": "Macross Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3294",
+   "en": "Myung Fang Lone",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3295",
+   "en": "Macross 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3296",
+   "en": "Maximilian Jenius (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3297",
+   "en": "Macross Dynamite 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3298",
+   "en": "Basara Nekki (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3299",
+   "en": "Macross Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3300",
+   "en": "Ranka Lee (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3301",
+   "en": "Sheryl Nome (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3302",
+   "en": "Extra",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3303",
+   "en": "■Zero■",
+   "flags": [],
+   "notes": "Category header: the black-square markers are kept (Shift-JIS, drawn by the game)."
+  },
+  {
+   "id": "u3304",
+   "en": "■Macross■",
+   "flags": [],
+   "notes": "Header for the SDF Macross TV category; 'Macross' matches the rule-built 'Macross: Unit 01' labels."
+  },
+  {
+   "id": "u3305",
+   "en": "Super Pack (TV)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3306",
+   "en": "Nousjadeul-Ger (TV)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3307",
+   "en": "Zentradi Soldier (Green)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3308",
+   "en": "Zentradi Soldier (Purple)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3309",
+   "en": "■DYRL■",
+   "flags": [],
+   "notes": "DYRL abbreviation matches the rule-built gallery labels."
+  },
+  {
+   "id": "u3310",
+   "en": "Super Pack (Movie)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3311",
+   "en": "Nousjadeul-Ger (Movie)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3312",
+   "en": "■Plus■",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3313",
+   "en": "Queadluun-Rau (Chlore)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3314",
+   "en": "■Dynamite 7■",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3315",
+   "en": "Armored (Final Battle)",
+   "flags": [],
+   "notes": "Final-battle Armored Pack for the VF-25F."
+  },
+  {
+   "id": "u3316",
+   "en": "■Extra■",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3317",
+   "en": "Zero: Prologue",
+   "flags": [],
+   "notes": "Movie entries follow the rule-built gallery labels ('Zero: Prologue 1' etc.)."
+  },
+  {
+   "id": "u3318",
+   "en": "Zero: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3319",
+   "en": "SDF: Prologue",
+   "flags": [],
+   "notes": "review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u3320",
+   "en": "SDF: Epilogue 1",
+   "flags": [],
+   "notes": "review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u3321",
+   "en": "SDF: Epilogue 2",
+   "flags": [],
+   "notes": "review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u3322",
+   "en": "DYRL: Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3323",
+   "en": "DYRL: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3324",
+   "en": "Plus: Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3325",
+   "en": "Plus: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3326",
+   "en": "Macross 7: Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3327",
+   "en": "Macross 7: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3328",
+   "en": "D7: Prologue",
+   "flags": [],
+   "notes": "review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u3329",
+   "en": "D7: Epilogue",
+   "flags": [],
+   "notes": "review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u3330",
+   "en": "Frontier: Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3331",
+   "en": "Frontier: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3332",
+   "en": "☆☆☆ ☆☆",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Star mask hiding a locked entry name; stars kept, the katakana middle dot replaced by a space. If the mask mirrors the hidden name's length, the English name length will differ."
+  },
+  {
+   "id": "u3333",
+   "en": "☆☆☆☆ ☆☆☆",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Star mask hiding a locked entry name; stars kept, the katakana middle dot replaced by a space. If the mask mirrors the hidden name's length, the English name length will differ."
+  },
+  {
+   "id": "u3334",
+   "en": "☆☆☆ ☆☆☆☆",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Star mask hiding a locked entry name; stars kept, the katakana middle dot replaced by a space. If the mask mirrors the hidden name's length, the English name length will differ."
+  },
+  {
+   "id": "u3335",
+   "en": "Roy Focker (Zero)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3336",
+   "en": "Vrlitwhai 7018",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3337",
+   "en": "Basara Nekki (7)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'(7)' mirrors the source and marks the Macross 7 version as opposed to the Dynamite 7 one; '(Macross 7)' if width allows."
+  },
+  {
+   "id": "u3338",
+   "en": "Grace O'Connor (Queen)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3339",
+   "en": "Misa Hayase",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3340",
+   "en": "VF-0D (Standard)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Standard' coined for the generic unit suffix."
+  },
+  {
+   "id": "u3341",
+   "en": "VF-1A (Kakizaki, TV)",
+   "flags": [],
+   "notes": "Pilot suffix and version combined in one bracket: '(Kakizaki, TV)'."
+  },
+  {
+   "id": "u3342",
+   "en": "VF-1A (Kakizaki, Movie)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3343",
+   "en": "VF-1A (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3344",
+   "en": "Gepelnitchi's ship",
+   "flags": [],
+   "notes": "mecha.json form kept, lowercase 'ship'."
+  },
+  {
+   "id": "u3345",
+   "en": "Queadluun-Rau (Rogue)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3346",
+   "en": "VF-0 Ghost Booster\\nAll-out assault spec using Ghosts as boosters.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The source term (special attack) can mean a suicide charge; rendered 'all-out assault spec'."
+  },
+  {
+   "id": "u3347",
+   "en": "VF-0 Reactive Armor\\nAdd-on armor with missiles mounted all over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3348",
+   "en": "SV-51 Twin Booster\\nDecisive-battle spec fitted with 2 jet boosters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3349",
+   "en": "VF-1 Super Pack (TV)\\nBooster units enhance firepower and thrust.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3350",
+   "en": "VF-1 Super Pack (Movie)\\nThe Valkyrie's standard gear for space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3351",
+   "en": "VF-1 Strike Pack\\nStrike gear only leaders' units may carry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3352",
+   "en": "VF-1 Armored Pack\\nAdd-on armor with missiles mounted all over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3353",
+   "en": "YF-19/VF-19A FAST Pack\\nA compact FAST Pack designed for stealth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3354",
+   "en": "YF-21/VF-22 FAST Pack\\nA compact FAST Pack designed for stealth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3355",
+   "en": "VF-11C FAST Pack\\nBooster units enhance firepower and thrust.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3356",
+   "en": "VF-11 Full Armored\\nAdd-on armor with missiles mounted all over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3357",
+   "en": "VF-11MAXL Kai Sound Booster\\nFires sound beams powered by Song Energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3358",
+   "en": "VF-17T Kai Sound Booster\\nFires sound beams powered by Song Energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3359",
+   "en": "VF-19 Kai Sound Booster\\nFires sound beams powered by Song Energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3360",
+   "en": "VF-25 Super Pack\\nThe Messiah's standard gear for space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3361",
+   "en": "VF-25 Armored Pack\\nArmored gear that transforms to all 3 modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3362",
+   "en": "Armored Pack (Final Battle Spec)\\nFinal-battle spec: Armored plus a sniper rifle.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "S-rifle read as 'sniper rifle' (in the final battle Alto's armored VF-25F carried the sniper rifle)."
+  },
+  {
+   "id": "u3363",
+   "en": "VF-25 Fold Speaker\\nA speaker that amplifies the effects of song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3364",
+   "en": "VF-171EX Armored Pack\\nArmored gear loaded with anti-Vajra weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3365",
+   "en": "VF-2SS Super Armed Pack\\nSAP: the Valkyrie II's standard equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3366",
+   "en": "U.N. Forces pilot. Shot down by Nora, he washes up on Mayan\\nIsland and meets Sara. They clash, but slowly bond.\\nA fool who'd risk his life for a woman. (CV: Kenichi Suzumura)",
+   "flags": [],
+   "notes": "CV: Kenichi Suzumura."
+  },
+  {
+   "id": "u3367",
+   "en": "U.N. Forces ace. A tough survivor of the Unification Wars and\\na drinker whose motto is \"Fear booze? Then you can't fight!\"\\nAbove all, a man who loves the open sky. (CV: Akira Kamiya)",
+   "flags": [],
+   "notes": "Roy's motto rendered freely to fit: 'Fear booze? Then you can't fight!'. CV: Akira Kamiya."
+  },
+  {
+   "id": "u3368",
+   "en": "Priestess of Mayan Island, Guide of the Wind. Overly hostile\\nto outsiders, she's hard on Shin too. But in the fight for AFOS\\nfragments, she slowly bonds with him. (CV: Sanae Kobayashi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3369",
+   "en": "An Anti-U.N. Forces pilot whose family the U.N. Forces killed.\\nSkilled enough to down Shin twice, she teamed with Ivanov\\nto run rings around the U.N. Forces. (CV: Minami Takayama)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3370",
+   "en": "Anti-U.N. Forces ace pilot and Focker's former instructor.\\nKnown as \"Daisy Ivanov,\" he flies well enough to treat Focker\\nas a mere fledgling. (CV: Ryuzaburo Otomo)",
+   "flags": [],
+   "notes": "CV: Ryuzaburo Otomo (macrons dropped)."
+  },
+  {
+   "id": "u3371",
+   "en": "A civilian pilot. Meeting Lynn Minmay, caught in a Zentradi\\nattack, he becomes a military pilot to protect her. Indecisive,\\nhe wavers between two women. (CV: Kenji Nojima)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source grammar has Minmay as the one caught in the Zentradi attack; kept that reading. CV: Kenji Nojima."
+  },
+  {
+   "id": "u3372",
+   "en": "A veteran of the Unification Wars, as strong with drink and\\nwomen as in combat. Hikaru's senior, adored as a big brother.\\nSkull Squadron's leader and trusty ace. (CV: Akira Kamiya)",
+   "flags": [],
+   "notes": "Rank-free 'senior' for the senpai relation; Hikaru adores him as a big brother. CV: Akira Kamiya."
+  },
+  {
+   "id": "u3373",
+   "en": "A pilot who shone from his very first sortie. Nickname: Max.\\nHe beats the enemy ace Milia in battle, and this leads to him\\nlater marrying the alien Milia. A rare talent. (CV: Sho Hayami)",
+   "flags": [],
+   "notes": "CV: Sho Hayami (macron dropped)."
+  },
+  {
+   "id": "u3374",
+   "en": "Ex-Zentradi pilot. She sneaked into the Macross to find the\\none who shot her down. She found Max, dueled him and lost.\\nHe then proposed, and they married. (CV: Eri Takeda)",
+   "flags": [],
+   "notes": "Source says she was shot down, kept. Max is the one who proposes (passive in source). CV: Eri Takeda."
+  },
+  {
+   "id": "u3375",
+   "en": "Hikaru's subordinate, a big, happy-go-lucky guy. His jokes\\nin battle get him in trouble; Hikaru or Max save him. A cheery,\\neasygoing goof, hard to hate. Avg. skill. (CV: Katsumi Suzuki)",
+   "flags": [],
+   "notes": "'Avg. skill' abbreviated to fit. CV: Katsumi Suzuki."
+  },
+  {
+   "id": "u3376",
+   "en": "Support-character Misa does not appear.",
+   "flags": [],
+   "notes": "Developer note (support Misa unused)."
+  },
+  {
+   "id": "u3377",
+   "en": "Poster girl of Chinese diner Nyan-Nyan, she won Miss Macross\\nand became a top idol. Free-spirited, she toyed with Hikaru's\\ntender crush to her heart's content. (CV: Mari Iijima)",
+   "flags": [],
+   "notes": "Chinese restaurant compressed to 'Chinese diner'. CV: Mari Iijima."
+  },
+  {
+   "id": "u3378",
+   "en": "The top idol of the Macross. Through the \"Minmay Attack,\" she\\ncaused a culture shock that ended the interstellar war. A\\nlegendary diva remembered for generations. (CV: Mari Iijima)",
+   "flags": [],
+   "notes": "Star-war term rendered 'the interstellar war' (not the formal Space War I term, which uses a different source word)."
+  },
+  {
+   "id": "u3379",
+   "en": "Zentradi division commander. Warlike and hotheaded, he rides\\nout front himself, bent on sinking the Macross. While many\\nchose to live with Earth, he sought battle. (CV: Kosuke Meguro)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Division commander is literal for the source rank. CV reading Kosuke Meguro (macron dropped): flagged for a check."
+  },
+  {
+   "id": "u3380",
+   "en": "A Zentradi pilot. A formidable ace known as \"Milia the Ace,\"\\nshe was feared even by the male Zentradi soldiers.\\nAfter losing a battle to Max, she marries him. (CV: Eri Takeda)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3381",
+   "en": "U.N. Forces pilot Maximilian Jenius in macronized form. To\\ncover the Macross in the final battle with the Boddole Zer Main\\nFleet, he flew a Queadluun-Rau with Milia. (CV: Sho Hayami)",
+   "flags": [],
+   "notes": "Boddole Zer Main Fleet per organizations.json."
+  },
+  {
+   "id": "u3382",
+   "en": "Giants created by the ancient Protoculture through genetic\\nengineering. Bred as combatants, they never knew \"Culture,\"\\nand overreact when they first encounter it.",
+   "flags": [],
+   "notes": "Generic Zentradi soldier profile; no CV in source. Plural 'they' since no individual is named."
+  },
+  {
+   "id": "u3383",
+   "en": "Zentradi fleet commander. A master strategist, he corners the\\nMacross again and again. Touched by forbidden Culture in that\\nfight, he opts to coexist with Earth. (CV: Ryuzaburo Otomo)",
+   "flags": [],
+   "notes": "Vrlitwhai (TV). CV: Ryuzaburo Otomo."
+  },
+  {
+   "id": "u3384",
+   "en": "Zentradi fleet commander. Contact with Culture awakened the\\nCulture asleep within him. In the final battle he turned on\\nBoddole Zer to fight for the Macross. (CV: Ryuzaburo Otomo)",
+   "flags": [],
+   "notes": "Vrlitwhai (DYRL/final battle). CV: Ryuzaburo Otomo."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3267/u3275/u3279/u3340: coined 'Standard' for the generic (non-personal) unit suffix, e.g. 'VF-27 Lucifer (Standard)'. Also needed for VF-171EX in slice 13 context rows.",
+   "u3292: giant-form Max rendered '(Macronized)'; '(Giant)' is shorter.",
+   "u3332-u3334: star-mask names kept; the katakana middle dot (flagged as Japanese by the checker) became a space. They may mirror the hidden name's length.",
+   "u3337: '(7)' kept terse as in source.",
+   "u3346: special-attack spec rendered 'all-out assault spec' (source may imply a suicide charge).",
+   "u3362: S-rifle read as sniper rifle.",
+   "u3371: Minmay, not Hikaru, is the one caught in the Zentradi attack per the source grammar.",
+   "u3379: voice actor reading Kosuke Meguro; the other CV readings are standard (macrons dropped: Ryuzaburo Otomo, Sho Hayami, Kosuke Meguro).",
+   "Widths: every line fits the provisional limits (Japanese maximum at size 14: unit desc 434 px, pack desc 322 px, profile 434 px); several rows were compressed to get there (u3273, u3274, u3375, u3377). The boxes are not confirmed."
+  ],
+  "missing_glossary": [
+   "Dancing Skull (squadron, Macross M3): used as 'Dancing Skull squadron' (u3284, u3285)",
+   "Generic unit suffix (ippan-ki): coined 'Standard' (u3267, u3275, u3279, u3340)",
+   "P-suit costume suffix: 'Pilot Suit'",
+   "Daisy Ivanov (D.D. Ivanov's moniker): used as 'Daisy Ivanov' (u3370)"
+  ],
+  "unfinished": []
+ }
+}

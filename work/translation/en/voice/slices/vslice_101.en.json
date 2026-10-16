@@ -1,0 +1,615 @@
+{
+ "slice": 101,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpd_gvl_119",
+   "en": "Exploding Flame Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_120",
+   "en": "The flower of Explosion Beauty blooms!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_121",
+   "en": "Tch, how insolent!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_122",
+   "en": "My shield is gone. Loss Beauty.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_123",
+   "en": "It's useless now. Regret Beauty.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_124",
+   "en": "An attack like this is nothing! Stalwart Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_125",
+   "en": "Hmph! Restraint Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kousoku na'; read as 'kousoku-bi'."
+  },
+  {
+   "id": "vpd_gvl_126",
+   "en": "You noisy pest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_127",
+   "en": "You dare interfere?! You won't get away with it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_128",
+   "en": "Ugh, how irritating!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_129",
+   "en": "You're getting above yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_130",
+   "en": "I'll make you taste this pain too. Revenge Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_131",
+   "en": "I will not lose! Struggle Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_133",
+   "en": "You're the ultimate nuisance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_134",
+   "en": "What is this? Mystery Beauty!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript cuts off at 'nazo no bi-'; completed as a beauty phrase."
+  },
+  {
+   "id": "vpd_gvl_135",
+   "en": "How infuriating!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_136",
+   "en": "This is the end! Beauty!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Dying-style exclamation 'moohaya kore made bii'."
+  },
+  {
+   "id": "vpd_gvl_137",
+   "en": "Wrapped in the dark beauty of nothingness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_138",
+   "en": "Beauty... beauty is being lost!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_139",
+   "en": "What are you doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_140",
+   "en": "You small fry are struggling, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_141",
+   "en": "None who block us will be forgiven!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_142",
+   "en": "Impossible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_143",
+   "en": "Pathetic. Not a shred of beauty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_144",
+   "en": "The enemy can't be underestimated!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_148",
+   "en": "I have no need for a crowd of rubble.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'gareki no nigiwai' read as scornful remark about arriving reinforcements."
+  },
+  {
+   "id": "vpd_gvl_149",
+   "en": "I don't need reinforcements. Useless Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_150",
+   "en": "The dance of beauty!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'binoranbu'; read as 'bi no ranbu' (dance of beauty)."
+  },
+  {
+   "id": "vpd_gvl_151",
+   "en": "Damn you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_152",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_153",
+   "en": "No!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_154",
+   "en": "Operation Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_155",
+   "en": "Victory is ours. Strategy Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_156",
+   "en": "Ha! Perfection Beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_157",
+   "en": "Ending Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_158",
+   "en": "Out of time, huh? Limit Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'genkai de'; read as 'genkai-bi'."
+  },
+  {
+   "id": "vpd_gvl_159",
+   "en": "Chasing deeper is foolish. Pulling out.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'fukaoi' (katakana); read as 'fukaoi' = pursuing too far."
+  },
+  {
+   "id": "vpd_gvl_160",
+   "en": "Tch, beauty has been marred.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_161",
+   "en": "The operation ends here! Retreat Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_162",
+   "en": "Not a shred of beauty! Pull out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_163",
+   "en": "Shoot them down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_164",
+   "en": "Fire! Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_165",
+   "en": "Cover me with fire. Devotion Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kenshinbi'; read as kenshin-bi (devotion)."
+  },
+  {
+   "id": "vpd_gvl_166",
+   "en": "Blockade them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_167",
+   "en": "Bring it down! Melee Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_168",
+   "en": "Close in and attack! Strike Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_169",
+   "en": "Defend! Iron Wall Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_170",
+   "en": "You, stay away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_171",
+   "en": "My Combat Beauty. There's no place for you here.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_172",
+   "en": "Do it! Finishing Beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_173",
+   "en": "Smash them to pieces! Thorough Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_174",
+   "en": "Annihilate the enemy! Annihilation Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_175",
+   "en": "I'll show you my true form. Awakening Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_176",
+   "en": "I will not lose! Full Power Beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_179",
+   "en": "Leave it to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_180",
+   "en": "As you command. Obedience Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_181",
+   "en": "Captain! Please stand back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_182",
+   "en": "Captain, are you hurt?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_183",
+   "en": "You who defile the Captain's beauty, I won't forgive you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_184",
+   "en": "The Captain! A loss of beauty for the whole universe!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_185",
+   "en": "The Captain is ultimate beauty. Defiling that is unforgivable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_186",
+   "en": "As expected of the Captain. Even the end is magnificent beauty. Extinction Beauty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_187",
+   "en": "A feeling I can't express. Retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_188",
+   "en": "My sense of beauty is disturbed. I don't understand. Retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_189",
+   "en": "Remember this. Retreat Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_190",
+   "en": "This is thorough Destruction Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_191",
+   "en": "You! A fearsome warrior of beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'sen-ei'; read as 'senshi' (warrior)."
+  },
+  {
+   "id": "vpd_gvl_300",
+   "en": "I have no use for you. Useless Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_301",
+   "en": "Hmph! Not a shred of beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_302",
+   "en": "You are the height of obstruction!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_304",
+   "en": "Learn, and know beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_305",
+   "en": "I'll annihilate you thoroughly. Annihilation Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_306",
+   "en": "On with indomitable fighting spirit! Stalwart Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_307",
+   "en": "Heh heh heh... I'll wrap you in the beauty of extinction!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_308",
+   "en": "Let's do it! Fierce Death Beauty!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'gekishi yobi'; guessed 'gekishi-bi' (fierce death beauty)."
+  },
+  {
+   "id": "vpd_gvl_309",
+   "en": "Here we go! Our Strongest Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'saikyou-o' (tail); read as 'saikyou-bi'."
+  },
+  {
+   "id": "vpd_gvl_310",
+   "en": "This formidable foe! Limit Beauty!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'kono kyouyou genkai-hi'; read as 'kono kyouteki' + 'genkai-bi'."
+  },
+  {
+   "id": "vpd_gvl_311",
+   "en": "This is the mission I've been seeking. Operation Beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_320",
+   "en": "My beauty is being lost.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8015: Transcript cuts off at 'nazo no bi-'; completed as a beauty phrase.",
+   "row 8017: Dying-style exclamation 'moohaya kore made bii'.",
+   "row 8026: 'gareki no nigiwai' read as scornful remark about arriving reinforcements.",
+   "row 8028: Transcript 'binoranbu'; read as 'bi no ranbu' (dance of beauty).",
+   "row 8076: Transcript 'gekishi yobi'; guessed 'gekishi-bi' (fierce death beauty).",
+   "row 8078: Transcript 'kono kyouyou genkai-hi'; read as 'kono kyouteki' + 'genkai-bi'."
+  ],
+  "whisper_doubt": [
+   "row 8001: 'hi' heard for 'bi' (beauty).",
+   "row 8002: 'hi' heard for 'bi' (beauty).",
+   "row 8004: 'hi' heard for 'bi' (beauty).",
+   "row 8005: 'hi' heard for 'bi' (beauty).",
+   "row 8006: 'hi' heard for 'bi' (beauty).",
+   "row 8007: Transcript 'kousoku na'; read as 'kousoku-bi'.",
+   "row 8012: 'hi' heard for 'bi' (beauty).",
+   "row 8013: 'hi' heard for 'bi' (beauty).",
+   "row 8015: Transcript cuts off at 'nazo no bi-'; completed as a beauty phrase.",
+   "row 8027: 'hi' heard for 'bi' (beauty).",
+   "row 8028: Transcript 'binoranbu'; read as 'bi no ranbu' (dance of beauty).",
+   "row 8032: 'hi' heard for 'bi' (beauty).",
+   "row 8033: 'hi' heard for 'bi' (beauty).",
+   "row 8035: 'hi' heard for 'bi' (beauty).",
+   "row 8036: Transcript 'genkai de'; read as 'genkai-bi'.",
+   "row 8037: Transcript 'fukaoi' (katakana); read as 'fukaoi' = pursuing too far.",
+   "row 8039: 'hi' heard for 'bi' (beauty).",
+   "row 8043: Transcript 'kenshinbi'; read as kenshin-bi (devotion).",
+   "row 8045: 'hi' heard for 'bi' (beauty).",
+   "row 8046: 'hi' heard for 'bi' (beauty).",
+   "row 8047: 'hi' heard for 'bi' (beauty).",
+   "row 8049: 'hi' heard for 'bi' (beauty).",
+   "row 8051: 'hi' heard for 'bi' (beauty).",
+   "row 8052: 'hi' heard for 'bi' (beauty).",
+   "row 8053: 'hi' heard for 'bi' (beauty).",
+   "row 8057: 'hi' heard for 'bi' (beauty).",
+   "row 8066: 'hi' heard for 'bi' (beauty).",
+   "row 8067: 'hi' heard for 'bi' (beauty).",
+   "row 8068: Transcript 'sen-ei'; read as 'senshi' (warrior).",
+   "row 8069: 'hi' heard for 'bi' (beauty).",
+   "row 8073: 'hi' heard for 'bi' (beauty).",
+   "row 8074: 'hi' heard for 'bi' (beauty).",
+   "row 8076: Transcript 'gekishi yobi'; guessed 'gekishi-bi' (fierce death beauty).",
+   "row 8077: Transcript 'saikyou-o' (tail); read as 'saikyou-bi'.",
+   "row 8078: Transcript 'kono kyouyou genkai-hi'; read as 'kono kyouteki' + 'genkai-bi'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

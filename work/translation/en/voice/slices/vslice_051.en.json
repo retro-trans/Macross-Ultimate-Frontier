@@ -1,0 +1,524 @@
+{
+ "slice": 51,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_of0_009",
+   "en": "This is the end!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_009",
+   "en": "I'll end it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_009",
+   "en": "Gotcha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_010",
+   "en": "Last one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_010",
+   "en": "Take it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_010",
+   "en": "Keep the change!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_010",
+   "en": "Right here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_010",
+   "en": "Take that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_010",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_011",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_011",
+   "en": "Wide open!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_011",
+   "en": "Come back and try again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_011",
+   "en": "One more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_011",
+   "en": "This'll hurt!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_011",
+   "en": "Here ya go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_012",
+   "en": "What an attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_012",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_012",
+   "en": "I'm wide awake now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_012",
+   "en": "What an attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_012",
+   "en": "No way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_012",
+   "en": "Ouch!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'itte-te' (saying); probably 'itte-e', ouch."
+  },
+  {
+   "id": "vp0_om0_013",
+   "en": "You're good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_013",
+   "en": "Damn it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kuso-gaa'; probably 'kuso ga', damn."
+  },
+  {
+   "id": "vp0_om2_013",
+   "en": "I'm in top gear now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_013",
+   "en": "I can hold!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_013",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_013",
+   "en": "Dammit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_014",
+   "en": "Hold together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_014",
+   "en": "Not good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_014",
+   "en": "I'll take it all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_014",
+   "en": "There won't be a next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_014",
+   "en": "I underestimated!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Unclear whether 'I underestimated it' or 'you underestimated me'; chose the first."
+  },
+  {
+   "id": "vp0_of2_014",
+   "en": "Ugh, the worst!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_015",
+   "en": "That's nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_015",
+   "en": "Tch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_015",
+   "en": "Ha! That tickles!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_015",
+   "en": "Just a graze.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_015",
+   "en": "Did that hit me?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading of 'kuratta ka' unclear: did it hit me, or did you feel that."
+  },
+  {
+   "id": "vp0_of2_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groan; Whisper repeated a syllable."
+  },
+  {
+   "id": "vp0_om0_016",
+   "en": "That all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Chuckle."
+  },
+  {
+   "id": "vp0_om2_016",
+   "en": "You're kinder than I thought.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_016",
+   "en": "Did it hit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_016",
+   "en": "Tch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_016",
+   "en": "Oh, you did it now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vp0_om1_017",
+   "en": "Now this is fun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_017",
+   "en": "That's a good way to attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_017",
+   "en": "If it's just this...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_of1_017",
+   "en": "You've done it now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vp0_om0_018",
+   "en": "One more shot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_018",
+   "en": "Sorry, pal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_018",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper heard 'kaora'; could be a shout like 'koora' (hey) or 'come on'; unclear."
+  },
+  {
+   "id": "vp0_of0_018",
+   "en": "I've got more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_018",
+   "en": "Sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_018",
+   "en": "I'm not done yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_019",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_019",
+   "en": "So long!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_019",
+   "en": "Exactly as planned.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_019",
+   "en": "And this one, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_019",
+   "en": "You're wide open.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_019",
+   "en": "Here's my chance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_020",
+   "en": "I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_020",
+   "en": "And a bonus!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_020",
+   "en": "Have this one too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_020",
+   "en": "Excuse me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_020",
+   "en": "Here you go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_020",
+   "en": "Go for it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_100",
+   "en": "Starting operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_100",
+   "en": "Starting the operation now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_100",
+   "en": "We've come this far, so there's no turning back. Okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_100",
+   "en": "Beginning the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_100",
+   "en": "Commencing operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_100",
+   "en": "Here we go! I'm going all out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_101",
+   "en": "I'll show them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_101",
+   "en": "Well then, let's do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_101",
+   "en": "We're coming back alive. Promise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_101",
+   "en": "I'll try.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_101",
+   "en": "I'll show you my skills.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 4032: Unclear whether 'I underestimated it' or 'you underestimated me'; chose the first.",
+   "row 4038: Reading of 'kuratta ka' unclear: did it hit me, or did you feel that."
+  ],
+  "whisper_doubt": [
+   "row 4021: Whisper wrote 'itte-te' (saying); probably 'itte-e', ouch.",
+   "row 4023: Heard 'kuso-gaa'; probably 'kuso ga', damn.",
+   "row 4054: Whisper heard 'kaora'; could be a shout like 'koora' (hey) or 'come on'; unclear."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 4049: Trails off."
+  ]
+ }
+}

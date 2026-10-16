@@ -1,0 +1,528 @@
+{
+ "slice": 66,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vph_nor_324",
+   "en": "Looks like even the boy made it out alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_325",
+   "en": "That was good work, for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_326",
+   "en": "You've improved enough to keep up with me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_327",
+   "en": "Best fight I've had in ages.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_328",
+   "en": "I can't call you boy anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_329",
+   "en": "To think I'd entrust my life to someone else. Not a bad feeling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_330",
+   "en": "You've started to look like a real man.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_331",
+   "en": "Not bad. Skilled enough that I could trust you with my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_340",
+   "en": "I'll enjoy myself on my own, got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_341",
+   "en": "You're in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_342",
+   "en": "Stuck on a battlefield with a little girl. Just my luck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_343",
+   "en": "Pull off a mission like this one, will you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_344",
+   "en": "Don't let your guard down, little girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_345",
+   "en": "Just think about staying alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_346",
+   "en": "Let's see how much you've improved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_347",
+   "en": "Can you keep up now, little girl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_348",
+   "en": "You, huh? This could get interesting.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a stray 'ka' after omae to; read as 'You, huh?'."
+  },
+  {
+   "id": "vph_nor_349",
+   "en": "That's an order. Stay alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_350",
+   "en": "Let's enjoy this mission together, the two of us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_351",
+   "en": "I'm trusting you with my back. You'd better work hard for it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_360",
+   "en": "You've got some nerve, coming back like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_361",
+   "en": "Don't get cocky over an operation this easy, little girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_362",
+   "en": "Getting in the way of my hunt...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_363",
+   "en": "Consider yourself lucky you survived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_364",
+   "en": "That'll do. Returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_365",
+   "en": "You made it back, little girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_366",
+   "en": "Not a bad performance, for a little girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_367",
+   "en": "You're getting good, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_368",
+   "en": "You've become somewhat useful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_369",
+   "en": "You've turned into a fine woman. I'm counting on you from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_370",
+   "en": "To think I'd end up playing support. You've really improved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_371",
+   "en": "Well done. I'll acknowledge you as my partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_600",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_601",
+   "en": "Roger. I'll definitely dash in.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Odd phrasing (dash); kept literal."
+  },
+  {
+   "id": "vph_nor_602",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a katakana word (dairii); too short and unclear to read."
+  },
+  {
+   "id": "vph_nor_603",
+   "en": "I can tell by your moves that you switched machines, boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_604",
+   "en": "I can tell you switched machines.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_605",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpa_roy_000",
+   "en": "Skull Leader, launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_001",
+   "en": "Roy Focker, taking off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_002",
+   "en": "I'm heading out for a bit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_003",
+   "en": "Whoa, that's scary!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_004",
+   "en": "What the hell are you doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_005",
+   "en": "You bastard!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote yarou; read as yaro (bastard)."
+  },
+  {
+   "id": "vpa_roy_006",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_007",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_008",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_010",
+   "en": "Got you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_011",
+   "en": "See ya!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_012",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream or breath, not words."
+  },
+  {
+   "id": "vpa_roy_013",
+   "en": "This is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_014",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream, not words."
+  },
+  {
+   "id": "vpa_roy_015",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Yelp."
+  },
+  {
+   "id": "vpa_roy_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Yelp."
+  },
+  {
+   "id": "vpa_roy_018",
+   "en": "Here you go!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote soora yo; read as sora yo (here you go)."
+  },
+  {
+   "id": "vpa_roy_019",
+   "en": "One more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_020",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_100",
+   "en": "All right, let's get started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_101",
+   "en": "All right! Follow me, you rookies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_102",
+   "en": "Focker here. Starting the operation.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote fokkaa daa; read as Focker da (Focker here)."
+  },
+  {
+   "id": "vpa_roy_103",
+   "en": "You won't get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_104",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_105",
+   "en": "I'll do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_106",
+   "en": "It's over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_107",
+   "en": "Right here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_108",
+   "en": "Yeah-hah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_109",
+   "en": "My heart's pounding!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_110",
+   "en": "Huff, huff... You're tough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_111",
+   "en": "Is that all you've got?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_112",
+   "en": "Over already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_113",
+   "en": "All right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_114",
+   "en": "Geez.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_115",
+   "en": "More of them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_116",
+   "en": "Come on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_117",
+   "en": "Here they come!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_118",
+   "en": "Who's next?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote tsugi wa Doitsu (next is Germany); read as tsugi wa doitsu da (who's next)."
+  },
+  {
+   "id": "vpa_roy_119",
+   "en": "All right, that's cleaned up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_120",
+   "en": "Gotta handle at least this much!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5234 (vph_nor_601): Odd phrasing (dash); kept literal."
+  ],
+  "whisper_doubt": [
+   "row 5217 (vph_nor_348): Transcript has a stray 'ka' after omae to; read as 'You, huh?'.",
+   "row 5235 (vph_nor_602): Whisper wrote a katakana word (dairii); too short and unclear to read.",
+   "row 5244 (vpa_roy_005): Whisper wrote yarou; read as yaro (bastard).",
+   "row 5257 (vpa_roy_018): Whisper wrote soora yo; read as sora yo (here you go).",
+   "row 5262 (vpa_roy_102): Whisper wrote fokkaa daa; read as Focker da (Focker here).",
+   "row 5278 (vpa_roy_118): Whisper wrote tsugi wa Doitsu (next is Germany); read as tsugi wa doitsu da (who's next)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

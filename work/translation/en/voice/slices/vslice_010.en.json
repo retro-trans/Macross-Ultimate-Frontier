@@ -1,0 +1,502 @@
+{
+ "slice": 10,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_320",
+   "en": "Um, excuse me. Please return quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_320",
+   "en": "Finishing it safely? How good of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_320",
+   "en": "As expected, you're a klutz. Useless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_320",
+   "en": "You came back alive? That's a surprise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_320",
+   "en": "Hm? Did you say something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_321",
+   "en": "You call that taking it seriously? Honestly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_321",
+   "en": "You have the devil's own luck. I mean that as praise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_321",
+   "en": "I thought you'd be a bit more useful than that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_321",
+   "en": "Oh? You didn't run away. Impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_321",
+   "en": "Don't get too carried away just because you succeeded.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_322",
+   "en": "It all ended safely. A miracle, maybe?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_322",
+   "en": "Anyway, it's over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_322",
+   "en": "That's all you amount to.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_322",
+   "en": "Don't think this kind of luck will last.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_322",
+   "en": "Good work. You can stand down now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_323",
+   "en": "It's over. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_323",
+   "en": "Mission complete. Return to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_323",
+   "en": "Mission accomplished. You did well, for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_323",
+   "en": "Mission over. Return immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_323",
+   "en": "Mission over. Return to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_324",
+   "en": "I'm so glad you're safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_324",
+   "en": "Quite some skill. Keep it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_324",
+   "en": "Glad you made it back safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_324",
+   "en": "Looks like it's over. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_324",
+   "en": "You're safe, right? Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_325",
+   "en": "Good work. Get some solid rest for the next one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_325",
+   "en": "Glad it all ended safely. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_325",
+   "en": "I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_325",
+   "en": "All right, rest up for the next one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_325",
+   "en": "Looks like it's over. You can come back now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_326",
+   "en": "Good work. You had me a little worried, honestly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_326",
+   "en": "Well done. You did better than I imagined.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_326",
+   "en": "With your skill, of course you'd succeed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_326",
+   "en": "Not bad skill. I like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_326",
+   "en": "Thanks for sortieing, it helped. I'm counting on you again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_327",
+   "en": "You handled that mission brilliantly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_327",
+   "en": "You looked cool. You're a full-fledged pilot now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_327",
+   "en": "Pretty skillful. I'm praising you honestly, so be happier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_327",
+   "en": "Heh, keep it up next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_327",
+   "en": "You did your best. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_328",
+   "en": "Now, hurry back. I'll be waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_328",
+   "en": "You worried me a little. Take responsibility.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_328",
+   "en": "Good work. You did follow my orders properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_328",
+   "en": "You did well. I can tell.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_328",
+   "en": "Impressive skill. I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_329",
+   "en": "Amazing. Is this what an ace can do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_329",
+   "en": "Worrying me this much... you really are a handful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_329",
+   "en": "What is this feeling? Being with you makes me so nervous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_329",
+   "en": "Leaving this mission to you was the right call after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_329",
+   "en": "You're safe. I'll treat you to tea later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_330",
+   "en": "Oh, it's over. Thank goodness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_330",
+   "en": "I'll have to give you a reward for your performance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_330",
+   "en": "Hey! If you're free after this, go on a d-date with me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_330",
+   "en": "No need to worry after all. You're dependable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_330",
+   "en": "Hee hee, impressive. You're not captain for nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_331",
+   "en": "Now then, let's have a party to celebrate! Um, just the two of us...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_331",
+   "en": "Have a drink with me when you get back. You can't refuse, of course.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_331",
+   "en": "I'm bad at cooking, but I want to make something for you, nya... I didn't bite my tongue!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_331",
+   "en": "Good work. Let me buy you a drink today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_331",
+   "en": "I felt you would protect me. Absolutely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_340",
+   "en": "Um, could you start the mission?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_340",
+   "en": "I'm counting on you to fight hard.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'funsou no tatakai' (conflict battle); probably 'funtou' (hard fighting) wo onegai suru wa."
+  },
+  {
+   "id": "vo0_of2_340",
+   "en": "Just work as well as a klutz can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_340",
+   "en": "Don't get in the way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_340",
+   "en": "Operation start. Refrain from rash actions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_341",
+   "en": "I'll be in trouble if you don't do it properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_341",
+   "en": "The mission is starting, so focus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_341",
+   "en": "Who knows how far someone like you can get.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_341",
+   "en": "Quit dawdling and start the mission already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_341",
+   "en": "Oh, you're sortieing too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_342",
+   "en": "I don't think it's a difficult mission, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_342",
+   "en": "Try to handle a mission this easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_342",
+   "en": "This'll be rough, with skills like yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_342",
+   "en": "You won't fail a mission this easy, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_342",
+   "en": "Don't presume on being a woman. Get the mission done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_343",
+   "en": "Mission start. Good luck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_343",
+   "en": "The mission is starting. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_343",
+   "en": "The mission's starting. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_343",
+   "en": "All right, begin the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_343",
+   "en": "Operation start. I pray for your success.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 795 vos_mis_342: Misa speaks to a female player ('being a woman'); kept as is since the line says it",
+   "row 722: sarcastic praise (Claire calls the pilot a good boy or girl)",
+   "row 725: Misa 'Did you say something?' follows the insulting 320 lines of the others; only reading that fits"
+  ],
+  "whisper_doubt": [
+   "row 782"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

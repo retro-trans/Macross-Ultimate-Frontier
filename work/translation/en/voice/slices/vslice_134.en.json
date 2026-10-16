@@ -1,0 +1,517 @@
+{
+ "slice": 134,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_mcl_188",
+   "en": "I don't like the look of this.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says \"this feeling is good\" (kono kanji, ii mono da) inside the retreat group 187-189; guessed a garbled \"mazui/yabai\" (not good), as clip 187 is also garbled."
+  },
+  {
+   "id": "vpf_mcl_189",
+   "en": "At this rate, we'll have to pull out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_190",
+   "en": "As expected of you, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_191",
+   "en": "I can't let the Captain outdo me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_192",
+   "en": "The Princess isn't half bad either.",
+   "flags": [],
+   "notes": "Princess = Alto's teasing nickname."
+  },
+  {
+   "id": "vpf_mcl_193",
+   "en": "Keep it up like this, Klan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_300",
+   "en": "Paired up with you? What a sad state of affairs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_301",
+   "en": "I'm passing on this op! ...Whoa, yeah, guess I can't.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_302",
+   "en": "Hey, whatever you do, don't screw up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_303",
+   "en": "Don't do anything reckless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_304",
+   "en": "Women and bullets, I hit with one shot. Leave it to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_305",
+   "en": "Don't get fired up over a mission this easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_306",
+   "en": "Don't fight alone. We're a team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_307",
+   "en": "I've got your back. I'll give you perfect support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_308",
+   "en": "I'll count on you, for what it's worth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_309",
+   "en": "Let's wrap this up quick and take it easy today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_310",
+   "en": "Trust my support, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_311",
+   "en": "A team like ours has this in the bag, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_320",
+   "en": "That was a rough one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_321",
+   "en": "Phew... Geez, you sloppy rookie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_322",
+   "en": "Keep this up and you'll get yourself killed, or get someone else killed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_323",
+   "en": "I'll clean up the next one with my sniping too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_324",
+   "en": "Well, well, another day's work done. Good job.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_325",
+   "en": "Looks like I'll make it in time for my date.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_326",
+   "en": "That was a nice follow-up, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_327",
+   "en": "Did my sniping meet with your approval?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_328",
+   "en": "Results just as expected. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_329",
+   "en": "Work's done, so how about a guys' night out for once?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_330",
+   "en": "Glad I've got such a dependable partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_331",
+   "en": "Fighting next to you, I never feel like losing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_340",
+   "en": "I'm not getting dragged down with you. Do it right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_341",
+   "en": "Sortieing with you? Read the mood, would you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_342",
+   "en": "At least be useful as a decoy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_343",
+   "en": "Let's go! Loosen up those shoulders!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_344",
+   "en": "Well, shall we get started?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_345",
+   "en": "Don't get worked up! You'll ruin that beautiful face!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_346",
+   "en": "Make it back alive and I'll treat you to a joyride with me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_347",
+   "en": "When I heard a beauty like you was in trouble, I couldn't leave you be.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_348",
+   "en": "I'll back you up from the rear. Leave it to me.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"koushi tomo ni\" (nonsense); guessed \"kouhou kara\" (from the rear) / support."
+  },
+  {
+   "id": "vpf_mcl_349",
+   "en": "I'll protect you, no matter what.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_350",
+   "en": "With my sniping, no one will lay a finger on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_351",
+   "en": "You can count on me anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_360",
+   "en": "Better than an amateur, at least.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_361",
+   "en": "Not bad, for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_362",
+   "en": "You didn't get in my way. That's good enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_363",
+   "en": "Quite the skill. Wow, I clearly underestimated you.",
+   "flags": [],
+   "notes": "Tea-ceremony phrasing (otemae), a mock-polite compliment."
+  },
+  {
+   "id": "vpf_mcl_364",
+   "en": "Well, all's well that ends well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_365",
+   "en": "At this rate, maybe you didn't need my support?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_366",
+   "en": "Now then, shall we hit the town and go into overtime?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_367",
+   "en": "My support was useful, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_368",
+   "en": "Well, we're all going home together, so let's call it good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_369",
+   "en": "I'll protect you as many times as it takes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_370",
+   "en": "I'm counting on you too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_371",
+   "en": "Even if reaction weapons rain down, we won't lose, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_600",
+   "en": "Captain, it's Gilliam's team!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript is fragmentary (\"taichou, Gilliam-tai\"); read as an announcement to the leader."
+  },
+  {
+   "id": "vpf_mcl_601",
+   "en": "Really an amateur? Pretty good skill for one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_602",
+   "en": "Geez, you sloppy fool.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_603",
+   "en": "On it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"taisho!\" (0.5 s); likely a short acknowledgement, guessed."
+  },
+  {
+   "id": "vpf_mcl_604",
+   "en": "I'll do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_605",
+   "en": "No comment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_606",
+   "en": "Tch, I've got a guy for an opponent?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_607",
+   "en": "Shoot me down and get a free joyride with me.",
+   "flags": [],
+   "notes": "Said to an enemy."
+  },
+  {
+   "id": "vpf_mcl_608",
+   "en": "I'm ready to go anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_609",
+   "en": "Shut up, Klan! Stop going on about when we were kids!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_610",
+   "en": "Alto! That ship's like a porcupine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_611",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_612",
+   "en": "Klan? That meddler.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_613",
+   "en": "Right, you're stepping neatly into my line of fire.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has the kanji for traffic lane (shasen); read as the homophone shasen, line of fire, for a sniper."
+  },
+  {
+   "id": "vpf_mcl_615",
+   "en": "Good thing you didn't run.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_616",
+   "en": "Hey.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_617",
+   "en": "I still don't get it. What were you thinking, sis, when you pulled that trigger?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_618",
+   "en": "But maybe someday I will. Right, sis?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_619",
+   "en": "Alto! Special delivery, your birthday present!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_621",
+   "en": "Ranka's there too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_622",
+   "en": "What a woman. I could fall for her.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_623",
+   "en": "No way!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_624",
+   "en": "Ranka's song is changing how the Vajra behave.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_625",
+   "en": "They say lots of the brass are Minmay Attack believers, but playing songs for the Vajra? Seriously?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has odd kanji for Minmay Attack (minmei attack) and a garbled word for the brass (oeraigata); read as Minmay Attack and the military brass."
+  },
+  {
+   "id": "vpf_mcl_626",
+   "en": "Seriously?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_627",
+   "en": "Falling for someone for real means putting your life on the line.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 10695 vpf_mcl_600: fragmentary transcript, \"Gilliam's team\" announcement.",
+   "row 10698 vpf_mcl_603: 0.5 s clip guessed as an acknowledgement.",
+   "row 10711/10712 vpf_mcl_617/618: \"sis\" is Michael's late sister; kept as plain \"sis\"."
+  ],
+  "whisper_doubt": [
+   "vpf_mcl_188: Transcript says \"this feeling is good\" (kono kanji, ii mono da) inside the retreat group 187-189; guessed a garbled \"mazui/yabai\" (not good), as clip 187 is also garbled.",
+   "vpf_mcl_348: Heard \"koushi tomo ni\" (nonsense); guessed \"kouhou kara\" (from the rear) / support.",
+   "vpf_mcl_600: Transcript is fragmentary (\"taichou, Gilliam-tai\"); read as an announcement to the leader.",
+   "vpf_mcl_603: Transcript \"taisho!\" (0.5 s); likely a short acknowledgement, guessed.",
+   "vpf_mcl_613: Transcript has the kanji for traffic lane (shasen); read as the homophone shasen, line of fire, for a sniper.",
+   "vpf_mcl_625: Transcript has odd kanji for Minmay Attack (minmei attack) and a garbled word for the brass (oeraigata); read as Minmay Attack and the military brass."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

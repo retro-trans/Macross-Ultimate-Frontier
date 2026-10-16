@@ -1,0 +1,536 @@
+{
+ "slice": 107,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_max_634",
+   "en": "All ships, launch Valkyrie squadrons. Vanguard ships, ready to fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_max_635",
+   "en": "Recall Emerald Force and Diamond Force at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'shikyuu' is written with the kanji for 'supply'; read as 'shikyuu' (urgently)."
+  },
+  {
+   "id": "vp7_max_636",
+   "en": "Emerald Force, sortie at once. All forces, take intercept positions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_max_637",
+   "en": "That must be the leader unit. D1, wait for rear support.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Second take; 'omake' read as 'matte' (wait); 'kouhou' (PR) read as rear support."
+  },
+  {
+   "id": "vp7_max_638",
+   "en": "No way... so this is the Protodeviln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_max_639",
+   "en": "The Macross 7 fleet faces an unprecedented threat: the Protodeviln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'Macross 7000-dan'; read as 'Macross 7 sendan'."
+  },
+  {
+   "id": "vp7_max_641",
+   "en": "Mayor Milia and I, Maximilian Jenius, will take part in this training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_max_642",
+   "en": "We will raid and annihilate the Protodeviln base.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Second take; Whisper has the kanji for 'absorb'; probably 'raid' (same sound, kyuushuu)."
+  },
+  {
+   "id": "vp7_max_644",
+   "en": "All units: annihilating the enemy is your absolute mission. Act swiftly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_max_645",
+   "en": "The fate of the entire galaxy, not just Macross 7, rides on this operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_max_647",
+   "en": "Operation complete. All units, leave the atmosphere at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'earlier period' (zenki); read as 'zenki' (all units)."
+  },
+  {
+   "id": "vp7_max_649",
+   "en": "I am Maximilian Jenius, commander of the Macross 7 fleet, the U.N. Forces' 7th Emigrant Fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_max_650",
+   "en": "Please, hear me out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_max_651",
+   "en": "The Zentradi are walking the path of coexistence with us humans.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_000",
+   "en": "Battle 7, launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_001",
+   "en": "Battle 7 will separate from City 7 and sortie at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_100",
+   "en": "Commencing the operation. Give it everything you have, all of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_103",
+   "en": "Target locked. Keep your eyes on the monitor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_104",
+   "en": "Don't let them escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_106",
+   "en": "Fire!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Stretched 'tee' is the naval 'fire!' call (Macross Cannon context)."
+  },
+  {
+   "id": "vp7_mjc_107",
+   "en": "Macross Cannon, fire!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Makurosukenon' read as 'Macross Cannon'."
+  },
+  {
+   "id": "vp7_mjc_113",
+   "en": "Don't underestimate our strength.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_116",
+   "en": "Assume intercept posture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_118",
+   "en": "Thank you for your efforts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_132",
+   "en": "Everyone, stay calm. We can still win.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_137",
+   "en": "Damn! Battle 7 has been shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_138",
+   "en": "I'm sorry, everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_154",
+   "en": "Operation complete. All units, return.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mjc_164",
+   "en": "Switch to covering fire and support Battle 7!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_000",
+   "en": "Milia Fallyna Jenius, launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_001",
+   "en": "I'm going out.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whisper flagged nospeech but gave text; plausible for a 0.9s launch bark."
+  },
+  {
+   "id": "vp7_mil_002",
+   "en": "Launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_003",
+   "en": "Pointless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_004",
+   "en": "Can't hit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_005",
+   "en": "Too soft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_006",
+   "en": "What's this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_007",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_008",
+   "en": "What a pest!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_009",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_010",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_011",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_012",
+   "en": "What is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_013",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Short laugh."
+  },
+  {
+   "id": "vp7_mil_014",
+   "en": "Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vp7_mil_016",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_017",
+   "en": "Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_018",
+   "en": "Hold it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_019",
+   "en": "No escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_020",
+   "en": "And this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_100",
+   "en": "I'll shoot them all down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_101",
+   "en": "Someone has to fight to protect the citizens.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_102",
+   "en": "This takes me back to my youth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_103",
+   "en": "Heh, there you are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_104",
+   "en": "You won't escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_105",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_106",
+   "en": "Go learn the basics!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_107",
+   "en": "Chance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_108",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_109",
+   "en": "As if I'd let you!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whisper flagged nospeech but text fits the clip."
+  },
+  {
+   "id": "vp7_mil_110",
+   "en": "So, how will you handle this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_111",
+   "en": "You're no challenge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_112",
+   "en": "Behave yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_113",
+   "en": "You're weak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_114",
+   "en": "As expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_115",
+   "en": "Target kill is the top priority.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_116",
+   "en": "There's the target.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'mokuhyou wa watashi-goto-ssuwa' is garbled; guessed 'mokuhyou wa are desu wa' (the target is that one)."
+  },
+  {
+   "id": "vp7_mil_117",
+   "en": "That must be the target. I'm taking it down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_118",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_119",
+   "en": "I've still got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_120",
+   "en": "I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_121",
+   "en": "Honestly, trouble never ends.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_122",
+   "en": "It's only a broken shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_123",
+   "en": "Don't get cocky over this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_124",
+   "en": "It's nothing serious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_125",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_126",
+   "en": "Damn, I can't get careless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_127",
+   "en": "This is bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_128",
+   "en": "You hit my precious aircraft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_129",
+   "en": "That's not enough to shoot me down.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8484 (vp7_max_637): Second take; 'omake' read as 'matte' (wait); 'kouhou' (PR) read as rear support.",
+   "row 8488 (vp7_max_642): Second take; Whisper has the kanji for 'absorb'; probably 'raid' (same sound, kyuushuu).",
+   "row 8511 (vp7_mil_001): Whisper flagged nospeech but gave text; plausible for a 0.9s launch bark.",
+   "row 8540 (vp7_mil_109): Whisper flagged nospeech but text fits the clip.",
+   "row 8547 (vp7_mil_116): 'mokuhyou wa watashi-goto-ssuwa' is garbled; guessed 'mokuhyou wa are desu wa' (the target is that one)."
+  ],
+  "whisper_doubt": [
+   "row 8482 (vp7_max_635): 'shikyuu' is written with the kanji for 'supply'; read as 'shikyuu' (urgently).",
+   "row 8484 (vp7_max_637): Second take; 'omake' read as 'matte' (wait); 'kouhou' (PR) read as rear support.",
+   "row 8486 (vp7_max_639): Whisper wrote 'Macross 7000-dan'; read as 'Macross 7 sendan'.",
+   "row 8488 (vp7_max_642): Second take; Whisper has the kanji for 'absorb'; probably 'raid' (same sound, kyuushuu).",
+   "row 8491 (vp7_max_647): Whisper wrote 'earlier period' (zenki); read as 'zenki' (all units).",
+   "row 8500 (vp7_mjc_106): Stretched 'tee' is the naval 'fire!' call (Macross Cannon context).",
+   "row 8501 (vp7_mjc_107): 'Makurosukenon' read as 'Macross Cannon'.",
+   "row 8547 (vp7_mil_116): 'mokuhyou wa watashi-goto-ssuwa' is garbled; guessed 'mokuhyou wa are desu wa' (the target is that one)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

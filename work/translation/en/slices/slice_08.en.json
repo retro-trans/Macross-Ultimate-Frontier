@@ -1,0 +1,522 @@
+{
+ "slice": 8,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "mission_ext:ME_100:strStory",
+   "en": "Variable fighters, developed using the OverTechnology of the Macross.\\nTo learn how they evolved, battle the variable fighters of every generation.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Kahen kitai (variable machines) rendered as 'variable fighters'. | review: refit: pronoun for repeated 'variable fighters'"
+  },
+  {
+   "id": "mission_ext:ME_110:strMission",
+   "en": "Annihilate the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_110:strStory",
+   "en": "A massive Zentradi horde has appeared and is about to invade Earth once again.\\nProtect Earth from this crisis: annihilate the Zentradi forces at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_120:strMission",
+   "en": "To be accepted as a security guard,\\nfight a mock battle with Basara's band.",
+   "flags": [],
+   "notes": "review: refit: 'hold ... with Basara and the band' -> 'fight ... with Basara's band'"
+  },
+  {
+   "id": "mission_ext:ME_120:strStory",
+   "en": "Venue security test for Fire Bomber's special live: can you stay cool through\\nBasara and the band's red-hot songs? Win the mock battle vs. Fire Bomber.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source spells the band in full-width capitals; glossary spelling 'Fire Bomber' used. 'Basara-tachi' = Basara and his bandmates. | review: refit: restructured as a test question"
+  },
+  {
+   "id": "mission_ext:ME_130:strMission",
+   "en": "Fight wild with a burning heart!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_130:strStory",
+   "en": "Basara: \"Now it's red-hot live time! We'll slam our hearts right into you!\\n         So let's go big and flashy! Get wild and FIRE!\"",
+   "flags": [],
+   "notes": "Speaker-prefix format kept; continuation indented with spaces to align under the opening quote, as the source does with full-width spaces. | review: 'Go out with a bang' means to finish spectacularly; the source line opens the show (let's go flashy), it does not end anything. | review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:ME_140:strMission",
+   "en": "Make it out of Macross Heaven alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_140:strStory",
+   "en": "The Macross that ended the interstellar war passed its name on to colony ships.\\nMake it out alive from Macross Heaven, packed with ships bearing that name.",
+   "flags": [],
+   "notes": "review: refit: restructured; dropped 'that travel the galaxy'"
+  },
+  {
+   "id": "mission_ext:ME_150:strMission",
+   "en": "Wipe out the swarming hordes of small fry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_150:strStory",
+   "en": "The enemy is throwing sheer numbers at us. Teach them that \"quality\" beats\\n\"quantity\" in battle: sweep away the small-fry horde in the wasteland at once.",
+   "flags": [],
+   "notes": "review: Source describes a brute-numbers strategy; 'war of attrition' (a long wearing-down fight) is added meaning not in the source. | review: refit: restructured"
+  },
+  {
+   "id": "mission_ext:ME_151:strMission",
+   "en": "Wipe out the swarming hordes of small fry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_151:strStory",
+   "en": "The enemy is throwing sheer numbers at us. Teach them that \"quality\" beats\\n\"quantity\" in battle: sweep away the small-fry horde in the wasteland at once.",
+   "flags": [],
+   "notes": "review: Source describes a brute-numbers strategy; 'war of attrition' (a long wearing-down fight) is added meaning not in the source. | review: refit: restructured"
+  },
+  {
+   "id": "mission_ext:ME_160:strMission",
+   "en": "Set your ecstasy ablaze\\nin a one-of-a-kind fight!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_160:strStory",
+   "en": "Sheryl: \"From here on, it's special live time. Are you ready, Ranka-chan?\"\\nRanka: \"Yes! So... everyone, hold me tight! To the ends of the galaxy!! Kira☆\"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sheryl's honorific '-chan' for Ranka kept. | review: refit: 'All the way to the ends of the galaxyyy' -> 'To the ends of the galaxy'"
+  },
+  {
+   "id": "mission_ext:ME_170:strMission",
+   "en": "This is the day we take down\\nEditorial Sentai Dengeki V, no matter what!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Villain-side objective; 'we' chosen for the player's side."
+  },
+  {
+   "id": "mission_ext:ME_170:strStory",
+   "en": "Dr. Editor-in-Chief Nishioka formed Editorial Sentai Dengeki V for world peace!\\nWhen these Dengeki editors' hearts unite, their giant robot smashes evil!!",
+   "flags": [],
+   "notes": "Glossary alias 'Dr. Editor-in-Chief Nishioka' used. | review: refit: restructured; dropped quotes around team name"
+  },
+  {
+   "id": "mission_ext:ME_180:strMission",
+   "en": "Defeat the Famitsu editors blocking your\\nprobe and uncover the collection's secret.",
+   "flags": [],
+   "notes": "review: refit: 'obstructing your investigation' -> 'blocking your probe'; 'secret of the collection' -> 'collection's secret'"
+  },
+  {
+   "id": "mission_ext:ME_180:strStory",
+   "en": "To guard a prized collection, Hamamura Tsushin made the Weekly Famitsu office\\na super dimension fortress. Find out what collection is worth going that far.",
+   "flags": [],
+   "notes": "Hamamura Tsushin gender unknown in glossary: neutral wording (no his/her). | review: refit: restructured; 'editorial office' -> 'office'; 'worth going that far to protect' -> 'worth going that far'"
+  },
+  {
+   "id": "mission_ext:ME_190:strMission",
+   "en": "Annihilate the ones rampaging in the city\\nwho wield \"giant\" power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_190:strStory",
+   "en": "Wipe out the Regults rampaging in the city now, but we sense a \"giant\" power\\nbehind them, so never drop your guard. Annihilate those with \"giant\" power.",
+   "flags": [],
+   "notes": "review: refit: tightened"
+  },
+  {
+   "id": "mission_ext:ME_200:strMission",
+   "en": "Win the mock battle against the special\\nforces unit Moon Island Platoon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:ME_200:strStory",
+   "en": "A mock battle now begins vs. the special forces unit codenamed \"Moon Island\".\\nThey're all problem children, but reportedly skilled. Defeat Moon Island.",
+   "flags": [],
+   "notes": "Codename in quotes kept as 'Moon Island' (glossary alias); unit name 'Moon Island Platoon' elsewhere. | review: refit: tightened; 'Moon Island Platoon' -> 'Moon Island' as in source"
+  },
+  {
+   "id": "mission_ext:MC_010:strMission",
+   "en": "Seize victory from Roy Focker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_010:strStory",
+   "en": "Roy Focker: the U.N. ace who loves booze, women, and above all the open sky.\\nDefeat Focker, whose skills have made him the very model of a pilot.",
+   "flags": [],
+   "notes": "review: refit: 'U.N. Forces ace pilot' -> 'U.N. ace'"
+  },
+  {
+   "id": "mission_ext:MC_020:strMission",
+   "en": "Seize victory from Shin Kudo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_020:strStory",
+   "en": "Shin Kudo washed up on Mayan Island and grew through the many people he met.\\nDefeat Shin, the idiot who'd throw his life away for the woman he holds dear.",
+   "flags": [],
+   "notes": "review: refit: tightened"
+  },
+  {
+   "id": "mission_ext:MC_030:strMission",
+   "en": "Seize victory from the duo\\nof Ivanov and Nora.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_030:strStory",
+   "en": "D.D. Ivanov and Nora Polyansky: the aces of the Anti-U.N. Forces.\\nDefeat this dangerous couple, whose skills ran the U.N. Forces ragged.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_040:strMission",
+   "en": "Seize victory from the Bird Human.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_040:strStory",
+   "en": "Sara Nome, Guide of the Wind, charged with stopping the Bird Human's revival.\\nDefeat the Bird Human, revived in spite of all her efforts.",
+   "flags": [],
+   "notes": "Sara's title 'kaze no michibikite' rendered 'Guide of the Wind'; not in glossary. | review: term added to glossary | review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:MC_050:strMission",
+   "en": "Seize victory from the genius Max\\nand the ace Milia.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_050:strStory",
+   "en": "Genius pilot Max and ace Milia, who made the first-ever interstellar marriage.\\nDefeat the Jenius couple, also a bridge to peace with the Zentradi.",
+   "flags": [],
+   "notes": "review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:MC_060:strMission",
+   "en": "Seize victory from\\nQuamzin Kravshera.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_060:strStory",
+   "en": "Quamzin Kravshera, boss of the Quamzin family, notorious as the Ally Killer.\\nDefeat Boss Quamzin, in such a fine mood he's riding a Destroid Monster.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Mikata-goroshi' epithet rendered 'the Ally Killer'; 'ikka/oyabun' given yakuza flavour as 'family/boss'."
+  },
+  {
+   "id": "mission_ext:MC_070:strMission",
+   "en": "Seize victory from Golg Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_070:strStory",
+   "en": "Golg Boddole Zer: Zentradi fleet Supreme Commander over a full 5 million ships.\\nDefeat the ruthless Boddole Zer, who'd readily kill his own troops to win.",
+   "flags": [],
+   "notes": "review: refit: tightened"
+  },
+  {
+   "id": "mission_ext:MC_080:strMission",
+   "en": "Seize victory from the duo\\nof Isamu and Guld.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_080:strStory",
+   "en": "Isamu and Guld: stuck together since childhood, they fight whenever they meet.\\nDefeat the Dalmatian High School duo, seemingly at odds but friends at heart.",
+   "flags": [],
+   "notes": "review: refit: tightened"
+  },
+  {
+   "id": "mission_ext:MC_090:strMission",
+   "en": "Seize victory from Captain Max.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_090:strStory",
+   "en": "Maximilian Jenius, space carrier Battle 7's captain and a commander of genius.\\nDefeat the Battle 7, which fought its way through the fierce Protodeviln war.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source has a full-width yen sign + full-width n instead of the backslash-n break (a source typo that would display literally). Written as the real backslash-n break, like every other briefing; literal break count 0 -> 1 is deliberate. | review: refit: restructured"
+  },
+  {
+   "id": "mission_ext:MC_100:strMission",
+   "en": "Seize victory from Gavil and Glavil.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_100:strStory",
+   "en": "Gavil, a Protodeviln with a unique sense of beauty, and Glavil, a monster-like\\nProtodeviln of immense combat power. Defeat the Beauty and the Monster.",
+   "flags": [],
+   "notes": "review: refit: moved break"
+  },
+  {
+   "id": "mission_ext:MC_110:strMission",
+   "en": "Triumph over His Excellency Gepelnitchi.",
+   "flags": [],
+   "notes": "review: refit: 'Seize victory from' -> 'Triumph over' (title kept)"
+  },
+  {
+   "id": "mission_ext:MC_110:strStory",
+   "en": "His Excellency Gepelnitchi: Varauta supreme commander, mightiest Protodeviln.\\nDefeat His Excellency Gepelnitchi, who could drain the galaxy of its Spiritia.",
+   "flags": [],
+   "notes": "review: refit: tightened"
+  },
+  {
+   "id": "mission_ext:MC_120:strMission",
+   "en": "Seize victory from Gamlin Kizaki.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_120:strStory",
+   "en": "Gamlin Kizaki, elite pilot of the U.N. Forces' Diamond Force.\\nDefeat Gamlin, nicknamed \"Martian\" as a child for his wide forehead.",
+   "flags": [],
+   "notes": "review: refit: restructured line 2"
+  },
+  {
+   "id": "mission_ext:MC_130:strMission",
+   "en": "Seize victory from the duo\\nof Basara and Graham.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_130:strStory",
+   "en": "Graham, who hates and would kill the Galaxy Whales, and Basara, who was\\nmoved to sing to them. Defeat these men burning with passion for the whales.",
+   "flags": [],
+   "notes": "review: refit: moved break; 'Galaxy Whales' -> 'whales' on second mention"
+  },
+  {
+   "id": "mission_ext:MC_140:strMission",
+   "en": "Seize victory from Ozma Lee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_140:strStory",
+   "en": "Ozma Lee: seasoned S.M.S. Skull Squadron leader, overprotective of his sister.\\nDefeat Ozma, who smashed death flag after death flag throughout the story.",
+   "flags": [],
+   "notes": "review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:MC_150:strMission",
+   "en": "Seize victory from Jeffrey,\\ncaptain of the Macross Quarter.",
+   "flags": [],
+   "notes": "Order of the two halves swapped for English; break count unchanged."
+  },
+  {
+   "id": "mission_ext:MC_150:strStory",
+   "en": "The Macross Quarter: ARMD-class in size, yet it bears the name Macross.\\nDefeat the Macross Quarter, captained by Jeffrey Wilder.",
+   "flags": [],
+   "notes": "review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:MC_160:strMission",
+   "en": "Seize victory from Klan Klang.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_160:strStory",
+   "en": "Klan Klang, Pixie Team leader, clumsy not just in her genes but in love too.\\nDefeat Klan, a maiden sunk in rage and grief after losing the one she loved.",
+   "flags": [],
+   "notes": "review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:MC_170:strMission",
+   "en": "Seize victory from the duo\\nof Alto and Brera.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_170:strStory",
+   "en": "\"Being linked to you made it clear. However far you go, people are alone!\"\\n\"That's why we...!\", \"But!!\", \"It's precisely because we're alone that...\",",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Quotes from the Macross F finale; speakers are unnamed in the source and left unnamed. Row ends on a trailing comma in the source (deliberately unfinished); kept. | review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:MC_180:strMission",
+   "en": "Seize victory from Ranka Lee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_180:strStory",
+   "en": "Manipulated by Grace, Ranka Lee guards the Vajra planet to atone for her sins.\\nDefeat Ranka, who sings to protect the Vajra homeworld.",
+   "flags": [],
+   "notes": "review: refit: tightened line 1"
+  },
+  {
+   "id": "mission_ext:MC_190:strMission",
+   "en": "Seize victory from the Vajra Queen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MC_190:strStory",
+   "en": "Even the Protoculture feared their power, envied it, and at last deified them,\\ncopying their form: the super-dimensional Vajra. Defeat Grace's Vajra Queen.",
+   "flags": [],
+   "notes": "review: refit: restructured; 'controlled by Grace' -> 'Grace's'"
+  },
+  {
+   "id": "mission_ext:MC_200:strMission",
+   "en": "Seize victory from the enemy battleships\\nnew to the fight in this game.",
+   "flags": [],
+   "notes": "review: refit: 'joining the fight for the first time' -> 'new to the fight'"
+  },
+  {
+   "id": "mission_ext:MC_200:strStory",
+   "en": "Macross is full of giant battleships, and needless to say, so is this game.\\nDefeat the giant enemy battleships making their debut in this game.",
+   "flags": [],
+   "notes": "review: refit: restructured"
+  },
+  {
+   "id": "mission_ext:MT_010:strMission",
+   "en": "Practice piloting in Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_010:strStory",
+   "en": "Ranka: \"I, Ranka Lee, am gonna explain the basic Fighter mode controls!\\n        I'm nervous I won't explain it well, but I'll do my best. Kira☆\"",
+   "flags": [],
+   "notes": "review: refit: tightened line 2"
+  },
+  {
+   "id": "mission_ext:MT_011:strMission",
+   "en": "Practice piloting in Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_011:strStory",
+   "en": "Sheryl: \"Oh, fine. I'll explain the basic Battroid mode controls for you.\\n         Sheryl herself is explaining, so don't you dare miss a single word.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_012:strMission",
+   "en": "Practice piloting in GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_012:strStory",
+   "en": "Ranka: \"Okay! Next, I'll explain the basic GERWALK mode controls.\\n        Listen to me and get the GERWALK mode controls down perfectly!\"",
+   "flags": [],
+   "notes": "review: refit: 'my explanation' -> 'me'"
+  },
+  {
+   "id": "mission_ext:MT_020:strMission",
+   "en": "Practice shooting attacks.",
+   "flags": [],
+   "notes": "'Shageki kougeki' = shooting attacks; no glossary term."
+  },
+  {
+   "id": "mission_ext:MT_020:strStory",
+   "en": "Sheryl: \"It's a pain, but next I'll explain the basics of shooting attacks.\\n         You've got ME explaining, so if you don't learn it, you'll be sorry.\"",
+   "flags": [],
+   "notes": "review: refit: tightened line 2"
+  },
+  {
+   "id": "mission_ext:MT_021:strMission",
+   "en": "Practice melee attacks.",
+   "flags": [],
+   "notes": "'Kakutou kougeki' = melee attacks; no glossary term."
+  },
+  {
+   "id": "mission_ext:MT_021:strStory",
+   "en": "Ranka: \"Umm... here I'll explain the basics of melee attacks.\\n        It's tough with so much to learn, but I'll do my best explaining too!\"",
+   "flags": [],
+   "notes": "review: refit: tightened line 2"
+  },
+  {
+   "id": "mission_ext:MT_030:strMission",
+   "en": "Practice Special Maneuvers 1.",
+   "flags": [],
+   "notes": "'Tokushu dousa' = Special Maneuvers; no glossary term."
+  },
+  {
+   "id": "mission_ext:MT_030:strStory",
+   "en": "Sheryl: \"Here I'll mostly explain the special maneuvers related to piloting.\\n         If you're aiming to go pro, you'd better learn at least this much.\"",
+   "flags": [],
+   "notes": "review: refit: dropped 'properly'"
+  },
+  {
+   "id": "mission_ext:MT_031:strMission",
+   "en": "Practice Special Maneuvers 2.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_031:strStory",
+   "en": "Ranka: \"Here I'll mainly explain the SP-related special maneuvers.\\n        They look a bit hard, but listen closely and learn them well, okay?\"",
+   "flags": [],
+   "notes": "review: refit: tightened line 2"
+  },
+  {
+   "id": "mission_ext:MT_032:strMission",
+   "en": "Practice container transport.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_032:strStory",
+   "en": "Sheryl: \"All right, next I'll explain container transport.\\n         I'm the one explaining it. Of course you'll pick it up right away.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_040:strMission",
+   "en": "Practice piloting in Real Flight Mode.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 561: 'kahen kitai' (variable machines) rendered 'variable fighters'.",
+   "row 565: source writes the band name in full-width capitals; glossary spelling 'Fire Bomber' used rather than all-caps.",
+   "row 574: objective with unusual phrasing ('rare fight' + 'scorch your ecstasy'), possibly a lyric reference; rendered 'Set your ecstasy ablaze in a one-of-a-kind fight!'.",
+   "row 575: kept Sheryl's '-chan' honorific for Ranka; Ranka's line uses the known 'everyone, hold me tight... to the ends of the galaxy' + 'Kira' shape.",
+   "row 576: objective voiced from a villain side; rendered with 'we' as the player's side.",
+   "row 595: epithet 'mikata-goroshi' rendered 'the Ally Killer'; 'ikka/oyabun' rendered 'family/boss' (yakuza flavour).",
+   "row 601: source break is a full-width yen + full-width n (typo, would print literally); written as the normal backslash-n break. Check warns 0 -> 1 for this row; deliberate.",
+   "row 617: unattributed quotes from the Macross F finale; speakers not named, trailing comma of the deliberately unfinished line kept.",
+   "rows 567/575/625-639: speaker-prefix format 'Name: \"...\"' kept; continuation line indented with ASCII spaces to align under the opening quote (source uses full-width spaces). Indent width may need adjusting at insertion."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Sara Nome's title 'kaze no michibikite' (row 591): used as 'Guide of the Wind'",
+   "'tokushu dousa' tutorial term (rows 634-637): used as 'Special Maneuvers'"
+  ],
+  "unfinished": []
+ }
+}

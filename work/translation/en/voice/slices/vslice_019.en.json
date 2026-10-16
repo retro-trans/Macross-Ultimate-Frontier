@@ -1,0 +1,510 @@
+{
+ "slice": 19,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1016",
+   "en": "Anti-U.N. Forces mobile fleet confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1016",
+   "en": "Anti-U.N. Forces mobile fleet confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1016",
+   "en": "Anti-U.N. Forces mobile fleet confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1016",
+   "en": "Anti-U.N. Forces mobile fleet confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1017",
+   "en": "Enemy variable fighters are coming in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1017",
+   "en": "Enemy variable fighters incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1017",
+   "en": "Enemy variable fighters coming in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1017",
+   "en": "Enemy variable fighters incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1017",
+   "en": "Enemy! Variable fighters incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1019",
+   "en": "The target appears to have splashed down at sea 30 km ahead of our ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1019",
+   "en": "The target seems to have splashed down at sea 30 km ahead of our ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1019",
+   "en": "Target looks to have splashed down at sea 30 km ahead of our ship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1019",
+   "en": "Target appears to have splashed down at sea 30 km ahead of our ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1019",
+   "en": "Target appears to have splashed down at sea 30 km ahead of our ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1020",
+   "en": "Please escort the Valkyrie carrying civilians.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1020",
+   "en": "Escort the Valkyrie carrying civilians.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1020",
+   "en": "Escort the Valkyrie with the civilians aboard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1020",
+   "en": "Escort the Valkyrie carrying civilians.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1020",
+   "en": "Escort the Valkyrie carrying civilians.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1021",
+   "en": "Please escort the Macross until transformation begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1021",
+   "en": "Escort the Macross until transformation begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1021",
+   "en": "Escort the Macross until it starts transforming.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1021",
+   "en": "Escort the Macross until transformation begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1021",
+   "en": "Escort the Macross until transformation begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1022",
+   "en": "All ships have begun transformation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1022",
+   "en": "All ships have begun transformation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1022",
+   "en": "All ships have started transforming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1022",
+   "en": "All ships have started transforming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1022",
+   "en": "All ships beginning transformation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1023",
+   "en": "Please escort the Macross until the main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1023",
+   "en": "Escort the Macross until the main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1023",
+   "en": "Escort the Macross until the main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1023",
+   "en": "Escort the Macross until the main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1023",
+   "en": "Escort the Macross until the main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1024",
+   "en": "The main gun cannot fire. Some kind of fault appears to have occurred.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1024",
+   "en": "The main gun can't fire. Some kind of fault seems to have occurred.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1024",
+   "en": "The main gun can't fire. Something seems to have gone wrong.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1024",
+   "en": "The main gun can't fire. Something seems to have gone wrong.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1024",
+   "en": "The main gun can't fire. Some kind of fault seems to have occurred.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1025",
+   "en": "Please work with the Destroid unit and recover the supplies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1025",
+   "en": "Work with the Destroid unit and recover the supplies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1025",
+   "en": "Team up with the Destroid unit and recover the supplies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1025",
+   "en": "Work with the Destroid unit and recover the supplies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1025",
+   "en": "Work with the Destroid unit and recover the supplies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1026",
+   "en": "Many enemy combat units are closing at high speed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'kousoku' written with the kanji for 'restraint'; it is kousoku (high speed), same sound. Claire and Misa have the right kanji."
+  },
+  {
+   "id": "vo0_of1_1026",
+   "en": "Many enemy combat units closing at high speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1026",
+   "en": "Many enemy combat units are closing at high speed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for kousoku (restraint instead of high speed), same sound."
+  },
+  {
+   "id": "vo0_om0_1026",
+   "en": "Many enemy combat units closing at high speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1026",
+   "en": "Many enemy combat units closing at high speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1027",
+   "en": "Destroid 6th, 8th and 17th Squadrons wiped out. Many other losses too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1027",
+   "en": "Destroid 6th, 8th and 17th Squadrons wiped out. Many other losses too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1027",
+   "en": "Destroid 6th, 8th and 17th Squadrons are wiped out. Heavy losses elsewhere too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1027",
+   "en": "Destroid 6th, 8th and 17th Squadrons wiped out. Many other losses.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1027",
+   "en": "Destroid 6th, 8th and 17th Squadrons wiped out. Many other losses too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1028",
+   "en": "Enemy aircraft at 12 o'clock high has begun circling. It appears to be a recon plane.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1028",
+   "en": "Enemy at 12 o'clock high has started circling. Looks like a recon plane.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1028",
+   "en": "Enemy at 12 o'clock high is circling. Looks like a recon plane.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1028",
+   "en": "Enemy at 12 o'clock high is circling. Looks like a recon plane.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1028",
+   "en": "Enemy aircraft at 12 o'clock high has started circling. It looks like a recon plane.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1029",
+   "en": "Please accompany Cat's Eye and go scout the enemy battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1029",
+   "en": "Accompany Cat's Eye and go scout the enemy battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1029",
+   "en": "Go with Cat's Eye and scout the enemy battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1029",
+   "en": "Accompany Cat's Eye and go scout the enemy battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1029",
+   "en": "Accompany Cat's Eye and go scout the enemy battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1030",
+   "en": "We're infiltrating the enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1030",
+   "en": "We're infiltrating the enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1030",
+   "en": "Infiltrate the enemy ship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1030",
+   "en": "Infiltrate the enemy ship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1030",
+   "en": "We're infiltrating the enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1031",
+   "en": "Cat's Eye has been captured. Please go aboard the enemy ship and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1031",
+   "en": "Cat's Eye has been captured. Go aboard the enemy ship and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1031",
+   "en": "Cat's Eye got captured! Get aboard the enemy ship and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1031",
+   "en": "Cat's Eye captured! Board the enemy ship and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1031",
+   "en": "Cat's Eye has been captured. Go aboard the enemy ship and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1032",
+   "en": "Please escape from the enemy battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1032",
+   "en": "Escape from the enemy battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1032",
+   "en": "Get out of the enemy battleship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1032",
+   "en": "Escape from the enemy battleship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1032",
+   "en": "Escape from the enemy battleship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1033",
+   "en": "Many enemy pods are dropping in. It looks like close-quarters combat.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a wrong word for hakuhei-sen (close combat), reading hakuei-sen; meaning clear from the other operators."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1450-1454 (clip 1019): honbun/'our ship' for the speaker's ship; 'the target' = the landed object, not named",
+   "rows 1510-1514 (clip 1031): used 'them' for Cat's Eye (crew gender unknown)"
+  ],
+  "whisper_doubt": [
+   "row 1485: Transcript has 'kousoku' written with the kanji for 'restraint'; it is kousoku (high speed), same sound. Claire and Misa have the right kanji.",
+   "row 1487: Wrong kanji for kousoku (restraint instead of high speed), same sound.",
+   "row 1520: Transcript has a wrong word for hakuhei-sen (close combat), reading hakuei-sen; meaning clear from the other operators."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Destroid (standard term used)",
+   "variable fighter (standard term used)"
+  ],
+  "unfinished": []
+ }
+}

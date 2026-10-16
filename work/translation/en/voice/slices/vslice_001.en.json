@@ -1,0 +1,523 @@
+{
+ "slice": 1,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_000",
+   "en": "I'll be serving as your bridge operator. Pleased to work with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_000",
+   "en": "I'm your bridge operator. Nice to meet you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_000",
+   "en": "From today I'm your operator. Pleased to meet you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_000",
+   "en": "I'll be your bridge operator. Let's work well together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_000",
+   "en": "This is bridge operator Misa Hayase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_001",
+   "en": "I'll relay mission details and battle status from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_001",
+   "en": "I'll be briefing you on the mission and battle situation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_001",
+   "en": "I'll give the orders, so just do as I say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_001",
+   "en": "I'll relay mission info and battle status from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_001",
+   "en": "You will follow my instructions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_002",
+   "en": "Beginning the operation now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_002",
+   "en": "Operation begins now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_002",
+   "en": "Time to get to work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_002",
+   "en": "Operation begins now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_002",
+   "en": "Attention, pilots. Sortie at once. I repeat, sortie at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_003",
+   "en": "Operation start. All squadrons, go to combat stations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_003",
+   "en": "Operation start. All squadrons, enter combat readiness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_003",
+   "en": "The operation's starting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_003",
+   "en": "Operation start. All squadrons, go to combat readiness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_003",
+   "en": "Enemy closing fast! All units, combat readiness!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_004",
+   "en": "Oh, it's been a while. I look forward to working with you again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_004",
+   "en": "Oh, so it's you. I'll be looking after you again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_004",
+   "en": "Who the hell are you? Pretty chummy, aren't you? Kidding. You remember me, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_004",
+   "en": "Operating for you again, huh. I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_004",
+   "en": "It's been a while. I'll be giving you your orders.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_005",
+   "en": "We have arrived at the operation area.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says sakusei (creation) area; surely sakusen (operation) area."
+  },
+  {
+   "id": "vo0_of1_005",
+   "en": "We're in the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_005",
+   "en": "Hey, we've reached the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_005",
+   "en": "Entering the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_005",
+   "en": "We're in the operation area. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_006",
+   "en": "Arrival at the operation area confirmed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says sakusei area; surely sakusen area."
+  },
+  {
+   "id": "vo0_of1_006",
+   "en": "Looks like we've reached the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_006",
+   "en": "We're in the operation area, nya. I didn't flub that.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pinon's cat-voice joke; the last words may be her own aside about not stumbling (kande nai)."
+  },
+  {
+   "id": "vo0_om0_006",
+   "en": "Arrival at the operation area confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_006",
+   "en": "Entry into the operation area confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_007",
+   "en": "Please begin the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_007",
+   "en": "Operation start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_007",
+   "en": "Start the operation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_007",
+   "en": "Operation start!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_007",
+   "en": "Operation start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_008",
+   "en": "The operation begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_008",
+   "en": "Beginning the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_008",
+   "en": "Get the operation going!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_008",
+   "en": "Begin the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_008",
+   "en": "Operation start. Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_009",
+   "en": "Now, the operation begins!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_009",
+   "en": "Now, operation start!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_009",
+   "en": "Time to get to work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_009",
+   "en": "All right, operation start!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_009",
+   "en": "Operation start. Stay focused on the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_016",
+   "en": "Target enemy battleship. Intercept it, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_016",
+   "en": "Target enemy battleship confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_016",
+   "en": "The target battleship's here! Shoot it down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_016",
+   "en": "Target battleship confirmed. Intercept now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_016",
+   "en": "Enemy ship approaching. Move to intercept.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_017",
+   "en": "Found what looks like the enemy leader's unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_017",
+   "en": "Likely enemy leader unit located.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_017",
+   "en": "Looks like the enemy leader. Take it down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_017",
+   "en": "Likely enemy leader unit located.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says taijo-ki (exit unit); surely taicho-ki (leader unit)."
+  },
+  {
+   "id": "vos_mis_017",
+   "en": "Enemy! Likely leader unit located!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says taicho kira-shiki kitai; surely taicho-ki rashiki kitai."
+  },
+  {
+   "id": "vo0_of0_018",
+   "en": "Unknown aircraft! It's heading here at tremendous speed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_018",
+   "en": "Unknown aircraft spotted. It's closing on us fast.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_018",
+   "en": "Hey, a tough-looking enemy just showed up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_018",
+   "en": "Unknown aircraft! It's coming right at us, really fast!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_018",
+   "en": "Unknown aircraft detected. It's heading for us at tremendous speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_019",
+   "en": "Unidentified aircraft detected. It's heading this way.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says kiei (aircraft camp?) for kiei (aircraft shadow); and tochu (midway) is likely a mishearing of a word such as ichoku (straight)."
+  },
+  {
+   "id": "vo0_of1_019",
+   "en": "Unidentified aircraft detected. It's heading our way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_019",
+   "en": "Unidentified contact detected, and it's coming this way!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says tekkyo (removal); surely kiei (aircraft shadow/contact)."
+  },
+  {
+   "id": "vo0_om0_019",
+   "en": "Unidentified aircraft detected. It's heading this way.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says keiei (management); surely kiei (aircraft shadow/contact)."
+  },
+  {
+   "id": "vos_mis_019",
+   "en": "Unidentified aircraft detected. It's heading our way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_022",
+   "en": "Damage is increasing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_022",
+   "en": "Your aircraft's damage is getting severe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_022",
+   "en": "Hey, you're taking too much damage!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_022",
+   "en": "Your aircraft's damage is getting severe!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_022",
+   "en": "You're taking too many hits!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_023",
+   "en": "Damage is mounting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_023",
+   "en": "Damage rising.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_023",
+   "en": "Keep your damage down, you hack!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says osaeru yo (I'll hold it down); more likely the command osaero yo."
+  },
+  {
+   "id": "vo0_om0_023",
+   "en": "Damage rate is climbing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_023",
+   "en": "Can you complete the mission like this?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 33: Pinon's cat-voice joke; the last words may be her own aside about not stumbling (kande nai)."
+  ],
+  "whisper_doubt": [
+   "row 26: Transcript says sakusei (creation) area; surely sakusen (operation) area.",
+   "row 31: Transcript says sakusei area; surely sakusen area.",
+   "row 59: Transcript says taijo-ki (exit unit); surely taicho-ki (leader unit).",
+   "row 60: Transcript says taicho kira-shiki kitai; surely taicho-ki rashiki kitai.",
+   "row 66: Transcript says kiei (aircraft camp?) for kiei (aircraft shadow); and tochu (midway) is likely a mishearing of a word such as ichoku (straight).",
+   "row 68: Transcript says tekkyo (removal); surely kiei (aircraft shadow/contact).",
+   "row 69: Transcript says keiei (management); surely kiei (aircraft shadow/contact).",
+   "row 78: Transcript says osaeru yo (I'll hold it down); more likely the command osaero yo."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

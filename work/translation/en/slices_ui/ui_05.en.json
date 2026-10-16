@@ -1,0 +1,1584 @@
+{
+ "slice": 5,
+ "rows_in_slice": 256,
+ "rows_examined": 256,
+ "rows": [
+  {
+   "id": "u0953",
+   "en": "Combo Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0954",
+   "en": "Makes combos easier to chain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0955",
+   "en": "Cheer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0956",
+   "en": "When your HP drops to 30% or less,\nit recovers to 50%. *Once only",
+   "flags": [],
+   "notes": "Source reference mark before 'once only' rendered as ASCII '*'. Same in u0958, u0962, u0968."
+  },
+  {
+   "id": "u0957",
+   "en": "Pineapple Cake",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0958",
+   "en": "When your HP hits 0%, it recovers and\nyou are invincible for a while. *Once only",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0959",
+   "en": "Drill Sergeant",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0960",
+   "en": "On mission clear, the partner's EXP\nfor each parameter is doubled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0961",
+   "en": "Awakening",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0962",
+   "en": "When your HP drops to 30% or less, you\nawaken, invincible for a while. *Once only",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0963",
+   "en": "Circus Flight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0964",
+   "en": "Units that normally cannot fly\nbecome able to fly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0965",
+   "en": "Triangler",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Macross Frontier opening song; official English title 'Triangler'. Not in terms.json songs."
+  },
+  {
+   "id": "u0966",
+   "en": "Affinity changes at twice the normal rate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0967",
+   "en": "Signal to Strike Back",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'signal fire of the counterattack'; coined skill name."
+  },
+  {
+   "id": "u0968",
+   "en": "When your HP drops to 30% or less, the SP\nGauge recovers 6 blocks. *Once only",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0969",
+   "en": "Boost Maniac",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0970",
+   "en": "Boost Gauge consumption drops\nto 75% of normal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0971",
+   "en": "Sniper",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0972",
+   "en": "Your attacks ignore all types of barrier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0973",
+   "en": "Thrifty",
+   "flags": [],
+   "notes": "Literally 'good at making ends meet'; lowers SP use."
+  },
+  {
+   "id": "u0974",
+   "en": "SP Gauge consumption drops\nto 75% of normal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0975",
+   "en": "Quick Recovery",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0976",
+   "en": "In consecutive missions, HP is restored\nto 100% at the start of each mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0977",
+   "en": "Destroyer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0978",
+   "en": "Boosts unit performance while\nyou pilot a Destroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0979",
+   "en": "Tuning Fanatic",
+   "flags": [],
+   "notes": "Literally 'devoted only to modification'."
+  },
+  {
+   "id": "u0980",
+   "en": "Nyan-Nyan Points earned drop to 0, but\nTune Points earned are doubled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0981",
+   "en": "Outcast",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0982",
+   "en": "On mission clear, Affinity with each\nselected character decreases.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0983",
+   "en": "Earplugs",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0984",
+   "en": "Halves the effects of all songs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0985",
+   "en": "Taunt",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0986",
+   "en": "Enemy attack power is doubled, but the\nplayer pilot's EXP earned is doubled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0987",
+   "en": "Chinese Diner Regular",
+   "flags": [],
+   "notes": "Literally 'regular customer of a Chinese restaurant' (Nyan-Nyan is one)."
+  },
+  {
+   "id": "u0988",
+   "en": "Converts earned Tune Points\ninto Nyan-Nyan Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0989",
+   "en": "Full Spirit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0990",
+   "en": "Start missions with the SP Gauge\nalready charged to 3 blocks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0991",
+   "en": "The operation will begin.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0992",
+   "en": "Switching to wireless play.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0993",
+   "en": "Training will begin.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0994",
+   "en": "Moving to Era Select.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0995",
+   "en": "Parameters tuned beyond their initial limits\nwill be returned to the initial limits.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0996",
+   "en": "Revert Tuning",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Menu label: returns over-limit tuning to the initial limit (see u0995, u1114)."
+  },
+  {
+   "id": "u0997",
+   "en": "A unit that cannot sortie is selected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0998",
+   "en": "A unit the player cannot pilot is selected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0999",
+   "en": "A unit the partner cannot pilot is selected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1000",
+   "en": "The player and partner cannot\nsortie as the same pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1001",
+   "en": "The player and support cannot\nsortie as the same character.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1002",
+   "en": "The partner and support cannot\nsortie as the same character.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1003",
+   "en": "No unique SPA, but weapons\nand performance are kept even\nwhen add-on HP drops to 0",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pack-type comparison text, 3 narrow lines. SPA = SP Attack."
+  },
+  {
+   "id": "u1004",
+   "en": "Force-purged when add-on HP\ndrops to 0, but grants a\npowerful shooting SPA",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pack-type comparison text, 3 narrow lines."
+  },
+  {
+   "id": "u1005",
+   "en": "Switch eras with Left/Right on the D-pad\nto play the tutorials.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1006",
+   "en": "Add-on Equip. unusable in this mission is selected.\nIt will be auto-removed on sortie.",
+   "flags": [],
+   "notes": "review: refit: abbreviated Equipment; 'removed automatically after you sortie' -> 'auto-removed on sortie'"
+  },
+  {
+   "id": "u1007",
+   "en": "A rookie operator who makes up for inexperience with natural\ncheer and hard work. Her looks and manner make people think\nshe's younger, which bothers her a lot. (CV: Kimiko Koyama)",
+   "flags": [],
+   "notes": "Yuu Akimizu profile (rookie operator). Line width not measured. | review: refit: reflowed; 'tend to make' -> 'make', 'a great deal' -> 'a lot'"
+  },
+  {
+   "id": "u1008",
+   "en": "A big-sister operator whose precise orders can be gentle or\nstrict. A bit pushy at times, but she looks after others, and\nthe crew adore her as a big sister. (CV: Tomo Adachi)",
+   "flags": [],
+   "notes": "Claire Stanford profile. | review: refit: 'sometimes gentle, sometimes strict' -> 'can be gentle or strict'; reflowed"
+  },
+  {
+   "id": "u1009",
+   "en": "A prodigy operator whose talent was recognized while young.\nShe hates being treated like a child and always strives to be\nan equal. A bit foul-mouthed, but endearing. (CV: Ai Nonaka)",
+   "flags": [],
+   "notes": "Pinon Colette profile. | review: refit: reflowed; 'that's part of her charm' -> 'endearing'"
+  },
+  {
+   "id": "u1010",
+   "en": "A skilled operator who judges calmly. His harsh words get him\nmisunderstood; he's just bad at showing emotion and is warm\nat heart. Glasses are his trademark. (CV: Kiyotaka Furushima)",
+   "flags": [],
+   "notes": "Itsuki Yamashiro profile. | review: refit: reflowed; 'with calm judgment' -> 'who judges calmly'"
+  },
+  {
+   "id": "u1011",
+   "en": "An elite U.N. Forces officer, chief combat controller of the\nMacross air wing. A by-the-book stickler whom Hikaru treated\nas an \"old lady\", she gradually falls for him. (CV: Mika Doi)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Misa Hayase profile. Who comes to have feelings is unstated; read as Misa (topic of the profile) toward Hikaru. | review: Wrong referent: the dangling modifier made Hikaru the by-the-book stickler; the source describes Misa. | review: refit: dropped 'serving as'; 'comes to love him' -> 'falls for him'; reflowed"
+  },
+  {
+   "id": "u1012",
+   "en": "Opening Movie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1013",
+   "en": "Ending Movie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1014",
+   "en": "Macross Zero - Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1015",
+   "en": "Macross Zero - Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1016",
+   "en": "The Super Dimension Fortress Macross - Prologue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Full series title from terms.json works; may be long for the gallery list. Fallback: 'SDF Macross - Prologue'."
+  },
+  {
+   "id": "u1017",
+   "en": "The Super Dimension Fortress Macross - Epilogue 1",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u1016."
+  },
+  {
+   "id": "u1018",
+   "en": "The Super Dimension Fortress Macross - Epilogue 2",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u1016."
+  },
+  {
+   "id": "u1019",
+   "en": "Macross: Do You Remember Love? - Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1020",
+   "en": "Macross: Do You Remember Love? - Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1021",
+   "en": "Macross Plus - Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1022",
+   "en": "Macross Plus - Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1023",
+   "en": "Macross 7 - Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1024",
+   "en": "Macross 7 - Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1025",
+   "en": "Macross Dynamite 7 - Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1026",
+   "en": "Macross Dynamite 7 - Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1027",
+   "en": "Macross Frontier - Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1028",
+   "en": "Macross Frontier - Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1029",
+   "en": "The replay data is corrupted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1030",
+   "en": "Loading the replay data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1031",
+   "en": "Loading...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1032",
+   "en": "Set as wallpaper?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1033",
+   "en": "Clear the wallpaper setting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1034",
+   "en": "Clear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1035",
+   "en": "Cloudy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1036",
+   "en": "Rain",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1037",
+   "en": "Fog",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1038",
+   "en": "Snow",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1039",
+   "en": "Replay playback will be stopped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1040",
+   "en": "Simon",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "One of Luca's three QF-4000 Ghost drones (MF_200, FRIGS1). Macross Wiki (Luca Angeloni): Simon, John and Peter."
+  },
+  {
+   "id": "u1041",
+   "en": "John",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Luca's Ghost drone (FRIGS2). Macross Wiki: John."
+  },
+  {
+   "id": "u1042",
+   "en": "Peter",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Luca's Ghost drone (FRIGS3). Macross Wiki: Peter."
+  },
+  {
+   "id": "u1043",
+   "en": "Ghost Booster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1044",
+   "en": "VF-0 Ghost Booster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1045",
+   "en": "Reactive Armor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1046",
+   "en": "VF-0 Reactive Armor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1047",
+   "en": "Twin Booster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1048",
+   "en": "SV-51 Twin Booster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1049",
+   "en": "Super Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1050",
+   "en": "VF-1 Super Pack (TV)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1051",
+   "en": "Armored Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1052",
+   "en": "VF-1 Armored Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1053",
+   "en": "VF-1 Super Pack (Movie)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1054",
+   "en": "Strike Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1055",
+   "en": "VF-1 Strike Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1056",
+   "en": "FAST Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1057",
+   "en": "YF-19/VF-19A FAST Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1058",
+   "en": "YF-21/VF-22 FAST Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1059",
+   "en": "VF-11C FAST Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1060",
+   "en": "Full Armored",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1061",
+   "en": "VF-11 Full Armored",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1062",
+   "en": "Sound Booster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1063",
+   "en": "VF-11MAXL Kai Sound Booster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1064",
+   "en": "VF-17T Kai Sound Booster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1065",
+   "en": "VF-19 Kai Sound Booster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1066",
+   "en": "VF-171EX Armored Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1067",
+   "en": "VF-25 Super Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1068",
+   "en": "VF-25 Armored Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1069",
+   "en": "Armored (Final Battle Spec)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1070",
+   "en": "Armored Pack (Final Battle Spec)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1071",
+   "en": "Fold Speaker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1072",
+   "en": "VF-25 Fold Speaker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1073",
+   "en": "Super Armed Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1074",
+   "en": "VF-2SS Super Armed Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1075",
+   "en": "Waiting for connection.\nPress the × button to abort the battle\nand end wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1076",
+   "en": "Communication Sync Error",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1077",
+   "en": "Modes for single-player play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1078",
+   "en": "Play missions from each era.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1079",
+   "en": "Create a character and start a campaign.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1080",
+   "en": "Select the slot for the new data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1081",
+   "en": "Continue a campaign with your created data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1082",
+   "en": "Select the pilot data to load.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1083",
+   "en": "Play Versus or Co-op with the COM.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1084",
+   "en": "Modes for wireless play.",
+   "flags": [],
+   "notes": "'wireless play' coined for the source's 'communication play' (PSP ad hoc)."
+  },
+  {
+   "id": "u1085",
+   "en": "View data and change settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1086",
+   "en": "View various data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1087",
+   "en": "Change settings and enter passwords.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1088",
+   "en": "Configure the controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1089",
+   "en": "Set up the player pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1090",
+   "en": "Select the player pilot's type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1091",
+   "en": "Set the player pilot's age.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1092",
+   "en": "Enter the player pilot's name.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1093",
+   "en": "Finish setting up the player pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1094",
+   "en": "Set up the partner pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1095",
+   "en": "Select the partner pilot's type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1096",
+   "en": "Set the partner pilot's age.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1097",
+   "en": "Enter the partner pilot's name.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1098",
+   "en": "Finish setting up the partner pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1099",
+   "en": "Finish character setup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1100",
+   "en": "Select an operator.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1101",
+   "en": "Select the \"Super Dimension Fortress Macross\" era.",
+   "flags": [],
+   "notes": "review: refit: 'the era of \"The ...\"' -> 'the \"...\" era'; leading 'The' of the title dropped"
+  },
+  {
+   "id": "u1102",
+   "en": "Select the era of \"Macross Plus\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1103",
+   "en": "Select the era of \"Macross 7\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1104",
+   "en": "Select the era of \"Macross Frontier\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1105",
+   "en": "Select a mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1106",
+   "en": "Select the BGM to play during the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1107",
+   "en": "Configure the player's settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1108",
+   "en": "Select the player's unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1109",
+   "en": "Select the part of the unit to tune.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1110",
+   "en": "Select the item to tune.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1111",
+   "en": "Select the player pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1112",
+   "en": "Select the player pilot's skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1113",
+   "en": "Select the unit color.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1114",
+   "en": "Revert parameters tuned beyond their initial limits.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1115",
+   "en": "Configure the partner's settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1116",
+   "en": "Select the partner's unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1117",
+   "en": "Select the partner pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1118",
+   "en": "Select the partner pilot's skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1119",
+   "en": "Change the unit color.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1120",
+   "en": "View your battle records.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1121",
+   "en": "View overall records across all save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1122",
+   "en": "View campaign records across all save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1123",
+   "en": "View co-op mission records across all save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1124",
+   "en": "View records by unit across all save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1125",
+   "en": "View Versus and Co-op records across all save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1126",
+   "en": "Check the Affinity between characters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1127",
+   "en": "Adjust the sound settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1128",
+   "en": "View and edit ID Cards.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1129",
+   "en": "Set Auto Save and enter passwords.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1130",
+   "en": "Set the in-game BGM volume.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1131",
+   "en": "Set the in-game voice volume.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1132",
+   "en": "Set the in-game sound effect volume.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1133",
+   "en": "Show the list of ID Cards.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1134",
+   "en": "Select the ID Card to view.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1135",
+   "en": "Edit the contents of the ID Card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1136",
+   "en": "Change the icon used on the ID Card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1137",
+   "en": "Enter the message shown on the ID Card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1138",
+   "en": "Change the title shown on the ID Card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1139",
+   "en": "Select the title shown on the ID Card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1140",
+   "en": "Turn Auto Save ON/OFF.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1141",
+   "en": "Enter a password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1142",
+   "en": "Play back replay data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1143",
+   "en": "View character information.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1144",
+   "en": "Select a character to view.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1145",
+   "en": "View unit information.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1146",
+   "en": "Select a unit to view.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1147",
+   "en": "View wallpapers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1148",
+   "en": "Select a wallpaper to view.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1149",
+   "en": "Play BGM, movies and demos.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1150",
+   "en": "Select BGM, a movie or a demo to play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1151",
+   "en": "Create a room to recruit players for wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1152",
+   "en": "Select a room to join for wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1153",
+   "en": "Select the number of players for wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1154",
+   "en": "Recruiting players for wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1155",
+   "en": "Join wireless play in this room.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1156",
+   "en": "Start the game with these players.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1157",
+   "en": "Choose the game mode: \"Versus\" or \"Co-op\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1158",
+   "en": "Select the match type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1159",
+   "en": "Select the detailed rules for the match type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1160",
+   "en": "Select the match time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1161",
+   "en": "Choose whether BGM selection is allowed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1162",
+   "en": "Choose whether tuned parameters apply.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1163",
+   "en": "Choose whether Special Attacks are allowed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1164",
+   "en": "Choose whether skills are allowed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1165",
+   "en": "Set restrictions on unit modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1166",
+   "en": "Confirm the settings above.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1167",
+   "en": "Configure the player's settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1168",
+   "en": "Select a team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1169",
+   "en": "Select a unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1170",
+   "en": "Select a pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1171",
+   "en": "Set the handicap.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1172",
+   "en": "Configure the COM's settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1173",
+   "en": "Set the COM's team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1174",
+   "en": "Select the COM's unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1175",
+   "en": "Select the COM's pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1176",
+   "en": "Set the COM's handicap.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1177",
+   "en": "Select the COM pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1178",
+   "en": "Select the COM pilot's skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1179",
+   "en": "Choose whether large units are allowed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1180",
+   "en": "Check the unit's appearance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1181",
+   "en": "Keep this COM from sortieing.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sets the COM slot so it does not sortie."
+  },
+  {
+   "id": "u1182",
+   "en": "Sortie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1183",
+   "en": "Playing BGM continuously.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1184",
+   "en": "View the unit's 3D model.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1185",
+   "en": "Set up the support character.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1186",
+   "en": "Select the support character's type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1187",
+   "en": "Set the support character's age.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1188",
+   "en": "Enter the support character's name.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1189",
+   "en": "Finish setting up the support character.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1190",
+   "en": "Select the era of \"Macross Zero\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1191",
+   "en": "Select the era of \"Do You Remember Love?\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1192",
+   "en": "Select the era of \"Macross Dynamite 7\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1193",
+   "en": "Select the flight control type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1194",
+   "en": "Set up a Custom Soundtrack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1195",
+   "en": "Select the player's add-on equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1196",
+   "en": "Select the add-on equipment type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1197",
+   "en": "Select a support character.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1198",
+   "en": "Select the support character's skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1199",
+   "en": "Select the partner's add-on equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1200",
+   "en": "Start the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1201",
+   "en": "~Welcome to the Nyan-Nyan Shop~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1202",
+   "en": "Spend Nyan-Nyan Pts to get \"Characters\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1203",
+   "en": "Spend Nyan-Nyan Pts to get \"Units\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1204",
+   "en": "Spend Nyan-Nyan Pts to get \"Mode Unlocks\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1205",
+   "en": "Spend Nyan-Nyan Pts to get \"BGM\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1206",
+   "en": "Spend Nyan-Nyan Pts to get \"Movies\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1207",
+   "en": "Spend Nyan-Nyan Pts to get \"Wallpapers\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1208",
+   "en": "Spend Nyan-Nyan Pts to get \"Titles\".",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0967: coined skill name 'Signal to Strike Back'.",
+   "u0996: label 'Revert Tuning'.",
+   "u1003/u1004: narrow 3-line pack comparison texts; widths not measured.",
+   "u1011: subject of 'comes to love him' read as Misa.",
+   "u1016-u1018: full SDF title may be too long for the list; fallback 'SDF Macross'.",
+   "u1181: 'Keep this COM from sortieing'."
+  ],
+  "missing_glossary": [
+   "Triangler (Macross Frontier OP song, skill name u0965)",
+   "Simon / John / Peter (Luca's Ghost drones, u1040-u1042; Macross Wiki)"
+  ],
+  "unfinished": []
+ }
+}

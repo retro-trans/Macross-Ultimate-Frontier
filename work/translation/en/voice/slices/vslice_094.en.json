@@ -1,0 +1,535 @@
+{
+ "slice": 94,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpp_ism_143",
+   "en": "H-hey? Hello? Anybody there?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_144",
+   "en": "You did it now, you bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_148",
+   "en": "I never asked for backup!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_149",
+   "en": "Tch. Just small fry to slow me down?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote ashi-tama-togi; probably ashidome (stalling/delaying). Referent unclear: enemy or the arriving unit."
+  },
+  {
+   "id": "vpp_ism_150",
+   "en": "Friendlies? Trust my skills, will you! Geez...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_151",
+   "en": "You bastard! You'll pay for that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_153",
+   "en": "Don't screw with me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_154",
+   "en": "Yeah! Mission complete!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_155",
+   "en": "Phew. Looks like I'll make my date on time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_156",
+   "en": "Luck's part of skill, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_157",
+   "en": "It's over already? Aw, why?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_158",
+   "en": "Did I take it too easy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_159",
+   "en": "Aaagh. That's it for today. Dismissed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_160",
+   "en": "I don't buy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_161",
+   "en": "Let's forget about what's past.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_162",
+   "en": "Hey, hey, hey, hey, hey, hey!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_163",
+   "en": "Don't hold back, blast away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_164",
+   "en": "Blow a hole through 'em!",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Target gender not settled; kept plural 'em."
+  },
+  {
+   "id": "vpp_ism_165",
+   "en": "Keep your distance! Return fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_166",
+   "en": "Come on, go with your fists! Fists!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_167",
+   "en": "Charge in! I'm leaving it to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_168",
+   "en": "Knock 'em flat!",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Target gender not settled; kept plural 'em."
+  },
+  {
+   "id": "vpp_ism_169",
+   "en": "Stay here, got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_170",
+   "en": "Dodge every shot. Easy, right?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript reads maedan (front shot); probably zendan (every shot)."
+  },
+  {
+   "id": "vpp_ism_171",
+   "en": "That's my date. Hands off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_172",
+   "en": "Go raise some hell!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_173",
+   "en": "Special attack, go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_174",
+   "en": "Come on, partner, show me something good!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Drinking-party cheer 'show me your good side', turned into a combat cheer to the partner."
+  },
+  {
+   "id": "vpp_ism_176",
+   "en": "Don't blame me for what happens!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_177",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_178",
+   "en": "Hah! If those are orders, I guess I have no choice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_179",
+   "en": "Roger! Woo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_180",
+   "en": "You got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_181",
+   "en": "Come on, get serious, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_182",
+   "en": "Captain... guess it's not my place to worry about you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_183",
+   "en": "Take too many hits and you'll go to heaven, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_184",
+   "en": "You've gotta be kidding me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_185",
+   "en": "The Captain got shot down? Bull, I don't believe it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_186",
+   "en": "That's not like you. Not like you at all, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_187",
+   "en": "I don't wanna hear your weird song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_188",
+   "en": "Huh? What's this? ...I'm pulling out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_189",
+   "en": "Screw this. I'm going home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_190",
+   "en": "Woo! Now that's one skilled captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_191",
+   "en": "I could pull that off easy too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_192",
+   "en": "If Guld can do it, there's no way I can't.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_300",
+   "en": "Listen, you stay out of this, got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_301",
+   "en": "You're just dead weight, you know that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_302",
+   "en": "Yeah, yeah, sortie time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_303",
+   "en": "Alright, let's go shake things up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_304",
+   "en": "Interesting. Let's do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_305",
+   "en": "Don't underestimate a master of recklessness!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_306",
+   "en": "Yoo-hoo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_307",
+   "en": "Well, time to make some more scrap.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_308",
+   "en": "Keep up with me, now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_309",
+   "en": "I trust your skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_310",
+   "en": "Trust my skills, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_311",
+   "en": "I'll show you what a real pilot can do!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript says 'pilot's abnormality' (ijou); probably a different word such as iji (pride) or a boast about pilot ability. Meaning guessed."
+  },
+  {
+   "id": "vpp_ism_321",
+   "en": "Take a crap and go to bed, kid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_322",
+   "en": "Okay, that's it. All done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_323",
+   "en": "Aw, is that it already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_324",
+   "en": "Nice work out there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_325",
+   "en": "Looks like I'll make my date on time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_326",
+   "en": "Today's favor is worth one lunch, okay?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says 'lyrics' (kashi); read as 'kashi' = a favor owed."
+  },
+  {
+   "id": "vpp_ism_327",
+   "en": "Not bad, you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_328",
+   "en": "Not bad at all! That was great!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_329",
+   "en": "Well then, shall we go have a drink?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'ippai' read as 'a drink' rather than 'a lot'."
+  },
+  {
+   "id": "vpp_ism_330",
+   "en": "Easy job.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_331",
+   "en": "Let's do it again next time, partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_340",
+   "en": "Rush like that and you'll ruin your skin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_341",
+   "en": "Heh, if those are orders, I guess I have no choice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_342",
+   "en": "I've got no time for that right now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_343",
+   "en": "Bring it on. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_344",
+   "en": "Shall we go, then?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_345",
+   "en": "Just follow behind me. That's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_346",
+   "en": "Sortieing with a beauty, how nice.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'bijento'; read as bijin to (with a beauty). Line is for a female partner."
+  },
+  {
+   "id": "vpp_ism_347",
+   "en": "Well, guess I'll go chase some skirt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_348",
+   "en": "Yahoo! Excellent!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'ekuzeru'; probably 'ekuserento' (Excellent)."
+  },
+  {
+   "id": "vpp_ism_349",
+   "en": "Let's go, lady!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_350",
+   "en": "All right! Wanna fly together? Whoo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_351",
+   "en": "Your boy's in a great mood today!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7444: Whisper wrote ashi-tama-togi; probably ashidome (stalling/delaying). Referent unclear: enemy or the arriving unit.",
+   "row 7468: Drinking-party cheer 'show me your good side', turned into a combat cheer to the partner.",
+   "row 7497: Transcript says 'pilot's abnormality' (ijou); probably a different word such as iji (pride) or a boast about pilot ability. Meaning guessed.",
+   "row 7506: 'ippai' read as 'a drink' rather than 'a lot'.",
+   "row 7515: Transcript 'bijento'; read as bijin to (with a beauty). Line is for a female partner.",
+   "row 7517: Transcript 'ekuzeru'; probably 'ekuserento' (Excellent)."
+  ],
+  "whisper_doubt": [
+   "row 7444: Whisper wrote ashi-tama-togi; probably ashidome (stalling/delaying). Referent unclear: enemy or the arriving unit.",
+   "row 7464: Transcript reads maedan (front shot); probably zendan (every shot).",
+   "row 7497: Transcript says 'pilot's abnormality' (ijou); probably a different word such as iji (pride) or a boast about pilot ability. Meaning guessed.",
+   "row 7503: Transcript says 'lyrics' (kashi); read as 'kashi' = a favor owed.",
+   "row 7515: Transcript 'bijento'; read as bijin to (with a beauty). Line is for a female partner.",
+   "row 7517: Transcript 'ekuzeru'; probably 'ekuserento' (Excellent)."
+  ],
+  "kept_omission": [
+   "row 7458: Target gender not settled; kept plural 'em.",
+   "row 7462: Target gender not settled; kept plural 'em."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

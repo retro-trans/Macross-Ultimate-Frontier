@@ -1,0 +1,510 @@
+{
+ "slice": 10,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "ms_240:281a",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": "review: stock objective; majority form (34 of 41)"
+  },
+  {
+   "id": "ms_251:1009",
+   "en": "Destroy the enemy ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_320:1ff2",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": "review: stock objective; majority form (34 of 41)"
+  },
+  {
+   "id": "ms_330:2151",
+   "en": "Survive for the set time",
+   "flags": [],
+   "notes": "Literally 'survive for the prescribed time'."
+  },
+  {
+   "id": "ms_350:235c",
+   "en": "Survive for the set time",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_355:2105",
+   "en": "Survive for the set time",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_360:1ae8",
+   "en": "Rescue Lt. Hayase",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_360:1b90",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": "review: stock objective; majority form (34 of 41)"
+  },
+  {
+   "id": "ms_380:1d52",
+   "en": "Attack the enemy flagship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_381:16a7",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": "review: stock objective; majority form (34 of 41)"
+  },
+  {
+   "id": "ms_410:2c0f",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": "review: stock objective; majority form (34 of 41)"
+  },
+  {
+   "id": "ms_421:0e6f",
+   "en": "Destroy the enemy units",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says 'enemy machines'; rendered 'enemy units' to keep it distinct from the 'all enemies' objective."
+  },
+  {
+   "id": "ms_426:0ca3",
+   "en": "Destroy the enemy units",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same as 732."
+  },
+  {
+   "id": "ms_440:26ae",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": "review: stock objective; majority form (34 of 41)"
+  },
+  {
+   "id": "ms_440:2704",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": "review: stock objective; majority form (34 of 41)"
+  },
+  {
+   "id": "ms_450:2478",
+   "en": "Clear Level C",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_450:2503",
+   "en": "Clear Level B",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_450:258d",
+   "en": "Clear Level A",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_450:261c",
+   "en": "Clear Level S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_460:29b2",
+   "en": "Make the enemy soldiers surrender\n(destroy only their machines)",
+   "flags": [],
+   "notes": "Second line is a parenthetical: destroy the mechs only, so the pilots can surrender."
+  },
+  {
+   "id": "mt_010:020e",
+   "en": "Let's go over the basics of Fighter mode.",
+   "flags": [],
+   "notes": "Tutorial conventions set here: direction keys = 'D-pad', analog pad = 'analog stick', form = 'mode', shooting/melee attacks. | review: refit: 'basic controls for' -> 'basics of' (matches rows 778/796)"
+  },
+  {
+   "id": "mt_010:024c",
+   "en": "During training, flight mode is set to\nNormal Flight, and controller settings are\nreset to defaults. Please keep this in mind.",
+   "flags": [],
+   "notes": "Normal Flight built from glossary 'Normal' + 'Real Flight Mode'. Second break moved by a word for balance; count kept. | review: refit: articles dropped, lines rebalanced; 'revert to their defaults' -> 'are reset to defaults' (matches row 755)"
+  },
+  {
+   "id": "mt_010:02c9",
+   "en": "Press Up on the D-pad to nose down and\ndescend, and Down to nose up and climb.",
+   "flags": [],
+   "notes": "review: refit: 'dip/raise the nose' -> 'nose down/up'; second 'on the D-pad' dropped"
+  },
+  {
+   "id": "mt_010:031d",
+   "en": "Press Left or Right on the D-pad to turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_010:034a",
+   "en": "Hold the L button and press Left or Right\non the D-pad to yaw.\n(Real Flight only)",
+   "flags": [],
+   "notes": "review: refit: line break moved (matches row 854)"
+  },
+  {
+   "id": "mt_010:03ab",
+   "en": "Press the × button to boost.\nYou can keep boosting until the\nboost gauge is full.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source: boost usable until the gauge reaches maximum; kept literally (gauge fills as you boost). | review: repeated tutorial line; one rendering"
+  },
+  {
+   "id": "mt_010:040e",
+   "en": "Quickly press Up, Left or Right on the D-pad\ntwice in the same direction to roll\nthat way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_010:046d",
+   "en": "Quickly press Down on the D-pad twice\nto fire reverse thrust and decelerate sharply.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_010:04b7",
+   "en": "Hold the △ button to\nbrake and slow down.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; one rendering"
+  },
+  {
+   "id": "mt_010:050d",
+   "en": "Push the analog stick up\nto transform into Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_010:054f",
+   "en": "That covers the basics of Fighter mode.\nNote: in this training you can't transform\ninto any mode other than Fighter.",
+   "flags": [],
+   "notes": "review: refit: 'basic controls for' -> 'basics of'; 'Note that' -> 'Note:'"
+  },
+  {
+   "id": "mt_010:05c0",
+   "en": "Now go ahead and begin your\nFighter mode flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_010:0606",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; majority form | review: refit: line break moved"
+  },
+  {
+   "id": "mt_011:020f",
+   "en": "Let's go over the basics of Battroid mode.",
+   "flags": [],
+   "notes": "review: refit: as row 741"
+  },
+  {
+   "id": "mt_011:024d",
+   "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; majority form"
+  },
+  {
+   "id": "mt_011:02a6",
+   "en": "Press Up, Down, Left or Right on the D-pad\nto move forward, back, left or right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_011:02e8",
+   "en": "Quickly press the D-pad twice\nin the same direction to step\nthat way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_011:033b",
+   "en": "At the end of a step, keep holding\nthe D-pad to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_011:038b",
+   "en": "Press the × button to jump.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_011:03b8",
+   "en": "Quickly press the × button twice\nand keep holding it to boost downward\nand lose altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_011:0421",
+   "en": "You can dash even in mid-jump.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_011:0454",
+   "en": "Push the analog stick down\nto transform into Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_011:0496",
+   "en": "That covers the basics of Battroid mode.\nNote: in this training you can't transform\ninto any mode other than Battroid.",
+   "flags": [],
+   "notes": "review: refit: as row 751"
+  },
+  {
+   "id": "mt_011:0507",
+   "en": "Now go ahead and begin your\nBattroid mode training.",
+   "flags": [],
+   "notes": "Source repeats 'piloting training' as in 752; 'flight' dropped because Battroid walks."
+  },
+  {
+   "id": "mt_011:054d",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; majority form | review: refit: line break moved"
+  },
+  {
+   "id": "mt_012:0208",
+   "en": "Let's go over the basics of GERWALK mode.",
+   "flags": [],
+   "notes": "review: refit: as row 741"
+  },
+  {
+   "id": "mt_012:0246",
+   "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; majority form"
+  },
+  {
+   "id": "mt_012:029f",
+   "en": "Press Left or Right on the D-pad to turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_012:02ce",
+   "en": "Quickly press the D-pad twice\nin the same direction to step\nthat way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_012:0321",
+   "en": "At the end of a step,\nkeep holding the D-pad to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_012:0371",
+   "en": "Hold the × button to boost upward\nand gain altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_012:03c3",
+   "en": "In GERWALK mode, you hold your altitude\nand hover.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_012:0405",
+   "en": "Quickly press the × button twice\nand keep holding it to boost downward\nand lose altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_012:0470",
+   "en": "Push the analog stick left or right\nto transform into GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_012:04bc",
+   "en": "That covers the basics of GERWALK mode.\nNote: in this training you can't transform\ninto any mode other than GERWALK.",
+   "flags": [],
+   "notes": "review: refit: as row 751; line breaks aligned with rows 751/763"
+  },
+  {
+   "id": "mt_012:0531",
+   "en": "Now go ahead and begin your\nGERWALK mode training.",
+   "flags": [],
+   "notes": "Same as 764."
+  },
+  {
+   "id": "mt_012:0577",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; majority form | review: refit: line break moved"
+  },
+  {
+   "id": "mt_020:0827",
+   "en": "Let's go over the basics of shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:085b",
+   "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; majority form"
+  },
+  {
+   "id": "mt_020:08b4",
+   "en": "Quickly press and release the R button\nto lock on to an enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:0906",
+   "en": "While locked on, quickly press and release\nthe R button again to switch your lock\nto another enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:0979",
+   "en": "Hold Up on the D-pad while locking on\nto switch your lock to enemy warships\nor enemy aces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:09f0",
+   "en": "Hold Down on the D-pad while locking on\nto switch your lock to containers\nor switches.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:0a65",
+   "en": "Press the L and R buttons together\nto cancel your lock-on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:0abf",
+   "en": "Press the □ button to attack the locked-on\nenemy with your main weapon.",
+   "flags": [],
+   "notes": "review: refit: line break moved"
+  },
+  {
+   "id": "mt_020:0b09",
+   "en": "Press the ○ button to attack the locked-on\nenemy with your special weapon.",
+   "flags": [],
+   "notes": "review: refit: line break moved"
+  },
+  {
+   "id": "mt_020:0b51",
+   "en": "If your unit has several special weapons,\nhold the L button and press the □ button\nto switch between them.",
+   "flags": [],
+   "notes": "review: refit: 'more than one special weapon' -> 'several special weapons'"
+  },
+  {
+   "id": "mt_020:0bca",
+   "en": "Some special weapons are capable of\nmulti-lock-on, which locks on to\nseveral enemies at once.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Mechanic 'multi-lock-on' not in glossary; coined from the katakana. | review: term added to glossary"
+  },
+  {
+   "id": "mt_020:0c29",
+   "en": "To multi-lock-on, hold the ○ button\nto lock on to multiple enemies\nwithin range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:0c94",
+   "en": "Release the ○ button during multi-lock-on\nto hit every enemy locked at that moment\nwith your special weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:0d0f",
+   "en": "While the locked-on enemy is ahead of you,\nyour lock-on level goes up.",
+   "flags": [],
+   "notes": "Mechanic 'lock-on level' not in glossary. | review: term added to glossary | review: refit: 'in front of' -> 'ahead of'"
+  },
+  {
+   "id": "mt_020:0d69",
+   "en": "Shooting with a raised lock-on level\ngives you bonuses to attack power\nand accuracy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:0dda",
+   "en": "These shooting controls are the same\nin Fighter, Battroid\nand GERWALK modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:0e47",
+   "en": "That covers the basics of shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_020:0e72",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; majority form | review: refit: line break moved"
+  },
+  {
+   "id": "mt_021:0833",
+   "en": "Let's go over the basics of melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_021:0867",
+   "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; majority form"
+  },
+  {
+   "id": "mt_021:08c0",
+   "en": "In GERWALK and Battroid modes,\npress the △ button to make a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_021:090e",
+   "en": "Press the △ button repeatedly\nto chain melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_021:0956",
+   "en": "The number of hits in a combo varies\nby unit and mode.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 746: boost usable 'until the gauge reaches maximum' - read as a heat-style gauge that fills while boosting; if the gauge actually drains, change to 'until the boost gauge runs out'.",
+   "rows 732-733: 'enemy machines' rendered 'Destroy the enemy units' (could be 'enemy fighters' depending on the mission).",
+   "rows 788-790: mechanic name 'multi-lock-on' coined from the katakana; not in glossary.",
+   "rows 741-800: control-name conventions chosen here (D-pad, analog stick, Fighter/Battroid/GERWALK mode, shooting/melee attacks) - no earlier slice existed to align with."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "maruchi rokkuon: rendered 'multi-lock-on' (game mechanic)",
+   "rokkuon reberu: rendered 'lock-on level' (game mechanic)",
+   "nooru furaito: rendered 'Normal Flight' (from glossary 'Normal' + 'Real Flight Mode')"
+  ],
+  "unfinished": []
+ }
+}

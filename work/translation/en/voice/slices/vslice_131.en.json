@@ -1,0 +1,521 @@
+{
+ "slice": 131,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_luk_137",
+   "en": "I can't believe I got shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_138",
+   "en": "Nanase!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard Anaze-san; read as Nanase-san (Luca's crush); slot is calling a loved one when shot down"
+  },
+  {
+   "id": "vpf_luk_139",
+   "en": "Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_140",
+   "en": "Anyone can make a mistake.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_141",
+   "en": "You're being too reckless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_142",
+   "en": "If only I'd covered you sooner...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off; ally unspecified"
+  },
+  {
+   "id": "vpf_luk_143",
+   "en": "Eject! Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_144",
+   "en": "How could this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_148",
+   "en": "Reinforcements! That helps!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_149",
+   "en": "This will change the tide of battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_150",
+   "en": "Friendly forces confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_151",
+   "en": "This is awful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_152",
+   "en": "No way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_153",
+   "en": "I couldn't protect them.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Object not stated"
+  },
+  {
+   "id": "vpf_luk_154",
+   "en": "Mission complete. Returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_155",
+   "en": "We did it, everyone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_156",
+   "en": "Now I can go back to school.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_157",
+   "en": "Time's up. My plan is ruined.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_158",
+   "en": "Looks like time's run out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_159",
+   "en": "To run out of time after coming this far.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_160",
+   "en": "Mission failed? Returning!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_161",
+   "en": "No... I only...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off"
+  },
+  {
+   "id": "vpf_luk_162",
+   "en": "Unfortunately, the mission seems to have failed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_163",
+   "en": "Cover me, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_164",
+   "en": "Could you give me covering fire?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_165",
+   "en": "I'll go ahead and probe the enemy's movements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_166",
+   "en": "Please take it to close combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_167",
+   "en": "Please move up and fight in close combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_168",
+   "en": "I'll try doing it like Michel!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_169",
+   "en": "Leave it to me and fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_170",
+   "en": "It's dangerous! Leave it to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_171",
+   "en": "You're charging in too much, like Alto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_172",
+   "en": "Do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_173",
+   "en": "This is the only chance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_174",
+   "en": "If I use that, surely...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off"
+  },
+  {
+   "id": "vpf_luk_175",
+   "en": "I... I can too...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off"
+  },
+  {
+   "id": "vpf_luk_176",
+   "en": "This is a fight for survival!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_177",
+   "en": "If I use this, surely...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off"
+  },
+  {
+   "id": "vpf_luk_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_179",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_180",
+   "en": "Yes, roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_181",
+   "en": "Captain! You're damaged!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_182",
+   "en": "Captain! I'll cover you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_183",
+   "en": "Fight carefully, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_184",
+   "en": "Captain, respond. Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_185",
+   "en": "The captain's been shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_186",
+   "en": "No... Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_187",
+   "en": "Let's stop fighting and go home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_188",
+   "en": "A song... that's nice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_189",
+   "en": "This... I'm withdrawing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_190",
+   "en": "Amazing! That's our captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_191",
+   "en": "I should follow the captain's example.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_192",
+   "en": "Amazing, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_193",
+   "en": "As expected of Michel!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_300",
+   "en": "Um, according to the data, this mission might be tough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_301",
+   "en": "Paired with you? That ruins my plan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_302",
+   "en": "Take this seriously or everyone dies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_303",
+   "en": "Um, the data says this mission is fine if we do it right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_304",
+   "en": "Let's wipe out our enemy as soon as possible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_305",
+   "en": "Come on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_306",
+   "en": "Um, the data says this mission is no problem at all for us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_307",
+   "en": "I feel reassured with you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_308",
+   "en": "I'll do my best to be useful too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_309",
+   "en": "Um, according to the data, this mission is a breeze!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_310",
+   "en": "With Simon, John, Peter and you, there's nothing to worry about.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_311",
+   "en": "With this data, we won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_320",
+   "en": "This isn't a simulator, so take it seriously.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_321",
+   "en": "Are you really trying?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_322",
+   "en": "Hmm, that was a bit hard to work with.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_323",
+   "en": "Mission accomplished.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_324",
+   "en": "Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_325",
+   "en": "Come on, let's head back to everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_326",
+   "en": "My support came in handy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_327",
+   "en": "You fought magnificently.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_328",
+   "en": "Just as planned. We did it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_329",
+   "en": "It ended safely! Impressive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_330",
+   "en": "Come on, let's go get something delicious!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_331",
+   "en": "We make a good team, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_340",
+   "en": "Ah, this plan might be a bit risky.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_341",
+   "en": "Please make proper use of my data!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 10402: Heard Anaze-san; read as Nanase-san (Luca's crush); slot is calling a loved one when shot down"
+  ],
+  "whisper_doubt": [
+   "row 10402: Heard Anaze-san; read as Nanase-san (Luca's crush); slot is calling a loved one when shot down"
+  ],
+  "kept_omission": [
+   "row 10414: Object not stated"
+  ],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 10406",
+   "row 10422",
+   "row 10435",
+   "row 10436",
+   "row 10438"
+  ]
+ }
+}

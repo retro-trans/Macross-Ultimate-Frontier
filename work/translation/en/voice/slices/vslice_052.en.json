@@ -1,0 +1,507 @@
+{
+ "slice": 52,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_of2_101",
+   "en": "With me here, it's a cakewalk! Easy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_102",
+   "en": "I'll make it work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_102",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_102",
+   "en": "I can feel my nerves sharpening. Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_102",
+   "en": "I can do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_102",
+   "en": "Well, shall we begin?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_102",
+   "en": "Looks like it's time to show what I can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_103",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_103",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_103",
+   "en": "Spotted you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_103",
+   "en": "Found it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_103",
+   "en": "Locked on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_103",
+   "en": "All right! That's the one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_104",
+   "en": "Enemy locked!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_104",
+   "en": "Not getting away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_104",
+   "en": "I can see you clear as day!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_104",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_104",
+   "en": "No escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_104",
+   "en": "Bring it on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_105",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_105",
+   "en": "Right there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_105",
+   "en": "Gotcha! You can't escape now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_105",
+   "en": "No escaping!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_105",
+   "en": "Be my target!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_105",
+   "en": "Enemy spotted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_106",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Shouting; Whisper repeated a vowel."
+  },
+  {
+   "id": "vp0_om1_106",
+   "en": "Sleep tight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_106",
+   "en": "Don't be shy, have some!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_106",
+   "en": "This'll hurt!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_106",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_106",
+   "en": "This finishes it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_107",
+   "en": "I can do it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_107",
+   "en": "Eat this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_107",
+   "en": "I'll show you my ace!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_107",
+   "en": "Goodbye!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_107",
+   "en": "Regret it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_107",
+   "en": "Take this! My special move!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_108",
+   "en": "This is the end!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_108",
+   "en": "This is the last one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_108",
+   "en": "Say you're sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_108",
+   "en": "I'm sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_108",
+   "en": "Get a taste of hell!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_108",
+   "en": "Oops, wrong button. Well, it worked out in the end!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_109",
+   "en": "No escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_109",
+   "en": "Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_109",
+   "en": "Oh! You're tough!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_109",
+   "en": "I can do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_109",
+   "en": "That's all you've got?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_109",
+   "en": "Ugh, so stubborn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_110",
+   "en": "I'll drop you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_110",
+   "en": "Still want more?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_110",
+   "en": "Let's have a little more fun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_110",
+   "en": "It still moves?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_110",
+   "en": "Had enough yet?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_110",
+   "en": "Quit it already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_111",
+   "en": "So stubborn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_111",
+   "en": "Run if you want.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_111",
+   "en": "No need to hold back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_111",
+   "en": "If you'd just run...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off; wishes the enemy would flee."
+  },
+  {
+   "id": "vp0_of1_111",
+   "en": "I won't let you escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_111",
+   "en": "Yeah! Feeling good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_112",
+   "en": "Enemy destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_112",
+   "en": "Enemy shot down.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'teki gige kyatto'; probably 'teki gekiha tto', enemy shot down."
+  },
+  {
+   "id": "vp0_om2_112",
+   "en": "Done? Next!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_112",
+   "en": "Shot it down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_112",
+   "en": "Enemy down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_112",
+   "en": "Easy, easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_113",
+   "en": "Yes! I got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_113",
+   "en": "One down!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'itchou yori'; probably 'icchou agari', one down."
+  },
+  {
+   "id": "vp0_om2_113",
+   "en": "OK! That was a hot fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_113",
+   "en": "I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_113",
+   "en": "Small fry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_113",
+   "en": "Just as expected of me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_114",
+   "en": "Phew, I did it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_114",
+   "en": "Yeehaw!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_114",
+   "en": "Isn't there anyone who can satisfy me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_114",
+   "en": "I think I can!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_114",
+   "en": "Sleep.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_114",
+   "en": "Hehe, that about does it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_115",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 4143: Whisper wrote 'teki gige kyatto'; probably 'teki gekiha tto', enemy shot down.",
+   "row 4149: Whisper wrote 'itchou yori'; probably 'icchou agari', one down."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 4139: Trails off; wishes the enemy would flee."
+  ]
+ }
+}

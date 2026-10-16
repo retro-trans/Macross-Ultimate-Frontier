@@ -1,0 +1,537 @@
+{
+ "slice": 105,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_mac_130",
+   "en": "No!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_131",
+   "en": "Impossible?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_132",
+   "en": "Not like back then!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_133",
+   "en": "There's still a way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_134",
+   "en": "It's too early to call it despair.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_135",
+   "en": "To think I'd take this much damage!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_136",
+   "en": "Damn! I've been outplayed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_137",
+   "en": "Not good! Take it from here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_138",
+   "en": "So my skills have grown dull.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_139",
+   "en": "You OK?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_140",
+   "en": "Stay calm.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_141",
+   "en": "Get a grip!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_142",
+   "en": "Eject! Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_143",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_144",
+   "en": "How could this be!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_148",
+   "en": "Reinforcements now? Not a bad turn of events.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_149",
+   "en": "Reinforcements. Much obliged.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_150",
+   "en": "Allies, but we can't relax yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_151",
+   "en": "Shot down, huh?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Unclear whose loss this is (21 missions only); kept neutral."
+  },
+  {
+   "id": "vp7_mac_152",
+   "en": "Well, well.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'nan to mo na' is a vague remark; kept neutral."
+  },
+  {
+   "id": "vp7_mac_153",
+   "en": "W-what a disaster!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_154",
+   "en": "Operation complete. Returning at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_155",
+   "en": "Milia, I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_156",
+   "en": "That was no big deal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_157",
+   "en": "Time's up...? Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_158",
+   "en": "Were we too late?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_159",
+   "en": "Out of time. We can't continue the operation.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'sakusen sokkou' read as 'sakusen zokkou' (continue the operation)."
+  },
+  {
+   "id": "vp7_mac_160",
+   "en": "Operation failed! Leave the front at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_161",
+   "en": "We must withdraw immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_162",
+   "en": "To think I would fail!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_163",
+   "en": "Right, open covering fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_164",
+   "en": "Back me up, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_165",
+   "en": "Cover me, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_166",
+   "en": "Go first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_167",
+   "en": "Close combat! Move up front!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_168",
+   "en": "Confuse them up close.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_169",
+   "en": "Leave it to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_170",
+   "en": "Be very careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_171",
+   "en": "Calm down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_172",
+   "en": "Let's end this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_173",
+   "en": "This is it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_174",
+   "en": "Now! Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_175",
+   "en": "It's only begun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_176",
+   "en": "I'll end it here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_177",
+   "en": "Risky, but...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off in the original."
+  },
+  {
+   "id": "vp7_mac_178",
+   "en": "Right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_179",
+   "en": "Hmph, I know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_180",
+   "en": "Yes, very well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_181",
+   "en": "Leader's in danger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_182",
+   "en": "At this rate, our leader...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Cut off in the original."
+  },
+  {
+   "id": "vp7_mac_183",
+   "en": "Leader, pull yourself together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_184",
+   "en": "Leader's down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_185",
+   "en": "Leader, eject quickly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_186",
+   "en": "I can't fight like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_187",
+   "en": "Right. Retreating immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_188",
+   "en": "Shall we call off the fight?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript is awkward ('kore wa'); kept as a question about stopping."
+  },
+  {
+   "id": "vp7_mac_189",
+   "en": "Under the circumstances, we're withdrawing!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'kono kimochi' is odd; probably 'kono ue wa' (in that case)."
+  },
+  {
+   "id": "vp7_mac_190",
+   "en": "Quite a skilled leader.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_191",
+   "en": "Compared to my old self, still a long way to go.",
+   "flags": [
+    "kept_omission",
+    "uncertain"
+   ],
+   "notes": "Subject left open (leader or himself); same words as clip 126."
+  },
+  {
+   "id": "vp7_mac_192",
+   "en": "Milia, your skill hasn't faded.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Miriamu ude wa' read as 'Miria, ude wa'."
+  },
+  {
+   "id": "vp7_mac_193",
+   "en": "Mylene has really grown up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_300",
+   "en": "Unskilled pilots, please hold back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_301",
+   "en": "I've got a bad feeling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_302",
+   "en": "The odds of success are nearly zero.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_303",
+   "en": "Giving it everything I've got.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_304",
+   "en": "Don't let up! The smallest error means death!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_305",
+   "en": "Move quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_306",
+   "en": "Leave this operation to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_307",
+   "en": "Trust me! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_308",
+   "en": "I must protect everyone.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'mamoraretaba' read as 'mamoraneba' (must protect)."
+  },
+  {
+   "id": "vp7_mac_309",
+   "en": "I'll show you how I fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_310",
+   "en": "I'm counting on your skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_311",
+   "en": "I'll support you. Fight with confidence.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_320",
+   "en": "Are you trying to wipe us out?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_321",
+   "en": "I don't understand how people fight these days.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_322",
+   "en": "Honestly, results like this tarnish the name of genius.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript ends 'tensai no na ga naku'; read as 'na ga naku' (the name weeps). Whose results is not stated."
+  },
+  {
+   "id": "vp7_mac_323",
+   "en": "Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_324",
+   "en": "Heading back now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_325",
+   "en": "Glad you're safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_327",
+   "en": "I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8339 (vp7_mac_151): Unclear whose loss this is (21 missions only); kept neutral.",
+   "row 8340 (vp7_mac_152): 'nan to mo na' is a vague remark; kept neutral.",
+   "row 8376 (vp7_mac_188): Transcript is awkward ('kore wa'); kept as a question about stopping.",
+   "row 8377 (vp7_mac_189): 'kono kimochi' is odd; probably 'kono ue wa' (in that case).",
+   "row 8379 (vp7_mac_191): Subject left open (leader or himself); same words as clip 126.",
+   "row 8396 (vp7_mac_322): Transcript ends 'tensai no na ga naku'; read as 'na ga naku' (the name weeps). Whose results is not stated."
+  ],
+  "whisper_doubt": [
+   "row 8347 (vp7_mac_159): 'sakusen sokkou' read as 'sakusen zokkou' (continue the operation).",
+   "row 8377 (vp7_mac_189): 'kono kimochi' is odd; probably 'kono ue wa' (in that case).",
+   "row 8380 (vp7_mac_192): 'Miriamu ude wa' read as 'Miria, ude wa'.",
+   "row 8390 (vp7_mac_308): 'mamoraretaba' read as 'mamoraneba' (must protect).",
+   "row 8396 (vp7_mac_322): Transcript ends 'tensai no na ga naku'; read as 'na ga naku' (the name weeps). Whose results is not stated."
+  ],
+  "kept_omission": [
+   "row 8379 (vp7_mac_191): Subject left open (leader or himself); same words as clip 126."
+  ],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 8365 (vp7_mac_177): Trails off in the original.",
+   "row 8370 (vp7_mac_182): Cut off in the original."
+  ]
+ }
+}

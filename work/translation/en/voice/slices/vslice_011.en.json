@@ -1,0 +1,500 @@
+{
+ "slice": 11,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_344",
+   "en": "I'm counting on your performance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_344",
+   "en": "Mission start. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_344",
+   "en": "Get a job this size done for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_344",
+   "en": "Mission start. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_344",
+   "en": "It's started. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_345",
+   "en": "Please come back safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_345",
+   "en": "Come back safe. No matter what.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_345",
+   "en": "Hey, you'll be fine as long as you listen to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_345",
+   "en": "Victory is with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_345",
+   "en": "Watch your surroundings during the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_346",
+   "en": "You'll be fine! I'm sure you'll succeed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_346",
+   "en": "Don't get hurt being reckless. You're a woman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_346",
+   "en": "Don't fail. Well, I don't need to tell you that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_346",
+   "en": "Live up to my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_346",
+   "en": "I'm counting on you. Don't let me down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_347",
+   "en": "I'll back you up properly too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_347",
+   "en": "I'm expecting a lot from you. Don't let me down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_347",
+   "en": "Sorry I always end up relying on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_347",
+   "en": "Show me your true ability.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_347",
+   "en": "Listen to my intel during the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_348",
+   "en": "I'll be praying for your safety.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_348",
+   "en": "Rely on my support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_348",
+   "en": "With my precise orders and your skill, it's a breeze, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_348",
+   "en": "You're not alone. We're here too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_348",
+   "en": "Operation start. Tighten up and go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_349",
+   "en": "I'm watching your brilliant flying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_349",
+   "en": "Come back and show me you're safe. Promise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_349",
+   "en": "I just can't picture you failing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_349",
+   "en": "Do it your way. I believe in you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_349",
+   "en": "I think you'll be fine, but be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_350",
+   "en": "Please count on my support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_350",
+   "en": "Show me that spirited flying of yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_350",
+   "en": "I guess this feeling is relief.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_350",
+   "en": "Be careful. Me, worrying about someone else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_350",
+   "en": "Come back, without fail. Promise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_351",
+   "en": "All right, let's wrap this up quickly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_351",
+   "en": "Finish fast so we make it to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_351",
+   "en": "I'll be waiting for you to come back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_351",
+   "en": "Come back. I'm waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_351",
+   "en": "Don't take reckless risks and worry me so much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_360",
+   "en": "Oh, is it over? Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_360",
+   "en": "There, well done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_360",
+   "en": "Don't worry about it. I never expected anything from the start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_360",
+   "en": "Heh, you actually made it back alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_360",
+   "en": "You were lucky to finish safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_361",
+   "en": "That's only because it was this mission, right?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sentence is cut off; read as a gentle jab that the mission was easy."
+  },
+  {
+   "id": "vo0_of1_361",
+   "en": "Coming back safe... a miracle?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_361",
+   "en": "You were lucky just to survive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_361",
+   "en": "Looks like you didn't fail. But that's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_361",
+   "en": "Never mind, just return to base quickly. Honestly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_362",
+   "en": "Um, will you be okay next time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_362",
+   "en": "Well, for a mission this easy, naturally.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_362",
+   "en": "I thought your skills were a bit better. I guess I overestimated you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_362",
+   "en": "A mission this easy, naturally.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_362",
+   "en": "Mission over. Return quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_363",
+   "en": "The mission is over. Please return immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_363",
+   "en": "Mission over. Come home carefully.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_363",
+   "en": "Mission accomplished. Well, that's about what I expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_363",
+   "en": "Mission over. Return immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_363",
+   "en": "Mission over. Return to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_364",
+   "en": "Looks like nothing happened. Thank goodness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_364",
+   "en": "Looks like it ended safely. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_364",
+   "en": "You did well, for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_364",
+   "en": "Looks like it's done. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_364",
+   "en": "Hmph, it's over. You come back too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_365",
+   "en": "Good work. Go home and relax.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_365",
+   "en": "Now, rest well for the next one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_365",
+   "en": "You followed my orders well. I'll give you credit for that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_365",
+   "en": "No particular problems with this mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_365",
+   "en": "Mission over. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_366",
+   "en": "Keep it up from here on, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_366",
+   "en": "How was my support? Not that I'll accept complaints.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_366",
+   "en": "I said you could do it. Of course you succeeded.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_366",
+   "en": "Not bad. I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_366",
+   "en": "Glad it ended safely. Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_367",
+   "en": "My support was helpful, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_367",
+   "en": "Your skill was as expected. Keep it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_367",
+   "en": "I'm counting on you from now on, too. Got it? From now on, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_367",
+   "en": "I've seen your skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_367",
+   "en": "Quite a skillful performance.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 846 vo0_of0_361: cut-off sentence, meaning inferred",
+   "rows 812, 882: Claire mentions the pilot being a woman; these are female-pilot variants, kept literal",
+   "row 879 vo0_om0_367: 'I've seen your skill' could also read 'You showed me'"
+  ],
+  "whisper_doubt": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

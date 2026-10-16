@@ -1,0 +1,2165 @@
+{
+ "_meta": {},
+ "rows": [
+  {
+   "id": "locate:m7_310:5:FRIMAC",
+   "en": "Portrait: Captain Max",
+   "ref": {
+    "file": "data/locate/m7_310.csv",
+    "row": 5,
+    "col": 2,
+    "key": "FRIMAC"
+   }
+  },
+  {
+   "id": "locate:m7_320:3:FRIMAC",
+   "en": "Portrait: Captain Max",
+   "ref": {
+    "file": "data/locate/m7_320.csv",
+    "row": 3,
+    "col": 2,
+    "key": "FRIMAC"
+   }
+  },
+  {
+   "id": "locate:m7_360:42:DEMO01",
+   "en": "Demo: Sivil",
+   "ref": {
+    "file": "data/locate/m7_360.csv",
+    "row": 42,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:m7_370:4:DEMO00",
+   "en": "Demo: Basara",
+   "ref": {
+    "file": "data/locate/m7_370.csv",
+    "row": 4,
+    "col": 2,
+    "key": "DEMO00"
+   }
+  },
+  {
+   "id": "locate:m7_370:27:DEMO01",
+   "en": "Fold Demo: Fighter Battle 7",
+   "ref": {
+    "file": "data/locate/m7_370.csv",
+    "row": 27,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:m7_370:28:DEMO02",
+   "en": "Demo: Battle 7 (Unit)",
+   "ref": {
+    "file": "data/locate/m7_370.csv",
+    "row": 28,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:m7_380:7:FRIVEF",
+   "en": "Portrait: Veffidas",
+   "ref": {
+    "file": "data/locate/m7_380.csv",
+    "row": 7,
+    "col": 2,
+    "key": "FRIVEF"
+   }
+  },
+  {
+   "id": "locate:m7_390:7:FRIMAC",
+   "en": "Portrait: Captain Max",
+   "ref": {
+    "file": "data/locate/m7_390.csv",
+    "row": 7,
+    "col": 2,
+    "key": "FRIMAC"
+   }
+  },
+  {
+   "id": "locate:m7_390:8:FRIVEF",
+   "en": "Portrait: Veffidas",
+   "ref": {
+    "file": "data/locate/m7_390.csv",
+    "row": 8,
+    "col": 2,
+    "key": "FRIVEF"
+   }
+  },
+  {
+   "id": "locate:m7_400:3:DEMO00",
+   "en": "Demo: Gigile",
+   "ref": {
+    "file": "data/locate/m7_400.csv",
+    "row": 3,
+    "col": 2,
+    "key": "DEMO00"
+   }
+  },
+  {
+   "id": "locate:m7_400:4:DEMO01",
+   "en": "Demo: Sivil",
+   "ref": {
+    "file": "data/locate/m7_400.csv",
+    "row": 4,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:m7_410:8:FRIMAC",
+   "en": "Portrait: Captain Max",
+   "ref": {
+    "file": "data/locate/m7_410.csv",
+    "row": 8,
+    "col": 2,
+    "key": "FRIMAC"
+   }
+  },
+  {
+   "id": "locate:m7_410:9:FRIVEF",
+   "en": "Portrait: Veffidas",
+   "ref": {
+    "file": "data/locate/m7_410.csv",
+    "row": 9,
+    "col": 2,
+    "key": "FRIVEF"
+   }
+  },
+  {
+   "id": "locate:m7_410:55:DEMONKB",
+   "en": "Demo",
+   "ref": {
+    "file": "data/locate/m7_410.csv",
+    "row": 55,
+    "col": 2,
+    "key": "DEMONKB"
+   }
+  },
+  {
+   "id": "locate:m7_430:3:FRIMAX",
+   "en": "Portrait: Captain Max",
+   "ref": {
+    "file": "data/locate/m7_430.csv",
+    "row": 3,
+    "col": 2,
+    "key": "FRIMAX"
+   }
+  },
+  {
+   "id": "locate:m7_440:7:FRIVEF",
+   "en": "Portrait: Veffidas",
+   "ref": {
+    "file": "data/locate/m7_440.csv",
+    "row": 7,
+    "col": 2,
+    "key": "FRIVEF"
+   }
+  },
+  {
+   "id": "locate:m7_440:43:DEMO02",
+   "en": "Face Dummy",
+   "ref": {
+    "file": "data/locate/m7_440.csv",
+    "row": 43,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:m7_451:8:FRIVEF",
+   "en": "Portrait: Veffidas",
+   "ref": {
+    "file": "data/locate/m7_451.csv",
+    "row": 8,
+    "col": 2,
+    "key": "FRIVEF"
+   }
+  },
+  {
+   "id": "locate:m7_456:6:FRIVEF",
+   "en": "Portrait: Veffidas",
+   "ref": {
+    "file": "data/locate/m7_456.csv",
+    "row": 6,
+    "col": 2,
+    "key": "FRIVEF"
+   }
+  },
+  {
+   "id": "locate:m7_460:7:FRIVEF",
+   "en": "Portrait: Veffidas",
+   "ref": {
+    "file": "data/locate/m7_460.csv",
+    "row": 7,
+    "col": 2,
+    "key": "FRIVEF"
+   }
+  },
+  {
+   "id": "locate:ma_080:38:DEMO01",
+   "en": "Demo: Octos",
+   "ref": {
+    "file": "data/locate/ma_080.csv",
+    "row": 38,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:ma_080:39:DEMO02",
+   "en": "Demo: Octos",
+   "ref": {
+    "file": "data/locate/ma_080.csv",
+    "row": 39,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:ma_080:40:DEMO03",
+   "en": "Demo: Octos",
+   "ref": {
+    "file": "data/locate/ma_080.csv",
+    "row": 40,
+    "col": 2,
+    "key": "DEMO03"
+   }
+  },
+  {
+   "id": "locate:ma_080:41:DEMO04",
+   "en": "Demo: Octos",
+   "ref": {
+    "file": "data/locate/ma_080.csv",
+    "row": 41,
+    "col": 2,
+    "key": "DEMO04"
+   }
+  },
+  {
+   "id": "locate:ma_080:42:DEMO05",
+   "en": "Demo: Octos",
+   "ref": {
+    "file": "data/locate/ma_080.csv",
+    "row": 42,
+    "col": 2,
+    "key": "DEMO05"
+   }
+  },
+  {
+   "id": "locate:ma_091:13:DEMO01",
+   "en": "Demo: Bird Human",
+   "ref": {
+    "file": "data/locate/ma_091.csv",
+    "row": 13,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:ma_091:14:DEMO02",
+   "en": "Demo: Carrier Asuka",
+   "ref": {
+    "file": "data/locate/ma_091.csv",
+    "row": 14,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:ma_091:15:DEMO03",
+   "en": "Demo: Prototype Monster",
+   "ref": {
+    "file": "data/locate/ma_091.csv",
+    "row": 15,
+    "col": 2,
+    "key": "DEMO03"
+   }
+  },
+  {
+   "id": "locate:ma_091:16:DEMO04",
+   "en": "Demo: Target",
+   "ref": {
+    "file": "data/locate/ma_091.csv",
+    "row": 16,
+    "col": 2,
+    "key": "DEMO04"
+   }
+  },
+  {
+   "id": "locate:ma_096:13:DEMO01",
+   "en": "Demo: Bird Human",
+   "ref": {
+    "file": "data/locate/ma_096.csv",
+    "row": 13,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:ma_096:14:DEMO02",
+   "en": "Demo: Carrier Asuka",
+   "ref": {
+    "file": "data/locate/ma_096.csv",
+    "row": 14,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:ma_096:15:DEMO03",
+   "en": "Demo: Prototype Monster",
+   "ref": {
+    "file": "data/locate/ma_096.csv",
+    "row": 15,
+    "col": 2,
+    "key": "DEMO03"
+   }
+  },
+  {
+   "id": "locate:md_310:40:DEMOGAM",
+   "en": "Demo: Gamlin",
+   "ref": {
+    "file": "data/locate/md_310.csv",
+    "row": 40,
+    "col": 2,
+    "key": "DEMOGAM"
+   }
+  },
+  {
+   "id": "locate:md_310:41:DEMODOC",
+   "en": "Demo: Docker",
+   "ref": {
+    "file": "data/locate/md_310.csv",
+    "row": 41,
+    "col": 2,
+    "key": "DEMODOC"
+   }
+  },
+  {
+   "id": "locate:md_330:14:DEMO01",
+   "en": "Demo: Max",
+   "ref": {
+    "file": "data/locate/md_330.csv",
+    "row": 14,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:md_330:15:DEMO02",
+   "en": "Portrait: Veffidas",
+   "ref": {
+    "file": "data/locate/md_330.csv",
+    "row": 15,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:md_340:8:ENEVEF",
+   "en": "Portrait: Veffidas",
+   "ref": {
+    "file": "data/locate/md_340.csv",
+    "row": 8,
+    "col": 2,
+    "key": "ENEVEF"
+   }
+  },
+  {
+   "id": "locate:me_030:9:ENE003",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 9,
+    "col": 2,
+    "key": "ENE003"
+   }
+  },
+  {
+   "id": "locate:me_030:11:ENE005",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 11,
+    "col": 2,
+    "key": "ENE005"
+   }
+  },
+  {
+   "id": "locate:me_030:13:ENE007",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 13,
+    "col": 2,
+    "key": "ENE007"
+   }
+  },
+  {
+   "id": "locate:me_030:15:ENE009",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 15,
+    "col": 2,
+    "key": "ENE009"
+   }
+  },
+  {
+   "id": "locate:me_030:19:ENE013",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 19,
+    "col": 2,
+    "key": "ENE013"
+   }
+  },
+  {
+   "id": "locate:me_030:21:ENE015",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 21,
+    "col": 2,
+    "key": "ENE015"
+   }
+  },
+  {
+   "id": "locate:me_030:23:ENE017",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 23,
+    "col": 2,
+    "key": "ENE017"
+   }
+  },
+  {
+   "id": "locate:me_030:25:ENE019",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 25,
+    "col": 2,
+    "key": "ENE019"
+   }
+  },
+  {
+   "id": "locate:me_030:29:ENE023",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 29,
+    "col": 2,
+    "key": "ENE023"
+   }
+  },
+  {
+   "id": "locate:me_030:31:ENE025",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 31,
+    "col": 2,
+    "key": "ENE025"
+   }
+  },
+  {
+   "id": "locate:me_030:33:ENE027",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 33,
+    "col": 2,
+    "key": "ENE027"
+   }
+  },
+  {
+   "id": "locate:me_030:35:ENE029",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 35,
+    "col": 2,
+    "key": "ENE029"
+   }
+  },
+  {
+   "id": "locate:me_030:39:ENE033",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 39,
+    "col": 2,
+    "key": "ENE033"
+   }
+  },
+  {
+   "id": "locate:me_030:41:ENE035",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 41,
+    "col": 2,
+    "key": "ENE035"
+   }
+  },
+  {
+   "id": "locate:me_030:43:ENE037",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 43,
+    "col": 2,
+    "key": "ENE037"
+   }
+  },
+  {
+   "id": "locate:me_030:46:ENE040",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 46,
+    "col": 2,
+    "key": "ENE040"
+   }
+  },
+  {
+   "id": "locate:me_030:47:ENE041",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/me_030.csv",
+    "row": 47,
+    "col": 2,
+    "key": "ENE041"
+   }
+  },
+  {
+   "id": "locate:me_120:59:ENEVEF",
+   "en": "Portrait: Veffidas",
+   "ref": {
+    "file": "data/locate/me_120.csv",
+    "row": 59,
+    "col": 2,
+    "key": "ENEVEF"
+   }
+  },
+  {
+   "id": "locate:me_170:3:DEMO01",
+   "en": "Demo: Zentradi Soldier 1",
+   "ref": {
+    "file": "data/locate/me_170.csv",
+    "row": 3,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:me_170:4:DEMO02",
+   "en": "Demo: Zentradi Soldier 2",
+   "ref": {
+    "file": "data/locate/me_170.csv",
+    "row": 4,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:me_170:11:DEMO03",
+   "en": "Demo: Macross Quarter",
+   "ref": {
+    "file": "data/locate/me_170.csv",
+    "row": 11,
+    "col": 2,
+    "key": "DEMO03"
+   }
+  },
+  {
+   "id": "locate:mf_172:35:ENE044",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 35,
+    "col": 2,
+    "key": "ENE044"
+   }
+  },
+  {
+   "id": "locate:mf_172:38:ENE047",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 38,
+    "col": 2,
+    "key": "ENE047"
+   }
+  },
+  {
+   "id": "locate:mf_172:39:ENE048",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 39,
+    "col": 2,
+    "key": "ENE048"
+   }
+  },
+  {
+   "id": "locate:mf_172:42:ENE051",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 42,
+    "col": 2,
+    "key": "ENE051"
+   }
+  },
+  {
+   "id": "locate:mf_172:43:ENE052",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 43,
+    "col": 2,
+    "key": "ENE052"
+   }
+  },
+  {
+   "id": "locate:mf_172:44:ENE053",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 44,
+    "col": 2,
+    "key": "ENE053"
+   }
+  },
+  {
+   "id": "locate:mf_172:47:ENE056",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 47,
+    "col": 2,
+    "key": "ENE056"
+   }
+  },
+  {
+   "id": "locate:mf_172:48:ENE057",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 48,
+    "col": 2,
+    "key": "ENE057"
+   }
+  },
+  {
+   "id": "locate:mf_172:51:ENE060",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 51,
+    "col": 2,
+    "key": "ENE060"
+   }
+  },
+  {
+   "id": "locate:mf_172:52:ENE061",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 52,
+    "col": 2,
+    "key": "ENE061"
+   }
+  },
+  {
+   "id": "locate:mf_172:53:ENE062",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_172.csv",
+    "row": 53,
+    "col": 2,
+    "key": "ENE062"
+   }
+  },
+  {
+   "id": "locate:mf_310:4:DUMM01",
+   "en": "Sheryl Dummy",
+   "ref": {
+    "file": "data/locate/mf_310.csv",
+    "row": 4,
+    "col": 2,
+    "key": "DUMM01"
+   }
+  },
+  {
+   "id": "locate:mf_311:7:DEMO00",
+   "en": "Demo / Ranka Dummy",
+   "ref": {
+    "file": "data/locate/mf_311.csv",
+    "row": 7,
+    "col": 2,
+    "key": "DEMO00"
+   }
+  },
+  {
+   "id": "locate:mf_315:4:DUMM01",
+   "en": "Jeffrey Dummy",
+   "ref": {
+    "file": "data/locate/mf_315.csv",
+    "row": 4,
+    "col": 2,
+    "key": "DUMM01"
+   }
+  },
+  {
+   "id": "locate:mf_315:5:DUMM02",
+   "en": "Sheryl Dummy",
+   "ref": {
+    "file": "data/locate/mf_315.csv",
+    "row": 5,
+    "col": 2,
+    "key": "DUMM02"
+   }
+  },
+  {
+   "id": "locate:mf_316:6:DEMO00",
+   "en": "Demo / Ranka Dummy",
+   "ref": {
+    "file": "data/locate/mf_316.csv",
+    "row": 6,
+    "col": 2,
+    "key": "DEMO00"
+   }
+  },
+  {
+   "id": "locate:mf_330:6:FRIJEF",
+   "en": "Jeffrey Dummy",
+   "ref": {
+    "file": "data/locate/mf_330.csv",
+    "row": 6,
+    "col": 2,
+    "key": "FRIJEF"
+   }
+  },
+  {
+   "id": "locate:mf_340:25:PIC000",
+   "en": "Camera Dummy",
+   "ref": {
+    "file": "data/locate/mf_340.csv",
+    "row": 25,
+    "col": 2,
+    "key": "PIC000"
+   }
+  },
+  {
+   "id": "locate:mf_370:9:DEMO05",
+   "en": "Sheryl Dummy",
+   "ref": {
+    "file": "data/locate/mf_370.csv",
+    "row": 9,
+    "col": 2,
+    "key": "DEMO05"
+   }
+  },
+  {
+   "id": "locate:mf_371:5:DEMO00",
+   "en": "Sheryl Dummy",
+   "ref": {
+    "file": "data/locate/mf_371.csv",
+    "row": 5,
+    "col": 2,
+    "key": "DEMO00"
+   }
+  },
+  {
+   "id": "locate:mf_371:17:DEMOLUK",
+   "en": "Demo: Luca",
+   "ref": {
+    "file": "data/locate/mf_371.csv",
+    "row": 17,
+    "col": 2,
+    "key": "DEMOLUK"
+   }
+  },
+  {
+   "id": "locate:mf_371:18:DEMOBLR",
+   "en": "Demo: Brera",
+   "ref": {
+    "file": "data/locate/mf_371.csv",
+    "row": 18,
+    "col": 2,
+    "key": "DEMOBLR"
+   }
+  },
+  {
+   "id": "locate:mf_372:22:DEMO01",
+   "en": "Demo: Macross Quarter",
+   "ref": {
+    "file": "data/locate/mf_372.csv",
+    "row": 22,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:mf_372:23:DEMO02",
+   "en": "Demo: Vajra Ship",
+   "ref": {
+    "file": "data/locate/mf_372.csv",
+    "row": 23,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:mf_375:9:DEMO05",
+   "en": "Sheryl Dummy",
+   "ref": {
+    "file": "data/locate/mf_375.csv",
+    "row": 9,
+    "col": 2,
+    "key": "DEMO05"
+   }
+  },
+  {
+   "id": "locate:mf_376:5:DEMO00",
+   "en": "Sheryl Dummy",
+   "ref": {
+    "file": "data/locate/mf_376.csv",
+    "row": 5,
+    "col": 2,
+    "key": "DEMO00"
+   }
+  },
+  {
+   "id": "locate:mf_376:17:DEMOLUK",
+   "en": "Demo: Luca",
+   "ref": {
+    "file": "data/locate/mf_376.csv",
+    "row": 17,
+    "col": 2,
+    "key": "DEMOLUK"
+   }
+  },
+  {
+   "id": "locate:mf_376:18:DEMOBLR",
+   "en": "Demo: Brera",
+   "ref": {
+    "file": "data/locate/mf_376.csv",
+    "row": 18,
+    "col": 2,
+    "key": "DEMOBLR"
+   }
+  },
+  {
+   "id": "locate:mf_377:22:DEMO01",
+   "en": "Demo: Macross Quarter",
+   "ref": {
+    "file": "data/locate/mf_377.csv",
+    "row": 22,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:mf_377:23:DEMO02",
+   "en": "Demo: Vajra Ship",
+   "ref": {
+    "file": "data/locate/mf_377.csv",
+    "row": 23,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:mf_380:29:DEMO01",
+   "en": "Demo: Michael",
+   "ref": {
+    "file": "data/locate/mf_380.csv",
+    "row": 29,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:mf_380:30:DEMO02",
+   "en": "Demo: Alto",
+   "ref": {
+    "file": "data/locate/mf_380.csv",
+    "row": 30,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:mf_385:29:DEMO01",
+   "en": "Demo: Michael",
+   "ref": {
+    "file": "data/locate/mf_385.csv",
+    "row": 29,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:mf_385:30:DEMO02",
+   "en": "Demo: Alto",
+   "ref": {
+    "file": "data/locate/mf_385.csv",
+    "row": 30,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:mf_390:7:DEMO00",
+   "en": "Demo: Michael",
+   "ref": {
+    "file": "data/locate/mf_390.csv",
+    "row": 7,
+    "col": 2,
+    "key": "DEMO00"
+   }
+  },
+  {
+   "id": "locate:mf_390:82:DEMO01",
+   "en": "Demo: Zentradi Soldier 1",
+   "ref": {
+    "file": "data/locate/mf_390.csv",
+    "row": 82,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:mf_390:83:DEMO02",
+   "en": "Demo: Zentradi Soldier 2",
+   "ref": {
+    "file": "data/locate/mf_390.csv",
+    "row": 83,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:mf_390:84:DEMO03",
+   "en": "Demo: Zentradi Soldier 3",
+   "ref": {
+    "file": "data/locate/mf_390.csv",
+    "row": 84,
+    "col": 2,
+    "key": "DEMO03"
+   }
+  },
+  {
+   "id": "locate:mf_390:85:DEMO04",
+   "en": "Demo: Zentradi Soldier 4",
+   "ref": {
+    "file": "data/locate/mf_390.csv",
+    "row": 85,
+    "col": 2,
+    "key": "DEMO04"
+   }
+  },
+  {
+   "id": "locate:mf_390:86:DEMO05",
+   "en": "Demo: Zentradi Soldier 5",
+   "ref": {
+    "file": "data/locate/mf_390.csv",
+    "row": 86,
+    "col": 2,
+    "key": "DEMO05"
+   }
+  },
+  {
+   "id": "locate:mf_395:6:DEMO00",
+   "en": "Demo: Michael",
+   "ref": {
+    "file": "data/locate/mf_395.csv",
+    "row": 6,
+    "col": 2,
+    "key": "DEMO00"
+   }
+  },
+  {
+   "id": "locate:mf_395:81:DEMO01",
+   "en": "Demo: Zentradi Soldier 1",
+   "ref": {
+    "file": "data/locate/mf_395.csv",
+    "row": 81,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:mf_395:82:DEMO02",
+   "en": "Demo: Zentradi Soldier 2",
+   "ref": {
+    "file": "data/locate/mf_395.csv",
+    "row": 82,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:mf_395:83:DEMO03",
+   "en": "Demo: Zentradi Soldier 3",
+   "ref": {
+    "file": "data/locate/mf_395.csv",
+    "row": 83,
+    "col": 2,
+    "key": "DEMO03"
+   }
+  },
+  {
+   "id": "locate:mf_395:84:DEMO04",
+   "en": "Demo: Zentradi Soldier 4",
+   "ref": {
+    "file": "data/locate/mf_395.csv",
+    "row": 84,
+    "col": 2,
+    "key": "DEMO04"
+   }
+  },
+  {
+   "id": "locate:mf_395:85:DEMO05",
+   "en": "Demo: Zentradi Soldier 5",
+   "ref": {
+    "file": "data/locate/mf_395.csv",
+    "row": 85,
+    "col": 2,
+    "key": "DEMO05"
+   }
+  },
+  {
+   "id": "locate:mf_400:3:FRIALT",
+   "en": "Portrait Dummy",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 3,
+    "col": 2,
+    "key": "FRIALT"
+   }
+  },
+  {
+   "id": "locate:mf_400:4:FRIRNK",
+   "en": "Portrait Dummy",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 4,
+    "col": 2,
+    "key": "FRIRNK"
+   }
+  },
+  {
+   "id": "locate:mf_400:7:ENE001",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 7,
+    "col": 2,
+    "key": "ENE001"
+   }
+  },
+  {
+   "id": "locate:mf_400:9:ENE011",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 9,
+    "col": 2,
+    "key": "ENE011"
+   }
+  },
+  {
+   "id": "locate:mf_400:10:ENE012",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 10,
+    "col": 2,
+    "key": "ENE012"
+   }
+  },
+  {
+   "id": "locate:mf_400:11:ENE013",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 11,
+    "col": 2,
+    "key": "ENE013"
+   }
+  },
+  {
+   "id": "locate:mf_400:13:ENE021",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 13,
+    "col": 2,
+    "key": "ENE021"
+   }
+  },
+  {
+   "id": "locate:mf_400:17:ENE041",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 17,
+    "col": 2,
+    "key": "ENE041"
+   }
+  },
+  {
+   "id": "locate:mf_400:18:ENE042",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 18,
+    "col": 2,
+    "key": "ENE042"
+   }
+  },
+  {
+   "id": "locate:mf_400:20:ENE044",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 20,
+    "col": 2,
+    "key": "ENE044"
+   }
+  },
+  {
+   "id": "locate:mf_400:23:ENE024",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 23,
+    "col": 2,
+    "key": "ENE024"
+   }
+  },
+  {
+   "id": "locate:mf_400:24:ENE025",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 24,
+    "col": 2,
+    "key": "ENE025"
+   }
+  },
+  {
+   "id": "locate:mf_400:28:ENE029",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 28,
+    "col": 2,
+    "key": "ENE029"
+   }
+  },
+  {
+   "id": "locate:mf_400:49:EGG007",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 49,
+    "col": 2,
+    "key": "EGG007"
+   }
+  },
+  {
+   "id": "locate:mf_400:51:EGG009",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 51,
+    "col": 2,
+    "key": "EGG009"
+   }
+  },
+  {
+   "id": "locate:mf_400:54:EGG012",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 54,
+    "col": 2,
+    "key": "EGG012"
+   }
+  },
+  {
+   "id": "locate:mf_400:65:EGG023",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 65,
+    "col": 2,
+    "key": "EGG023"
+   }
+  },
+  {
+   "id": "locate:mf_400:68:EGG026",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 68,
+    "col": 2,
+    "key": "EGG026"
+   }
+  },
+  {
+   "id": "locate:mf_400:70:EGG028",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 70,
+    "col": 2,
+    "key": "EGG028"
+   }
+  },
+  {
+   "id": "locate:mf_400:80:EGG038",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 80,
+    "col": 2,
+    "key": "EGG038"
+   }
+  },
+  {
+   "id": "locate:mf_400:83:EGG041",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 83,
+    "col": 2,
+    "key": "EGG041"
+   }
+  },
+  {
+   "id": "locate:mf_400:90:EGG048",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 90,
+    "col": 2,
+    "key": "EGG048"
+   }
+  },
+  {
+   "id": "locate:mf_400:96:EGG054",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 96,
+    "col": 2,
+    "key": "EGG054"
+   }
+  },
+  {
+   "id": "locate:mf_400:99:EGG057",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 99,
+    "col": 2,
+    "key": "EGG057"
+   }
+  },
+  {
+   "id": "locate:mf_400:102:EGG060",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 102,
+    "col": 2,
+    "key": "EGG060"
+   }
+  },
+  {
+   "id": "locate:mf_400:105:EGG063",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 105,
+    "col": 2,
+    "key": "EGG063"
+   }
+  },
+  {
+   "id": "locate:mf_400:110:EGG068",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 110,
+    "col": 2,
+    "key": "EGG068"
+   }
+  },
+  {
+   "id": "locate:mf_400:118:EGG076",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 118,
+    "col": 2,
+    "key": "EGG076"
+   }
+  },
+  {
+   "id": "locate:mf_400:121:EGG079",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 121,
+    "col": 2,
+    "key": "EGG079"
+   }
+  },
+  {
+   "id": "locate:mf_400:131:EGG089",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 131,
+    "col": 2,
+    "key": "EGG089"
+   }
+  },
+  {
+   "id": "locate:mf_400:133:EGG091",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 133,
+    "col": 2,
+    "key": "EGG091"
+   }
+  },
+  {
+   "id": "locate:mf_400:136:EGG094",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 136,
+    "col": 2,
+    "key": "EGG094"
+   }
+  },
+  {
+   "id": "locate:mf_400:140:EGG098",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mf_400.csv",
+    "row": 140,
+    "col": 2,
+    "key": "EGG098"
+   }
+  },
+  {
+   "id": "locate:mf_401:6:FRISHE",
+   "en": "Portrait Dummy (Sheryl)",
+   "ref": {
+    "file": "data/locate/mf_401.csv",
+    "row": 6,
+    "col": 2,
+    "key": "FRISHE"
+   }
+  },
+  {
+   "id": "locate:mf_401:7:FRIGOS",
+   "en": "Portrait Dummy (Grace)",
+   "ref": {
+    "file": "data/locate/mf_401.csv",
+    "row": 7,
+    "col": 2,
+    "key": "FRIGOS"
+   }
+  },
+  {
+   "id": "locate:mf_401:14:DEMO01",
+   "en": "Demo: Brera 1 (Battroid)",
+   "ref": {
+    "file": "data/locate/mf_401.csv",
+    "row": 14,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:mf_401:15:DEMO02",
+   "en": "Demo: Michael",
+   "ref": {
+    "file": "data/locate/mf_401.csv",
+    "row": 15,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:mf_401:16:DEMO03",
+   "en": "Demo: Large Vajra Mothership",
+   "ref": {
+    "file": "data/locate/mf_401.csv",
+    "row": 16,
+    "col": 2,
+    "key": "DEMO03"
+   }
+  },
+  {
+   "id": "locate:mf_401:17:DEMO04",
+   "en": "D-Eater Dummy",
+   "ref": {
+    "file": "data/locate/mf_401.csv",
+    "row": 17,
+    "col": 2,
+    "key": "DEMO04"
+   }
+  },
+  {
+   "id": "locate:mf_401:18:DEMO05",
+   "en": "Demo: Brera 2 (Fighter)",
+   "ref": {
+    "file": "data/locate/mf_401.csv",
+    "row": 18,
+    "col": 2,
+    "key": "DEMO05"
+   }
+  },
+  {
+   "id": "locate:mf_410:13:DEMO01",
+   "en": "Demo: Pixie Team",
+   "ref": {
+    "file": "data/locate/mf_410.csv",
+    "row": 13,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:mf_410:14:DEMO02",
+   "en": "Demo: Pixie Team",
+   "ref": {
+    "file": "data/locate/mf_410.csv",
+    "row": 14,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:mf_410:15:DEMO03",
+   "en": "Demo: Pixie Team",
+   "ref": {
+    "file": "data/locate/mf_410.csv",
+    "row": 15,
+    "col": 2,
+    "key": "DEMO03"
+   }
+  },
+  {
+   "id": "locate:mf_410:16:DEMO04",
+   "en": "Demo: Luca",
+   "ref": {
+    "file": "data/locate/mf_410.csv",
+    "row": 16,
+    "col": 2,
+    "key": "DEMO04"
+   }
+  },
+  {
+   "id": "locate:mf_410:17:DEMO05",
+   "en": "Demo: Ozma",
+   "ref": {
+    "file": "data/locate/mf_410.csv",
+    "row": 17,
+    "col": 2,
+    "key": "DEMO05"
+   }
+  },
+  {
+   "id": "locate:mf_411:5:FRIRNK",
+   "en": "Portrait Dummy",
+   "ref": {
+    "file": "data/locate/mf_411.csv",
+    "row": 5,
+    "col": 2,
+    "key": "FRIRNK"
+   }
+  },
+  {
+   "id": "locate:mf_411:6:ENEGAR",
+   "en": "Portrait Dummy",
+   "ref": {
+    "file": "data/locate/mf_411.csv",
+    "row": 6,
+    "col": 2,
+    "key": "ENEGAR"
+   }
+  },
+  {
+   "id": "locate:mg_050:11:DMEO01",
+   "en": "Demo: Basara",
+   "ref": {
+    "file": "data/locate/mg_050.csv",
+    "row": 11,
+    "col": 2,
+    "key": "DMEO01"
+   }
+  },
+  {
+   "id": "locate:mh_010:3:DEMO01",
+   "en": "Demo: Asuka",
+   "ref": {
+    "file": "data/locate/mh_010.csv",
+    "row": 3,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:mh_020:7:DEMO01",
+   "en": "Demo: Bird Human",
+   "ref": {
+    "file": "data/locate/mh_020.csv",
+    "row": 7,
+    "col": 2,
+    "key": "DEMO01"
+   }
+  },
+  {
+   "id": "locate:mh_020:8:DEMO02",
+   "en": "Demo: Carrier Asuka",
+   "ref": {
+    "file": "data/locate/mh_020.csv",
+    "row": 8,
+    "col": 2,
+    "key": "DEMO02"
+   }
+  },
+  {
+   "id": "locate:mh_020:9:DEMO03",
+   "en": "Demo: Prototype Monster",
+   "ref": {
+    "file": "data/locate/mh_020.csv",
+    "row": 9,
+    "col": 2,
+    "key": "DEMO03"
+   }
+  },
+  {
+   "id": "locate:mi_060:41:TEST00",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 41,
+    "col": 2,
+    "key": "TEST00"
+   }
+  },
+  {
+   "id": "locate:mi_060:42:TEST01",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 42,
+    "col": 2,
+    "key": "TEST01"
+   }
+  },
+  {
+   "id": "locate:mi_060:43:TEST02",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 43,
+    "col": 2,
+    "key": "TEST02"
+   }
+  },
+  {
+   "id": "locate:mi_060:44:TEST03",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 44,
+    "col": 2,
+    "key": "TEST03"
+   }
+  },
+  {
+   "id": "locate:mi_060:45:TEST04",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 45,
+    "col": 2,
+    "key": "TEST04"
+   }
+  },
+  {
+   "id": "locate:mi_060:46:TEST05",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 46,
+    "col": 2,
+    "key": "TEST05"
+   }
+  },
+  {
+   "id": "locate:mi_060:47:TEST06",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 47,
+    "col": 2,
+    "key": "TEST06"
+   }
+  },
+  {
+   "id": "locate:mi_060:48:TEST07",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 48,
+    "col": 2,
+    "key": "TEST07"
+   }
+  },
+  {
+   "id": "locate:mi_060:49:TEST08",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 49,
+    "col": 2,
+    "key": "TEST08"
+   }
+  },
+  {
+   "id": "locate:mi_060:50:TEST09",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 50,
+    "col": 2,
+    "key": "TEST09"
+   }
+  },
+  {
+   "id": "locate:mi_060:51:TEST10",
+   "en": "Main Gun Range Test",
+   "ref": {
+    "file": "data/locate/mi_060.csv",
+    "row": 51,
+    "col": 2,
+    "key": "TEST10"
+   }
+  },
+  {
+   "id": "locate:mp_370:54:ENE063",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_370.csv",
+    "row": 54,
+    "col": 2,
+    "key": "ENE063"
+   }
+  },
+  {
+   "id": "locate:mp_370:55:ENE064",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_370.csv",
+    "row": 55,
+    "col": 2,
+    "key": "ENE064"
+   }
+  },
+  {
+   "id": "locate:mp_370:59:ENE068",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_370.csv",
+    "row": 59,
+    "col": 2,
+    "key": "ENE068"
+   }
+  },
+  {
+   "id": "locate:mp_370:60:ENE069",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_370.csv",
+    "row": 60,
+    "col": 2,
+    "key": "ENE069"
+   }
+  },
+  {
+   "id": "locate:mp_380:29:ENE013",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 29,
+    "col": 2,
+    "key": "ENE013"
+   }
+  },
+  {
+   "id": "locate:mp_380:30:ENE014",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 30,
+    "col": 2,
+    "key": "ENE014"
+   }
+  },
+  {
+   "id": "locate:mp_380:34:ENE018",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 34,
+    "col": 2,
+    "key": "ENE018"
+   }
+  },
+  {
+   "id": "locate:mp_380:35:ENE019",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 35,
+    "col": 2,
+    "key": "ENE019"
+   }
+  },
+  {
+   "id": "locate:mp_380:40:ENE023",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 40,
+    "col": 2,
+    "key": "ENE023"
+   }
+  },
+  {
+   "id": "locate:mp_380:41:ENE024",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 41,
+    "col": 2,
+    "key": "ENE024"
+   }
+  },
+  {
+   "id": "locate:mp_380:45:ENE028",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 45,
+    "col": 2,
+    "key": "ENE028"
+   }
+  },
+  {
+   "id": "locate:mp_380:46:ENE029",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 46,
+    "col": 2,
+    "key": "ENE029"
+   }
+  },
+  {
+   "id": "locate:mp_380:51:ENE033",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 51,
+    "col": 2,
+    "key": "ENE033"
+   }
+  },
+  {
+   "id": "locate:mp_380:52:ENE034",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 52,
+    "col": 2,
+    "key": "ENE034"
+   }
+  },
+  {
+   "id": "locate:mp_380:56:ENE038",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 56,
+    "col": 2,
+    "key": "ENE038"
+   }
+  },
+  {
+   "id": "locate:mp_380:57:ENE039",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 57,
+    "col": 2,
+    "key": "ENE039"
+   }
+  },
+  {
+   "id": "locate:mp_380:62:ENE043",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 62,
+    "col": 2,
+    "key": "ENE043"
+   }
+  },
+  {
+   "id": "locate:mp_380:63:ENE044",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 63,
+    "col": 2,
+    "key": "ENE044"
+   }
+  },
+  {
+   "id": "locate:mp_380:67:ENE048",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 67,
+    "col": 2,
+    "key": "ENE048"
+   }
+  },
+  {
+   "id": "locate:mp_380:68:ENE049",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_380.csv",
+    "row": 68,
+    "col": 2,
+    "key": "ENE049"
+   }
+  },
+  {
+   "id": "locate:mp_400:12:ENE009",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_400.csv",
+    "row": 12,
+    "col": 2,
+    "key": "ENE009"
+   }
+  },
+  {
+   "id": "locate:mp_400:13:ENE000",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_400.csv",
+    "row": 13,
+    "col": 2,
+    "key": "ENE000"
+   }
+  },
+  {
+   "id": "locate:mp_400:14:ENE109",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_400.csv",
+    "row": 14,
+    "col": 2,
+    "key": "ENE109"
+   }
+  },
+  {
+   "id": "locate:mp_400:15:ENE110",
+   "en": "Deleted",
+   "ref": {
+    "file": "data/locate/mp_400.csv",
+    "row": 15,
+    "col": 2,
+    "key": "ENE110"
+   }
+  },
+  {
+   "id": "locate:mp_431:15:FRIMYU",
+   "en": "Pilot: Myung (Planned)",
+   "ref": {
+    "file": "data/locate/mp_431.csv",
+    "row": 15,
+    "col": 2,
+    "key": "FRIMYU"
+   }
+  },
+  {
+   "id": "locate:mp_436:14:FRIMYU",
+   "en": "Pilot: Myung (Planned)",
+   "ref": {
+    "file": "data/locate/mp_436.csv",
+    "row": 14,
+    "col": 2,
+    "key": "FRIMYU"
+   }
+  },
+  {
+   "id": "locate:mt_010:4:DUMSHE",
+   "en": "Portrait: Sheryl",
+   "ref": {
+    "file": "data/locate/mt_010.csv",
+    "row": 4,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_010:5:DUMRNK",
+   "en": "Portrait: Ranka",
+   "ref": {
+    "file": "data/locate/mt_010.csv",
+    "row": 5,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mt_011:6:DUMSHE",
+   "en": "Portrait: Sheryl",
+   "ref": {
+    "file": "data/locate/mt_011.csv",
+    "row": 6,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_011:7:DUMRNK",
+   "en": "Portrait: Ranka",
+   "ref": {
+    "file": "data/locate/mt_011.csv",
+    "row": 7,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mt_012:4:DUMSHE",
+   "en": "Portrait: Sheryl",
+   "ref": {
+    "file": "data/locate/mt_012.csv",
+    "row": 4,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_012:5:DUMRNK",
+   "en": "Portrait: Ranka",
+   "ref": {
+    "file": "data/locate/mt_012.csv",
+    "row": 5,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mt_020:9:DUMSHE",
+   "en": "Portrait: Sheryl",
+   "ref": {
+    "file": "data/locate/mt_020.csv",
+    "row": 9,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_020:10:DUMRNK",
+   "en": "Portrait: Ranka",
+   "ref": {
+    "file": "data/locate/mt_020.csv",
+    "row": 10,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mt_021:7:DUMSHE",
+   "en": "Portrait: Sheryl",
+   "ref": {
+    "file": "data/locate/mt_021.csv",
+    "row": 7,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_021:8:DUMRNK",
+   "en": "Portrait: Ranka",
+   "ref": {
+    "file": "data/locate/mt_021.csv",
+    "row": 8,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mt_030:5:DUMSHE",
+   "en": "Portrait: Sheryl",
+   "ref": {
+    "file": "data/locate/mt_030.csv",
+    "row": 5,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_030:6:DUMRNK",
+   "en": "Portrait: Ranka",
+   "ref": {
+    "file": "data/locate/mt_030.csv",
+    "row": 6,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mt_031:5:DUMSHE",
+   "en": "Portrait: Sheryl",
+   "ref": {
+    "file": "data/locate/mt_031.csv",
+    "row": 5,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_031:6:DUMRNK",
+   "en": "Portrait: Ranka",
+   "ref": {
+    "file": "data/locate/mt_031.csv",
+    "row": 6,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mt_032:8:DUMSHE",
+   "en": "Portrait: Sheryl",
+   "ref": {
+    "file": "data/locate/mt_032.csv",
+    "row": 8,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_032:9:DUMRNK",
+   "en": "Portrait: Ranka",
+   "ref": {
+    "file": "data/locate/mt_032.csv",
+    "row": 9,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mt_040:5:DUMSHE",
+   "en": "Portrait: Sheryl (Pilot Suit)",
+   "ref": {
+    "file": "data/locate/mt_040.csv",
+    "row": 5,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_040:6:DUMRNK",
+   "en": "Portrait: Ranka (Pilot Suit)",
+   "ref": {
+    "file": "data/locate/mt_040.csv",
+    "row": 6,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mt_041:9:DUMSHE",
+   "en": "Portrait: Sheryl",
+   "ref": {
+    "file": "data/locate/mt_041.csv",
+    "row": 9,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_041:10:DUMRNK",
+   "en": "Portrait: Ranka",
+   "ref": {
+    "file": "data/locate/mt_041.csv",
+    "row": 10,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mt_042:5:DUMSHE",
+   "en": "Portrait: Sheryl",
+   "ref": {
+    "file": "data/locate/mt_042.csv",
+    "row": 5,
+    "col": 2,
+    "key": "DUMSHE"
+   }
+  },
+  {
+   "id": "locate:mt_042:6:DUMRNK",
+   "en": "Portrait: Ranka",
+   "ref": {
+    "file": "data/locate/mt_042.csv",
+    "row": 6,
+    "col": 2,
+    "key": "DUMRNK"
+   }
+  },
+  {
+   "id": "locate:mx_011:8:FRIMYU",
+   "en": "Pilot: Myung (Planned)",
+   "ref": {
+    "file": "data/locate/mx_011.csv",
+    "row": 8,
+    "col": 2,
+    "key": "FRIMYU"
+   }
+  }
+ ]
+}

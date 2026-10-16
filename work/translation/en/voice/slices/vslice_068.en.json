@@ -1,0 +1,540 @@
+{
+ "slice": 68,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpa_roy_322",
+   "en": "Heh, you got lucky.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_323",
+   "en": "Looks like you made it out safe, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_324",
+   "en": "Not a bad result.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_325",
+   "en": "I trained you! This much is only natural!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_326",
+   "en": "Oh, you're shaping up nicely!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote ii renmei; probably ii rendo (training level) or renkei (teamwork)."
+  },
+  {
+   "id": "vpa_roy_327",
+   "en": "Hmph, you've finally learned to fly, rookie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_329",
+   "en": "You're starting to look like me, you son of a gun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_330",
+   "en": "All right! Tonight we drink till we pass out! That's an order!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_331",
+   "en": "I'm a lucky guy, having such a skilled partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_340",
+   "en": "Hey! Don't zip around and get lost!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_341",
+   "en": "Don't chicken out and run!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_342",
+   "en": "Come on, quit dawdling! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_343",
+   "en": "Think you can keep up with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_344",
+   "en": "Listen! Don't do anything reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_345",
+   "en": "You handle support!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_346",
+   "en": "Well, I've got to escort you properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_347",
+   "en": "Don't make me worry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_348",
+   "en": "I'm expecting a lot from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_349",
+   "en": "One thing I'll say: don't die!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_350",
+   "en": "Be careful! If you die, I can't hit on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_351",
+   "en": "A sortie with you, huh? Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_360",
+   "en": "It's a miracle you even came back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_361",
+   "en": "Geez! You gave me a scare!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote sebayakasete; probably sawagasete (made a fuss/worried me)."
+  },
+  {
+   "id": "vpa_roy_362",
+   "en": "Ha! I can't even call you a rookie yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_364",
+   "en": "Were you okay over there?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_365",
+   "en": "All right! Heading back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_366",
+   "en": "When did you get this good?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_367",
+   "en": "I'm counting on you from now on, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_368",
+   "en": "You're about ready to graduate from rookie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_369",
+   "en": "You've gotten a lot better, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_370",
+   "en": "Damn, you've become dependable before I knew it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_371",
+   "en": "You've turned into a fine woman. I might get serious!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_600",
+   "en": "Hikaru! I'm not losing to you yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_601",
+   "en": "Hmph! You've gotten better!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_602",
+   "en": "Ah ha ha ha! Still a rookie!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_603",
+   "en": "Don't underestimate Skull Leader!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_604",
+   "en": "You've gotten good, rookie. Or should I say, you're not one anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_000",
+   "en": "I, a guide of the wind... why must I do such a thing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_001",
+   "en": "So you're saying calamity is almost upon us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_002",
+   "en": "The wind rises. A terrible wind, carrying the Kadun that brings ruin.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Kadun heard as katakana kadun; spelled per glossary."
+  },
+  {
+   "id": "vpa_sar_100",
+   "en": "God of the wind, please protect that person.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_101",
+   "en": "Protecting you from Kadun is also my duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_102",
+   "en": "I can't let the song of ruin echo through the world.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_106",
+   "en": "To think I'd have to rely on the power of iron pollen.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whisper: tetsu no kafun (iron pollen); Zero lore term, not in glossary, kept literal."
+  },
+  {
+   "id": "vpa_sar_107",
+   "en": "Release your power now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_108",
+   "en": "You should be able to overcome the cursed pollen.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote noroi no katon (fire release); read as noroi no kafun (cursed pollen)."
+  },
+  {
+   "id": "vpa_sar_139",
+   "en": "So you're cursed by Kadun, the bringer of ruin.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote karuun; read as Kadun (Zero's curse), as in the neighbouring clips."
+  },
+  {
+   "id": "vpa_sar_140",
+   "en": "Ah, the iron pollen...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote hanadon (flower bowl); read as kafun (pollen)."
+  },
+  {
+   "id": "vpa_sar_141",
+   "en": "It's because you relied on iron pollen and fire pollen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_142",
+   "en": "AFOS... Bird Human.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whisper: eifosu; AFOS relic and Bird Human, relation unclear."
+  },
+  {
+   "id": "vpa_sar_143",
+   "en": "Another life...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_144",
+   "en": "No... how could you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_148",
+   "en": "So this too is the wind's guidance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_149",
+   "en": "Could it be... a Bird Human?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_150",
+   "en": "You walked into the fighting yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_154",
+   "en": "I only fulfilled my duty as the wind's guide.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_155",
+   "en": "Looks like you overcame the pollen of calamity.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote wazawai no kadan (calamitous flower group); read as kafun (pollen)."
+  },
+  {
+   "id": "vpa_sar_156",
+   "en": "The restless wind has calmed. The wind of ruin seems to have passed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_175",
+   "en": "I offer you the song of the sacred cycle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_176",
+   "en": "May a good wind blow for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_177",
+   "en": "Grant strength to that one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_178",
+   "en": "Yes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_179",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_180",
+   "en": "As the wind guides me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_181",
+   "en": "Like that, the cursed pollen will possess you.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote noroi no kadan; read as kafun (pollen)."
+  },
+  {
+   "id": "vpa_sar_182",
+   "en": "The tune of the wind is dangerous, isn't it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_183",
+   "en": "Kadun seems to have possessed you.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote karuun; read as Kadun."
+  },
+  {
+   "id": "vpa_sar_184",
+   "en": "The wind of ruin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_185",
+   "en": "As I thought, you couldn't beat the pollen of calamity.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote wazawai no kagun; read as kafun (pollen)."
+  },
+  {
+   "id": "vpa_sar_186",
+   "en": "So this is the end of a blood-stained warrior.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_190",
+   "en": "You're always fighting, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_191",
+   "en": "Are you... a Bird Human?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_192",
+   "en": "Shin... you helped me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_194",
+   "en": "The song of ruin...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote uta (poem); probably the song of ruin."
+  },
+  {
+   "id": "vpa_sar_320",
+   "en": "If you're done, leave quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_321",
+   "en": "If you outsiders hadn't brought your tools of war...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote kagu (furniture); read as dogu (tool)."
+  },
+  {
+   "id": "vpa_sar_322",
+   "en": "Shall I put the curse of Kadun on you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_323",
+   "en": "Looks like you escaped Kadun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_324",
+   "en": "Looks like you stopped the song of ruin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_325",
+   "en": "I don't want the Mayan people put in danger.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5365 (vpa_roy_326): Whisper wrote ii renmei; probably ii rendo (training level) or renkei (teamwork).",
+   "row 5404 (vpa_sar_106): Whisper: tetsu no kafun (iron pollen); Zero lore term, not in glossary, kept literal.",
+   "row 5410 (vpa_sar_142): Whisper: eifosu; AFOS relic and Bird Human, relation unclear."
+  ],
+  "whisper_doubt": [
+   "row 5365 (vpa_roy_326): Whisper wrote ii renmei; probably ii rendo (training level) or renkei (teamwork).",
+   "row 5383 (vpa_roy_361): Whisper wrote sebayakasete; probably sawagasete (made a fuss/worried me).",
+   "row 5400 (vpa_sar_002): Kadun heard as katakana kadun; spelled per glossary.",
+   "row 5406 (vpa_sar_108): Whisper wrote noroi no katon (fire release); read as noroi no kafun (cursed pollen).",
+   "row 5407 (vpa_sar_139): Whisper wrote karuun; read as Kadun (Zero's curse), as in the neighbouring clips.",
+   "row 5408 (vpa_sar_140): Whisper wrote hanadon (flower bowl); read as kafun (pollen).",
+   "row 5417 (vpa_sar_155): Whisper wrote wazawai no kadan (calamitous flower group); read as kafun (pollen).",
+   "row 5425 (vpa_sar_181): Whisper wrote noroi no kadan; read as kafun (pollen).",
+   "row 5427 (vpa_sar_183): Whisper wrote karuun; read as Kadun.",
+   "row 5429 (vpa_sar_185): Whisper wrote wazawai no kagun; read as kafun (pollen).",
+   "row 5434 (vpa_sar_194): Whisper wrote uta (poem); probably the song of ruin.",
+   "row 5436 (vpa_sar_321): Whisper wrote kagu (furniture); read as dogu (tool)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

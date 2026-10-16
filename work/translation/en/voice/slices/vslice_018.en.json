@@ -1,0 +1,560 @@
+{
+ "slice": 18,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_938",
+   "en": "Arrival at the target area confirmed. Ending the GERWALK flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_939",
+   "en": "Training time is up. Ending the GERWALK flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_950",
+   "en": "Press the Square and X buttons together to spend three blocks of SP gauge on a powerful special attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_950",
+   "en": "For units with several special weapons, hold L and press Square to switch special weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1000",
+   "en": "Enemy fighters sighted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1000",
+   "en": "Enemy fighters have appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1000",
+   "en": "Enemy fighters showed up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1000",
+   "en": "Enemy fighters up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1000",
+   "en": "Enemy fighters sighted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1001",
+   "en": "Enemy sighted. They're Anti-U.N. Forces aircraft.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a wrong word for 'enemy sighted' (teki-ei kakunin, sound-alike of teki-ei)."
+  },
+  {
+   "id": "vo0_of1_1001",
+   "en": "Enemy sighted. It's an Anti-U.N. Forces aircraft.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a wrong word for 'enemy sighted' (teki-ei sound-alike); Pinon's row has the right one."
+  },
+  {
+   "id": "vo0_of2_1001",
+   "en": "Enemy spotted. Looks like Anti-U.N. Forces aircraft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1001",
+   "en": "Enemy sighted. Anti-U.N. Forces aircraft.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'teki e kakunin', a mishearing of 'enemy sighted' (teki-ei)."
+  },
+  {
+   "id": "vos_mis_1001",
+   "en": "Enemy sighted. Anti-U.N. Forces aircraft.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'tekii kakunin', a mishearing of 'enemy sighted' (teki-ei)."
+  },
+  {
+   "id": "vo0_of0_1002",
+   "en": "They're Anti-U.N. Forces variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1002",
+   "en": "Anti-U.N. Forces variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1002",
+   "en": "Those are Anti-U.N. Forces variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1002",
+   "en": "Anti-U.N. Forces variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1002",
+   "en": "Anti-U.N. Forces variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1003",
+   "en": "Please start mock combat once you enter the exercise area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1003",
+   "en": "Begin mock combat once inside the exercise area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1003",
+   "en": "Start mock combat as you enter the exercise area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1003",
+   "en": "Begin mock combat on entering the exercise area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1003",
+   "en": "Begin mock combat upon entering the exercise area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1004",
+   "en": "A suspected AFOS fragment has been found.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'kakera to boshiki' for 'kakera to oboshiki' (looks like a fragment). Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_of1_1004",
+   "en": "A suspected AFOS fragment has been found.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'kakera toubou-shiki' for 'kakera to oboshiki' (looks like a fragment). Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_of2_1004",
+   "en": "A suspected AFOS fragment has been found!",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Same garble as Claire's row ('toubou-shiki' for 'to oboshiki'). Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_om0_1004",
+   "en": "A suspected AFOS fragment has been found!",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Same garble ('toubou-shiki' for 'to oboshiki'). Eifos is not in the glossary."
+  },
+  {
+   "id": "vos_mis_1004",
+   "en": "An object believed to be an AFOS fragment was found.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_of0_1005",
+   "en": "Please defend the carrier Asuka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1005",
+   "en": "Defend the carrier Asuka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1005",
+   "en": "Defend the carrier Asuka!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1005",
+   "en": "Defend the carrier Asuka.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'kuuba asuka' for 'kuubo Asuka' (the carrier)."
+  },
+  {
+   "id": "vos_mis_1005",
+   "en": "Defend the carrier Asuka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1006",
+   "en": "Please search the target point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1006",
+   "en": "Search the target point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1006",
+   "en": "Search the target point!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1006",
+   "en": "Search the target point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1006",
+   "en": "Search the target point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1007",
+   "en": "An AFOS fragment has been found. Please recover it right away.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_of1_1007",
+   "en": "We've found an AFOS fragment. Recover it immediately.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_of2_1007",
+   "en": "We found the AFOS fragment. Get it recovered right away.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_om0_1007",
+   "en": "AFOS fragment found. Recover it immediately.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is not in the glossary."
+  },
+  {
+   "id": "vos_mis_1007",
+   "en": "AFOS fragment found! Recover it immediately!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_of0_1008",
+   "en": "Operation Iconoclasm has been launched.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1008",
+   "en": "Operation Iconoclasm has been launched.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1008",
+   "en": "Operation Iconoclasm has been launched!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1008",
+   "en": "Operation Iconoclasm has been launched.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1008",
+   "en": "Operation Iconoclasm has been launched.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1009",
+   "en": "Please annihilate AFOS immediately.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_of1_1009",
+   "en": "Annihilate AFOS immediately.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_of2_1009",
+   "en": "Annihilate AFOS right now!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_om0_1009",
+   "en": "Annihilate AFOS immediately!",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript has 'tanachi ni' for 'tadachi ni' (immediately). Eifos is not in the glossary."
+  },
+  {
+   "id": "vos_mis_1009",
+   "en": "Annihilate AFOS immediately!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is not in the glossary."
+  },
+  {
+   "id": "vo0_of0_1010",
+   "en": "Enemy contacts confirmed underwater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1010",
+   "en": "Enemy contacts detected underwater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1010",
+   "en": "Enemy contacts underwater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1010",
+   "en": "Enemy contacts underwater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1010",
+   "en": "Enemy contacts underwater confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1011",
+   "en": "Enemy reinforcements from underwater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1011",
+   "en": "Enemy reinforcements from underwater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1011",
+   "en": "Enemy reinforcements from underwater!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1011",
+   "en": "Enemy reinforcements from underwater!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1011",
+   "en": "Enemy reinforcements from underwater.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'teki no jouen' for 'teki no zouen' (enemy reinforcements)."
+  },
+  {
+   "id": "vo0_of0_1013",
+   "en": "Enemy reinforcements. U.N. Forces variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1013",
+   "en": "Enemy reinforcements. U.N. Forces variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1013",
+   "en": "Enemy reinforcements. U.N. Forces variable fighters!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1013",
+   "en": "Enemy reinforcements. U.N. Forces variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1013",
+   "en": "Enemy reinforcements. U.N. Forces variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1014",
+   "en": "Enemy aircraft confirmed. U.N. Forces craft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1014",
+   "en": "Enemy aircraft confirmed. U.N. Forces craft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1014",
+   "en": "Enemy aircraft confirmed. U.N. Forces craft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1014",
+   "en": "Enemy confirmed. U.N. Forces craft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1014",
+   "en": "Enemy aircraft confirmed. U.N. Forces craft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1015",
+   "en": "Please destroy the Bird Human at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1015",
+   "en": "Destroy the Bird Human at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1015",
+   "en": "Destroy the Bird Human, whatever it takes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1015",
+   "en": "Destroy the Bird Human at all costs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1015",
+   "en": "Destroy the Bird Human at all costs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1016",
+   "en": "Anti-U.N. Forces mobile fleet confirmed.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 1363: transcript has Square+X for 3 blocks of SP gauge, while row 1294 (clip 910) says Triangle+Circle; kept as heard",
+   "rows 1385-1389, 1400-1414: Eifos is my transliteration only; glossary needs a decision on the spelling",
+   "rows 1435-1439 (clip 1015): 'Bird Human' taken from mecha.json; all five transcripts agree on the odd phrase"
+  ],
+  "whisper_doubt": [
+   "row 1370: Transcript has a wrong word for 'enemy sighted' (teki-ei kakunin, sound-alike of teki-ei).",
+   "row 1371: Transcript has a wrong word for 'enemy sighted' (teki-ei sound-alike); Pinon's row has the right one.",
+   "row 1373: Transcript has 'teki e kakunin', a mishearing of 'enemy sighted' (teki-ei).",
+   "row 1374: Transcript has 'tekii kakunin', a mishearing of 'enemy sighted' (teki-ei).",
+   "row 1385: Transcript has 'kakera to boshiki' for 'kakera to oboshiki' (looks like a fragment). Eifos is not in the glossary.",
+   "row 1386: Transcript has 'kakera toubou-shiki' for 'kakera to oboshiki' (looks like a fragment). Eifos is not in the glossary.",
+   "row 1387: Same garble as Claire's row ('toubou-shiki' for 'to oboshiki'). Eifos is not in the glossary.",
+   "row 1388: Same garble ('toubou-shiki' for 'to oboshiki'). Eifos is not in the glossary.",
+   "row 1393: Transcript has 'kuuba asuka' for 'kuubo Asuka' (the carrier).",
+   "row 1413: Transcript has 'tanachi ni' for 'tadachi ni' (immediately). Eifos is not in the glossary.",
+   "row 1424: Transcript has 'teki no jouen' for 'teki no zouen' (enemy reinforcements)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Eifos / Eifos fragment (kept as 'Eifos' transliteration)",
+   "variable fighter (used standard term)"
+  ],
+  "unfinished": []
+ }
+}

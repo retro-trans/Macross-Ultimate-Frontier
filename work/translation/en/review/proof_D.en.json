@@ -1,0 +1,24 @@
+{
+ "fixes": [
+  {
+   "row": 1061,
+   "en": "Rather than live with regret, go for it, even if you're smashed to pieces!",
+   "why": "Misread: the source says 'rather than regret it, go all in and shatter'; the old line ('If you're going to regret it...') reversed the logic."
+  },
+  {
+   "row": 1070,
+   "en": "Mission this, mission that! Is that all you ever think about?!",
+   "why": "Misread: 'is that all you have' means the listener cares about nothing but the mission; 'Is that all you've got?!' reads as a taunt about strength."
+  },
+  {
+   "row": 1114,
+   "en": "Finesse Fighter",
+   "why": "Duplicate title: row 998 (loanword 'technician') is already 'Technician'; this one is the native word for a technique-focused style, so two shop titles showed the same English."
+  },
+  {
+   "row": 1146,
+   "en": "Strongest Groom",
+   "why": "Pair with row 966 'Strongest Bride' (Max/Milia wedding titles, same source wording); the mismatched 'The Mightiest Groom' broke the pairing."
+  }
+ ]
+}

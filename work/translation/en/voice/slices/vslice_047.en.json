@@ -1,0 +1,550 @@
+{
+ "slice": 47,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_3279",
+   "en": "Destroid Phalanx, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3279",
+   "en": "Destroid Phalanx, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3279",
+   "en": "Destroid Phalanx, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3280",
+   "en": "Destroid Tomahawk, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3280",
+   "en": "Destroid Tomahawk, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3280",
+   "en": "Destroid Tomahawk, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_om0_3280",
+   "en": "Destroid Tomahawk, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3280",
+   "en": "Destroid Tomahawk, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3281",
+   "en": "Destroid Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3281",
+   "en": "Destroid Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3281",
+   "en": "Destroid Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3281",
+   "en": "Destroid Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3281",
+   "en": "Destroid Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3282",
+   "en": "Destroid Squad, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3282",
+   "en": "Destroid Squad, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3282",
+   "en": "Destroid Squad, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3282",
+   "en": "Destroid Squad, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3282",
+   "en": "Destroid Squad, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3283",
+   "en": "VF-1 Valkyrie, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3283",
+   "en": "VF-1 Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3283",
+   "en": "VF-1 Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3283",
+   "en": "VF-1 Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3283",
+   "en": "VF-1 Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3284",
+   "en": "SDF-1 Macross, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3284",
+   "en": "SDF-1 Macross, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3284",
+   "en": "SDF-1 Macross, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3284",
+   "en": "SDF-1 Macross, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3284",
+   "en": "SDF-1 Macross, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3285",
+   "en": "VT-1 Super Ostrich, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3285",
+   "en": "VT-1 Super Ostrich, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3285",
+   "en": "VT-1 Super Ostrich, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3285",
+   "en": "VT-1 Super Ostrich, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3285",
+   "en": "VT-1 Super Ostrich, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3286",
+   "en": "VF-4 Lightning III, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3286",
+   "en": "VF-4 Lightning III, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3286",
+   "en": "VF-4 Lightning III, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3286",
+   "en": "VF-4 Lightning III, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3286",
+   "en": "VF-4 Lightning III, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3287",
+   "en": "Regult, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3287",
+   "en": "Regult, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3287",
+   "en": "Regult, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3287",
+   "en": "Regult, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3287",
+   "en": "Regult, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3288",
+   "en": "Glaug, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3288",
+   "en": "Glaug, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3288",
+   "en": "Glaug, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3288",
+   "en": "Glaug, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3288",
+   "en": "Glaug, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3289",
+   "en": "Nousjadeul-Ger, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3289",
+   "en": "Nousjadeul-Ger, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3289",
+   "en": "Nousjadeul-Ger, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_om0_3289",
+   "en": "Nousjadeul-Ger, launch standby.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vos_mis_3289",
+   "en": "Nousjadeul-Ger, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3290",
+   "en": "All squad members, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as 'all squad members' (kaku taiin)."
+  },
+  {
+   "id": "vo0_of1_3290",
+   "en": "All squad members, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as 'all squad members' (kaku taiin)."
+  },
+  {
+   "id": "vo0_of2_3290",
+   "en": "All squad members, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as 'all squad members' (kaku taiin)."
+  },
+  {
+   "id": "vo0_om0_3290",
+   "en": "All squad members, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as 'all squad members' (kaku taiin)."
+  },
+  {
+   "id": "vos_mis_3290",
+   "en": "All squad members, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as 'all squad members' (kaku taiin)."
+  },
+  {
+   "id": "vo0_of0_3291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, stand by to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title kantai shirei rendered as Fleet Commander."
+  },
+  {
+   "id": "vo0_of1_3291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title kantai shirei rendered as Fleet Commander."
+  },
+  {
+   "id": "vo0_of2_3291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, stand by to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title kantai shirei rendered as Fleet Commander."
+  },
+  {
+   "id": "vo0_om0_3291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title kantai shirei rendered as Fleet Commander."
+  },
+  {
+   "id": "vos_mis_3291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title kantai shirei rendered as Fleet Commander."
+  },
+  {
+   "id": "vo0_of0_3292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, stand by to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  },
+  {
+   "id": "vo0_of1_3292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  },
+  {
+   "id": "vo0_of2_3292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  },
+  {
+   "id": "vo0_om0_3292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  },
+  {
+   "id": "vos_mis_3292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, launch standby.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  },
+  {
+   "id": "vo0_of0_3293",
+   "en": "VF-11 Thunderbolt, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3293",
+   "en": "VF-11 Thunderbolt, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3293",
+   "en": "VF-11 Thunderbolt, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3293",
+   "en": "VF-11 Thunderbolt, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3293",
+   "en": "VF-11 Thunderbolt, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3294",
+   "en": "YF-19 Excalibur, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3294",
+   "en": "YF-19 Excalibur, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3294",
+   "en": "YF-19 Excalibur, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3294",
+   "en": "YF-19 Excalibur, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3294",
+   "en": "YF-19 Excalibur, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3295",
+   "en": "YF-21 Sturmvogel, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3295",
+   "en": "YF-21 Sturmvogel, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3734: Read as 'all squad members' (kaku taiin).",
+   "row 3735: Read as 'all squad members' (kaku taiin).",
+   "row 3736: Read as 'all squad members' (kaku taiin).",
+   "row 3737: Read as 'all squad members' (kaku taiin).",
+   "row 3738: Read as 'all squad members' (kaku taiin).",
+   "row 3739: Title kantai shirei rendered as Fleet Commander.",
+   "row 3740: Title kantai shirei rendered as Fleet Commander.",
+   "row 3741: Title kantai shirei rendered as Fleet Commander.",
+   "row 3742: Title kantai shirei rendered as Fleet Commander.",
+   "row 3743: Title kantai shirei rendered as Fleet Commander.",
+   "row 3744: Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet.",
+   "row 3745: Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet.",
+   "row 3746: Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet.",
+   "row 3747: Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet.",
+   "row 3748: Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  ],
+  "whisper_doubt": [
+   "row 3686: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3731: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3732: Unit or item name misheard; read from the other operators' transcripts."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

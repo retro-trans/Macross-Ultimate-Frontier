@@ -1,0 +1,510 @@
+{
+ "slice": 57,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_of0_171",
+   "en": "Please focus on defense!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_171",
+   "en": "Focus on defending!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_171",
+   "en": "You're overextending!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_172",
+   "en": "Now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_172",
+   "en": "Take 'em out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_172",
+   "en": "OK, show 'em your passion!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_172",
+   "en": "Now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_172",
+   "en": "Do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_172",
+   "en": "Show me your cool side!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_173",
+   "en": "Chance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_173",
+   "en": "All right, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_173",
+   "en": "It's showtime! Don't be shy!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ohirome-gari'; probably 'ohirome da' (time to show off)."
+  },
+  {
+   "id": "vp0_of0_173",
+   "en": "Now, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_173",
+   "en": "Now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_173",
+   "en": "Woo-hoo! Nail it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_174",
+   "en": "Go for it now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_174",
+   "en": "Go land a hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_174",
+   "en": "Show me everything you've got!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_174",
+   "en": "Please do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_174",
+   "en": "Give it to 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_174",
+   "en": "I'm trusting you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_175",
+   "en": "It's not over yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_175",
+   "en": "Don't underestimate me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_175",
+   "en": "Here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_175",
+   "en": "I can do this too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_175",
+   "en": "I'm going all out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_175",
+   "en": "Looks like you made me mad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_176",
+   "en": "I refuse to lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_176",
+   "en": "Now the real fight begins!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_176",
+   "en": "Adrenaline at full blast!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_176",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_176",
+   "en": "Don't get cocky!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji (ikigaru); read as ikigaru na, 'don't act tough'."
+  },
+  {
+   "id": "vp0_of2_176",
+   "en": "I'm going all out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_177",
+   "en": "I'll do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_177",
+   "en": "I'll hit 'em hard!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper flagged no speech; text 'ittcho kamasu ze' taken as given."
+  },
+  {
+   "id": "vp0_om2_177",
+   "en": "Time to use my trump card!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_177",
+   "en": "I'll do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_177",
+   "en": "Smartass!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_177",
+   "en": "All right! I'm not holding back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_178",
+   "en": "Never thought of that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_178",
+   "en": "Okay, okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_179",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_179",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_179",
+   "en": "The way you put it gives me chills!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_179",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_179",
+   "en": "Roger that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_179",
+   "en": "Leave it to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_180",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_180",
+   "en": "You got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_180",
+   "en": "Leave it to me! I'm your clown!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_180",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_180",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_180",
+   "en": "Yes, roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_181",
+   "en": "Captain, don't push yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_181",
+   "en": "Boss, are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_181",
+   "en": "Captain! That's not like you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_181",
+   "en": "Captain! Please don't be reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_181",
+   "en": "Backing the captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_181",
+   "en": "You can do it, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_182",
+   "en": "Captain, fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_182",
+   "en": "Boss, fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_182",
+   "en": "Show us what a captain's made of!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_182",
+   "en": "Captain, I'll cover you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_182",
+   "en": "Fall back, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_182",
+   "en": "Hang in there, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_183",
+   "en": "Are you okay, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_183",
+   "en": "Reckless, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_183",
+   "en": "Captain, be cool!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'bi-kuu'; probably 'be cool'."
+  },
+  {
+   "id": "vp0_of0_183",
+   "en": "That's reckless, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_183",
+   "en": "Captain! Hold on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_183",
+   "en": "Captain, quit playing around!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'taisou' (gymnastics); read as 'taichou' (captain)."
+  },
+  {
+   "id": "vp0_om0_184",
+   "en": "I'm too inexperienced...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_184",
+   "en": "The captain's down?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_184",
+   "en": "You were supposed to be our hero, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_184",
+   "en": "N-No, how could this happen?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_184",
+   "en": "The captain is down!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 4492: Heard 'ohirome-gari'; probably 'ohirome da' (time to show off).",
+   "row 4512: Wrong kanji (ikigaru); read as ikigaru na, 'don't act tough'.",
+   "row 4515: Whisper flagged no speech; text 'ittcho kamasu ze' taken as given.",
+   "row 4552: Heard 'bi-kuu'; probably 'be cool'.",
+   "row 4555: Heard 'taisou' (gymnastics); read as 'taichou' (captain)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

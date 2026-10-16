@@ -1,0 +1,519 @@
+{
+ "slice": 133,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_mcl_105",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_106",
+   "en": "I'm betting everything on this shot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_107",
+   "en": "I'll finish you off now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_108",
+   "en": "I won't miss!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_109",
+   "en": "You're not getting away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_110",
+   "en": "You're half-baked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_111",
+   "en": "You're too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_112",
+   "en": "Bingo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_113",
+   "en": "Naturally, that's the result.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_114",
+   "en": "Huh? That's it already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_115",
+   "en": "Is that the target? Sniping it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_116",
+   "en": "Target spotted. Taking it out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_117",
+   "en": "Don't think you can escape my eyes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_118",
+   "en": "Just did what's only natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_119",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_120",
+   "en": "Gotta handle this much easily.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_121",
+   "en": "Didn't expect the shield to get destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_122",
+   "en": "The shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_123",
+   "en": "If it's only the shield, no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_124",
+   "en": "Shut up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_125",
+   "en": "You're paying for these scratches.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_126",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt"
+  },
+  {
+   "id": "vpf_mcl_127",
+   "en": "The real show's just starting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_128",
+   "en": "You're giving me a scare.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_129",
+   "en": "I can still do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_130",
+   "en": "Like hell I'll let you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_131",
+   "en": "What the hell are you doing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_132",
+   "en": "No more, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_133",
+   "en": "You damn bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_134",
+   "en": "This might be what they call a pinch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_135",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_136",
+   "en": "Just wasn't lucky, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_137",
+   "en": "Sis, is this as far as I go?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Neesan: Michel calls Klan sis; clip is a farewell when shot down"
+  },
+  {
+   "id": "vpf_mcl_138",
+   "en": "Sorry, Klan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_139",
+   "en": "Damn it, that idiot!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kuzzaku; read as kuso"
+  },
+  {
+   "id": "vpf_mcl_140",
+   "en": "You've got one on your tail!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_141",
+   "en": "Geez, being so reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_142",
+   "en": "You idiot! Get back here, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_143",
+   "en": "Eject, quick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_144",
+   "en": "Why?! Why does it end like this?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_148",
+   "en": "Thanks for the reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_149",
+   "en": "Maybe this makes things a little easier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_150",
+   "en": "Friendlies! Nice save!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_151",
+   "en": "Seriously, read the room.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_152",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_153",
+   "en": "No way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_154",
+   "en": "Mission over. Returning at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_155",
+   "en": "Looks like I'll make it in time for my date.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_156",
+   "en": "Told you, didn't I? One shot, one hit, whether it's women or bullets.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_157",
+   "en": "Time's up. That's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_158",
+   "en": "Never thought we'd run out of time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_159",
+   "en": "Out of time already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_160",
+   "en": "Damn, failing the mission. Pulling out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_161",
+   "en": "No point continuing. Pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_162",
+   "en": "I missed? Must be a bad day.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard yakumi (condiment); read as yakubi (unlucky day)"
+  },
+  {
+   "id": "vpf_mcl_163",
+   "en": "I'll leave the covering fire to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_164",
+   "en": "I'm charging in! Cover me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_165",
+   "en": "Show me some shooting at my level!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_166",
+   "en": "My sniping's got you covered. Charge in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_167",
+   "en": "Go melee!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_168",
+   "en": "Make sure you take it to close range!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_169",
+   "en": "Geez, you stay back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_170",
+   "en": "You stay on defense!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_171",
+   "en": "Leave this to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_172",
+   "en": "Now's your chance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_173",
+   "en": "I'll land a good one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_174",
+   "en": "Leave some glory for me too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_175",
+   "en": "I'm risking my life here too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_176",
+   "en": "I'm taking that one down for sure!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_177",
+   "en": "Don't make me get serious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_179",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_180",
+   "en": "Okay!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard ohayou (good morning); read as an acknowledgement such as ou"
+  },
+  {
+   "id": "vpf_mcl_181",
+   "en": "Backing up the captain!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard taichou no engo ni mo aru; read as engo ni mukau"
+  },
+  {
+   "id": "vpf_mcl_182",
+   "en": "Fall back, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_183",
+   "en": "Captain! Please!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Onegai itashimasu; sibling clips warn the captain, but wording is a plea"
+  },
+  {
+   "id": "vpf_mcl_184",
+   "en": "The captain's been shot down?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_185",
+   "en": "I never thought the captain would go down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_186",
+   "en": "Damn! The captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_187",
+   "en": "It really gets you. Time to pull back.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hibiku na (it resonates), a song line; hiku ka (pull back?)"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 10593: Neesan: Michel calls Klan sis; clip is a farewell when shot down",
+   "row 10636: Onegai itashimasu; sibling clips warn the captain, but wording is a plea",
+   "row 10640: Hibiku na (it resonates), a song line; hiku ka (pull back?)"
+  ],
+  "whisper_doubt": [
+   "row 10595: Heard kuzzaku; read as kuso",
+   "row 10615: Heard yakumi (condiment); read as yakubi (unlucky day)",
+   "row 10633: Heard ohayou (good morning); read as an acknowledgement such as ou",
+   "row 10634: Heard taichou no engo ni mo aru; read as engo ni mukau"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,534 @@
+{
+ "slice": 67,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpa_roy_121",
+   "en": "What?! The shield's gone?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_122",
+   "en": "Ah! The shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_123",
+   "en": "A mere shield...",
+   "flags": [
+    "whisper_doubt",
+    "unfinished"
+   ],
+   "notes": "Whisper gave a fragment (shield nado o); trails off, probably 'don't think a shield is enough'."
+  },
+  {
+   "id": "vpa_roy_124",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (nn?), whisper logprob."
+  },
+  {
+   "id": "vpa_roy_125",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_126",
+   "en": "Whoa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_127",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpa_roy_128",
+   "en": "Ow! Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_129",
+   "en": "Whoa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_130",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groan, whisper nospeech warning."
+  },
+  {
+   "id": "vpa_roy_131",
+   "en": "I can still go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_132",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a nonsense katakana string (ajinamaneo); unintelligible."
+  },
+  {
+   "id": "vpa_roy_133",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Battle cry (ei), whisper logprob warning."
+  },
+  {
+   "id": "vpa_roy_134",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_135",
+   "en": "This is bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_136",
+   "en": "Ugh! I screwed up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_138",
+   "en": "Guess I've lost my touch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_139",
+   "en": "That idiot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_140",
+   "en": "Can you still fight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_141",
+   "en": "You okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_142",
+   "en": "Eject, quick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_143",
+   "en": "Answer me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_144",
+   "en": "Damn it all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_148",
+   "en": "Oh, reinforcements! Nice timing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_149",
+   "en": "Reinforcements, huh? Now what's it gonna be?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Unclear whether the 'what now' is aimed at the enemy or the team; kept open."
+  },
+  {
+   "id": "vpa_roy_150",
+   "en": "There you are, you rookies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_151",
+   "en": "Tch! These guys are good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_152",
+   "en": "Damn you! You got me good!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote yarou; read as yaro (bastard)."
+  },
+  {
+   "id": "vpa_roy_153",
+   "en": "Did you get hit?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_154",
+   "en": "All right, we're heading back now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_155",
+   "en": "All right, operation over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_156",
+   "en": "Well, that's that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_157",
+   "en": "That's it for the operation. All units, return.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_158",
+   "en": "Can't do any more than this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_159",
+   "en": "Didn't make it in time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_160",
+   "en": "How could this be!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_161",
+   "en": "I, of all people...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_162",
+   "en": "Just not enough strength, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_163",
+   "en": "Back me up!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote engun shiro (reinforce); read as engo shiro (cover me)."
+  },
+  {
+   "id": "vpa_roy_164",
+   "en": "Get out in front!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_165",
+   "en": "Switch to mostly shooting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_166",
+   "en": "Charge! Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_167",
+   "en": "Dive in close!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_168",
+   "en": "Melee! Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_169",
+   "en": "You fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_170",
+   "en": "Leave this to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_171",
+   "en": "Don't overextend!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_172",
+   "en": "Give it a shot, at least!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_173",
+   "en": "Blow 'em away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_174",
+   "en": "Go all out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_175",
+   "en": "I'll show you my ace in the hole!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_176",
+   "en": "We're just getting started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_177",
+   "en": "Don't underestimate me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_179",
+   "en": "Got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_181",
+   "en": "Don't push yourself too hard, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_182",
+   "en": "Captain, you're sluggish today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_183",
+   "en": "It's getting dangerous, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_185",
+   "en": "You rookie!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_186",
+   "en": "Going down before me...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off: ahead of me (you go down)."
+  },
+  {
+   "id": "vpa_roy_187",
+   "en": "Not in the mood to fight! Let's pull back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_188",
+   "en": "That's a pretty nice song. Withdrawing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_189",
+   "en": "Hearing this, I've got no choice but to pull back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_190",
+   "en": "That's some skill!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_191",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_192",
+   "en": "Nice one, Shin.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote 'shinu' (to die); read as Shin (his partner in Zero), as other pilots name their partner in clip 192."
+  },
+  {
+   "id": "vpa_roy_300",
+   "en": "Ugh, I don't do babysitting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_301",
+   "en": "What're you doing, flapping around like that? Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_302",
+   "en": "Quit buzzing around! Don't get in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_303",
+   "en": "Focus on the operation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_304",
+   "en": "Think you can stick to my tail, rookie?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_305",
+   "en": "Let's wrap this up quick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_306",
+   "en": "Stick close behind me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_307",
+   "en": "Let's see what you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_308",
+   "en": "Show me what a rookie's made of.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_309",
+   "en": "I'm the one saying you've got the skill! You can do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_310",
+   "en": "Make sure you survive! You can't get any girls if you're dead!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote onna mo dakenai; read as onna mo dakenai (can't hold women) -> got girls."
+  },
+  {
+   "id": "vpa_roy_311",
+   "en": "An operation like this is a piece of cake. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_320",
+   "en": "Hey, don't get cocky over one successful mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_roy_321",
+   "en": "What? You call yourself a man?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5305 (vpa_roy_149): Unclear whether the 'what now' is aimed at the enemy or the team; kept open.",
+   "row 5346 (vpa_roy_192): Whisper wrote 'shinu' (to die); read as Shin (his partner in Zero), as other pilots name their partner in clip 192."
+  ],
+  "whisper_doubt": [
+   "row 5283 (vpa_roy_123): Whisper gave a fragment (shield nado o); trails off, probably 'don't think a shield is enough'.",
+   "row 5292 (vpa_roy_132): Whisper wrote a nonsense katakana string (ajinamaneo); unintelligible.",
+   "row 5308 (vpa_roy_152): Whisper wrote yarou; read as yaro (bastard).",
+   "row 5319 (vpa_roy_163): Whisper wrote engun shiro (reinforce); read as engo shiro (cover me).",
+   "row 5346 (vpa_roy_192): Whisper wrote 'shinu' (to die); read as Shin (his partner in Zero), as other pilots name their partner in clip 192.",
+   "row 5357 (vpa_roy_310): Whisper wrote onna mo dakenai; read as onna mo dakenai (can't hold women) -> got girls."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 5283 (vpa_roy_123): Whisper gave a fragment (shield nado o); trails off, probably 'don't think a shield is enough'.",
+   "row 5340 (vpa_roy_186): Trails off: ahead of me (you go down)."
+  ]
+ }
+}

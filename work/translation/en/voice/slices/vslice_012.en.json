@@ -1,0 +1,506 @@
+{
+ "slice": 12,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_368",
+   "en": "I'm glad you're safe. I shouldn't have worried.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_368",
+   "en": "Women are strong, I guess. I'll learn from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_368",
+   "en": "Good work. I'm just glad you made it back safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_368",
+   "en": "Did you like my support?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_368",
+   "en": "I'd like the same again on the next sortie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_369",
+   "en": "Now then, a victory party, just us girls!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_369",
+   "en": "You really are spirited. I envy you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_369",
+   "en": "Your flying was so brilliant I was spellbound. Wonderful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_369",
+   "en": "Heh, no need to worry after all. Bad habit of mine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_369",
+   "en": "Impressive, as expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_370",
+   "en": "Your flying was brilliant, as always.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_370",
+   "en": "You always make me worry so much. I'll never forgive you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_370",
+   "en": "N-no, um, I'm just glad you're safe.",
+   "flags": [],
+   "notes": "Stammering is in the original."
+  },
+  {
+   "id": "vo0_om0_370",
+   "en": "It's you, after all. I believed you'd come back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_370",
+   "en": "It's over. Shall we have a little party later?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_371",
+   "en": "With your skill and my support, there's nothing to fear, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_371",
+   "en": "Of course you succeeded. I'm the one who approved you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_371",
+   "en": "I want to be like you. I-I think so, anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_371",
+   "en": "How about a meal after this? What do you say?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_371",
+   "en": "I'm relieved you're safe. Thank goodness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_400",
+   "en": "Mission time is limited. Please carry out the mission promptly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_400",
+   "en": "Mission time is limited. Carry out the mission promptly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_400",
+   "en": "This mission has a time limit. Get it done fast.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_400",
+   "en": "Mission time is limited. Carry out the mission promptly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_400",
+   "en": "Mission time is limited. Carry out the mission promptly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_401",
+   "en": "Please finish the mission early.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard sakusei (create) for sakusen (mission)."
+  },
+  {
+   "id": "vo0_of1_401",
+   "en": "Finish the mission early.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_401",
+   "en": "Hurry up and end the mission.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript says 'sonomama sakusen wo owarasete shimae' (just finish it as it is); read as the same urge to finish early as the other four."
+  },
+  {
+   "id": "vo0_om0_401",
+   "en": "Finish the mission early, will you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_401",
+   "en": "Finish the mission early.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_402",
+   "en": "There's plenty of time left for the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_402",
+   "en": "There's plenty of time left for the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_402",
+   "en": "There's still time to spare for the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_402",
+   "en": "There's plenty of time left for the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_402",
+   "en": "There's plenty of time left for the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_403",
+   "en": "Half the mission time has elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_403",
+   "en": "Half the mission time has elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_403",
+   "en": "Half the mission time is gone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_403",
+   "en": "Half the mission time has elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_403",
+   "en": "Half the mission time has elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_404",
+   "en": "Time is getting short.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_404",
+   "en": "Not much time left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_404",
+   "en": "There's not much time left now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_404",
+   "en": "Time is running short!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_404",
+   "en": "Time is short.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_405",
+   "en": "Only a little time left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_405",
+   "en": "Only a little time left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_405",
+   "en": "Only a little time left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_405",
+   "en": "Only a little time left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_405",
+   "en": "Only a little time left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_406",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_406",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_406",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_406",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_406",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_407",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_407",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_407",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_407",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_407",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_408",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_408",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_408",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_408",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_408",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_409",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_409",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_409",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_409",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_409",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_410",
+   "en": "10 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_410",
+   "en": "10 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_410",
+   "en": "10 seconds left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_410",
+   "en": "10 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_410",
+   "en": "10 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_411",
+   "en": "5 seconds",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript is the word for five seconds in kana; kept as a countdown."
+  },
+  {
+   "id": "vo0_of1_411",
+   "en": "5 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_411",
+   "en": "5 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_411",
+   "en": "5 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_411",
+   "en": "5 secs",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 908 vo0_of2_401: transcript differs in wording from the other four; read as the same 'finish early' line",
+   "rows 886,882,887: Yuu/Claire refer to the pilot as a woman (female-pilot variants); kept literal"
+  ],
+  "whisper_doubt": [
+   "row 906",
+   "row 956"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

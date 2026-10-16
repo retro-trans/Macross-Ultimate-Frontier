@@ -1,0 +1,1984 @@
+{
+ "slice": 1,
+ "rows_in_slice": 320,
+ "rows_examined": 320,
+ "rows": [
+  {
+   "id": "u0001",
+   "en": "Save the data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0002",
+   "en": "Saving...\nDo not remove the Memory Stick⑳\nor turn off the power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0003",
+   "en": "Transferring save data...\nDo not remove the Memory Stick⑳\nor turn off the power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0004",
+   "en": "Loading...\nDo not remove the Memory Stick⑳\nor turn off the power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0005",
+   "en": "Delete the save data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0006",
+   "en": "Shin Kudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0007",
+   "en": "Roy Focker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0008",
+   "en": "Sara Nome",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0009",
+   "en": "Nora Polyansky",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0010",
+   "en": "D.D. Ivanov",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0011",
+   "en": "Hikaru Ichijyo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0012",
+   "en": "Maximilian Jenius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0013",
+   "en": "Milia Fallyna",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source is the unmarried form; used 'Milia Fallyna' (u0031 is the married form)."
+  },
+  {
+   "id": "u0014",
+   "en": "Hayao Kakizaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0015",
+   "en": "Misa Hayase",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0016",
+   "en": "Lynn Minmay",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0017",
+   "en": "Quamzin Kravshera",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0018",
+   "en": "Zentradi Soldier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0019",
+   "en": "Vrlitwhai Kridanik",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0020",
+   "en": "Vrlitwhai 7018",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0021",
+   "en": "Boddole Zer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0022",
+   "en": "Golg Boddole Zer",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary status for this name is needs_check."
+  },
+  {
+   "id": "u0023",
+   "en": "Isamu Alva Dyson",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source writes the short form without the middle name; used glossary en 'Isamu Alva Dyson' per brief. Alternative: 'Isamu Dyson'."
+  },
+  {
+   "id": "u0024",
+   "en": "Yang Neumann",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0025",
+   "en": "Guld Goa Bowman",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0026",
+   "en": "Myung Fang Lone",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0027",
+   "en": "Sharon Apple",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0028",
+   "en": "Basara Nekki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0029",
+   "en": "Mylene Flare Jenius",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source omits 'Flare'; used glossary en 'Mylene Flare Jenius' per brief."
+  },
+  {
+   "id": "u0030",
+   "en": "Gamlin Kizaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0031",
+   "en": "Milia Fallyna Jenius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0032",
+   "en": "Ray Lovelock",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0033",
+   "en": "Veffidas Feaze",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0034",
+   "en": "Miho Miho",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0035",
+   "en": "Docker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0036",
+   "en": "Kinryu",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0037",
+   "en": "Gigile",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0038",
+   "en": "Gavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0039",
+   "en": "Gepelnitchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0040",
+   "en": "Sivil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0041",
+   "en": "Graham Hoilie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0042",
+   "en": "Liza Hoilie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0043",
+   "en": "Elma Hoilie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0044",
+   "en": "Alto Saotome",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0045",
+   "en": "Michael Blanc",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0046",
+   "en": "Luca Angeloni",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0047",
+   "en": "Ozma Lee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0048",
+   "en": "Klan Klang",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0049",
+   "en": "Klan Klang (Micronian)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0050",
+   "en": "Jeffrey Wilder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0051",
+   "en": "Ranka Lee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0052",
+   "en": "Sheryl Nome",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0053",
+   "en": "Bobby Margot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0054",
+   "en": "Brera Sterne",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0055",
+   "en": "Vajra (S)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0056",
+   "en": "Vajra (L)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0057",
+   "en": "Grace O'Connor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0058",
+   "en": "Hibiki Kanzaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0059",
+   "en": "Silvie Gena",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0060",
+   "en": "Ishtar",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0061",
+   "en": "Yuuto Kagura",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0062",
+   "en": "Gary Murdoch",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0063",
+   "en": "Luis Fernando",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0064",
+   "en": "Miyuki Shirakawa",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0065",
+   "en": "Hilda V. Bergen",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0066",
+   "en": "Yui Hoshimura",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0067",
+   "en": "Aegis Focker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0068",
+   "en": "Gilliam Angreat",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0069",
+   "en": "Rookie Soldier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0070",
+   "en": "Grunt: Shot 0 Melee 0",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0071",
+   "en": "Grunt: Shot 0 Melee 1 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0072",
+   "en": "Grunt: Shot 0 Melee 2 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0073",
+   "en": "Grunt: Shot 0 Melee 3 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0074",
+   "en": "Grunt: Shot 1 Melee 0 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0075",
+   "en": "Grunt: Shot 1 Melee 1 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0076",
+   "en": "Grunt: Shot 1 Melee 2 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0077",
+   "en": "Grunt: Shot 1 Melee 3 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0078",
+   "en": "Grunt: Shot 2 Melee 0 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0079",
+   "en": "Grunt: Shot 2 Melee 1 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0080",
+   "en": "Grunt: Shot 2 Melee 2 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0081",
+   "en": "Grunt: Shot 2 Melee 3 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0082",
+   "en": "Grunt: Shot 3 Melee 0 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0083",
+   "en": "Grunt: Shot 3 Melee 1 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0084",
+   "en": "Grunt: Shot 3 Melee 2 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0085",
+   "en": "Grunt: Shot 3 Melee 3 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0086",
+   "en": "Grunt: Shot 0 Melee 1 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0087",
+   "en": "Grunt: Shot 0 Melee 2 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0088",
+   "en": "Grunt: Shot 0 Melee 3 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0089",
+   "en": "Grunt: Shot 1 Melee 0 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0090",
+   "en": "Grunt: Shot 1 Melee 1 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0091",
+   "en": "Grunt: Shot 1 Melee 2 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0092",
+   "en": "Grunt: Shot 1 Melee 3 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0093",
+   "en": "Grunt: Shot 2 Melee 0 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0094",
+   "en": "Grunt: Shot 2 Melee 1 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0095",
+   "en": "Grunt: Shot 2 Melee 2 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0096",
+   "en": "Grunt: Shot 2 Melee 3 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0097",
+   "en": "Grunt: Shot 3 Melee 0 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0098",
+   "en": "Grunt: Shot 3 Melee 1 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0099",
+   "en": "Grunt: Shot 3 Melee 2 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0100",
+   "en": "Grunt: Shot 3 Melee 3 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0101",
+   "en": "Grunt: Shot 0 Melee 1 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0102",
+   "en": "Grunt: Shot 0 Melee 2 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0103",
+   "en": "Grunt: Shot 0 Melee 3 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0104",
+   "en": "Grunt: Shot 1 Melee 0 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0105",
+   "en": "Grunt: Shot 1 Melee 1 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0106",
+   "en": "Grunt: Shot 1 Melee 2 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0107",
+   "en": "Grunt: Shot 1 Melee 3 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0108",
+   "en": "Grunt: Shot 2 Melee 0 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0109",
+   "en": "Grunt: Shot 2 Melee 1 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0110",
+   "en": "Grunt: Shot 2 Melee 2 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0111",
+   "en": "Grunt: Shot 2 Melee 3 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0112",
+   "en": "Grunt: Shot 3 Melee 0 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0113",
+   "en": "Grunt: Shot 3 Melee 1 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0114",
+   "en": "Grunt: Shot 3 Melee 2 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0115",
+   "en": "Grunt: Shot 3 Melee 3 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0116",
+   "en": "Cheer (Skill)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pilot-table dummy entries used by skills (u0116-u0124); '(Skill)' renders the source's 'for skill use' tag."
+  },
+  {
+   "id": "u0117",
+   "en": "Pineapple Cake (Skill)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Matches the player title 'Pineapple Cake' in the dialogue translation."
+  },
+  {
+   "id": "u0118",
+   "en": "Awakening (Skill)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0119",
+   "en": "Destroyer (Skill)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0120",
+   "en": "Sniper (Skill)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0121",
+   "en": "Veteran Soldier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0122",
+   "en": "Expert Marksman",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0123",
+   "en": "Melee Expert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0124",
+   "en": "Ace & Sniper (Skill)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0125",
+   "en": "Iron Wall Defender",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'iron-wall person'; rendered gender-neutral, echoing the skill name 'Iron Wall'."
+  },
+  {
+   "id": "u0126",
+   "en": "Flawless",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0127",
+   "en": "Ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0128",
+   "en": "Load the data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0129",
+   "en": "Macross Ultimate Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0130",
+   "en": "Of Sea and Wind",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Macross Zero era mission name; no confirmed official English. Same for u0136, u0140, u0144, u0149, u0156."
+  },
+  {
+   "id": "u0131",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0132",
+   "en": "Keep Partner Alive",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0133",
+   "en": "Keep Ally Units Alive",
+   "flags": [],
+   "notes": "review: refit: 'Allied' -> 'Ally'"
+  },
+  {
+   "id": "u0134",
+   "en": "Defeat Ace Fast",
+   "flags": [],
+   "notes": "review: refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0135",
+   "en": "Mock Combat Training",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0136",
+   "en": "Stars on the Ground",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0137",
+   "en": "Defeat Enemy Ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0138",
+   "en": "Ace of the U.N. Forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0139",
+   "en": "Mao's Treasure",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0140",
+   "en": "Deadly Duel in Blue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0141",
+   "en": "Annihilate all enemies / Protect the target",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Two objectives joined by a space in the source; joined with ' / ' (same as slice 2, u0382). Width not checked. | review: refit: 'defense target' -> 'target'"
+  },
+  {
+   "id": "u0142",
+   "en": "Defend Successfully",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Bonus conditions in this slice use imperative Title Case to match slice 2 ('Defeat Enemy Ace Fast'): X-seizon = 'Keep X Alive', tanjikan = 'Fast'."
+  },
+  {
+   "id": "u0143",
+   "en": "Stop Ace's Escape",
+   "flags": [],
+   "notes": "review: refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0144",
+   "en": "Jungle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0145",
+   "en": "Find and recover the AFOS fragment",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0146",
+   "en": "Recover the AFOS fragment",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0147",
+   "en": "Carry the AFOS fragment to the destination",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0148",
+   "en": "Annihilate Enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0149",
+   "en": "The One Who Steals the Stars",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0150",
+   "en": "Bird Human",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0151",
+   "en": "Destroy the AFOS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0152",
+   "en": "Repel Ivanov Fast",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0153",
+   "en": "Repel Nora Fast",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0154",
+   "en": "Repel Bird Human Fast",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0155",
+   "en": "AFOS Seizure Operation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0156",
+   "en": "Song of Destruction",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0157",
+   "en": "Booby Trap",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0158",
+   "en": "Countdown",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0159",
+   "en": "Transformation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0160",
+   "en": "Protect the defense target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0161",
+   "en": "Survive for the set time",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0162",
+   "en": "Skull Leader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0163",
+   "en": "Daedalus Attack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0164",
+   "en": "Bye-Bye Mars",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0165",
+   "en": "Recover the containers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0166",
+   "en": "Rescue Lt. Hayase",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0167",
+   "en": "Recover Containers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0168",
+   "en": "Keep Destroids Safe",
+   "flags": [],
+   "notes": "review: refit: 'Destroid Squad Alive' -> 'Destroids Safe'"
+  },
+  {
+   "id": "u0169",
+   "en": "Miss Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0170",
+   "en": "Destroy the enemy ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0171",
+   "en": "Blind Game",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0172",
+   "en": "Attack the enemy flagship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0173",
+   "en": "Big Escape",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0174",
+   "en": "Reach the target point",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0175",
+   "en": "Blue Wind",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0176",
+   "en": "Kung Fu Dandy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0177",
+   "en": "Defeat Queadluun",
+   "flags": [],
+   "notes": "review: refit: source says only the base name, no '-Rau'"
+  },
+  {
+   "id": "u0178",
+   "en": "Pineapple Salad",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0179",
+   "en": "Flag Crusher",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0180",
+   "en": "Burst Point",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0181",
+   "en": "Goodbye Girl",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0182",
+   "en": "Battroid Attack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0183",
+   "en": "Clear Battroid Attack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0184",
+   "en": "Clear Level S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0185",
+   "en": "Virgin Road",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0186",
+   "en": "Spare Enemy Squad",
+   "flags": [],
+   "notes": "review: refit: 'Keep ... Members Alive' -> 'Spare'"
+  },
+  {
+   "id": "u0187",
+   "en": "Spare Enemy Leader",
+   "flags": [],
+   "notes": "review: refit: 'Keep Enemy Squad Leader Alive' -> 'Spare Enemy Leader'"
+  },
+  {
+   "id": "u0188",
+   "en": "Love Drifts Away",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0189",
+   "en": "My Album",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0190",
+   "en": "Viva Maria",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0191",
+   "en": "Move to the target point",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0192",
+   "en": "Satan Doll",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0193",
+   "en": "Keep Allies Alive",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0194",
+   "en": "Broken Heart",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0195",
+   "en": "Rescue Hostages",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0196",
+   "en": "Romanesque",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0197",
+   "en": "Defend Factory",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0198",
+   "en": "Defend the Engine",
+   "flags": [],
+   "notes": "review: refit: 'Reaction Engine' -> 'the Engine'"
+  },
+  {
+   "id": "u0199",
+   "en": "Farewell to Tenderness",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "SDF Macross episode 36 title; official English rendering not confirmed."
+  },
+  {
+   "id": "u0200",
+   "en": "Combat Commander",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0201",
+   "en": "Vermillion Flight",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source is katakana 'Vermillion Platoon'; used glossary name 'Vermillion Flight'. u0292 'Skull Squadron' and u0310 'Sagittarius Squadron' likewise ('Skull Platoon' is on the avoid list)."
+  },
+  {
+   "id": "u0202",
+   "en": "Versus Micronians",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0203",
+   "en": "Arrow of Fate",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0204",
+   "en": "Assault",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0205",
+   "en": "Catch the civilians",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0206",
+   "en": "Catch Successfully",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0207",
+   "en": "Warera, Loli, Conda",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Bonus condition consisting only of the three Zentradi spies' names (probably: catch all three). Rendered as the names only. | review: refit: '&' -> comma"
+  },
+  {
+   "id": "u0208",
+   "en": "Minmay Date",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0209",
+   "en": "Capture the VT-1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0210",
+   "en": "Capture Success",
+   "flags": [],
+   "notes": "review: refit: 'Capture Successfully' -> 'Capture Success'"
+  },
+  {
+   "id": "u0211",
+   "en": "Focker Forever",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0212",
+   "en": "Reach the target point",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0213",
+   "en": "Max the Genius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0214",
+   "en": "Milia Attacks",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0215",
+   "en": "Shoot down the enemy ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0216",
+   "en": "Do You Remember Love?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0217",
+   "en": "Destroy the attack target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0218",
+   "en": "Beat All Reinf. (1st)",
+   "flags": [],
+   "notes": "review: refit: abbreviated Reinforcements/Half; Defeat -> Beat"
+  },
+  {
+   "id": "u0219",
+   "en": "Beat All Reinf. (2nd)",
+   "flags": [],
+   "notes": "review: refit: abbreviated Reinforcements/Half; Defeat -> Beat"
+  },
+  {
+   "id": "u0220",
+   "en": "U.N. Forces Routine Training",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0221",
+   "en": "Deep Space",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0222",
+   "en": "Project Super Nova",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0223",
+   "en": "Hurry Hurry Hurry",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0224",
+   "en": "Reach as many points as possible",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0225",
+   "en": "In the Base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0226",
+   "en": "Destroy targets and reach the target point",
+   "flags": [],
+   "notes": "review: refit: 'the targets' -> 'targets'"
+  },
+  {
+   "id": "u0227",
+   "en": "Half Special Targets",
+   "flags": [],
+   "notes": "review: refit: dropped verb 'Destroy' (no abbreviation fits with it)"
+  },
+  {
+   "id": "u0228",
+   "en": "Destroy All Sp. Tgts",
+   "flags": [],
+   "notes": "review: refit: abbreviated Special Targets"
+  },
+  {
+   "id": "u0229",
+   "en": "Battle Arena",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0230",
+   "en": "Destroy as many enemies as possible",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0231",
+   "en": "Burning Canyon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0232",
+   "en": "Defeat All Reinf.",
+   "flags": [],
+   "notes": "review: refit: abbreviated Reinforcements, dropped 'Enemy'"
+  },
+  {
+   "id": "u0233",
+   "en": "In the Sky",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0234",
+   "en": "Destroy the bombers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0235",
+   "en": "In the Blue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0236",
+   "en": "Destroy the carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0237",
+   "en": "Destroy the Base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0238",
+   "en": "Destroy the base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0239",
+   "en": "Eden or Hell",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0240",
+   "en": "Destroy the enemy units",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0241",
+   "en": "Defeat 2 Aces",
+   "flags": [],
+   "notes": "review: refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0242",
+   "en": "Dogfight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0243",
+   "en": "Voice of an Angel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0244",
+   "en": "Sharon's Phantom",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0245",
+   "en": "Speaker Pod",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0246",
+   "en": "Keep Guest Alive",
+   "flags": [],
+   "notes": "review: refit: dropped 'Unit'"
+  },
+  {
+   "id": "u0247",
+   "en": "Battle Etude",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Accented 'Etude' spelling not allowed in Shift-JIS; plain 'Etude'."
+  },
+  {
+   "id": "u0248",
+   "en": "Spiritia Farm",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0249",
+   "en": "Collect containers / Annihilate all enemies",
+   "flags": [],
+   "notes": "review: refit: 'Recover the containers' -> 'Collect containers'"
+  },
+  {
+   "id": "u0250",
+   "en": "Fold Out",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0251",
+   "en": "Defend the device / Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0252",
+   "en": "A Maiden's Jealousy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0253",
+   "en": "The Falling Little Devil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0254",
+   "en": "Repel Protodeviln",
+   "flags": [],
+   "notes": "review: refit: dropped 'the'"
+  },
+  {
+   "id": "u0255",
+   "en": "Men of Burning Flame",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0256",
+   "en": "Defeat Flagship Fast",
+   "flags": [],
+   "notes": "review: refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0257",
+   "en": "Death Struggle on Planet Lux",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0258",
+   "en": "Sink Enemy Flagship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0259",
+   "en": "Rainbow Song Energy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0260",
+   "en": "Annihilate all enemies / Outlast the timer",
+   "flags": [],
+   "notes": "review: refit: 'Survive for the set time' -> 'Outlast the timer'"
+  },
+  {
+   "id": "u0261",
+   "en": "Betrayal and a Girl's Tears",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0262",
+   "en": "Feelings Beyond the Stars",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0263",
+   "en": "Tuning Fight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0264",
+   "en": "Nightmare Assault Operation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0265",
+   "en": "Gamlin's Rebellion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0266",
+   "en": "A Song Echoing Across the Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0267",
+   "en": "Defeat the Protodeviln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0268",
+   "en": "The Strongest Women's Fleet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0269",
+   "en": "Spiritia Samples",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0270",
+   "en": "As Your Excellency Wishes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0271",
+   "en": "The Devils' Sabotage Operation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0272",
+   "en": "My Name Is Gepelnitchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0273",
+   "en": "Defend Gepelnitchi",
+   "flags": [],
+   "notes": "review: refit: dropped honorific 'Lord'"
+  },
+  {
+   "id": "u0274",
+   "en": "Adrift",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0275",
+   "en": "Defend the whales / Annihilate all enemies",
+   "flags": [],
+   "notes": "review: refit: 'Galaxy Whales' -> 'whales'"
+  },
+  {
+   "id": "u0276",
+   "en": "End Whale Poaching",
+   "flags": [],
+   "notes": "review: refit: 'Stop Galaxy Whale' -> 'End Whale'"
+  },
+  {
+   "id": "u0277",
+   "en": "Star Patrol Training",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0278",
+   "en": "Clash with the Poachers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0279",
+   "en": "Solitude",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0280",
+   "en": "Protect the target / Annihilate all enemies",
+   "flags": [],
+   "notes": "review: refit: 'defense target' -> 'target'"
+  },
+  {
+   "id": "u0281",
+   "en": "Ally Escapes Safely",
+   "flags": [],
+   "notes": "review: refit: restructured"
+  },
+  {
+   "id": "u0282",
+   "en": "The Planet Where Galaxy Whales Sing",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0283",
+   "en": "All Whales Survive",
+   "flags": [],
+   "notes": "review: refit: 'Keep All Galaxy Whales Alive' -> 'All Whales Survive'"
+  },
+  {
+   "id": "u0284",
+   "en": "Sing to the whales / Annihilate all enemies",
+   "flags": [],
+   "notes": "review: refit: 'Galaxy Whales' -> 'whales'"
+  },
+  {
+   "id": "u0285",
+   "en": "Sing All Whales Off",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'all Galaxy Whales, song, withdraw': make every whale leave by singing to it. | review: refit: dropped 'Galaxy'; 'Away' -> 'Off'"
+  },
+  {
+   "id": "u0286",
+   "en": "Close Encounter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0287",
+   "en": "Private Army",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0288",
+   "en": "On Your Marks",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0289",
+   "en": "Defeat All Aces",
+   "flags": [],
+   "notes": "review: refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0290",
+   "en": "Hide Away",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0291",
+   "en": "Raze Enemy Base",
+   "flags": [],
+   "notes": "review: refit: 'Destroy' -> 'Raze'"
+  },
+  {
+   "id": "u0292",
+   "en": "Skull Squadron",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0293",
+   "en": "First Attack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0294",
+   "en": "Rescue the allied unit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0295",
+   "en": "Friendly Fire",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0296",
+   "en": "Keep Ally 1 Alive",
+   "flags": [],
+   "notes": "review: refit: 'Allied Unit' -> 'Ally'"
+  },
+  {
+   "id": "u0297",
+   "en": "Keep Ally 2 Alive",
+   "flags": [],
+   "notes": "review: refit: 'Allied Unit' -> 'Ally'"
+  },
+  {
+   "id": "u0298",
+   "en": "Fastest Delivery",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0299",
+   "en": "Memory of Global",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0300",
+   "en": "Destroy the target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0301",
+   "en": "Mother's Lullaby",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0302",
+   "en": "Annihilate the enemy battleships",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0303",
+   "en": "Destroy the Vajra Sub-Queen",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0304",
+   "en": "Destroy All Cocoons",
+   "flags": [],
+   "notes": "review: refit: dropped 'Vajra'"
+  },
+  {
+   "id": "u0305",
+   "en": "Ranka Attack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0306",
+   "en": "Goodbye Sister",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0307",
+   "en": "Fold Fame",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Katakana reads 'Fold Fame'; may be meant as a Macross Frontier episode title ('Fold Fade'?). Not verified."
+  },
+  {
+   "id": "u0308",
+   "en": "Diamond Crevasse",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0309",
+   "en": "Northern Cross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0310",
+   "en": "Sagittarius Squadron",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0311",
+   "en": "Last Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0312",
+   "en": "Vanquish the phantom",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0313",
+   "en": "Anata no Oto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0314",
+   "en": "Defeat Grace O'Connor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0315",
+   "en": "Raid Attack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0316",
+   "en": "Sudden Intruder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0317",
+   "en": "Battle Quarter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0318",
+   "en": "Koi no Uta",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Romanised like 'Anata no Oto' (literally 'Love Song'). Not verified as an official title."
+  },
+  {
+   "id": "u0319",
+   "en": "Contact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0320",
+   "en": "Sing Along",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0013: Source is the unmarried form; used 'Milia Fallyna' (u0031 is the married form).",
+   "u0022: Glossary status for this name is needs_check.",
+   "u0023: Source writes the short form without the middle name; used glossary en 'Isamu Alva Dyson' per brief. Alternative: 'Isamu Dyson'.",
+   "u0029: Source omits 'Flare'; used glossary en 'Mylene Flare Jenius' per brief.",
+   "u0116: Pilot-table dummy entries used by skills (u0116-u0124); '(Skill)' renders the source's 'for skill use' tag.",
+   "u0117: Matches the player title 'Pineapple Cake' in the dialogue translation.",
+   "u0125: Literally 'iron-wall person'; rendered gender-neutral, echoing the skill name 'Iron Wall'.",
+   "u0130: Macross Zero era mission name; no confirmed official English. Same for u0136, u0140, u0144, u0149, u0156.",
+   "u0141: Two objectives joined by a space in the source; joined with ' / ' (same as slice 2, u0382). Width not checked.",
+   "u0142: Bonus conditions in this slice use imperative Title Case to match slice 2 ('Defeat Enemy Ace Fast'): X-seizon = 'Keep X Alive', tanjikan = 'Fast'.",
+   "u0199: SDF Macross episode 36 title; official English rendering not confirmed.",
+   "u0201: Source is katakana 'Vermillion Platoon'; used glossary name 'Vermillion Flight'. u0292 'Skull Squadron' and u0310 'Sagittarius Squadron' likewise ('Skull Platoon' is on the avoid list).",
+   "u0207: Bonus condition consisting only of the three Zentradi spies' names (probably: catch all three). Rendered as the names only.",
+   "u0247: Accented 'Etude' spelling not allowed in Shift-JIS; plain 'Etude'.",
+   "u0285: Literally 'all Galaxy Whales, song, withdraw': make every whale leave by singing to it.",
+   "u0307: Katakana reads 'Fold Fame'; may be meant as a Macross Frontier episode title ('Fold Fade'?). Not verified.",
+   "u0318: Romanised like 'Anata no Oto' (literally 'Love Song'). Not verified as an official title."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

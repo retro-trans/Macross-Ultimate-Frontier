@@ -1,0 +1,519 @@
+{
+ "slice": 48,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_3295",
+   "en": "YF-21 Sturmvogel, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3295",
+   "en": "YF-21 Sturmvogel, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name misheard (Sturmvogel), per the other operators."
+  },
+  {
+   "id": "vos_mis_3295",
+   "en": "YF-21 Sturmvogel, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3296",
+   "en": "X-9 Ghost, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3296",
+   "en": "X-9 Ghost, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3296",
+   "en": "X-9 Ghost, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3296",
+   "en": "X-9 Ghost, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3296",
+   "en": "X-9 Ghost, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3297",
+   "en": "VF-17 Nightmare, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3297",
+   "en": "VF-17 Nightmare, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3297",
+   "en": "VF-17 Nightmare, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3297",
+   "en": "VF-17 Nightmare, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3297",
+   "en": "VF-17 Nightmare, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3298",
+   "en": "VF-19 Excalibur, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3298",
+   "en": "VF-19 Excalibur, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3298",
+   "en": "VF-19 Excalibur, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3298",
+   "en": "VF-19 Excalibur, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3298",
+   "en": "VF-19 Excalibur, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3299",
+   "en": "Mylene Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3299",
+   "en": "Mylene Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3299",
+   "en": "Mylene Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3299",
+   "en": "Mylene Valkyrie, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3299",
+   "en": "Mylene Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3300",
+   "en": "Fire Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3300",
+   "en": "Fire Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3300",
+   "en": "Fire Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3300",
+   "en": "Fire Valkyrie, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3300",
+   "en": "Fire Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3301",
+   "en": "Storm Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3301",
+   "en": "Storm Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3301",
+   "en": "Storm Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3301",
+   "en": "Storm Valkyrie, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3301",
+   "en": "Storm Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3302",
+   "en": "Sound Force, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3302",
+   "en": "Sound Force, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3302",
+   "en": "Sound Force, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_om0_3302",
+   "en": "Sound Force, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3302",
+   "en": "Sound Force, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3303",
+   "en": "VF-22 Sturmvogel II, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3303",
+   "en": "VF-22 Sturmvogel II, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3303",
+   "en": "VF-22 Sturmvogel II, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3303",
+   "en": "VF-22 Sturmvogel II, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name misheard (Sturmvogel), per the other operators."
+  },
+  {
+   "id": "vos_mis_3303",
+   "en": "VF-22 Sturmvogel II, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3304",
+   "en": "Battle 7, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3304",
+   "en": "Battle 7, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3304",
+   "en": "Battle 7, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3304",
+   "en": "Battle 7, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3304",
+   "en": "Battle 7, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3305",
+   "en": "Fz-109 Elgersoln, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3305",
+   "en": "Fz-109 Elgersoln, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3305",
+   "en": "Fz-109 Elgersoln, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_om0_3305",
+   "en": "Fz-109 Elgersoln, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3305",
+   "en": "Fz-109 Elgersoln, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3306",
+   "en": "Az-130 Panzersoln, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3306",
+   "en": "Az-130 Panzersoln, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3306",
+   "en": "Az-130 Panzersoln, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3306",
+   "en": "Az-130 Panzersoln, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3306",
+   "en": "Az-130 Panzersoln, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3307",
+   "en": "FBz-99 Zaubergeran, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name misheard (Zaubergeran), per the other operators."
+  },
+  {
+   "id": "vo0_of1_3307",
+   "en": "FBz-99 Zaubergeran, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3307",
+   "en": "FBz-99 Zaubergeran, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3307",
+   "en": "FBz-99 Zaubergeran, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3307",
+   "en": "FBz-99 Zaubergeran, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3308",
+   "en": "Queadluun-Rau, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_of1_3308",
+   "en": "Queadluun-Rau, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3308",
+   "en": "Queadluun-Rau, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3308",
+   "en": "Queadluun-Rau, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3308",
+   "en": "Queadluun-Rau, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3309",
+   "en": "Glavil, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3309",
+   "en": "Glavil, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3309",
+   "en": "Glavil, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3309",
+   "en": "Glavil, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3309",
+   "en": "Glavil, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3310",
+   "en": "Lord Gepelnitchi, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_of1_3310",
+   "en": "Lord Gepelnitchi, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3310",
+   "en": "Lord Gepelnitchi, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_om0_3310",
+   "en": "Lord Gepelnitchi, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3310",
+   "en": "Lord Gepelnitchi, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3311",
+   "en": "VF-5000 Star Mirage, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3311",
+   "en": "VF-5000 Star Mirage, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 3762: Name misheard (Sturmvogel), per the other operators.",
+   "row 3796: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3802: Name misheard (Sturmvogel), per the other operators.",
+   "row 3811: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3819: Name misheard (Zaubergeran), per the other operators.",
+   "row 3824: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3834: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3836: Unit or item name misheard; read from the other operators' transcripts."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

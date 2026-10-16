@@ -1,0 +1,480 @@
+{
+ "fixes": [
+  {
+   "id": "u3208",
+   "en": "VF-1S Valkyrie Roy Focker Special\\nA high-performance unit for commander-class pilots. After\\nFocker fell, his junior Hikaru flew it to defend the Macross.",
+   "why": "refit: 'issued to' -> 'for'; 'Hikaru Ichijyo' -> 'Hikaru'"
+  },
+  {
+   "id": "u3209",
+   "en": "SDF-1 Macross Daedalus Type\\nAn alien battleship that suddenly fell to Earth. Through it,\\nhumanity met OverTechnology far beyond any existing tech.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3210",
+   "en": "VT-1 Super Ostrich\\nA two-seat trainer. Hikaru took it without permission for a\\nSaturn date with Minmay, but the Zentradi captured them.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3211",
+   "en": "VF-1A Valkyrie (Hikaru)\\nHikaru's VF-1A from the movie. Flying it, he defied Misa's\\norders to rescue Minmay, and so the love triangle began.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3212",
+   "en": "VF-1S Valkyrie (Hikaru)\\nA high-performance unit for commanders. In the final battle, it\\ncharged the foe's ship with the Macross and beat Boddole Zer.",
+   "why": "refit: 'commander-class pilots' -> 'commanders'; 'enemy mothership' -> 'foe's ship'"
+  },
+  {
+   "id": "u3213",
+   "en": "VF-1S Valkyrie (Max)\\nA high-performance unit for commander-class pilots. Max flew\\nit as Skull Squadron leader and won his duel with Milia.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3214",
+   "en": "VF-4 Lightning III\\nDeveloped as the VF-1's successor. When the Megaroad-01 set\\nout, Hikaru flew it as the ship's air group commander.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3215",
+   "en": "SDF-1 Macross Armored Type\\nAn alien battleship that suddenly fell to Earth. In the movie,\\nunlike the TV series, it has ARMD-01 and ARMD-02 as its arms.",
+   "why": "refit: restructured TV/movie contrast"
+  },
+  {
+   "id": "u3216",
+   "en": "Regult\\nThe Zentradi forces' most widely used battle pod. Swapping\\nweapons suits it to any operation. The troops think it's so-so.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3217",
+   "en": "Glaug\\nA high-performance unit with big cannons on both arms, plus\\nmany lasers and guns. Quamzin's unit, it plagued the Macross.",
+   "why": "refit: 'machine guns' -> 'guns'"
+  },
+  {
+   "id": "u3218",
+   "en": "Nousjadeul-Ger (TV)\\nA humanoid powered combat suit, nimbler and comfier than\\na Regult, with shoulder cannons and many handheld weapons.",
+   "why": "refit: 'more comfortable to ride' -> 'comfier'; 'heavily armed' folded into 'many handheld weapons'"
+  },
+  {
+   "id": "u3219",
+   "en": "Nousjadeul-Ger (Movie)\\nA humanoid powered combat suit, nimbler and comfier than\\nthe Regult. Its design differs between TV and movie.",
+   "why": "refit: 'more comfortable to ride' -> 'comfier'"
+  },
+  {
+   "id": "u3220",
+   "en": "Queadluun-Rau (Standard)\\nA high-performance Meltrandi battle suit. Highly mobile, it\\nmenaced Valkyrie squadrons with big guns and many missiles.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3221",
+   "en": "Queadluun-Rau (Milia)\\nMilia's red personal unit, unbeaten and feared even by allies.\\nAfter a fierce dogfight, Max got on its tail and shot it down.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3222",
+   "en": "Queadluun-Rau (Max)\\nThe blue unit Max flew after marrying Milia and growing to\\nZentradi size. Paired with Milia's unit, it scored big wins.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3223",
+   "en": "Zentradi Soldier\\nA Zentradi rank-and-file soldier. Despite wearing only a space\\nsuit, at over 10 m tall they can match a Battroid hand to hand.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3224",
+   "en": "HWR-00-Mk II Monster (Ridden by Quamzin)\\nA Monster with a delighted Boss Quamzin astride it. Apparently\\nhe wanted to imitate a Western he'd once seen.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3225",
+   "en": "Vrlitwhai Kridanik\\nA Zentradi fleet commander. Tougher than common troops, he\\ncan briefly work unprotected in space. A strong fighter too.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3226",
+   "en": "Golg Boddole Zer\\nZentradi Commander-in-Chief. Core bio-unit of a mobile\\nfortress built 120,000 cycles ago; bigger than other Zentradi.",
+   "why": "refit: 'Commander-in-Chief of the Zentradi fleet' -> 'Zentradi Commander-in-Chief'; 'than an ordinary Zentradi' -> 'than other Zentradi'"
+  },
+  {
+   "id": "u3227",
+   "en": "VF-11B Thunderbolt\\nDeveloped to succeed the VF-1 as main fighter. Isamu flew it\\nwhile hunting Zentradi remnants scattered across space.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3228",
+   "en": "YF-19 Excalibur (Isamu)\\nNew engines gave it high mobility but made it hard to handle --\\na wild bronco that Isamu called his \"little cutie.\"",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3229",
+   "en": "YF-21 Sturmvogel (Guld)\\nA unit piloted by brain waves. To stop Sharon's new unmanned\\nfighter Ghost, Guld made a suicide charge that downed both.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3230",
+   "en": "X-9 Ghost\\nAn unmanned fighter hijacked by Sharon Apple. Its very high\\nmobility toyed with Guld, but his suicide charge downed both.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3231",
+   "en": "VF-11C Thunderbolt\\nThe U.N. Forces' main unit from 2040 on. Its forgiving handling\\nand easy upkeep kept it the mainstay for a long time.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3232",
+   "en": "VF-17D Nightmare (Standard)\\nA stealth unit for special missions, large and heavily armed.\\nAfter the Protodeviln appeared, it mainly defended City 7.",
+   "why": "refit: 'large airframe with a big weapons load' -> 'large and heavily armed'"
+  },
+  {
+   "id": "u3233",
+   "en": "VF-17S Nightmare (Kinryu/Gamlin)\\nA VF-17 upgraded for commanders. After leader Kinryu died,\\nGamlin became leader of Diamond Force and flew this unit.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3234",
+   "en": "VF-17S Nightmare (Milia)\\nTo protect City 7, cut off from the fleet by an enemy ploy,\\nMayor Milia flew this VF-17S, repainted red.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3235",
+   "en": "VF-19F Excalibur (Standard)\\nDeployed to Emerald Force. The YF-19's peaky handling was\\ntoned down so that rank-and-file pilots could fly it.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3236",
+   "en": "VF-19S Excalibur (Docker)\\nDocker's unit as leader of Emerald Force. Unlike the standard\\nunit, it adds four anti-air beam guns for more firepower.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3237",
+   "en": "VF-22S Sturmvogel II (Max)\\nMax sortied in it to attack the Protodeviln nest. A high-end\\nunit packed with new tech, such as solo fold capability.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3238",
+   "en": "VF-22S Sturmvogel II (Milia)\\nMilia's red unit. She fought beside Max in Operation Stargazer,\\nand once even sang in it with a Sound Booster fitted.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3239",
+   "en": "VF-19 Kai Fire Valkyrie (Basara)\\nA modified VF-19. Its bright red frame has a big speaker and\\nspeaker pods, and it roamed the galaxy blaring Basara's songs.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3240",
+   "en": "VF-11MAXL Kai Mylene Valkyrie (Mylene)\\nA VF-11 modified for Mylene, its Battroid mode distinctly\\nfeminine. She sang with Basara, the battlefield her stage.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3241",
+   "en": "VF-17T Kai Storm Valkyrie (Ray & Veffidas)\\nA modified VF-17T. Ray and Veffidas flew it together as\\nFIRE BOMBER members, firing up live shows even in battle.",
+   "why": "refit: 'as band members' -> 'as FIRE BOMBER members'"
+  },
+  {
+   "id": "u3242",
+   "en": "Battle 7\\nMacross 7 fleet flagship, captained by Maximilian Jenius. Its\\ntrump card, the Macross Cannon, got it through many crises.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3243",
+   "en": "Fz-109A Elgersoln (Standard)\\nA variable fighter for rank-and-file Varauta Army pilots. Said\\nto derive from the U.N.'s VF-14, but nobody knows for sure.",
+   "why": "refit: 'U.N. Forces' -> 'U.N.'"
+  },
+  {
+   "id": "u3244",
+   "en": "Fz-109F Elgersoln (Gigile)\\nThe Fz-109's commander model. Mainly Gigile's, it attacked\\nBasara & co. repeatedly; Gamlin's team downed it over City 7.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3245",
+   "en": "Az-130A Panzersoln\\nA variable attacker the Varauta Army made by upgrading the\\nElgersoln. Its extra power made life harder still for Macross 7.",
+   "why": "refit: 'Macross 7 fleet' -> 'Macross 7'"
+  },
+  {
+   "id": "u3246",
+   "en": "FBz-99G Zaubergeran (Gavil)\\nGavil's own unit, a mighty variable bomber with all sorts of\\nweapons. Supposedly. Yet Gamlin often downed it in one hit.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3247",
+   "en": "Queadluun-Rau (Chlore)\\nPersonal unit of Chlore, who leads a rogue Meltrandi fleet.\\nPilot skill plus performance let it land a hit on Basara himself.",
+   "why": "refit: pronoun-free (Chlore gender unknown in glossary); 'Chlore's skill and the unit's performance' -> 'pilot skill plus performance'"
+  },
+  {
+   "id": "u3248",
+   "en": "Glavil\\nGavil's physical body. It needs so much Spiritia that Gavil takes\\na small spirit form, merging into Gavigla to fight all-out.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3249",
+   "en": "Gepelnitchi\\nLeader of the Protodeviln. To build a world of endless Spiritia,\\nhe attacks humans, the \"Spiritia-regenerating race\" he sought.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3250",
+   "en": "VT-1C Valkyrie\\nA variable trainer for basic training. Basara flew it to make\\nthe Galaxy Whale hear his song, but the whale shot it down.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3251",
+   "en": "VF-17D Nightmare (Liza)\\nThe unit Liza stole fleeing smugglers. Whether the bill for it\\never reached the Zolan Star Patrol is anybody's guess.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3252",
+   "en": "VF-5000T-G Star Mirage\\nA two-seat VF-5000 of the Zolan Star Patrol. With a Super\\nBooster fitted, it played a key role in arresting the poachers.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3253",
+   "en": "VF-5000G Star Mirage\\nA VF-5000 of the Zolan Star Patrol. Liza complained that\\nit carried nothing but non-lethal weapons.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3254",
+   "en": "VF-19P Excalibur\\nThe unit Basara forced his way into to sing to the Galaxy\\nWhale. Whether Ray was billed the rental is anybody's guess.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3255",
+   "en": "VF-22S Sturmvogel II (Gamlin)\\nGamlin's own unit in his signature black. To let Basara's song\\nbe heard, he fought the poachers without quite knowing why.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3256",
+   "en": "VA-C-3 Invader\\nThe poachers' main variable attacker, with harpoon launcher\\npods to catch Galaxy Whales and whaling mods all over it.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3257",
+   "en": "Diving Suit\\nThe suit Graham Hoilie wore to fight the Galaxy Whale.\\nHarpoon in hand, he fought the white whale to the death.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3258",
+   "en": "Cheyenne II\\nAn anti-air interceptor Destroid, a redesign of the Cheyenne.\\nIt put its firepower to full use in the Macross Attack.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3259",
+   "en": "VF-171 Nightmare Plus\\nMain variable fighter of the Frontier fleet. Weaker than its base\\nVF-17, but easier for ordinary pilots to handle.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3260",
+   "en": "VF-171EX Nightmare Plus (Standard)\\nA VF-171 refit to fight the Vajra. Mainly flown by rank-and-file\\nU.N. Forces pilots, it fought to defend the Frontier.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3261",
+   "en": "VF-171EX Nightmare Plus (Alto)\\nAlto's unit as Sagittarius Squadron leader. Hardly a poor\\nperformer, but it couldn't keep up with Alto's skill.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3263",
+   "en": "VF-25F Messiah (Alto)\\nCutting-edge unit sent to military provider S.M.S., partly for\\ntesting. Alto's F type is built for high-mobility combat.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3264",
+   "en": "VF-25S Messiah (Ozma)\\nThe gray unit of Ozma, S.M.S. Skull Squadron's leader. It beats\\nthe standard model, and is formidable with Armored Parts on.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3265",
+   "en": "VF-25G Messiah (Michel)\\nA VF-25 customized for long-range combat, painted blue for\\nMichel. Its sniper rifle and long-range head are trademarks.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3385",
+   "en": "Zentradi Main Fleet Supreme Commander. Fearing a myth that\\nProtoculture contact saps the will to fight, he deems cultured\\nhumans Protoculture, to be destroyed. (CV: Osamu Ichikawa)",
+   "why": "refit: 'legend' -> 'myth'; restructured: 'he'd destroy cultured humanity as Protoculture' | review: restored that he judges humanity to be Protoculture and sets out to destroy it"
+  },
+  {
+   "id": "u3386",
+   "en": "Zentradi Main Fleet Supreme Commander, and the central\\nbio-unit of his flagship. He grasps a little of Culture, and will\\nuse any means, however cruel, to win. (CV: Osamu Ichikawa)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3387",
+   "en": "Chosen as a new fighter's test pilot for his superb flying skill.\\nHe grew up with Myung and Guld but cut ties after an incident.\\nDalmatian High School's wild child. (CV: Takumi Yamazaki)",
+   "why": "refit: 'childhood friend of' -> 'grew up with'; 'a certain incident' -> 'an incident'"
+  },
+  {
+   "id": "u3389",
+   "en": "Chief developer of the YF-21, a BDI-system prototype, and its\\npilot too. He clashes hard with Isamu over the next-gen fighter\\nrace and childhood friend Myung. (CV: Unsho Ishizuka)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3390",
+   "en": "Sharon's producer. Once childhood friends with Isamu and\\nGuld, she cut ties after an incident. Meeting them on Eden 7\\nyears later, she is torn between the two. (CV: Rika Fukami)",
+   "why": "refit: 'a certain incident' -> 'an incident'"
+  },
+  {
+   "id": "u3391",
+   "en": "A virtual idol who became the galaxy's No. 1 right after debut.\\nWith songs that have a hypnotic effect, she controls people\\nand plunges Macross City into chaos.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3392",
+   "en": "My profile? Don't dig into someone's past. Forget that, listen\\nto my song! Wanna know me? Hear my song and you'll get it.\\nHere we gooo! (CV: Nobutoshi Canna)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3393",
+   "en": "FIRE BOMBER's new vocalist. Max and Milia's child, she has\\nflown Valkyries since she was little, so she's a fine pilot too.\\nAt an age where two boys are on her mind. (CV: Tomo Sakurai)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3394",
+   "en": "An elite pilot who joined special assault unit Diamond Force\\nyoung. He saw Basara, who sings in battle, as an enemy, but in\\ntime trusts him and the power of song. (CV: Takehito Koyasu)",
+   "why": "refit: 'believe in' -> 'trusts'"
+  },
+  {
+   "id": "u3395",
+   "en": "For his service in the Zentradi war, he became commander of\\nthe Macross 7 colony fleet. Though retired, his genius piloting\\nis intact, and he flew Valkyries in ops. (CV: Sho Hayami)",
+   "why": "refit: 'retired from the front line' -> 'though retired'; 'operations' -> 'ops'"
+  },
+  {
+   "id": "u3396",
+   "en": "City 7's mayor and a former Zentradi ace pilot. She still sorties\\nwhen City 7 is attacked, and citizens back her as their fighting\\nmayor. (CV: Eri Takeda)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3397",
+   "en": "Leader of FIRE BOMBER. A former U.N. Forces ace, he left the\\nmilitary after an incident. Always backing Basara and Mylene,\\nhe claims he's 28, which is doubtful. (CV: Masashi Sugawara)",
+   "why": "refit: 'a certain incident' -> 'an incident'"
+  },
+  {
+   "id": "u3398",
+   "en": "FIRE BOMBER's drummer. Taciturn, she rarely speaks, and\\nmostly communicates through her drums. A pure-blooded\\nZentradi with extraordinary strength.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3402",
+   "en": "As Varauta Army commander, he was to raid Macross 7 for\\nSpiritia, but he defies Gepelnitchi's orders to awaken one of\\nhis comrades, \"Sivil\". (CV: Tomohiro Nishimura)",
+   "why": "refit: 'Macross 7 fleet' -> 'Macross 7'"
+  },
+  {
+   "id": "u3403",
+   "en": "He took over the Varauta Army from Gigile and tormented the\\nMacross 7 fleet. He dubs all he sees some kind of \"Beauty\". He\\ncan fuse with Glavil into his ultimate form. (CV: Akio Suyama)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3404",
+   "en": "Varauta Army Supreme Commander, with the dread power to\\ndrain all the galaxy's Spiritia. For his Spiritia Farm Project,\\nmeant to give endless Spiritia, he relentlessly hunted Basara.",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3405",
+   "en": "A Protodeviln girl. Drawn to Basara's song, she seeks him\\nout again and again. In the end she sings with him and evolves\\ninto a self-regenerating Spiritia race. (CV: Akiko Nakagawa)",
+   "why": "refit: 'in the form of a young girl' -> 'Protodeviln girl'; 'final battle' -> 'in the end'; 'species' -> 'race'"
+  },
+  {
+   "id": "u3407",
+   "en": "A taciturn man bent only on killing the white Galaxy Whale that\\ntook his right arm and his wife. Oddly, he hit it off with Basara,\\nwhich surprised even his daughter Elma. (CV: Joji Nakata)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3409",
+   "en": "A sunny, innocent, slightly ditzy girl from planet Zola who\\ndreams of being a pro singer. How she makes it and her name\\nrings across the galaxy is a tale for later. (CV: Aya Sakaguchi)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3410",
+   "en": "A high schooler in pilot training who becomes a Valkyrie pilot\\nafter a Vajra attack. Born to a famed kabuki line, his gift and\\nlooks once had him play female roles. (CV: Yuichi Nakamura)",
+   "why": "refit: restructured: 'his gift and looks once had him play female roles'"
+  },
+  {
+   "id": "u3411",
+   "en": "Alto's classmate, a crack sniper. Motto: \"Enemies or women, I\\nbring down whatever I aim at.\" He and Klan go way back. His\\nolder sister was also a soldier and sniper. (CV: Hiroshi Kamiya)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3412",
+   "en": "Alto's junior. An electronics whiz, he is also special adviser\\nto major firm L.A.I.'s tech research division. In battle he flies\\nthe EW RVF-25, controlling drone fighters. (CV: Jun Fukuyama)",
+   "why": "refit: 'electronic-warfare' -> 'EW'; 'unmanned' -> 'drone'"
+  },
+  {
+   "id": "u3413",
+   "en": "Skull Squadron leader in S.M.S., Alto & co.'s private special-ops\\nmilitary outfit. Ex-New U.N. Forces veteran, he took in Ranka\\nfor certain reasons and cares for her. (CV: Katsuyuki Konishi)",
+   "why": "refit: 'former' -> 'Ex-'; 'Alto and the others' -> 'Alto & co.'"
+  },
+  {
+   "id": "u3414",
+   "en": "S.M.S. Pixie Team leader, flying a crimson Queadluun-Rhea.\\nIn battle she's a giant Zentradi, but when micronized her body\\nturns into a little girl's. (CV: Megumi Toyoguchi)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3415",
+   "en": "S.M.S. Pixie Team leader. Micronized, a genetic anomaly\\ngives her a young girl's body, and oddly a childish personality.\\nMichel teases her; they always bicker. (CV: Megumi Toyoguchi)",
+   "why": "refit: compressed; 'always quarrelling' -> 'always bicker'"
+  },
+  {
+   "id": "u3416",
+   "en": "Captain of the Macross Quarter and the pillar of S.M.S.\\nA former pilot, reportedly as skilled as Ozma, with a broad\\nview that reads the tide of battle. (CV: Toru Okawa)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3417",
+   "en": "The Super Dimension Cinderella who met Alto & co. and ran up\\nthe glorious stairway to idol stardom. Kira☆. Her love battle\\nwith Sheryl over Alto has just begun. (CV: Megumi Nakajima)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3418",
+   "en": "A top idol hailed as the Galactic Fairy. Supremely confident in\\nbeing Sheryl, she is extremely proud. Her love battle with\\nRanka over Alto has only just begun. (CV: Aya Endo)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3420",
+   "en": "A cyborg pilot who blocked Alto time and again. Emotionless,\\nhe saw his missions as his whole reason to exist, but through\\nhis time with Ranka he slowly changes. (CV: Soichiro Hoshi)",
+   "why": "refit: 'stood in Alto's way' -> 'blocked Alto'; 'gradually' -> 'slowly'"
+  },
+  {
+   "id": "u3422",
+   "en": "Sheryl's formidable manager, but in truth the mastermind who\\nbrought the Vajra to the Frontier fleet. She schemes to use the\\npower of Ranka and the Vajra to rule all. (CV: Kikuko Inoue)",
+   "why": "refit: 'the entire universe' -> 'all'"
+  },
+  {
+   "id": "u3425",
+   "en": "An Emulator of the Mardook army. Taken by Hibiki, she met\\nEarth culture and learned what culture means. Through Ars's\\nsong, she ended the Mardook war. (CV: Hiroko Kasahara)",
+   "why": "refit: 'war with the Mardook army' -> 'Mardook war'"
+  },
+  {
+   "id": "u3426",
+   "en": "A rookie who has dreamed of being a pilot since he was small.\\nHonest and earnest, with a slightly timid streak, but once his\\nblood is up, he shows a bold side. (CV: Jun Konno)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3427",
+   "en": "Raised rich, he wanted for nothing, but bored of a life with no\\nthrills, he became a pilot. A seasoned veteran, foul-mouthed\\nbut admired as a good big brother. (CV: Tetsu Inada)",
+   "why": "refit: 'veteran of many battlefields' -> 'seasoned veteran'"
+  },
+  {
+   "id": "u3428",
+   "en": "A passionate pilot who deeply loves the sky. His impulsiveness\\nlands him in all kinds of trouble, on and off the job. His hobby\\nis collecting oddly patterned T-shirts. (CV: Yuki Hayashi)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3429",
+   "en": "Born into a military family where all must serve, she became\\na pilot, rare for a woman even there. Bright and friendly to all,\\nshe often gives men the wrong idea. (CV: Hinako Sasaki)",
+   "why": "refit: 'with men and women alike' -> 'to all'"
+  },
+  {
+   "id": "u3430",
+   "en": "Trained hard from childhood by her mercenary father, she's\\na proven pilot. Perhaps as a single dad raised her, she's rough,\\nbut has a feminine side: her hobby is cooking. (CV: Miho Hino)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3431",
+   "en": "An unlucky pilot who joined to be a mechanic, but her aptitude\\ntest made her a pilot. A quarter Zentradi, she's always full of\\nneedless energy -- her strong point. (CV: Yoko Nishino)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3434",
+   "en": "An unlucky girl who enlisted to be a mechanic, only to be\\nmade a pilot by her aptitude test. Still, with natural cheer and\\nneedlessly high energy, she enjoys it all. (CV: Yoko Nishino)",
+   "why": "refit: tighter wording to fit 434 px per line"
+  }
+ ],
+ "unfit": []
+}

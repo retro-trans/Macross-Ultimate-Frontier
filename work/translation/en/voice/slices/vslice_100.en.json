@@ -1,0 +1,570 @@
+{
+ "slice": 100,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_gam_308",
+   "en": "I'll back you up! Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_309",
+   "en": "I'll complete the mission and come back, I swear!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_310",
+   "en": "Watch how Diamond Force fights.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_311",
+   "en": "There's no way this operation can fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_320",
+   "en": "Spare me the reckless tactics.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_321",
+   "en": "Next time I'd like to sortie alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_322",
+   "en": "Because of you, we took pointless losses!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_323",
+   "en": "Looks like it ended safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_324",
+   "en": "We managed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_325",
+   "en": "Returning at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_327",
+   "en": "Looks like you saved me. Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_328",
+   "en": "Was my support of any use?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_330",
+   "en": "I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_331",
+   "en": "Teaming up with you wasn't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_340",
+   "en": "Please stay back, if possible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_341",
+   "en": "I'm enough on my own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_342",
+   "en": "You will follow military discipline.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_343",
+   "en": "Ready anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_344",
+   "en": "Please leave it to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_345",
+   "en": "Don't be reckless, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_346",
+   "en": "Please watch my skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_347",
+   "en": "I'll support you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_348",
+   "en": "Please watch the true strength of Diamond Force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_349",
+   "en": "I won't let anyone lay a finger on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_350",
+   "en": "Once this operation is over, let's have a nice long talk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_351",
+   "en": "Please follow behind me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_360",
+   "en": "I could have managed alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_361",
+   "en": "Returning now, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_362",
+   "en": "Honestly, you're far too selfish.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_363",
+   "en": "Shall we head back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_364",
+   "en": "We managed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_365",
+   "en": "That wasn't a bad fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_366",
+   "en": "Splendid work on this operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_367",
+   "en": "Skill I wouldn't expect from a woman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_368",
+   "en": "I look forward to the next operation too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_369",
+   "en": "Glad you're safe. Let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_370",
+   "en": "For you, this is nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_371",
+   "en": "Please don't push yourself too hard from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_600",
+   "en": "It's already over?! Unbelievable!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_gam_601",
+   "en": "I'll destroy them completely. Suppression begins!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript ends in 'seiatsu-bi' (hi for bi?); Gamlin is not Gavil, so probably 'seiatsu' only."
+  },
+  {
+   "id": "vp7_gam_602",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Pained grunts and cries."
+  },
+  {
+   "id": "vp7_gam_603",
+   "en": "Do our best. That's Diamond Force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_000",
+   "en": "Sortie Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript ends in 'hi' (day); Gavil's catchphrase suffix is 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_001",
+   "en": "I'll teach you beauty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_002",
+   "en": "Adorning the battlefield with beauty is my role. Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_003",
+   "en": "Defense Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_004",
+   "en": "I won't be hit. Learning Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_005",
+   "en": "I saw through you! Wisdom Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_006",
+   "en": "Ugh, you defile beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_007",
+   "en": "Whoa! Impact Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_008",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_009",
+   "en": "You won't escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_010",
+   "en": "Here! Defeat Beauty!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'datobi'; guessed datou-bi (overthrow/defeat beauty)."
+  },
+  {
+   "id": "vpd_gvl_011",
+   "en": "Obliteration Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_012",
+   "en": "Endurance Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_013",
+   "en": "That's nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_015",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A grunt."
+  },
+  {
+   "id": "vpd_gvl_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A brief breath."
+  },
+  {
+   "id": "vpd_gvl_018",
+   "en": "Gift Beauty!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'zoutou-bi' (gift-giving); unclear what was said, 'hi' heard for 'bi'."
+  },
+  {
+   "id": "vpd_gvl_019",
+   "en": "Thorough Attack Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_020",
+   "en": "Stop resisting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_100",
+   "en": "I'll drain every last bit of your Spiritia.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_101",
+   "en": "Beginning the operation. Operation Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_102",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_103",
+   "en": "Recognition Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_104",
+   "en": "Running is useless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_105",
+   "en": "Are you prepared?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_106",
+   "en": "Take this! Execution Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_107",
+   "en": "Blow away! Extinction Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript ends in 'be'; read as 'shoumetsu-bi'."
+  },
+  {
+   "id": "vpd_gvl_108",
+   "en": "The ultimate finishing beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_109",
+   "en": "Futile struggling is unsightly.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'waru agaki'; read as 'warui agaki' = futile struggle."
+  },
+  {
+   "id": "vpd_gvl_110",
+   "en": "I'll take care of you myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_112",
+   "en": "Explosion Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_113",
+   "en": "Destruction Beauty!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'bakkoobii'; guessed a 'bakusai/gekiha' style term plus 'bi'."
+  },
+  {
+   "id": "vpd_gvl_114",
+   "en": "Let that be a lesson!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_115",
+   "en": "Heh heh. So you've appeared. Annihilation Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  },
+  {
+   "id": "vpd_gvl_116",
+   "en": "Vanish, you who lack beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_117",
+   "en": "Found you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_118",
+   "en": "Shattering Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hi' heard for 'bi' (beauty)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7960: Transcript ends in 'seiatsu-bi' (hi for bi?); Gamlin is not Gavil, so probably 'seiatsu' only.",
+   "row 7973: Transcript 'datobi'; guessed datou-bi (overthrow/defeat beauty).",
+   "row 7980: Transcript 'zoutou-bi' (gift-giving); unclear what was said, 'hi' heard for 'bi'.",
+   "row 7995: Transcript 'bakkoobii'; guessed a 'bakusai/gekiha' style term plus 'bi'."
+  ],
+  "whisper_doubt": [
+   "row 7960: Transcript ends in 'seiatsu-bi' (hi for bi?); Gamlin is not Gavil, so probably 'seiatsu' only.",
+   "row 7963: Transcript ends in 'hi' (day); Gavil's catchphrase suffix is 'bi' (beauty).",
+   "row 7966: 'hi' heard for 'bi' (beauty).",
+   "row 7967: 'hi' heard for 'bi' (beauty).",
+   "row 7968: 'hi' heard for 'bi' (beauty).",
+   "row 7970: 'hi' heard for 'bi' (beauty).",
+   "row 7973: Transcript 'datobi'; guessed datou-bi (overthrow/defeat beauty).",
+   "row 7974: 'hi' heard for 'bi' (beauty).",
+   "row 7975: 'hi' heard for 'bi' (beauty).",
+   "row 7980: Transcript 'zoutou-bi' (gift-giving); unclear what was said, 'hi' heard for 'bi'.",
+   "row 7981: 'hi' heard for 'bi' (beauty).",
+   "row 7984: 'hi' heard for 'bi' (beauty).",
+   "row 7986: 'hi' heard for 'bi' (beauty).",
+   "row 7989: 'hi' heard for 'bi' (beauty).",
+   "row 7990: Transcript ends in 'be'; read as 'shoumetsu-bi'.",
+   "row 7992: Transcript 'waru agaki'; read as 'warui agaki' = futile struggle.",
+   "row 7994: 'hi' heard for 'bi' (beauty).",
+   "row 7995: Transcript 'bakkoobii'; guessed a 'bakusai/gekiha' style term plus 'bi'.",
+   "row 7997: 'hi' heard for 'bi' (beauty).",
+   "row 8000: 'hi' heard for 'bi' (beauty)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

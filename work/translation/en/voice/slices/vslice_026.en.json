@@ -1,0 +1,517 @@
+{
+ "slice": 26,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1135",
+   "en": "Wipe out the enemies blocking Spiritia collection.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1135",
+   "en": "Annihilate the enemies getting in the way of Spiritia collection!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1135",
+   "en": "Destroy the enemies blocking Spiritia collection!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1135",
+   "en": "Wipe out the enemies obstructing Spiritia collection.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1136",
+   "en": "Enemy contact confirmed. It's the samples.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for tekiei (enemy sighting); reads as enemy contact."
+  },
+  {
+   "id": "vo0_of1_1136",
+   "en": "Enemy contact confirmed. Just those samples.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for tekiei (enemy sighting)."
+  },
+  {
+   "id": "vo0_of2_1136",
+   "en": "Enemy spotted. Those samples, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1136",
+   "en": "Enemy contact. Those samples, huh.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard teki e kakunin; surely tekiei kakunin (enemy sighted)."
+  },
+  {
+   "id": "vos_mis_1136",
+   "en": "Enemy contact confirmed. It's those samples.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1137",
+   "en": "Sample reinforcements incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1137",
+   "en": "Sample reinforcements are coming.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1137",
+   "en": "Sample reinforcements incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1137",
+   "en": "Sample reinforcements incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1137",
+   "en": "Sample reinforcements incoming.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1138",
+   "en": "Samples detected. Please intercept them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1138",
+   "en": "Sample signatures detected. Intercept them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1138",
+   "en": "Samples on the scope! Intercept them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1138",
+   "en": "Sample signatures detected. Intercept.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1138",
+   "en": "Sample signatures detected. Intercept them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1139",
+   "en": "A large number of samples have appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1139",
+   "en": "A large number of samples have arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1139",
+   "en": "A huge swarm of samples just showed up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1139",
+   "en": "A large number of samples have arrived!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1139",
+   "en": "A large number of samples have arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1140",
+   "en": "Many samples are approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1140",
+   "en": "Many samples are approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1140",
+   "en": "Many samples approaching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1140",
+   "en": "Many samples approaching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1140",
+   "en": "Many samples approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1141",
+   "en": "Orders from Lord Gepelnitchi. Please annihilate the enemy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Kepelnitchi; surely Gepelnitchi."
+  },
+  {
+   "id": "vo0_of1_1141",
+   "en": "Orders from Lord Gepelnitchi. Annihilate the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1141",
+   "en": "Orders from Lord Gepelnitchi! Annihilate the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1141",
+   "en": "Orders from Lord Gepelnitchi. Annihilate the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1141",
+   "en": "Orders from Lord Gepelnitchi. Annihilate the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1142",
+   "en": "Please wipe out the foolish samples who defy us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1142",
+   "en": "Annihilate the foolish samples who dare defy us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1142",
+   "en": "Wipe out those foolish samples who defy us!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1142",
+   "en": "Wipe out the foolish samples who defy us!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1142",
+   "en": "Annihilate the foolish samples who defy us!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1143",
+   "en": "Please wipe out the Anima Spiritia together with Lord Gepelnitchi!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Tepelnitchi; surely Gepelnitchi."
+  },
+  {
+   "id": "vo0_of1_1143",
+   "en": "Annihilate the Anima Spiritia alongside Lord Gepelnitchi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1143",
+   "en": "Wipe out those Anima Spiritia with Lord Gepelnitchi!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1143",
+   "en": "Wipe out the Anima Spiritia with Lord Gepelnitchi!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1143",
+   "en": "Annihilate the Anima Spiritia alongside Lord Gepelnitchi!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1145",
+   "en": "Many Galaxy Whales have appeared. Patrol unit, please launch at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1145",
+   "en": "Many Galaxy Whales have appeared. Patrol unit, launch immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1145",
+   "en": "Lots of Galaxy Whales have appeared! Patrol unit, launch right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1145",
+   "en": "Many Galaxy Whales have appeared! Patrol unit, launch immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1145",
+   "en": "Many Galaxy Whales have appeared! Patrol unit, launch at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1146",
+   "en": "Graham Hoilie and a civilian craft confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1146",
+   "en": "Graham Hoilie and a civilian craft confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1146",
+   "en": "Graham Hoilie and a civilian craft confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1146",
+   "en": "Graham Hoilie and a civilian craft confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1146",
+   "en": "Graham Hoilie and a civilian craft confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1147",
+   "en": "Please prioritize intercepting the poachers and protecting the whales.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1147",
+   "en": "Priority: intercept the poachers, protect the whales.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Mitsurio-dan; surely mitsuryou-dan (poachers), as the others say."
+  },
+  {
+   "id": "vo0_of2_1147",
+   "en": "Prioritize intercepting the poachers and protecting the whales!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1147",
+   "en": "Prioritize intercepting the poachers and protecting the whales.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1147",
+   "en": "Intercept the poachers and protect the whales first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1148",
+   "en": "We will now begin the patrol unit's training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1148",
+   "en": "We're about to begin the patrol unit's training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1148",
+   "en": "Patrol unit training begins now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1148",
+   "en": "Patrol unit training begins now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1148",
+   "en": "Patrol unit training begins now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1149",
+   "en": "The next team has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1149",
+   "en": "The next team has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1149",
+   "en": "The next team has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1149",
+   "en": "The next team has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1149",
+   "en": "Next team has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1150",
+   "en": "This is the last team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1150",
+   "en": "That's the last team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1150",
+   "en": "That's the last team!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1150",
+   "en": "That's the last team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1150",
+   "en": "That's the last team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1151",
+   "en": "Liza has come to back us up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1151",
+   "en": "Liza has come to back us up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1151",
+   "en": "Liza has come to back us up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1151",
+   "en": "Liza has come to back us up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1151",
+   "en": "Liza has come to back us up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1152",
+   "en": "Please cover Liza's withdrawal.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 2040-2044 (1143): Anima Spiritia kept as in glossary; 'samples' used for the Protodeviln word for humans"
+  ],
+  "whisper_doubt": [
+   "row 2005: Wrong kanji for tekiei (enemy sighting); reads as enemy contact.",
+   "row 2006: Wrong kanji for tekiei (enemy sighting).",
+   "row 2008: Heard teki e kakunin; surely tekiei kakunin (enemy sighted).",
+   "row 2030: Heard Kepelnitchi; surely Gepelnitchi.",
+   "row 2040: Heard Tepelnitchi; surely Gepelnitchi.",
+   "row 2056: Heard Mitsurio-dan; surely mitsuryou-dan (poachers), as the others say."
+  ],
+  "kept_omission": [
+   "Operator lines: subjects restored where the scene settles them; the one-word and noun-phrase stock lines (e.g. 'Many samples approaching.') stay subjectless as the Japanese is."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,529 @@
+{
+ "slice": 44,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  },
+  {
+   "id": "vo0_om0_2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, launch approved. Do your best!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  },
+  {
+   "id": "vos_mis_2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, cleared to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  },
+  {
+   "id": "vo0_of0_2293",
+   "en": "VF-11 Thunderbolt, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2293",
+   "en": "VF-11 Thunderbolt, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2293",
+   "en": "VF-11 Thunderbolt, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2293",
+   "en": "VF-11 Thunderbolt, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2293",
+   "en": "VF-11 Thunderbolt, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2294",
+   "en": "YF-19 Excalibur, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2294",
+   "en": "YF-19 Excalibur, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2294",
+   "en": "YF-19 Excalibur, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2294",
+   "en": "YF-19 Excalibur, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2294",
+   "en": "YF-19 Excalibur, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2295",
+   "en": "YF-21 Sturmvogel, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2295",
+   "en": "YF-21 Sturmvogel, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2295",
+   "en": "YF-21 Sturmvogel, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2295",
+   "en": "YF-21 Sturmvogel, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2295",
+   "en": "YF-21 Sturmvogel, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2296",
+   "en": "X-9 Ghost, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2296",
+   "en": "X-9 Ghost, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2296",
+   "en": "X-9 Ghost, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2296",
+   "en": "X-9 Ghost, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2296",
+   "en": "X-9 Ghost, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2297",
+   "en": "VF-17 Nightmare, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_of1_2297",
+   "en": "VF-17 Nightmare, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2297",
+   "en": "VF-17 Nightmare, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_om0_2297",
+   "en": "VF-17 Nightmare, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2297",
+   "en": "VF-17 Nightmare, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2298",
+   "en": "VF-19 Excalibur, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2298",
+   "en": "VF-19 Excalibur, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2298",
+   "en": "VF-19 Excalibur, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2298",
+   "en": "VF-19 Excalibur, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2298",
+   "en": "VF-19 Excalibur, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2299",
+   "en": "Mylene Valkyrie, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2299",
+   "en": "Mylene Valkyrie, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2299",
+   "en": "Mylene Valkyrie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2299",
+   "en": "Mylene Valkyrie, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2299",
+   "en": "Mylene Valkyrie, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2300",
+   "en": "Fire Valkyrie, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2300",
+   "en": "Fire Valkyrie, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2300",
+   "en": "Fire Valkyrie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2300",
+   "en": "Fire Valkyrie, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2300",
+   "en": "Fire Valkyrie, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2301",
+   "en": "Storm Valkyrie, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2301",
+   "en": "Storm Valkyrie, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2301",
+   "en": "Storm Valkyrie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2301",
+   "en": "Storm Valkyrie, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2301",
+   "en": "Storm Valkyrie, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2302",
+   "en": "Sound Force, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2302",
+   "en": "Sound Force, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2302",
+   "en": "Sound Force, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2302",
+   "en": "Sound Force, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2302",
+   "en": "Sound Force, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2303",
+   "en": "VF-22 Sturmvogel II, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2303",
+   "en": "VF-22 Sturmvogel II, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2303",
+   "en": "VF-22 Sturmvogel II, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2303",
+   "en": "VF-22 Sturmvogel II, launch approved. Go give it your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vos_mis_2303",
+   "en": "VF-22 Sturmvogel II, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2304",
+   "en": "Battle 7, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2304",
+   "en": "Battle 7, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2304",
+   "en": "Battle 7, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2304",
+   "en": "Battle 7, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2304",
+   "en": "Battle 7, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2305",
+   "en": "Fz-109 Elgersoln, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name misheard (Elgersoln), per the other operators."
+  },
+  {
+   "id": "vo0_of1_2305",
+   "en": "Fz-109 Elgersoln, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2305",
+   "en": "Fz-109 Elgersoln, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_om0_2305",
+   "en": "Fz-109 Elgersoln, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2305",
+   "en": "Fz-109 Elgersoln, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2306",
+   "en": "Az-130 Panzersoln, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2306",
+   "en": "Az-130 Panzersoln, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2306",
+   "en": "Az-130 Panzersoln, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2306",
+   "en": "Az-130 Panzersoln, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2306",
+   "en": "Az-130 Panzersoln, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2307",
+   "en": "FBz-99 Zaubergeran, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_of1_2307",
+   "en": "FBz-99 Zaubergeran, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2307",
+   "en": "FBz-99 Zaubergeran, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_om0_2307",
+   "en": "FBz-99 Zaubergeran, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2307",
+   "en": "FBz-99 Zaubergeran, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2308",
+   "en": "Queadluun-Rau, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_of1_2308",
+   "en": "Queadluun-Rau, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3441: Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet.",
+   "row 3442: Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet.",
+   "row 3443: Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  ],
+  "whisper_doubt": [
+   "row 3464: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3466: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3497: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3504: Name misheard (Elgersoln), per the other operators.",
+   "row 3506: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3514: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3516: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3519: Unit or item name misheard; read from the other operators' transcripts."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

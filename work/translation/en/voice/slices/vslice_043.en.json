@@ -1,0 +1,576 @@
+{
+ "slice": 43,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_2276",
+   "en": "AFOS, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is a guessed romanisation, not in the glossary."
+  },
+  {
+   "id": "vo0_om0_2276",
+   "en": "AFOS, launch approved. Go give it your best!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is a guessed romanisation, not in the glossary."
+  },
+  {
+   "id": "vos_mis_2276",
+   "en": "AFOS, you're cleared to launch.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch). Eifos is a guessed romanisation, not in the glossary."
+  },
+  {
+   "id": "vo0_of0_2277",
+   "en": "Destroid Defender, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2277",
+   "en": "Destroid Defender, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2277",
+   "en": "Destroid Defender, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2277",
+   "en": "Destroid Defender, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2277",
+   "en": "Destroid Defender, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2278",
+   "en": "Destroid Spartan, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2278",
+   "en": "Destroid Spartan, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2278",
+   "en": "Destroid Spartan, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_om0_2278",
+   "en": "Destroid Spartan, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2278",
+   "en": "Destroid Spartan, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2279",
+   "en": "Destroid Phalanx, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2279",
+   "en": "Destroid Phalanx, cleared to launch. Give it your all.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name misheard (Phalanx), per the other operators."
+  },
+  {
+   "id": "vo0_of2_2279",
+   "en": "Destroid Phalanx, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2279",
+   "en": "Destroid Phalanx, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2279",
+   "en": "Destroid Phalanx, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2280",
+   "en": "Destroid Tomahawk, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2280",
+   "en": "Destroid Tomahawk, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2280",
+   "en": "Destroid Tomahawk, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2280",
+   "en": "Destroid Tomahawk, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2280",
+   "en": "Destroid Tomahawk, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2281",
+   "en": "Destroid Monster, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2281",
+   "en": "Destroid Monster, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2281",
+   "en": "Destroid Monster, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2281",
+   "en": "Destroid Monster, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2281",
+   "en": "Destroid Monster, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2282",
+   "en": "Destroid Squad, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2282",
+   "en": "Destroid Squad, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2282",
+   "en": "Destroid Squad, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2282",
+   "en": "Destroid Squad, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2282",
+   "en": "Destroid Squad, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2283",
+   "en": "VF-1 Valkyrie, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2283",
+   "en": "VF-1 Valkyrie, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2283",
+   "en": "VF-1 Valkyrie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2283",
+   "en": "VF-1 Valkyrie, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2283",
+   "en": "VF-1 Valkyrie, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2284",
+   "en": "SDF-1 Macross, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2284",
+   "en": "SDF-1 Macross, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2284",
+   "en": "SDF-1 Macross, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_om0_2284",
+   "en": "SDF-1 Macross, launch approved. Go give it your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote SF-1; it is the SDF-1."
+  },
+  {
+   "id": "vos_mis_2284",
+   "en": "SDF-1 Macross, you're cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_of0_2285",
+   "en": "VT-1 Super Ostrich, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2285",
+   "en": "VT-1 Super Ostrich, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2285",
+   "en": "VT-1 Super Ostrich, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2285",
+   "en": "VT-1 Super Ostrich, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2285",
+   "en": "VT-1 Super Ostrich, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2286",
+   "en": "VF-4 Lightning III, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2286",
+   "en": "VF-4 Lightning III, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2286",
+   "en": "VF-4 Lightning III, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2286",
+   "en": "VF-4 Lightning III, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2286",
+   "en": "VF-4 Lightning III, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2287",
+   "en": "Regult, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2287",
+   "en": "Regult, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2287",
+   "en": "Regult, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2287",
+   "en": "Regult, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2287",
+   "en": "Regult, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2288",
+   "en": "Glaug, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2288",
+   "en": "Glaug, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2288",
+   "en": "Glaug, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2288",
+   "en": "Glaug, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2288",
+   "en": "Glaug, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2289",
+   "en": "Nousjadeul-Ger, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_of1_2289",
+   "en": "Nousjadeul-Ger, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2289",
+   "en": "Nousjadeul-Ger, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_om0_2289",
+   "en": "Nousjadeul-Ger, launch approved. Go give it your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vos_mis_2289",
+   "en": "Nousjadeul-Ger, cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2290",
+   "en": "All squad members, cleared to launch. Do your best!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as 'all squad members' (kaku taiin)."
+  },
+  {
+   "id": "vo0_of1_2290",
+   "en": "All squad members, cleared. Give it your all.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as 'all squad members' (kaku taiin)."
+  },
+  {
+   "id": "vo0_of2_2290",
+   "en": "All squad members, cleared to launch. Go get 'em!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts. Read as 'all squad members' (kaku taiin)."
+  },
+  {
+   "id": "vo0_om0_2290",
+   "en": "All squad members, launch approved. Go give it your best!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as 'all squad members' (kaku taiin)."
+  },
+  {
+   "id": "vos_mis_2290",
+   "en": "All squad members, cleared to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as 'all squad members' (kaku taiin)."
+  },
+  {
+   "id": "vo0_of0_2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts. Title kantai shirei rendered as Fleet Commander."
+  },
+  {
+   "id": "vo0_of1_2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, cleared. Give it your all.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title kantai shirei rendered as Fleet Commander."
+  },
+  {
+   "id": "vo0_of2_2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title kantai shirei rendered as Fleet Commander."
+  },
+  {
+   "id": "vo0_om0_2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, launch approved. Go give it your best!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts. Title kantai shirei rendered as Fleet Commander."
+  },
+  {
+   "id": "vos_mis_2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, cleared to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title kantai shirei rendered as Fleet Commander."
+  },
+  {
+   "id": "vo0_of0_2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Name misheard (Golg Boddole Zer), per the other operators. Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  },
+  {
+   "id": "vo0_of1_2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, cleared. Give it your all.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3429: Read as 'all squad members' (kaku taiin).",
+   "row 3430: Read as 'all squad members' (kaku taiin).",
+   "row 3431: Unit or item name misheard; read from the other operators' transcripts. Read as 'all squad members' (kaku taiin).",
+   "row 3432: Read as 'all squad members' (kaku taiin).",
+   "row 3433: Read as 'all squad members' (kaku taiin).",
+   "row 3434: Unit or item name misheard; read from the other operators' transcripts. Title kantai shirei rendered as Fleet Commander.",
+   "row 3435: Title kantai shirei rendered as Fleet Commander.",
+   "row 3436: Title kantai shirei rendered as Fleet Commander.",
+   "row 3437: Unit or item name misheard; read from the other operators' transcripts. Title kantai shirei rendered as Fleet Commander.",
+   "row 3438: Title kantai shirei rendered as Fleet Commander.",
+   "row 3439: Name misheard (Golg Boddole Zer), per the other operators. Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet.",
+   "row 3440: Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  ],
+  "whisper_doubt": [
+   "row 3363: Whisper wrote the wrong kanji for hasshin (launch). Eifos is a guessed romanisation, not in the glossary.",
+   "row 3371: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3375: Name misheard (Phalanx), per the other operators.",
+   "row 3401: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3402: Whisper wrote SF-1; it is the SDF-1.",
+   "row 3403: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3424: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3426: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3427: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3431: Unit or item name misheard; read from the other operators' transcripts. Read as 'all squad members' (kaku taiin).",
+   "row 3434: Unit or item name misheard; read from the other operators' transcripts. Title kantai shirei rendered as Fleet Commander.",
+   "row 3437: Unit or item name misheard; read from the other operators' transcripts. Title kantai shirei rendered as Fleet Commander.",
+   "row 3439: Name misheard (Golg Boddole Zer), per the other operators. Title read as Main Fleet Supreme Commander; Whisper's 'kikan' is probably the main (kikan) fleet."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 3361: Eifos",
+   "row 3362: Eifos",
+   "row 3363: Eifos"
+  ],
+  "unfinished": []
+ }
+}

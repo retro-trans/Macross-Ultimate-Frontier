@@ -1,0 +1,507 @@
+{
+ "slice": 65,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vph_nor_126",
+   "en": "Interesting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_127",
+   "en": "Don't get cocky.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_128",
+   "en": "That won't be enough to take me down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_129",
+   "en": "You're pretty good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_130",
+   "en": "You dare take me lightly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_131",
+   "en": "Don't get in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_132",
+   "en": "Now the real fight begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_133",
+   "en": "To be hit this hard...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_134",
+   "en": "You're making a fool of me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_135",
+   "en": "To think you'd amuse me this much...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_136",
+   "en": "No way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_137",
+   "en": "My craft's hit! Requesting a rendezvous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_138",
+   "en": "Me... shot down...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper ended with 'no to'; likely a trailing 'no ka' (shot down?) fragment."
+  },
+  {
+   "id": "vph_nor_139",
+   "en": "Hold on to your own damn life.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_140",
+   "en": "You dolt! Do you want to die?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_141",
+   "en": "Do you have a death wish?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_142",
+   "en": "You useless fool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_143",
+   "en": "You underestimated the battlefield.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_144",
+   "en": "You spineless coward!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_148",
+   "en": "Reinforcements? I'll leave that side to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_149",
+   "en": "Don't steal my fun, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_150",
+   "en": "This much is enough for me alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_151",
+   "en": "Couldn't protect it, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_152",
+   "en": "Well, aren't you something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_153",
+   "en": "Another life wasted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_154",
+   "en": "I thought you'd give me a bit more fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_155",
+   "en": "There's no way I'd fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_156",
+   "en": "Mission complete. Returning immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_157",
+   "en": "So the fun's over here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_158",
+   "en": "Never expected an ending like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_159",
+   "en": "Out of time? Impossible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_160",
+   "en": "Me, failing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_161",
+   "en": "Tch, that's it. Withdrawing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_162",
+   "en": "Damn! I'll definitely pay you back for this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_163",
+   "en": "Keep your distance and give support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_164",
+   "en": "Move to covering fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_165",
+   "en": "I'm going in front. Cover me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_166",
+   "en": "Go charge in on your own, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_167",
+   "en": "You're the one doing the close combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_168",
+   "en": "You've got the skill to be bait, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_169",
+   "en": "Out of my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_170",
+   "en": "Get back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_171",
+   "en": "Run while you still have your life.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_172",
+   "en": "Pest control has to be thorough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_173",
+   "en": "Take them out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_174",
+   "en": "Run wild!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_175",
+   "en": "Looks like you need punishment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_176",
+   "en": "Entertain me more.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_177",
+   "en": "Playtime's over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_179",
+   "en": "What a demanding one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_180",
+   "en": "Fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_181",
+   "en": "Useless captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_182",
+   "en": "Fall if you want, but don't drag me down with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_183",
+   "en": "That's a captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_184",
+   "en": "Captain in name only.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_185",
+   "en": "So the captain's down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_186",
+   "en": "An enemy who could take down the captain? This might be fun.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote taicho wo otosu as 'condition' (taicho); read as taicho (captain), matching 'captain' lines nearby."
+  },
+  {
+   "id": "vph_nor_187",
+   "en": "What is this feeling...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_188",
+   "en": "A song? Pull back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_189",
+   "en": "To think I'd hear a song on the battlefield.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_190",
+   "en": "Not bad at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_191",
+   "en": "With skills like that, 'captain' is no empty title.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_192",
+   "en": "Impressive, D.D.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_300",
+   "en": "Get in my way and you'll be the first I shoot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_301",
+   "en": "Never thought I'd end up flying with a boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_302",
+   "en": "A dog should just shut up and listen to what I say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_303",
+   "en": "Mission's starting. Don't relax.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_304",
+   "en": "We're going too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_305",
+   "en": "Don't hold me back, boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_306",
+   "en": "Show me what you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_307",
+   "en": "Worry about yourself before you worry about me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_308",
+   "en": "Looks like I can have fun with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_309",
+   "en": "Make sure you leave my share of the prey.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_310",
+   "en": "Want to bet on who shoots down more prey?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_311",
+   "en": "I'm counting on you a little. Live up to my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_320",
+   "en": "This is why I don't want to fly with a boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_321",
+   "en": "Buzzing up and down like a bug.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_322",
+   "en": "You useless dolt!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote dakken ga; probably deku ga (puppet/dolt) or similar insult."
+  },
+  {
+   "id": "vph_nor_323",
+   "en": "Succeeding at something this easy is a given.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5199 (vph_nor_322): Whisper wrote dakken ga; probably deku ga (puppet/dolt) or similar insult."
+  ],
+  "whisper_doubt": [
+   "row 5133 (vph_nor_138): Whisper ended with 'no to'; likely a trailing 'no ka' (shot down?) fragment.",
+   "row 5178 (vph_nor_186): Whisper wrote taicho wo otosu as 'condition' (taicho); read as taicho (captain), matching 'captain' lines nearby.",
+   "row 5199 (vph_nor_322): Whisper wrote dakken ga; probably deku ga (puppet/dolt) or similar insult."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,532 @@
+{
+ "slice": 117,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpg_ghh_618",
+   "en": "Don't blame me if you get caught up in this!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'makizoe o kutte mo shinan zo'; read as 'shiran zo' as in clip 301."
+  },
+  {
+   "id": "vpg_ghh_619",
+   "en": "I'm sending this one to its grave. Stay out of my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_620",
+   "en": "This one is a wanderer abandoned by death.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_621",
+   "en": "It's waiting for its end! It's seeking it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_622",
+   "en": "I'll guide you to where you must go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_623",
+   "en": "I won't give the white one to anyone. I'm the one who kills it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_624",
+   "en": "This is Graham.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_000",
+   "en": "I'm heading out too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_101",
+   "en": "I won't fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_102",
+   "en": "Let's begin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_111",
+   "en": "What a boring one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_115",
+   "en": "I just take out that one, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_119",
+   "en": "No! That one isn't this weak!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_120",
+   "en": "I wasted my time on a boring opponent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_126",
+   "en": "I don't need to know who I'm fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_130",
+   "en": "The arm the White One wounded aches.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_138",
+   "en": "Until I settle things with the White One, I...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_155",
+   "en": "I won't stop until I repay my debt to that one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_156",
+   "en": "I said I wouldn't fail. That's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_grh_160",
+   "en": "Like this, I can't repay my debt to that one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_000",
+   "en": "I'm fine. I can do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_001",
+   "en": "This is Alto Saotome. Launching!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'Saotome Alto, beruto'; last word unclear, probably a launch call."
+  },
+  {
+   "id": "vpf_alt_002",
+   "en": "Skull 4, launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_003",
+   "en": "Like hell I'll let you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_004",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_005",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle"
+   ],
+   "notes": "Whisper 'ukka'; just a grunt."
+  },
+  {
+   "id": "vpf_alt_006",
+   "en": "What the hell are you doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_007",
+   "en": "Damn you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_008",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_009",
+   "en": "Go!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Low-confidence transcript."
+  },
+  {
+   "id": "vpf_alt_010",
+   "en": "Watch this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_011",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vpf_alt_012",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle"
+   ],
+   "notes": "Whisper 'gassaa'; battle cry."
+  },
+  {
+   "id": "vpf_alt_013",
+   "en": "Quit screwing around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_014",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpf_alt_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpf_alt_016",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpf_alt_018",
+   "en": "Keep going!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_019",
+   "en": "You're too soft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_020",
+   "en": "Shut up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_100",
+   "en": "I'll end this quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_101",
+   "en": "I'll do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_102",
+   "en": "Commencing the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_103",
+   "en": "I can do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_104",
+   "en": "No mercy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_105",
+   "en": "You won't escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_106",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle"
+   ],
+   "notes": "Roar."
+  },
+  {
+   "id": "vpf_alt_107",
+   "en": "Who the hell are you guys?!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper 'omaera nani kari ya'; unclear, guessed."
+  },
+  {
+   "id": "vpf_alt_108",
+   "en": "Attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_109",
+   "en": "You're so persistent!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_110",
+   "en": "Just a little more.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_111",
+   "en": "I won't let you do as you please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_112",
+   "en": "You're nothing much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_113",
+   "en": "Nothing special.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_114",
+   "en": "Did I get it?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_115",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_116",
+   "en": "Come on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_117",
+   "en": "One after another, damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_118",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_119",
+   "en": "Target down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_120",
+   "en": "That's done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_121",
+   "en": "I can't use the shield anymore!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_122",
+   "en": "My shield?! Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_123",
+   "en": "The shield...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_124",
+   "en": "Get out of my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_125",
+   "en": "It only grazed me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_126",
+   "en": "How annoying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_127",
+   "en": "Nice skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_128",
+   "en": "This is nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_129",
+   "en": "Damn! What the hell?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_130",
+   "en": "You actually hit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_131",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_132",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_133",
+   "en": "Enough already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_135",
+   "en": "I'm not dying in a place like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_136",
+   "en": "Oh, damn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_137",
+   "en": "Is this all I've got?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_138",
+   "en": "Not here! I can't go out like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_139",
+   "en": "Don't get scared!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9329 (vpf_alt_107): Whisper 'omaera nani kari ya'; unclear, guessed."
+  ],
+  "whisper_doubt": [
+   "row 9281 (vpg_ghh_618): Whisper 'makizoe o kutte mo shinan zo'; read as 'shiran zo' as in clip 301.",
+   "row 9302 (vpf_alt_001): Whisper 'Saotome Alto, beruto'; last word unclear, probably a launch call.",
+   "row 9306 (vpf_alt_005): Whisper 'ukka'; just a grunt.",
+   "row 9310 (vpf_alt_009): Low-confidence transcript.",
+   "row 9313 (vpf_alt_012): Whisper 'gassaa'; battle cry.",
+   "row 9315 (vpf_alt_014): Grunt.",
+   "row 9328 (vpf_alt_106): Roar.",
+   "row 9329 (vpf_alt_107): Whisper 'omaera nani kari ya'; unclear, guessed."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

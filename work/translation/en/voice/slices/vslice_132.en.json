@@ -1,0 +1,542 @@
+{
+ "slice": 132,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_luk_342",
+   "en": "Um, please cooperate properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_343",
+   "en": "Come on, let's do our best together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_344",
+   "en": "This plan can work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_345",
+   "en": "Let's stay relaxed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_346",
+   "en": "With you, this mission will surely succeed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_347",
+   "en": "I'll work hard to be of use to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_348",
+   "en": "Please don't treat me like a kid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_349",
+   "en": "After this mission, let's all have some tea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_350",
+   "en": "I'll definitely protect you, so it's fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_351",
+   "en": "I'm glad to fly with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_360",
+   "en": "Um, let's try a little harder.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_361",
+   "en": "Um, do you actually need me?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Final question particle (ka) not in the transcript; read as a question"
+  },
+  {
+   "id": "vpf_luk_362",
+   "en": "We got through it somehow, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_363",
+   "en": "Good work. Let's go home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_364",
+   "en": "Please work with me on the next mission too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_365",
+   "en": "It's good it ended safely, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_366",
+   "en": "Let's go back together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_367",
+   "en": "Please sortie with me again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_368",
+   "en": "I'm really glad we're both safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_369",
+   "en": "I wish we could keep flying together like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_370",
+   "en": "I'll keep protecting you from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_371",
+   "en": "I'm so glad we got back together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_600",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Whisper heard only un over 6.6s; no real words"
+  },
+  {
+   "id": "vpf_luk_605",
+   "en": "Yes, sir! ...But this is crazy!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hai! tte muchaa desu yo: salutes then objects"
+  },
+  {
+   "id": "vpf_luk_606",
+   "en": "The test is a simulated battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_607",
+   "en": "The opponent is Pixie Team, made up of three Queadluun-Rhea.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Quadran Rea; read as Queadluun-Rhea per glossary"
+  },
+  {
+   "id": "vpf_luk_608",
+   "en": "Pixie also handled the advance recon in this area, so they're quite tough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_609",
+   "en": "Hey, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_610",
+   "en": "Let's both do our best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_611",
+   "en": "Fold data link with Frontier confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_612",
+   "en": "I know! But I'll push this thing further!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Koitsu (this thing / this one) is ambiguous: machine or enemy"
+  },
+  {
+   "id": "vpf_luk_613",
+   "en": "Huh! A beam emitter?! No, this fold energy reading...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off"
+  },
+  {
+   "id": "vpf_luk_614",
+   "en": "Could it be a fold reactor?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_616",
+   "en": "Even I... even I...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off"
+  },
+  {
+   "id": "vpf_luk_617",
+   "en": "Go, Simon, John, Peter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_618",
+   "en": "Skull 2? Michel!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_619",
+   "en": "Sheryl? This is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_620",
+   "en": "Nanase!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_621",
+   "en": "Skull 4. Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_622",
+   "en": "I can't say. But as living things, they must have some means of communication.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_623",
+   "en": "If this experiment succeeds, our fight gets much easier. I think it's worth trying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_624",
+   "en": "Incredible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_625",
+   "en": "By order of the President, I warn you: return your ship at once. Launch has not been authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_626",
+   "en": "Why would you... Our enemy is the Vajra! And yet...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off"
+  },
+  {
+   "id": "vpf_luk_627",
+   "en": "It's a pity, Major.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Zannen desu Shousa; speaker's meaning is regret or disappointment"
+  },
+  {
+   "id": "vpf_luk_628",
+   "en": "I don't mind being called a coward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_629",
+   "en": "I love you, Nanase. I'll protect you no matter what, even at the cost of my life.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_630",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_631",
+   "en": "No...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_632",
+   "en": "Skull 3 to Skull 4. Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_633",
+   "en": "Simon, John, Peter, I free you from your collars now. Unleash the power that once plunged Macross City into terror!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kubi-teru (neck-shine); read as kubiwa (collar)"
+  },
+  {
+   "id": "vpf_luk_634",
+   "en": "Judas System, release!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard rinesu; read as release"
+  },
+  {
+   "id": "vpf_luk_635",
+   "en": "For all our hopes!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Verb dropped in the source"
+  },
+  {
+   "id": "vpf_mcl_000",
+   "en": "Michael Blanc, launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_001",
+   "en": "Skull 2, ready to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_002",
+   "en": "All right, here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_003",
+   "en": "Like I'd get hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_004",
+   "en": "Whoa! Careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_005",
+   "en": "Careless of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_006",
+   "en": "Whoa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_007",
+   "en": "What an attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_008",
+   "en": "Pathetic!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard buzamana; read as buzama na (pathetic)"
+  },
+  {
+   "id": "vpf_mcl_009",
+   "en": "It's over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_010",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_011",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_012",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Pain cry"
+  },
+  {
+   "id": "vpf_mcl_013",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_014",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_015",
+   "en": "Nice one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt"
+  },
+  {
+   "id": "vpf_mcl_017",
+   "en": "Whoops!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_018",
+   "en": "Got you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_019",
+   "en": "Wide open!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_020",
+   "en": "See ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_063",
+   "en": "Luca's doing well too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_100",
+   "en": "Don't get fired up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_101",
+   "en": "Right, let's get started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_102",
+   "en": "Well, let's do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_103",
+   "en": "I'll snipe them down.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard sonneki (profit and loss); read as sogeki (sniping)"
+  },
+  {
+   "id": "vpf_mcl_104",
+   "en": "You can't fool a sniper's eyes.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 10504: Hai! tte muchaa desu yo: salutes then objects",
+   "row 10511: Koitsu (this thing / this one) is ambiguous: machine or enemy",
+   "row 10525: Zannen desu Shousa; speaker's meaning is regret or disappointment",
+   "row 10533: Verb dropped in the source"
+  ],
+  "whisper_doubt": [
+   "row 10492: Final question particle (ka) not in the transcript; read as a question",
+   "row 10506: Heard Quadran Rea; read as Queadluun-Rhea per glossary",
+   "row 10531: Heard kubi-teru (neck-shine); read as kubiwa (collar)",
+   "row 10532: Heard rinesu; read as release",
+   "row 10542: Heard buzamana; read as buzama na (pathetic)",
+   "row 10559: Heard sonneki (profit and loss); read as sogeki (sniping)"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 10512",
+   "row 10514",
+   "row 10524"
+  ]
+ }
+}

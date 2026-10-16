@@ -1,0 +1,552 @@
+{
+ "slice": 125,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_jef_189",
+   "en": "It's like Lynn Minmay has returned. Withdrawing.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript kanji garbled ('rinmin mei'); read as Lynn Minmay."
+  },
+  {
+   "id": "vpf_jef_190",
+   "en": "Well done, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_191",
+   "en": "We'll follow the Captain, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_192",
+   "en": "You've come a long way, you know.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Addressee is the player; 'omae' = familiar."
+  },
+  {
+   "id": "vpf_jef_300",
+   "en": "Take care not to drag us down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_301",
+   "en": "I don't want any stupid mistakes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_302",
+   "en": "We'll see how far we get when we can't even coordinate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_303",
+   "en": "We start the operation, too. Are you ready?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_304",
+   "en": "Looks like it has to be done. Follow me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_305",
+   "en": "We must make this operation a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_306",
+   "en": "With your skill, this operation is no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_307",
+   "en": "Show me everything you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_308",
+   "en": "It may be a tough operation, but we'll do our best.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_309",
+   "en": "Ready, you lot? Today's prey is those guys. So to speak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_310",
+   "en": "We'll show them our strength.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_311",
+   "en": "You're the key to this operation, no exaggeration. I'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_320",
+   "en": "Next time I need you to do better.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_321",
+   "en": "You did well to make it back in one piece.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_322",
+   "en": "Our coordination problems stood out, as expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_323",
+   "en": "The operation is a success. Well done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_324",
+   "en": "Not a bad hand, but you can do better.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_325",
+   "en": "Don't settle for success. Keep working at it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_326",
+   "en": "With our strength, this much is to be expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_327",
+   "en": "Keep up the good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_328",
+   "en": "Quite a skill. I'll rely on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_329",
+   "en": "It seems you helped me a great deal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_330",
+   "en": "Just like me in my younger days. Ha ha ha! Just kidding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_331",
+   "en": "Keep it up! As the ace pilot we pin our hopes on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_340",
+   "en": "Looks like it'll be a tough operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_341",
+   "en": "I have concerns, but it seems it's up to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_342",
+   "en": "The odds are low, but we have no choice but to try.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shousan' (praise); read as 'shousan' (odds)."
+  },
+  {
+   "id": "vpf_jef_343",
+   "en": "Well, are you prepared?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_344",
+   "en": "You should be able to pull this off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_345",
+   "en": "We'll make them feel our power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_346",
+   "en": "We must carry out the operation. I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_347",
+   "en": "We'll make them pay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_348",
+   "en": "You're an odd one, wanting to fight alongside us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_349",
+   "en": "Live up to my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_350",
+   "en": "Let's go. The odds are on our side.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shousan' (praise) read as 'shousan' (odds)."
+  },
+  {
+   "id": "vpf_jef_351",
+   "en": "Sorry, but I'm going to have you do something a bit reckless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_360",
+   "en": "Hardly a result you could call good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_361",
+   "en": "It was a bad bet, but it seems we won.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'budou warui' read as 'bun no warui' (long odds)."
+  },
+  {
+   "id": "vpf_jef_362",
+   "en": "This was a victory close to a miracle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_363",
+   "en": "We won this operation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_364",
+   "en": "Keep it up next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_365",
+   "en": "The operation succeeded. We return at once, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_366",
+   "en": "Well done. I thank you for your work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_367",
+   "en": "A victory we seized together. Let's savor it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_368",
+   "en": "I should learn from your strength.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_369",
+   "en": "You'll make a good wife.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literal 'ii okusan ni naru na'; addressee is the player partner (gender not given); kept literal."
+  },
+  {
+   "id": "vpf_jef_370",
+   "en": "If only I were a little younger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_371",
+   "en": "You really stopped the war. Admirable work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_600",
+   "en": "Everyone, sadly this is no exercise. All units equip Super Packs. The Captain's unit may use the Armored Pack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript opens 'shougun' (general); read as 'shokun' (everyone) as in clip 101."
+  },
+  {
+   "id": "vpf_jef_601",
+   "en": "Everyone, the enemy is yesterday's survivors. They're already inside our guard, fighting within fleet space. Show your full strength!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'sendan-chuu-iki' garbled; read as 'sendan' (fleet) space."
+  },
+  {
+   "id": "vpf_jef_602",
+   "en": "Quarter to all sortied units. This ship is about to engage the Vajra carrier at close quarters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_603",
+   "en": "We'll take the biggest prey ourselves. All ships, transform!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_604",
+   "en": "Show them why this 400-meter Quarter bears the Macross name. No, why a Macross is only this size!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Self-correcting phrasing ('iya') kept."
+  },
+  {
+   "id": "vpf_jef_605",
+   "en": "Prepare to fire the Macross Cannon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_606",
+   "en": "Blast them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_607",
+   "en": "Listen, everyone: this is a do-or-die stand. Not a single one gets through the defense line!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'haisui no jin' (drain) read as 'haisui' = back-to-the-wall; 'bouei-sen' read as 'bouei-sen' (line)."
+  },
+  {
+   "id": "vpf_jef_608",
+   "en": "All ships, transform!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_609",
+   "en": "Delta One to all S.M.S. units. We're launching an all-out attack on the main enemy force that appeared to our rear.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'tsugu' (next) read as 'tsugu' (announce)."
+  },
+  {
+   "id": "vpf_jef_610",
+   "en": "Alto, you're cleared to use the Armored Pack and reaction missiles. But we won't ease our own attack. Show your strength!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'Alto junni' (rank?) read as 'Alto junni'; kept as the name only; 'hannoudan' = reaction missiles."
+  },
+  {
+   "id": "vpf_jef_611",
+   "en": "As of now, we turn from soldiers to pirates. Our first prey is this ship. Let's go, you lot!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'genji koku' read as 'genjikoku' (the present time)."
+  },
+  {
+   "id": "vpf_jef_612",
+   "en": "Sorry, I can't do that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_613",
+   "en": "When everyone looks right, I can't help but want to look from the left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_614",
+   "en": "We're back, to crush the ambitions of Galaxy, of Grace O'Connor, and of those who side with them.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Grace O'Connato'; read as O'Connor."
+  },
+  {
+   "id": "vpf_jef_615",
+   "en": "We were being played. By their conspiracy and those who took part in it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_617",
+   "en": "All soldiers! The Vajra aren't our true enemy! Galaxy hijacked the Vajra Queen. Grace O'Connor and her people are! Those proud of their wings, follow me!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Grace O'Kora'; read as O'Connor. Run-on speech compressed to fit."
+  },
+  {
+   "id": "vpf_jef_618",
+   "en": "Now! Macross Attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_619",
+   "en": "Sleep now, my friend. Farewell. We'll meet again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_001",
+   "en": "Weigh anchor! Release stabilizers! Slow ahead!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'ikari o agero' (raise anger) read as 'ikari o ageru' (weigh anchor); 'sutamiraizaa' read as 'stabilizer'."
+  },
+  {
+   "id": "vpf_jwc_002",
+   "en": "S.M.S. Macross Quarter, launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_008",
+   "en": "Don't let your guard down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_102",
+   "en": "Show them how S.M.S. fights!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_103",
+   "en": "Sorry, but we can't let you get away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_106",
+   "en": "Blast them!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'buchikabuse' garbled; read as 'buchikamase'."
+  },
+  {
+   "id": "vpf_jwc_107",
+   "en": "Fire!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'tiaa'; read as 'faia' (fire!), as it sits between 'blast them' and 'Macross Cannon, fire'."
+  },
+  {
+   "id": "vpf_jwc_108",
+   "en": "Macross Cannon, fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_112",
+   "en": "Looks like you underestimated our power.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9924 (vpf_jef_192): Addressee is the player; 'omae' = familiar.",
+   "row 9970 (vpf_jef_369): Literal 'ii okusan ni naru na'; addressee is the player partner (gender not given); kept literal.",
+   "row 9977 (vpf_jef_604): Self-correcting phrasing ('iya') kept.",
+   "row 9983 (vpf_jef_610): Transcript 'Alto junni' (rank?) read as 'Alto junni'; kept as the name only; 'hannoudan' = reaction missiles."
+  ],
+  "whisper_doubt": [
+   "row 9921 (vpf_jef_189): Transcript kanji garbled ('rinmin mei'); read as Lynn Minmay.",
+   "row 9951 (vpf_jef_342): Transcript 'shousan' (praise); read as 'shousan' (odds).",
+   "row 9959 (vpf_jef_350): Transcript 'shousan' (praise) read as 'shousan' (odds).",
+   "row 9962 (vpf_jef_361): Transcript 'budou warui' read as 'bun no warui' (long odds).",
+   "row 9973 (vpf_jef_600): Transcript opens 'shougun' (general); read as 'shokun' (everyone) as in clip 101.",
+   "row 9974 (vpf_jef_601): Transcript 'sendan-chuu-iki' garbled; read as 'sendan' (fleet) space.",
+   "row 9980 (vpf_jef_607): Transcript 'haisui no jin' (drain) read as 'haisui' = back-to-the-wall; 'bouei-sen' read as 'bouei-sen' (line).",
+   "row 9982 (vpf_jef_609): Transcript 'tsugu' (next) read as 'tsugu' (announce).",
+   "row 9983 (vpf_jef_610): Transcript 'Alto junni' (rank?) read as 'Alto junni'; kept as the name only; 'hannoudan' = reaction missiles.",
+   "row 9984 (vpf_jef_611): Transcript 'genji koku' read as 'genjikoku' (the present time).",
+   "row 9987 (vpf_jef_614): Transcript 'Grace O'Connato'; read as O'Connor.",
+   "row 9989 (vpf_jef_617): Transcript 'Grace O'Kora'; read as O'Connor. Run-on speech compressed to fit.",
+   "row 9992 (vpf_jwc_001): Transcript 'ikari o agero' (raise anger) read as 'ikari o ageru' (weigh anchor); 'sutamiraizaa' read as 'stabilizer'.",
+   "row 9997 (vpf_jwc_106): Transcript 'buchikabuse' garbled; read as 'buchikamase'.",
+   "row 9998 (vpf_jwc_107): Transcript 'tiaa'; read as 'faia' (fire!), as it sits between 'blast them' and 'Macross Cannon, fire'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

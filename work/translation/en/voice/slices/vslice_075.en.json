@@ -1,0 +1,514 @@
+{
+ "slice": 75,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_hik_326",
+   "en": "You did well on that op.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_327",
+   "en": "Next op, I'm counting on you too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_328",
+   "en": "Hey, you're pretty good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_329",
+   "en": "Guess I can't talk big anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_330",
+   "en": "Guess you didn't need my support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_340",
+   "en": "It's not like I'm in the military by choice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_341",
+   "en": "Oh boy, sortieing with you again today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_342",
+   "en": "Seriously, who has time to babysit you?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript is fragmentary; meaning guessed."
+  },
+  {
+   "id": "vps_hik_344",
+   "en": "Hey, don't rush out recklessly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_345",
+   "en": "Yeah, yeah, I'm going without being told.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_346",
+   "en": "Ah, wait a second.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_347",
+   "en": "Don't panic. Calm down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_348",
+   "en": "Yes, yes, support understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_349",
+   "en": "I feel like I'll be fine with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_350",
+   "en": "Leave the support to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_351",
+   "en": "I wish we could have flown side by side somewhere else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_360",
+   "en": "Well, aren't you good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_361",
+   "en": "You're awfully strong, aren't you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_362",
+   "en": "Are you actually serious, pal?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Otaku' here is the colloquial 'you' (otaku), not the fan term."
+  },
+  {
+   "id": "vps_hik_363",
+   "en": "Well then, time to head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_364",
+   "en": "You okay, pal?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Otaku' here is the colloquial 'you', not the fan term."
+  },
+  {
+   "id": "vps_hik_365",
+   "en": "That went okay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_366",
+   "en": "Aw, now I owe you one.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kari wo tsukuccha' as 'hunting'; read as 'kari' (debt)."
+  },
+  {
+   "id": "vps_hik_368",
+   "en": "Same again next time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_369",
+   "en": "Op's over. How about we go all out tonight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_370",
+   "en": "Shall we make a little detour on the way back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_371",
+   "en": "Hey, isn't that pretty amazing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_600",
+   "en": "Alright, time to get out of here!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject not stated; escape of the group or Hikaru alone."
+  },
+  {
+   "id": "vps_lyn_000",
+   "en": "Can I really do support work?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_001",
+   "en": "My manager sure lined up quite a job for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_002",
+   "en": "I'm ready! Let's do our best together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_100",
+   "en": "Huh? Really? It's starting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_101",
+   "en": "Hmm, I wonder if I'll make it in time for the concert.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'konseputo' (concept); read as 'konsaato' (concert)."
+  },
+  {
+   "id": "vps_lyn_102",
+   "en": "I'm a little nervous, but I'll do my very best too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_106",
+   "en": "Do your very best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_107",
+   "en": "Show me your cool side once in a while!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_108",
+   "en": "No way, that's amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_139",
+   "en": "It's dangerous like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_140",
+   "en": "That looks painful. Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_141",
+   "en": "Oh, how unlucky.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_142",
+   "en": "Did they get shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_143",
+   "en": "Oh, stop it. You're always joking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_144",
+   "en": "Oh no!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_148",
+   "en": "You came to help me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_149",
+   "en": "Thank you. You came to back us up, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_150",
+   "en": "Huh? Is that someone on our side?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_154",
+   "en": "Mm-hm. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_155",
+   "en": "We did it! Isn't that wonderful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_156",
+   "en": "Oh no, my hair is a total mess!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_175",
+   "en": "I'll sing with all my feelings for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_176",
+   "en": "I'll do my very best too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_177",
+   "en": "If I can be of use to you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_178",
+   "en": "Yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_179",
+   "en": "Okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_180",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_181",
+   "en": "It's dangerous like that, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_182",
+   "en": "I need you to pull yourself together, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_183",
+   "en": "Are you really the captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_184",
+   "en": "I can't believe the captain got shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_185",
+   "en": "Captain, are you alive?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_186",
+   "en": "Oh, the captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_190",
+   "en": "Just what I'd expect of the captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_191",
+   "en": "That was cool, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_192",
+   "en": "You did it, Hikaru!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_194",
+   "en": "I'll sing with all my heart!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_195",
+   "en": "I'm going to sing. Please listen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_320",
+   "en": "Phew, I thought it was over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_321",
+   "en": "I should be heading home. My aunt and uncle worry if I'm alone with a guy too long.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_322",
+   "en": "Next time, do it properly, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_323",
+   "en": "Let's keep being friends from now on, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_324",
+   "en": "Not bad! That was cool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_325",
+   "en": "I'm glad you're safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_326",
+   "en": "Don't make me worry like that again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_327",
+   "en": "Good work. When we're back, come see my concert. Promise!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_328",
+   "en": "You're an excellent pilot, after all. I knew you'd do great.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_329",
+   "en": "I'll give you a scarf next time. I'm sure it'll look good on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_330",
+   "en": "My boyfriend, a pilot? Just kidding!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_331",
+   "en": "You know, I've actually liked you all along. Hee hee, I'm not acting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_360",
+   "en": "Ugh, never again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_361",
+   "en": "Really, I'm just worn out.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5928: Transcript is fragmentary; meaning guessed.",
+   "row 5939: 'Otaku' here is the colloquial 'you' (otaku), not the fan term.",
+   "row 5941: 'Otaku' here is the colloquial 'you', not the fan term.",
+   "row 5948: Subject not stated; escape of the group or Hikaru alone."
+  ],
+  "whisper_doubt": [
+   "row 5943: Heard 'kari wo tsukuccha' as 'hunting'; read as 'kari' (debt).",
+   "row 5953: Heard 'konseputo' (concept); read as 'konsaato' (concert)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

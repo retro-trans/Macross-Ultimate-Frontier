@@ -1,0 +1,538 @@
+{
+ "slice": 111,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_mln_351",
+   "en": "All right, charge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_360",
+   "en": "At this rate it's mayonnaise rice again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_361",
+   "en": "Sheesh, you're such a handful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_362",
+   "en": "And you call yourself a pilot? You're such a klutz!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_363",
+   "en": "Looks like we got through it somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_364",
+   "en": "All right, let's go home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_365",
+   "en": "Good work, everyone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_366",
+   "en": "Keeping up with me? Not bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_367",
+   "en": "Hmm, not bad for a pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_368",
+   "en": "Let's do it again next time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_369",
+   "en": "Come on, let's go home and have tea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_370",
+   "en": "You'll come to my live show when we get back, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_371",
+   "en": "I never felt like we'd lose.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_600",
+   "en": "Gamlin? What's gotten into you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_601",
+   "en": "Protodeviln stuck to Gamlin, get out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_602",
+   "en": "Gamlin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_000",
+   "en": "This is Ray Lovelock, Sound Force. Heading out.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'Sound Horse'; read as Sound Force."
+  },
+  {
+   "id": "vp7_ray_001",
+   "en": "Standing by! Let's make today's live show a hit, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_002",
+   "en": "I was an ace pilot once too. I won't hold you back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_003",
+   "en": "So close.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_004",
+   "en": "Make it in time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_005",
+   "en": "The tempo's too slow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_006",
+   "en": "Auto.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Single word 'oto' (auto); low confidence, maybe a mishearing."
+  },
+  {
+   "id": "vp7_ray_007",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_008",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vp7_ray_009",
+   "en": "While I'm at it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_010",
+   "en": "There's more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_011",
+   "en": "How about this one?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_012",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle"
+   ],
+   "notes": "Whisper gave 'guuauto'; unintelligible shout."
+  },
+  {
+   "id": "vp7_ray_013",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle"
+   ],
+   "notes": "Whisper gave 'foo'; unintelligible."
+  },
+  {
+   "id": "vp7_ray_014",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_015",
+   "en": "That scared me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vp7_ray_017",
+   "en": "Ow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_018",
+   "en": "You're not getting away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_019",
+   "en": "Sorry about that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_020",
+   "en": "All right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_100",
+   "en": "All right, time for a special live show. Let's start!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_101",
+   "en": "We've got to make this show a good one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_102",
+   "en": "We'll make sure Fire Bomber's song is heard far and wide!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'tooku to'; read as 'tooku made'."
+  },
+  {
+   "id": "vp7_ray_103",
+   "en": "You're going to hear our song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_104",
+   "en": "You won't get away that easily.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_105",
+   "en": "You're going to listen properly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_106",
+   "en": "Time for one big bang!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_107",
+   "en": "Listen to my keyboard! Isn't that how it goes?",
+   "flags": [],
+   "notes": "Parody of Basara's 'Listen to my song'."
+  },
+  {
+   "id": "vp7_ray_108",
+   "en": "Listen up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_109",
+   "en": "This feels pretty good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_110",
+   "en": "So, do you still want more?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_111",
+   "en": "Hot, isn't it? That's our sound.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_112",
+   "en": "There's a knack to flying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_113",
+   "en": "I was an ace pilot, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_114",
+   "en": "What a lousy, groove-less tune.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_115",
+   "en": "What's going on?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_116",
+   "en": "Here they come!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Last word 'sutaga' unclear; read as ossu/'here they come'."
+  },
+  {
+   "id": "vp7_ray_117",
+   "en": "Looks like our VIP guests have arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_118",
+   "en": "Looks like I went a little too far.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_119",
+   "en": "Hey, hey! Leaving in the middle of the show is bad manners!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_120",
+   "en": "Damn! We lost some of the audience!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_121",
+   "en": "Uh-oh. The shield's been knocked out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_122",
+   "en": "You took out my shield, huh. Nice going.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shield ga yatte kureru' garbled; read as 'shield o yatte kureru'."
+  },
+  {
+   "id": "vp7_ray_123",
+   "en": "Hey, shields aren't free, you know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_124",
+   "en": "You scratched my precious machine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_125",
+   "en": "I can still handle this much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_126",
+   "en": "Damn it, you're paying for the repairs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_127",
+   "en": "We're just getting started.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_128",
+   "en": "You're doing whatever you like, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_129",
+   "en": "I'm losing my touch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_130",
+   "en": "This is a little bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_131",
+   "en": "Hot!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper 'attake'; read as hot/that stung."
+  },
+  {
+   "id": "vp7_ray_132",
+   "en": "I can't run away here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_133",
+   "en": "Man, that's rough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_134",
+   "en": "Too strong.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_135",
+   "en": "Giving up just isn't my style.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_137",
+   "en": "Engine's hit. I can't get any power. Making an emergency landing.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'fujishaku'; read as fujichaku (emergency landing)."
+  },
+  {
+   "id": "vp7_ray_138",
+   "en": "A former ace is just past glory.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript slightly garbled."
+  },
+  {
+   "id": "vp7_ray_139",
+   "en": "Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_140",
+   "en": "You're a bit short of your usual energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_141",
+   "en": "You'll get yourself killed someday. Seriously.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_142",
+   "en": "What, you got shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_143",
+   "en": "Getting shot down before me is cheating!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8823 (vp7_ray_006): Single word 'oto' (auto); low confidence, maybe a mishearing.",
+   "row 8854 (vp7_ray_116): Last word 'sutaga' unclear; read as ossu/'here they come'.",
+   "row 8869 (vp7_ray_131): Whisper 'attake'; read as hot/that stung.",
+   "row 8875 (vp7_ray_138): Transcript slightly garbled."
+  ],
+  "whisper_doubt": [
+   "row 8817 (vp7_ray_000): Whisper wrote 'Sound Horse'; read as Sound Force.",
+   "row 8823 (vp7_ray_006): Single word 'oto' (auto); low confidence, maybe a mishearing.",
+   "row 8829 (vp7_ray_012): Whisper gave 'guuauto'; unintelligible shout.",
+   "row 8830 (vp7_ray_013): Whisper gave 'foo'; unintelligible.",
+   "row 8840 (vp7_ray_102): Whisper 'tooku to'; read as 'tooku made'.",
+   "row 8854 (vp7_ray_116): Last word 'sutaga' unclear; read as ossu/'here they come'.",
+   "row 8860 (vp7_ray_122): Transcript 'shield ga yatte kureru' garbled; read as 'shield o yatte kureru'.",
+   "row 8869 (vp7_ray_131): Whisper 'attake'; read as hot/that stung.",
+   "row 8874 (vp7_ray_137): Whisper 'fujishaku'; read as fujichaku (emergency landing)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

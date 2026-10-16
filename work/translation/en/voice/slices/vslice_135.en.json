@@ -1,0 +1,547 @@
+{
+ "slice": 135,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_mcl_629",
+   "en": "Sorry, Klan. Sorry I couldn't tell you until now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_mcl_630",
+   "en": "I feel the same about you...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Sentence continues in the next clip (mcl_631): \"I love you\". Cut at the clip boundary."
+  },
+  {
+   "id": "vpf_mcl_631",
+   "en": "...I love you!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"aishite\"; almost certainly \"aishiteru\" (I love you), the end of mcl_630."
+  },
+  {
+   "id": "vpf_mcl_632",
+   "en": "Luca's doing well too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_000",
+   "en": "Ozma Lee, launching!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Ozubarii\"; the stock launch call with his name, Ozma Lee."
+  },
+  {
+   "id": "vpf_ozm_001",
+   "en": "Skull 1, launching!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Skull One, beru\"; likely \"deru\" (going out/launching)."
+  },
+  {
+   "id": "vpf_ozm_002",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_003",
+   "en": "Not on my watch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_004",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Short breath."
+  },
+  {
+   "id": "vpf_ozm_005",
+   "en": "Whoa! That was close!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_006",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_007",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_008",
+   "en": "Bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_009",
+   "en": "Take this!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"itadake\" (take it); low confidence, read as a battle cry."
+  },
+  {
+   "id": "vpf_ozm_010",
+   "en": "Now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_011",
+   "en": "Out of my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_012",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Roar."
+  },
+  {
+   "id": "vpf_ozm_013",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Pain scream."
+  },
+  {
+   "id": "vpf_ozm_014",
+   "en": "Damn you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_017",
+   "en": "Huh!?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Short startled sound; low confidence."
+  },
+  {
+   "id": "vpf_ozm_018",
+   "en": "Take that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_019",
+   "en": "Too bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_020",
+   "en": "Yes, sir!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "0.5 s \"hai\"; reply to an order (mission MA_030)."
+  },
+  {
+   "id": "vpf_ozm_100",
+   "en": "All right, let's get started.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"otte hajimeru\" (chase); probably \"oppajimeru\" (kick off)."
+  },
+  {
+   "id": "vpf_ozm_101",
+   "en": "Watch me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_102",
+   "en": "Operation start! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_103",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_104",
+   "en": "Get lost already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_105",
+   "en": "Don't hold it against me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_106",
+   "en": "You son of a bitch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_108",
+   "en": "Drop dead!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_109",
+   "en": "Can you dodge with moves like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_110",
+   "en": "You won't get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_111",
+   "en": "Still alive?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_112",
+   "en": "You picked the wrong opponent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_113",
+   "en": "Got you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_114",
+   "en": "Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_115",
+   "en": "What are you scheming?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_116",
+   "en": "You again, damn it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_117",
+   "en": "Target sighted! Attacking!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_118",
+   "en": "How's that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_119",
+   "en": "Did I get it!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_120",
+   "en": "Target destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_121",
+   "en": "Shield's busted, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_122",
+   "en": "The shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_123",
+   "en": "Damn!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"notta\" (low confidence); likely \"shimatta\" (damn)."
+  },
+  {
+   "id": "vpf_ozm_124",
+   "en": "Tch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_125",
+   "en": "Hm?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_126",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_127",
+   "en": "What a pest!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_129",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Breathing, garbled transcript."
+  },
+  {
+   "id": "vpf_ozm_130",
+   "en": "I see. So you're no amateur.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_131",
+   "en": "Heh! That's just a scratch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_132",
+   "en": "Quit screwing around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_133",
+   "en": "So what!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_134",
+   "en": "Me, eaten!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_135",
+   "en": "I promised I'd never die!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_136",
+   "en": "Never thought I'd be the one getting eaten.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_137",
+   "en": "Ranka... I'm sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_138",
+   "en": "Lost too much blood, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_139",
+   "en": "Don't zone out! Here they come!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"poketto shiten ja nee\" (pocket); probably \"boyatto shiten ja nee\" (don't space out)."
+  },
+  {
+   "id": "vpf_ozm_140",
+   "en": "Hey! If you're going to be dead weight, go home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_141",
+   "en": "Don't push yourself! Return to base for now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_142",
+   "en": "What's wrong? Respond!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"odoshiro\" (threaten); probably \"outou shiro\" (respond)."
+  },
+  {
+   "id": "vpf_ozm_143",
+   "en": "Is the military short on manpower too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_144",
+   "en": "Run! Quickly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_148",
+   "en": "Reinforcements? Thanks for the help!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_149",
+   "en": "So we've got the upper hand now... right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_150",
+   "en": "Friendlies?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_151",
+   "en": "Damn, you'll pay for that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_152",
+   "en": "Damn! I can't protect them!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Object of \"protect\" is omitted in Japanese; read as the allies or escort target."
+  },
+  {
+   "id": "vpf_ozm_153",
+   "en": "They got taken out, huh.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject omitted; read as an ally or escort target lost, not Ozma himself."
+  },
+  {
+   "id": "vpf_ozm_154",
+   "en": "Mission complete! Good job holding on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_155",
+   "en": "Told you, didn't I? I don't die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_156",
+   "en": "Operation over. Returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_157",
+   "en": "Too late, you say?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_158",
+   "en": "Damn! Out of time! Retreat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_159",
+   "en": "Can't make it in time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_160",
+   "en": "I was being careful so this wouldn't happen, and yet...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_161",
+   "en": "No good. Pulling back for now.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"ikkan iku zo\"; probably \"ittan hiku zo\" (pull back for now), matching Ozma's other retreat lines."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "vpf_ozm_020: 0.5 s \"hai\"; reply to an order (mission MA_030).",
+   "vpf_ozm_152: Object of \"protect\" is omitted in Japanese; read as the allies or escort target.",
+   "vpf_ozm_153: Subject omitted; read as an ally or escort target lost, not Ozma himself."
+  ],
+  "whisper_doubt": [
+   "vpf_mcl_631: Heard \"aishite\"; almost certainly \"aishiteru\" (I love you), the end of mcl_630.",
+   "vpf_ozm_000: Heard \"Ozubarii\"; the stock launch call with his name, Ozma Lee.",
+   "vpf_ozm_001: Heard \"Skull One, beru\"; likely \"deru\" (going out/launching).",
+   "vpf_ozm_009: Heard \"itadake\" (take it); low confidence, read as a battle cry.",
+   "vpf_ozm_017: Short startled sound; low confidence.",
+   "vpf_ozm_100: Heard \"otte hajimeru\" (chase); probably \"oppajimeru\" (kick off).",
+   "vpf_ozm_123: Heard \"notta\" (low confidence); likely \"shimatta\" (damn).",
+   "vpf_ozm_139: Heard \"poketto shiten ja nee\" (pocket); probably \"boyatto shiten ja nee\" (don't space out).",
+   "vpf_ozm_142: Heard \"odoshiro\" (threaten); probably \"outou shiro\" (respond).",
+   "vpf_ozm_161: Heard \"ikkan iku zo\"; probably \"ittan hiku zo\" (pull back for now), matching Ozma's other retreat lines."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "vpf_mcl_630: Sentence continues in the next clip (mcl_631): \"I love you\". Cut at the clip boundary."
+  ]
+ }
+}

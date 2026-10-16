@@ -1,0 +1,1680 @@
+{
+ "slice": 11,
+ "rows_in_slice": 274,
+ "rows_examined": 274,
+ "rows": [
+  {
+   "id": "u2809",
+   "en": "Heh, you came. Annihilation Beauty.",
+   "flags": [],
+   "notes": "review: refit: UI copy of title row 1099, changed identically"
+  },
+  {
+   "id": "u2810",
+   "en": "Versus Wins: 115",
+   "flags": [],
+   "notes": "review: Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2811",
+   "en": "Yack deculture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2812",
+   "en": "Versus Wins: 120",
+   "flags": [],
+   "notes": "review: Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2813",
+   "en": "How dare mere lower lifeforms...!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2814",
+   "en": "Versus Wins: 125",
+   "flags": [],
+   "notes": "review: Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2815",
+   "en": "Heh, such futile struggling...!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2816",
+   "en": "Versus Wins: 130",
+   "flags": [],
+   "notes": "review: Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2817",
+   "en": "Now learn our power!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2818",
+   "en": "Versus Wins: 135",
+   "flags": [],
+   "notes": "review: Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2819",
+   "en": "Ah... it's connected...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2820",
+   "en": "Versus Wins: 140",
+   "flags": [],
+   "notes": "review: Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2821",
+   "en": "Those goddamn bugs...!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2822",
+   "en": "Versus Wins: 145",
+   "flags": [],
+   "notes": "review: Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2823",
+   "en": "We now have the whole universe!",
+   "flags": [],
+   "notes": "review: refit: UI copy of title row 1106, changed identically"
+  },
+  {
+   "id": "u2824",
+   "en": "Versus Wins: 150",
+   "flags": [],
+   "notes": "review: Unlock condition: match the 'Versus Wins: N' form used by the other 40 rows of this list (u2731-u2808)."
+  },
+  {
+   "id": "u2825",
+   "en": "Weak Finisher",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2826",
+   "en": "Play Time\n1 Hour",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2827",
+   "en": "Can't Stand Losing",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2828",
+   "en": "Play Time\n2 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2829",
+   "en": "Sitting Duck",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2830",
+   "en": "Play Time\n3 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2831",
+   "en": "Luck Is Skill Too",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2832",
+   "en": "Play Time\n5 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2833",
+   "en": "Headlong Charger",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2834",
+   "en": "Play Time\n8 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2835",
+   "en": "Assistant Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2836",
+   "en": "Play Time\n12 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2837",
+   "en": "Gambler",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2838",
+   "en": "Play Time\n18 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2839",
+   "en": "Finesse Fighter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2840",
+   "en": "Play Time\n24 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2841",
+   "en": "One-Hit Kill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2842",
+   "en": "Play Time\n30 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2843",
+   "en": "Cool and Collected",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2844",
+   "en": "Play Time\n50 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2845",
+   "en": "Full Mastery",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2846",
+   "en": "Play Time\n75 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2847",
+   "en": "Legendary Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2848",
+   "en": "Play Time\n100 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2849",
+   "en": "Missile Heaven",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2850",
+   "en": "Missiles Fired\nOver 1,000,000",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2851",
+   "en": "Everyone's Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2852",
+   "en": "Affinity: All A",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2853",
+   "en": "Angel Ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2854",
+   "en": "Player Pilot\nStats\nAll 99",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2855",
+   "en": "Support Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2856",
+   "en": "Player Pilot\nAll Skills Obtained",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2857",
+   "en": "Records Strategist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2858",
+   "en": "All Pilots Obtained",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2859",
+   "en": "Mecha Collector",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2860",
+   "en": "All Units Obtained",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2861",
+   "en": "Champion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2862",
+   "en": "Campaign Missions\nAll S or Higher",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2863",
+   "en": "Eternal Champion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2864",
+   "en": "Campaign Missions\nAll SS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2865",
+   "en": "Ultimate Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2866",
+   "en": "Earn All 8 Titles\nListed Above",
+   "flags": [],
+   "notes": "Lit. 'earn all of the previous 8 titles'."
+  },
+  {
+   "id": "u2867",
+   "en": "Close Range? Bring It On!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2868",
+   "en": "Melee Attack Usage\n65% or More",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2869",
+   "en": "Long-Range Support Type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2870",
+   "en": "Shooting Attack Usage\n65% or More",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2871",
+   "en": "Vocalist Declaration!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2872",
+   "en": "Song Usage\n65% or More",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2873",
+   "en": "Battroid Love",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2874",
+   "en": "Battroid Mode\nUsage 65% or More",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2875",
+   "en": "GERWALK Love",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2876",
+   "en": "GERWALK Mode\nUsage 65% or More",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2877",
+   "en": "Fighter Love",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2878",
+   "en": "Fighter Mode\nUsage 65% or More",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2879",
+   "en": "Nyan-Nyan Shop Owner",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2880",
+   "en": "Ultimate Mode\nEX Challenge\nAll Cleared",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2881",
+   "en": "My S-L-A-V-E",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2882",
+   "en": "Nyan-Nyan Shop Exclusive",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2883",
+   "en": "Go In and Get Smashed to Pieces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2884",
+   "en": "To the Endth of the Galaxy☆",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2885",
+   "en": "Professor Piro-Piro",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2886",
+   "en": "Sniper of Seduction",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2887",
+   "en": "Boob Meister",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2888",
+   "en": "Lone Wolf",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2889",
+   "en": "Shin\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2890",
+   "en": "Booze and Women",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2891",
+   "en": "Focker (Zero)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2892",
+   "en": "Sadistic",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2893",
+   "en": "Nora\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2894",
+   "en": "Daisy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2895",
+   "en": "Ivanov\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2896",
+   "en": "Faceless",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2897",
+   "en": "Zentradi Soldier\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2898",
+   "en": "Strongest Groom",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2899",
+   "en": "Max (Giant)\nUnlocked",
+   "flags": [],
+   "notes": "Max at Zentradi (macronized) size."
+  },
+  {
+   "id": "u2900",
+   "en": "Deculture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2901",
+   "en": "Golg Boddole Zer\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2902",
+   "en": "Virtual Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2903",
+   "en": "Sharon\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2904",
+   "en": "Pink Pecker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2905",
+   "en": "Ray\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2906",
+   "en": "Street Performer?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2907",
+   "en": "Veffidas\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2908",
+   "en": "Macross 7 Fleet Commander",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2909",
+   "en": "Max (Captain)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2910",
+   "en": "Spiritia Paradise",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2911",
+   "en": "Gepelnitchi\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2912",
+   "en": "Wandering Vocalist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2913",
+   "en": "Basara (Shirt)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2914",
+   "en": "Dynamite!!",
+   "flags": [],
+   "notes": "Title paired with Basara (Pilot Suit)."
+  },
+  {
+   "id": "u2915",
+   "en": "Basara (Pilot Suit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2916",
+   "en": "Dynamite...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2917",
+   "en": "Graham\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2918",
+   "en": "Mischievous Dandy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2919",
+   "en": "Jeffrey\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2920",
+   "en": "White Larva",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2921",
+   "en": "Vajra (S)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2922",
+   "en": "Red Rampager",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2923",
+   "en": "Vajra (L)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2924",
+   "en": "Sara\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2925",
+   "en": "Kadun of the Curse",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2926",
+   "en": "Sara (Bird Human)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2927",
+   "en": "The First Miss Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2928",
+   "en": "Minmay (Swimsuit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2929",
+   "en": "Minmay (Love Drifts Away)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2930",
+   "en": "\"Nyan-Nyan\" Poster Girl",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2931",
+   "en": "Minmay (Casual)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2932",
+   "en": "Shao Pai Long",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2933",
+   "en": "Minmay (Medley)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2934",
+   "en": "Minmay (Final Battle)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2935",
+   "en": "Secret Date!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2936",
+   "en": "Minmay (Pilot Suit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2937",
+   "en": "School Festival Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2938",
+   "en": "Myung\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2939",
+   "en": "Wanted! Spiritia!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2940",
+   "en": "Sivil\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2941",
+   "en": "Basara's Self-Proclaimed Disciple",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2942",
+   "en": "Elma\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2943",
+   "en": "Rookie Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2944",
+   "en": "Ranka (Pilot Suit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2945",
+   "en": "Seikan Hikou",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary form has a macron o, which is not Shift-JIS encodable; used 'Seikan Hikou' as the Anata no Oto note suggests."
+  },
+  {
+   "id": "u2946",
+   "en": "Ranka (Kira☆)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2947",
+   "en": "Ranka (Dress)\nUnlocked",
+   "flags": [],
+   "notes": "'One-piece' outfit rendered 'Dress'."
+  },
+  {
+   "id": "u2948",
+   "en": "Aimo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2949",
+   "en": "Ranka (Hypnotized)\nClear Enemy \"Koi no Uta\"\nat S Rank or Higher",
+   "flags": [],
+   "notes": "Mission name romanized like 'Anata no Oto' (u0313); mission row u0318 not yet translated."
+  },
+  {
+   "id": "u2950",
+   "en": "Top Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2951",
+   "en": "Sheryl (Pilot Suit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2952",
+   "en": "Sagittarius ☆ 9 PM",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2953",
+   "en": "Sheryl (Uniform)\nUnlocked",
+   "flags": [],
+   "notes": "Military uniform outfit."
+  },
+  {
+   "id": "u2954",
+   "en": "Northern Cross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2955",
+   "en": "Sheryl (Final Battle)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2956",
+   "en": "Song Priestess",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2957",
+   "en": "Ishtar\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2958",
+   "en": "Wholesome Boy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2959",
+   "en": "Yuuto Kagura\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2960",
+   "en": "Reliable Big Bro",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2961",
+   "en": "Gary Murdoch\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2962",
+   "en": "Tough Guy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2963",
+   "en": "Luis Fernando\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2964",
+   "en": "Bit of an Airhead",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2965",
+   "en": "Miyuki Shirakawa\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2966",
+   "en": "Big Sis",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2967",
+   "en": "Hilda V. Bergen\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2968",
+   "en": "Peppy Kid",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2969",
+   "en": "Yui Hoshimura\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2970",
+   "en": "Black-Rimmed Glasses",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2971",
+   "en": "Itsuki Yamashiro\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2972",
+   "en": "Hard Worker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2973",
+   "en": "Yuu Akimizu\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2974",
+   "en": "Admired Big Sister",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2975",
+   "en": "Claire Stanford\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2976",
+   "en": "Voice Therapist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2977",
+   "en": "Pinon Colette\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2978",
+   "en": "Training Completion Bonus\nAll units receive\n%d Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2979",
+   "en": "Era Clear Bonus\nUnits from the cleared era\nreceive %d Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2980",
+   "en": "{lThe pilot restrictions on Vrlitwhai Kridanik, Gavil,\nthe Fire Valkyrie, the Mylene Valkyrie and\nKlan's Queadluun-Rhea} have been lifted.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Lit. 'boarding restrictions'. Long lines; may need reflow at insertion."
+  },
+  {
+   "id": "u2981",
+   "en": "{lEra restrictions} have been lifted.\nUnits you have obtained can now\nsortie in any era.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2982",
+   "en": "{lThe lower limit on unit base stats} has been lifted.\nTuning a unit below its base stats\nnow refunds Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2983",
+   "en": "{lUnit performance limits} have been lifted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2984",
+   "en": "{lOperator selection} is\nnow available.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2985",
+   "en": "{lNyan-Nyan Shop line selection} has\nbeen unlocked.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Lit. 'Nyan-Nyan Shop dialogue/line selection'; exact feature unclear."
+  },
+  {
+   "id": "u2986",
+   "en": "{lEX Challenge Mode} has\nbeen unlocked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2987",
+   "en": "{lUltimate Mode} has\nbeen unlocked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2988",
+   "en": "The Nyan-Nyan Shop is now at max level.\nAll Nyan-Nyan Shop items are now free.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2989",
+   "en": "{lBGM selection} is now available.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2990",
+   "en": "{lPilot skill restrictions} have been lifted.\nAll skills can now be learned.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2991",
+   "en": "{lUnit size restrictions} have been lifted.\nPilots can now board any unit\nregardless of their body size.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2992",
+   "en": "New mission added.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2993",
+   "en": "New mission added to Versus Mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2994",
+   "en": "New mission added to Co-op Mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2995",
+   "en": "{k%s} is\nnow available.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2996",
+   "en": "{p%s} is\nnow available.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2997",
+   "en": "%s has been promoted\nfrom %s to {c%s}.",
+   "flags": [],
+   "notes": "Placeholder order kept: name, old rank, new rank."
+  },
+  {
+   "id": "u2998",
+   "en": "The performance limit of\n{l%s} has been lifted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2999",
+   "en": "You have earned the title\n{t［%s］}.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3000",
+   "en": "You have obtained the Add-on Equipment\n{s［%s］}.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3001",
+   "en": "All Missions Cleared Bonus\nAll units receive %d Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3002",
+   "en": "All Missions Cleared Bonus\nAll units receive %d Tune Points.\nYou receive %d Nyan-Nyan Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3003",
+   "en": "All Missions S-Ranked Bonus\nAll units receive %d Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3004",
+   "en": "All Missions S-Ranked Bonus\nAll units receive %d Tune Points.\nYou receive %d Nyan-Nyan Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3005",
+   "en": "When selecting units and characters in the Hangar,\npress the analog stick left/right to switch between each era's factions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3006",
+   "en": "Chronicle Mode has been unlocked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3007",
+   "en": "Enemy Mode has been unlocked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3008",
+   "en": "Extra Mode has been unlocked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3009",
+   "en": "Select the unit you will fly\nas a test pilot\n(YF-19 or YF-21).",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3010",
+   "en": "Checking password...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3011",
+   "en": "Password accepted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3012",
+   "en": "Incorrect password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3013",
+   "en": "This password has\nalready been accepted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3014",
+   "en": "[%s]\nhas been added.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3015",
+   "en": "Please enter a password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3016",
+   "en": "Player",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3017",
+   "en": "Partner",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3018",
+   "en": "Replay Data\n",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3019",
+   "en": "Save the screenshot to the Memory Stick Duo?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3020",
+   "en": "Delete the screenshot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3021",
+   "en": "Carry over save data from\nMacross Ace Frontier?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3022",
+   "en": "Start without carrying over data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3023",
+   "en": "Sold Out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3024",
+   "en": "- %s",
+   "flags": [],
+   "notes": "Source bullet is the katakana middle dot (counts as Japanese for the checker); replaced with an ASCII hyphen."
+  },
+  {
+   "id": "u3025",
+   "en": "NP",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Lone first kanji of 'Nyan-Nyan', 2-byte slot in the shop code; probably the price unit for Nyan-Nyan Points. Check in game."
+  },
+  {
+   "id": "u3026",
+   "en": "Leave the Nyan-Nyan Shop?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3027",
+   "en": "Not enough Nyan-Nyan Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3028",
+   "en": "Buy Tune Points for\n\"%s\"?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3029",
+   "en": "Buy\n\"%s\"?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3030",
+   "en": "\"%s\"\nreceived %d\nTune Points.",
+   "flags": [],
+   "notes": "Kept %s before %d (printf order)."
+  },
+  {
+   "id": "u3031",
+   "en": "\n\nPurchased\n\"%s\".\nFrom now on, you can buy\nTune Points for it.\n",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3032",
+   "en": "\"%s\" (character) was\npurchased as a set.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Lit. 'purchased \"%s\" (character) as a set' - the character bundled with the unit."
+  },
+  {
+   "id": "u3033",
+   "en": "Purchased\n\"%s\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3034",
+   "en": "Nyan-Nyan Level increased to %d.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3035",
+   "en": "You already own this item.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3036",
+   "en": "Tune Points are at maximum.\nCannot purchase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3037",
+   "en": "Timed out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3038",
+   "en": "Waiting for connection.\nPress the × button to cancel\nand end wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3039",
+   "en": "Fire Valkyrie (Song Weapon 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3040",
+   "en": "HOLY LONELY LIGHT (Fire Valkyrie: Song Weapon 2)\nSeries: Macross 7\nVocals: FIRE BOMBER\nLyrics: K.Inojo  Music: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3041",
+   "en": "Mylene Valkyrie (Song Weapon 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3042",
+   "en": "HOLY LONELY LIGHT (Mylene Valkyrie: Song Weapon 2)\nSeries: Macross 7\nVocals: FIRE BOMBER\nLyrics: K.Inojo  Music: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3043",
+   "en": "Do You Remember Love? (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3044",
+   "en": "Do You Remember Love?\nSeries: Macross: Do You Remember Love?\nVocals: Mari Iijima\nLyrics: Kazumi Yasui  Music: Kazuhiko Kato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3045",
+   "en": "Do You Remember Love?\nSeries: Macross: Do You Remember Love?\nMusic: Kazuhiko Kato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3046",
+   "en": "Mylene Valkyrie (Song Weapon 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3047",
+   "en": "MY FRIENDS (Mylene Valkyrie: Song Weapon 1)\nSeries: Macross 7\nVocals: FIRE BOMBER\nLyrics: M.MEG  Music: Miki Kawano",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3048",
+   "en": "Sharon (Skill: Sharon's Temptation)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3049",
+   "en": "INFORMATION HIGH (Skill: Sharon's Temptation)\nSeries: Macross Plus\nLyrics: DAI&KEN=GO→  Music: CMJK",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3050",
+   "en": "Dog Fighter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3051",
+   "en": "Dog Fighter\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3052",
+   "en": "Zentradian Great Fortress (Part 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3053",
+   "en": "Zentradian Great Fortress (Part 1)\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3054",
+   "en": "Zentradian Great Fortress (Part 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3055",
+   "en": "Zentradian Great Fortress (Part 2)\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3056",
+   "en": "My Boyfriend is a Pilot (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3057",
+   "en": "My Boyfriend is a Pilot\nSeries: The Super Dimension Fortress Macross\nVocals: Mari Iijima\nLyrics: Akane Asa  Music: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3058",
+   "en": "My Boyfriend is a Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3059",
+   "en": "My Boyfriend is a Pilot\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3060",
+   "en": "INFORMATION HIGH (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3061",
+   "en": "INFORMATION HIGH\nSeries: Macross Plus\nLyrics: DAI&KEN=GO→  Music: CMJK",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3062",
+   "en": "INFORMATION HIGH\nSeries: Macross Plus\nMusic: CMJK",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3063",
+   "en": "After, in the dark\nSeries: Macross Plus\nMusic: Yoko Kanno",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Game writes the title with a comma; glossary has it without. Kept the game's Latin spelling."
+  },
+  {
+   "id": "u3064",
+   "en": "Battle Frontier (Part 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3065",
+   "en": "Battle Frontier (Part 1)\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3066",
+   "en": "Totsugeki Love Heart (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3067",
+   "en": "Totsugeki Love Heart\nSeries: Macross 7\nVocals: FIRE BOMBER\nLyrics: K.Inojo  Music: Atsutaka Kawauchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3068",
+   "en": "Totsugeki Love Heart",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3069",
+   "en": "Totsugeki Love Heart\nSeries: Macross 7\nMusic: Atsutaka Kawauchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3070",
+   "en": "HOLY LONELY LIGHT (Basara)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3071",
+   "en": "HOLY LONELY LIGHT (Basara)\nSeries: Macross 7\nVocals: FIRE BOMBER\nLyrics: K.Inojo  Music: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3072",
+   "en": "HOLY LONELY LIGHT (Mylene)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3073",
+   "en": "HOLY LONELY LIGHT (Mylene)\nSeries: Macross 7\nVocals: FIRE BOMBER\nLyrics: K.Inojo  Music: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3074",
+   "en": "HOLY LONELY LIGHT\nSeries: Macross 7\nMusic: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3075",
+   "en": "MY FRIENDS (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3076",
+   "en": "MY FRIENDS\nSeries: Macross 7\nVocals: FIRE BOMBER\nLyrics: M.MEG  Music: Miki Kawano",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3077",
+   "en": "MY FRIENDS\nSeries: Macross 7\nMusic: Miki Kawano",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3078",
+   "en": "Ace Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3079",
+   "en": "Ace Frontier\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3080",
+   "en": "Ranka (Skill: Kira☆)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3081",
+   "en": "Seikan Hikou (Skill: Kira☆)\nSeries: Macross Frontier\nVocals: Ranka Lee=Megumi Nakajima\nLyrics: Takashi Matsumoto  Music: Yoko Kanno",
+   "flags": [],
+   "notes": "review: Credit: 'Ranka Lee=Megumi Nakajima' without spaces in the 6 other credit rows in scope."
+  },
+  {
+   "id": "u3082",
+   "en": "TRY AGAIN (Vocal)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u2945/u3081: song title romanized 'Seikan Hikou' (glossary form uses a macron, not Shift-JIS encodable).",
+   "u2980: 'boarding restrictions' rendered 'pilot restrictions'; long lines, may need reflow.",
+   "u2985: Nyan-Nyan Shop 'line selection' feature unclear.",
+   "u3025: lone shop kanji rendered 'NP' (assumed Nyan-Nyan Points price unit).",
+   "u3032: '(character) purchased as a set' meaning inferred.",
+   "u3063: kept game's 'After, in the dark' (with comma) vs glossary 'After in the dark'."
+  ],
+  "missing_glossary": [
+   "Song Weapon (song armament label, coined)",
+   "Tune Points (not in terms.json)",
+   "Koi no Uta (Enemy mission name)",
+   "Credit names: Akane Asa, Hideki Sudo, Miki Kawano, Atsutaka Kawauchi, Kazumi Yasui, Kazuhiko Kato, Mari Iijima, Kentaro Haneda"
+  ],
+  "unfinished": []
+ }
+}

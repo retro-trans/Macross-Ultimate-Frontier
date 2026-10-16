@@ -1,0 +1,519 @@
+{
+ "slice": 114,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpd_svl_366",
+   "en": "Strong! You strong!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_367",
+   "en": "It worked. Yeah!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'umaku itta goo'."
+  },
+  {
+   "id": "vpd_svl_368",
+   "en": "Thrilling. Ecstasy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'zokuzoku'; read as thrill."
+  },
+  {
+   "id": "vpd_svl_369",
+   "en": "You are important.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_370",
+   "en": "Sing! Together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_371",
+   "en": "You... Anima Spiritia?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_000",
+   "en": "Where are you going?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_001",
+   "en": "I don't really get it, but I'll help too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_002",
+   "en": "I can't just leave you alone, so I'll back you up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_100",
+   "en": "So what are we going to do now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_101",
+   "en": "Did you come to catch the whale, too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_102",
+   "en": "I'm actually pretty useful, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_106",
+   "en": "Wow, wow, wow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_107",
+   "en": "Let's blow them away!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper 'baanto yucchii'; guessed 'baan to ikkocha' (go with a bang)."
+  },
+  {
+   "id": "vpg_elm_108",
+   "en": "What are you doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_139",
+   "en": "No, stop being so reckless!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'omocha bakari'; read as muchaba kari (reckless)."
+  },
+  {
+   "id": "vpg_elm_140",
+   "en": "You're really going to die!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_141",
+   "en": "It's dangerous like that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_142",
+   "en": "Aaah, you got shot down!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Partner-down group; 'yararechatta' could be read as Elma herself."
+  },
+  {
+   "id": "vpg_elm_143",
+   "en": "What are you doing?! Geez!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_144",
+   "en": "You can't do it like that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_148",
+   "en": "Yay! Allies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_149",
+   "en": "Now there's no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_150",
+   "en": "Looks like they came to help us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_154",
+   "en": "I didn't really get it, but that was amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_155",
+   "en": "See? I was useful too, wasn't I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_156",
+   "en": "Hey, hey, what were we doing in the end?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_175",
+   "en": "Go for it! I'll do my best too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_176",
+   "en": "I'm amazing when I try, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_177",
+   "en": "Warm and toasty like a hot spring, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_178",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_179",
+   "en": "Yep!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_180",
+   "en": "Uh-huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_181",
+   "en": "The captain's in trouble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_182",
+   "en": "What are you doing, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_183",
+   "en": "It's dangerous like that, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_184",
+   "en": "The captain got shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_185",
+   "en": "Oh no, the captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_186",
+   "en": "Captain, where did you go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_190",
+   "en": "Captain, you're amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_191",
+   "en": "Just what I'd expect from my master.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_192",
+   "en": "Basara really is amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_193",
+   "en": "Dad is so amazing!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Third person or direct address to Graham is not settled."
+  },
+  {
+   "id": "vpg_elm_194",
+   "en": "This medicine is amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_195",
+   "en": "My song is amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_320",
+   "en": "I don't like you anymore!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_321",
+   "en": "Wow! I thought we'd fail!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_322",
+   "en": "Did you forget how to fight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_323",
+   "en": "I was so worried!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_324",
+   "en": "Amazing! Just as expected!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_325",
+   "en": "I'm glad it ended safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_326",
+   "en": "You're an amazing person, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_327",
+   "en": "Eek! That was so cool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_328",
+   "en": "Let's keep working together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_329",
+   "en": "Now we can beat even the White Whale!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_330",
+   "en": "Make me your apprentice! I'm serious!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_331",
+   "en": "I'm tired! I know, let's go to a hot spring together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_360",
+   "en": "That was awful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_361",
+   "en": "Wow! You made it back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_362",
+   "en": "Geez, you have to be as reliable as me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_363",
+   "en": "Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_364",
+   "en": "Hm? Did we succeed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_365",
+   "en": "No problems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_366",
+   "en": "Wow! Amazing as ever! That was amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_367",
+   "en": "Let's keep doing our best together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_368",
+   "en": "It was so fast, I couldn't tell what was happening.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_369",
+   "en": "Let's go on a date sometime!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_370",
+   "en": "You'll take me as your apprentice, right? Thank you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_elm_371",
+   "en": "You must be tired! That hot spring will blow your tiredness away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_000",
+   "en": "So you came, White One!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_001",
+   "en": "I've been ready for ages. Heading out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_002",
+   "en": "There's something I have to do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_003",
+   "en": "I won't let you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_004",
+   "en": "No way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_005",
+   "en": "Too naive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_006",
+   "en": "Ghost... GERWALK.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Odd pair of words; meaning in the mission context unknown."
+  },
+  {
+   "id": "vpg_ghh_007",
+   "en": "You've got some nerve.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_008",
+   "en": "What a piece of work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_010",
+   "en": "You're wide open.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9054 (vpg_elm_107): Whisper 'baanto yucchii'; guessed 'baan to ikkocha' (go with a bang).",
+   "row 9059 (vpg_elm_142): Partner-down group; 'yararechatta' could be read as Elma herself.",
+   "row 9083 (vpg_elm_193): Third person or direct address to Graham is not settled.",
+   "row 9116 (vpg_ghh_006): Odd pair of words; meaning in the mission context unknown."
+  ],
+  "whisper_doubt": [
+   "row 9042 (vpd_svl_367): Whisper 'umaku itta goo'.",
+   "row 9043 (vpd_svl_368): Whisper 'zokuzoku'; read as thrill.",
+   "row 9054 (vpg_elm_107): Whisper 'baanto yucchii'; guessed 'baan to ikkocha' (go with a bang).",
+   "row 9056 (vpg_elm_139): Whisper 'omocha bakari'; read as muchaba kari (reckless)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

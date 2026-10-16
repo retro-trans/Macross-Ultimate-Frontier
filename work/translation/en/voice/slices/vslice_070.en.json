@@ -1,0 +1,504 @@
+{
+ "slice": 70,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpa_sin_139",
+   "en": "What's wrong? Get it together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_140",
+   "en": "Hey, take this seriously!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_141",
+   "en": "You all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_142",
+   "en": "Hey! Bail out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_143",
+   "en": "What the hell are you doing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_144",
+   "en": "Clumsy fool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_148",
+   "en": "Reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_149",
+   "en": "I guess I can rely on you a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_150",
+   "en": "Aren't you a little late?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_151",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_152",
+   "en": "The target got destroyed, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_153",
+   "en": "I... I can't protect anything...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_154",
+   "en": "Success. Looks like I survived again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_155",
+   "en": "Mission complete! Returning to base!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_156",
+   "en": "An op like this was a piece of cake.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_157",
+   "en": "Damn, I blew it. Out of time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_158",
+   "en": "What will Captain Focker say about a mistake like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_159",
+   "en": "Out of time. I feel like an idiot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_160",
+   "en": "I didn't become a pilot to crawl around on the ground!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_161",
+   "en": "Closing my eyes won't change this reality.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_162",
+   "en": "Don't tell me we failed because of the cursed Kadun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_163",
+   "en": "I'm leaving the covering fire to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_164",
+   "en": "Cover my back properly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_165",
+   "en": "Just concentrate on shooting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_166",
+   "en": "Move up and fight in close!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_167",
+   "en": "I'm counting on you for close combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_168",
+   "en": "Take it to close quarters!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_169",
+   "en": "It's dangerous if you stay like that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_170",
+   "en": "You stay back!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'sagatta ro'; probably 'sagattero' (stay back)."
+  },
+  {
+   "id": "vpa_sin_171",
+   "en": "You can at least look after yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_172",
+   "en": "Do it! Now's your chance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_173",
+   "en": "Don't miss this opening!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_174",
+   "en": "I'm leaving this one to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_175",
+   "en": "I won't just keep taking hits!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_176",
+   "en": "I'm just getting started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_177",
+   "en": "Take this!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Only 'kono' heard; guessed a battle cry."
+  },
+  {
+   "id": "vpa_sin_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_180",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_181",
+   "en": "Worry about yourself, Captain. Get it together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_182",
+   "en": "What are you doing, Captain?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_183",
+   "en": "Are you really okay like that, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_184",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_185",
+   "en": "You're kidding! The captain can't go down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_186",
+   "en": "How dare you do that to the captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_187",
+   "en": "So this is the power of song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_188",
+   "en": "It's like hearing the song of the forest. What a good feeling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_189",
+   "en": "I can't fight anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_190",
+   "en": "What incredible skill!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_191",
+   "en": "The captain's skill is better than I imagined.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_192",
+   "en": "As expected of Captain Focker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_300",
+   "en": "I can handle an op like this alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_301",
+   "en": "I won't get shot down trusting you with my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_302",
+   "en": "Just don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_303",
+   "en": "We're going to make this op a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_304",
+   "en": "Slack off for even a second in this op and you'll be shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_305",
+   "en": "Keep up with me if you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_306",
+   "en": "Believe it or not, I'm expecting a lot from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_307",
+   "en": "Let's move out too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_308",
+   "en": "Let's show them what we can do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_309",
+   "en": "Having a partner isn't so bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_310",
+   "en": "I can trust you with my back without a worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_311",
+   "en": "Let's make sure we both come back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_320",
+   "en": "Good thing I didn't trust you with my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_321",
+   "en": "What, you're alive?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_322",
+   "en": "Get it together. I won't be dragged down with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_323",
+   "en": "Mission accomplished. Let's keep this up next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_324",
+   "en": "That's it. Returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_325",
+   "en": "You're still green if the enemy gets on your tail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_326",
+   "en": "You ended up saving me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_327",
+   "en": "Not bad, you. Impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_328",
+   "en": "Your flying wasn't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_329",
+   "en": "Come to think of it, I never said it. Thanks for saving me.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'itte nakatta' (go); read as 'ittenakatta' (say)."
+  },
+  {
+   "id": "vpa_sin_330",
+   "en": "You're a strange one. I actually trusted you with my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_331",
+   "en": "Let's keep it up, partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_340",
+   "en": "Don't think I'll help you just because you're a woman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_341",
+   "en": "Can you really be my partner like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_342",
+   "en": "If I relax with you, I'll be shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_343",
+   "en": "Don't screw up and let them get on your tail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_344",
+   "en": "The op's starting. Stay sharp.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_345",
+   "en": "Get fired up. Let your guard down and you're dead.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 5549: Heard 'sagatta ro'; probably 'sagattero' (stay back).",
+   "row 5556: Only 'kono' heard; guessed a battle cry.",
+   "row 5592: Heard 'itte nakatta' (go); read as 'ittenakatta' (say)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

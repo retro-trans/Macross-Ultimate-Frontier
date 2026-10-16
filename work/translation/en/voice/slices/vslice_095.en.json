@@ -1,0 +1,556 @@
+{
+ "slice": 95,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpp_ism_360",
+   "en": "Heh. Just not my style.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_361",
+   "en": "That's it for today. Dismissed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_362",
+   "en": "You were so slow, I went ahead and did it for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_363",
+   "en": "Well then, let's head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_364",
+   "en": "That was pretty thrilling, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_365",
+   "en": "Over already? I'm not satisfied yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_366",
+   "en": "Luck's part of skill, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_367",
+   "en": "Pretty good skills for a woman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_368",
+   "en": "Hey, miss, how about a drink after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_369",
+   "en": "Whoo! Nice! I'm about to lose to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_370",
+   "en": "We can still fit in dinner if we go now. Wanna go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_371",
+   "en": "I'd like you to keep flying with me from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_600",
+   "en": "No part left for me, huh? Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_601",
+   "en": "Aw, crap!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'acchuu'; read as 'acchaa' (dismay)."
+  },
+  {
+   "id": "vpp_ism_602",
+   "en": "Let's wrap this up fast.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_606",
+   "en": "Don't underestimate the Dalnesian High duo!",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": "School name heard as 'Darunesian'; spelling unverified, not in glossary."
+  },
+  {
+   "id": "vpp_ism_615",
+   "en": "Guld, time we settled this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_616",
+   "en": "You've gotten good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_617",
+   "en": "Is that all? You piece of junk!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_620",
+   "en": "Guld.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_621",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_622",
+   "en": "Heh. You're a persistent bastard, always sticking on my tail.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says 'fast guy' (kousoku); likely shitsukoi (persistent)."
+  },
+  {
+   "id": "vpp_ism_623",
+   "en": "I don't have time to mess around with you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_624",
+   "en": "You keep getting in my way!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'jama wa kashiyagatte'; read as 'jama bakkashiyagatte'."
+  },
+  {
+   "id": "vpp_ism_625",
+   "en": "Too bad!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Very short and Whisper flagged low confidence."
+  },
+  {
+   "id": "vpp_ism_626",
+   "en": "You've been tagging along behind me since we were kids!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'gaki nokoru kara'; read as 'gaki no koro kara' (since childhood)."
+  },
+  {
+   "id": "vpp_ism_627",
+   "en": "I'm just gonna go chase some skirt!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_628",
+   "en": "I was winning that New Year's sunrise chicken run too, till you started whining!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'chikin resu' read as chicken race; 'hatsuhinode' read as New Year's first sunrise."
+  },
+  {
+   "id": "vpp_ism_629",
+   "en": "You're the one who still hasn't returned my Guts CD!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'Guts no CDV' read as a CD named Guts; unsure what 'Guts' refers to."
+  },
+  {
+   "id": "vpp_ism_630",
+   "en": "I bought you lunch twice back in high school!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'2 kai' (2nd floor) read as nikai = twice."
+  },
+  {
+   "id": "vpp_ism_631",
+   "en": "Quit keeping such careful count!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_632",
+   "en": "Like I care!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shiruka'; read as 'shiru ka' (like I know/care)."
+  },
+  {
+   "id": "vpp_ism_633",
+   "en": "What did you say?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_634",
+   "en": "Shut up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_635",
+   "en": "Damn right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_636",
+   "en": "Don't get so serious. We used to play with human-powered planes as kids, remember? Kill the engine and ride the wind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_637",
+   "en": "Call it my special: Dragon Bird Flight!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Move name 'ryuuchou tobi' translated literally."
+  },
+  {
+   "id": "vpp_ism_639",
+   "en": "Back in middle school, I wrecked that plane you built.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_640",
+   "en": "It was so well made, I took it for a little test ride.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_641",
+   "en": "Let's forget about the past.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_642",
+   "en": "Sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_645",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_646",
+   "en": "Hmph, we finally meet!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker is Isamu but the target depends on mission (Sharon or Guld), so kept neutral."
+  },
+  {
+   "id": "vpp_ism_647",
+   "en": "Guld! That's my date! Hands off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_648",
+   "en": "Myung... Myung.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Myun Mya'; read as Myung called twice."
+  },
+  {
+   "id": "vpp_ism_649",
+   "en": "What did you do? What happened to the people?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_650",
+   "en": "Girls!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'gaaru-domo' (you girls); could be a mishearing of Guld. Next line addresses several people."
+  },
+  {
+   "id": "vpp_ism_651",
+   "en": "Geez, the lot of you! Don't come crying to me later!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_652",
+   "en": "Myung.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_653",
+   "en": "Tch! So you showed up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_654",
+   "en": "Shut up! I don't wanna hear your weird song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_655",
+   "en": "Ugh... S-stop...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_656",
+   "en": "It's not your song I want to hear!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_657",
+   "en": "Shut up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_658",
+   "en": "Yeah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_659",
+   "en": "Meow!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whisper low confidence; cat-like sound."
+  },
+  {
+   "id": "vpp_ism_660",
+   "en": "Meow.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whisper retried; cat-like sound."
+  },
+  {
+   "id": "vpp_ism_661",
+   "en": "Feels like I've been having some weird dream.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_662",
+   "en": "But I got woken up. By your song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_663",
+   "en": "Still a lousy singer, as always.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_664",
+   "en": "I heard it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_665",
+   "en": "Guld, huh? Doing great. I found Myung, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_666",
+   "en": "Hey!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_667",
+   "en": "Ahh, nice!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whisper low confidence."
+  },
+  {
+   "id": "vpp_ism_668",
+   "en": "Guld!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_000",
+   "en": "Why do I have to do this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_001",
+   "en": "I'm the one supporting you, so do it right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_002",
+   "en": "I'll share your dream with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_100",
+   "en": "You'd better be able to handle at least this much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_101",
+   "en": "Oh, fine. I'll produce you myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_102",
+   "en": "Move the way I plan and you won't have any problems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_106",
+   "en": "You've got no choice but to do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_107",
+   "en": "Grab your dream with your own strength.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_108",
+   "en": "Do it the way you think best.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_139",
+   "en": "You'll die if you keep that up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_140",
+   "en": "You make me worry, then do what you like!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_141",
+   "en": "Fine, just sit there and hurt, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_142",
+   "en": "I can't believe it! You let yourself get hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_143",
+   "en": "Someone help them! Somebody!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_myu_144",
+   "en": "Honestly! That's what you get for being reckless!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7534: Transcript 'acchuu'; read as 'acchaa' (dismay).",
+   "row 7536: School name heard as 'Darunesian'; spelling unverified, not in glossary.",
+   "row 7545: Very short and Whisper flagged low confidence.",
+   "row 7549: 'Guts no CDV' read as a CD named Guts; unsure what 'Guts' refers to.",
+   "row 7557: Move name 'ryuuchou tobi' translated literally.",
+   "row 7563: Speaker is Isamu but the target depends on mission (Sharon or Guld), so kept neutral.",
+   "row 7567: Transcript 'gaaru-domo' (you girls); could be a mishearing of Guld. Next line addresses several people.",
+   "row 7576: Whisper low confidence; cat-like sound.",
+   "row 7577: Whisper retried; cat-like sound.",
+   "row 7584: Whisper low confidence."
+  ],
+  "whisper_doubt": [
+   "row 7534: Transcript 'acchuu'; read as 'acchaa' (dismay).",
+   "row 7542: Transcript says 'fast guy' (kousoku); likely shitsukoi (persistent).",
+   "row 7544: Transcript 'jama wa kashiyagatte'; read as 'jama bakkashiyagatte'.",
+   "row 7546: Transcript 'gaki nokoru kara'; read as 'gaki no koro kara' (since childhood).",
+   "row 7548: 'chikin resu' read as chicken race; 'hatsuhinode' read as New Year's first sunrise.",
+   "row 7549: 'Guts no CDV' read as a CD named Guts; unsure what 'Guts' refers to.",
+   "row 7550: '2 kai' (2nd floor) read as nikai = twice.",
+   "row 7552: Transcript 'shiruka'; read as 'shiru ka' (like I know/care).",
+   "row 7565: Transcript 'Myun Mya'; read as Myung called twice.",
+   "row 7567: Transcript 'gaaru-domo' (you girls); could be a mishearing of Guld. Next line addresses several people."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 7536: School name heard as 'Darunesian'; spelling unverified, not in glossary."
+  ],
+  "unfinished": []
+ }
+}

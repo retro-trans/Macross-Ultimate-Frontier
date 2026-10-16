@@ -1,0 +1,614 @@
+{
+ "slice": 85,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_mis_626",
+   "en": "Oh, switching to D3 doesn't help after all. What on earth is going on?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_627",
+   "en": "I can at least look after myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_628",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Short shout (haa!), no words."
+  },
+  {
+   "id": "vps_mis_629",
+   "en": "Forget about me. It's too late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_630",
+   "en": "You're safe...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_631",
+   "en": "I think these giants may have been the same size as us originally.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_632",
+   "en": "Maybe they modified their own bodies to be bigger and stronger to fight an enemy called the Supervision Army.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the army's name with the wrong first kanji; glossary form is Supervision Army."
+  },
+  {
+   "id": "vps_mis_633",
+   "en": "Besides, people who can survive in a vacuum and fight Battroids bare-handed couldn't have evolved naturally, could they?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_634",
+   "en": "The Protoculture the giants talk about may mean the civilization from when they were still our size.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_635",
+   "en": "Maybe the giants are interested in us and the Macross because we have that Protoculture.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_636",
+   "en": "So we're back. On Earth.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper no-speech warning; transcript plausible."
+  },
+  {
+   "id": "vps_mis_637",
+   "en": "Deploy the Spartans to the deck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_638",
+   "en": "Major, your nose is dropping. Are you all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_639",
+   "en": "Valkyrie to Lieutenant Dream, your order has arrived. Return at once.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Transcript is odd ('Valkyrie-tai' vs 'Valkyrie-tsui'); 'Lieutenant Dream' is not in the glossary. Possibly a code phrase."
+  },
+  {
+   "id": "vps_mis_640",
+   "en": "Omnidirectional barrier, activated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_641",
+   "en": "All Valkyrie squadrons, evacuate far away immediately! I repeat, evacuate far away immediately!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper used the wrong kanji for 'tsugu' (announce); sense unchanged."
+  },
+  {
+   "id": "vps_mis_642",
+   "en": "The shuttle is under attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_643",
+   "en": "We can't hold out! You all must survive, at least!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_644",
+   "en": "The shuttle is crippled. We're evacuating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_645",
+   "en": "Please respond. If there are any survivors, respond.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_646",
+   "en": "Valkyrie Eastern Patrol, Max and Midia squads: Quamzin's faction is believed to be after the reaction engines. Defend the reaction engines at the industrial complex block.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Whisper wrote 'dasshu' (dash) where 'dasshu' (seizing, a wrong-kanji homophone) is meant; read as seizing the engines. 'Midia' squad is not in the glossary and is a guess from the transcript."
+  },
+  {
+   "id": "vps_mis_647",
+   "en": "Main gun will fire now. Evacuate the area around the enemy ships immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_000",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_001",
+   "en": "Move out, boys!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Yarou-domo is rough; 'boys' chosen to keep it addressed to his own troops."
+  },
+  {
+   "id": "vpz_qmj_002",
+   "en": "This is Quamzin. Moving out!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote 'Quamzin dan'; read as 'Quamzin da' (this is Quamzin)."
+  },
+  {
+   "id": "vpz_qmj_003",
+   "en": "What's wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_004",
+   "en": "Is that all you've got?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_005",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Shout (eifooku), no clear words."
+  },
+  {
+   "id": "vpz_qmj_006",
+   "en": "What the...?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'nani shiyou'; read as a startled 'what the...' (sibling clip is a surprised 'what is this')."
+  },
+  {
+   "id": "vpz_qmj_007",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Roar, no words."
+  },
+  {
+   "id": "vpz_qmj_008",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Growl of anger, no words."
+  },
+  {
+   "id": "vpz_qmj_009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_010",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Shout (jea / zakuru), no clear words."
+  },
+  {
+   "id": "vpz_qmj_011",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Shout (zaakuru), not understood."
+  },
+  {
+   "id": "vpz_qmj_012",
+   "en": "W-what?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_013",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_014",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'kiss me'; not understood, probably a cry of pain or anger."
+  },
+  {
+   "id": "vpz_qmj_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter, no words."
+  },
+  {
+   "id": "vpz_qmj_016",
+   "en": "Shut up!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote 'urushii'; read as 'urusai' (shut up). 'Annoying' is the other option."
+  },
+  {
+   "id": "vpz_qmj_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter, no words."
+  },
+  {
+   "id": "vpz_qmj_018",
+   "en": "You're not getting away!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'nigasuke'; read as 'nigasu ka'."
+  },
+  {
+   "id": "vpz_qmj_019",
+   "en": "Farewell!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote 'sarayo'; guessed 'saraba'. Could be another kill line."
+  },
+  {
+   "id": "vpz_qmj_020",
+   "en": "It's over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_100",
+   "en": "All right, let's get started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_101",
+   "en": "Let's go, you lot!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Yarou-domo is rough; kept a gruff form of address."
+  },
+  {
+   "id": "vpz_qmj_102",
+   "en": "I've been itching for this!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper no-speech warning; transcript plausible."
+  },
+  {
+   "id": "vpz_qmj_103",
+   "en": "I'll take this one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_104",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_105",
+   "en": "That's my prey!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_106",
+   "en": "Idiot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_107",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_108",
+   "en": "I'll send you flying!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_109",
+   "en": "You're stubborn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_110",
+   "en": "You're no match for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_111",
+   "en": "Go on, run!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_112",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'zakuru'; shout, not understood."
+  },
+  {
+   "id": "vpz_qmj_113",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a repeated laugh; no words."
+  },
+  {
+   "id": "vpz_qmj_114",
+   "en": "All right, next!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_115",
+   "en": "Now it's getting interesting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_116",
+   "en": "There it is!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_117",
+   "en": "Fresh prey!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_118",
+   "en": "Yahoo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_119",
+   "en": "I can't get enough of this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_120",
+   "en": "Easy hunting!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'rakunakaridane'; read as 'raku na kari da ne'."
+  },
+  {
+   "id": "vpz_qmj_121",
+   "en": "Damn, my shield!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'kanarazu shield'; read as 'shimatta, shield ga'."
+  },
+  {
+   "id": "vpz_qmj_122",
+   "en": "I don't need this thing anyway!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_123",
+   "en": "What the hell is going on?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_124",
+   "en": "Is this all you...",
+   "flags": [
+    "whisper_doubt",
+    "uncertain",
+    "unfinished"
+   ],
+   "notes": "Whisper wrote 'kono teido no teido'; sentence is cut off, reading is a guess."
+  },
+  {
+   "id": "vpz_qmj_125",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_126",
+   "en": "You've got some nerve, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_127",
+   "en": "Annoying!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'uttoushuu'; read as 'uttoushii'."
+  },
+  {
+   "id": "vpz_qmj_128",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Shout (eifosu), no clear words."
+  },
+  {
+   "id": "vpz_qmj_129",
+   "en": "Damn it! Don't get cocky!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'kushat'; read as 'kuso'."
+  },
+  {
+   "id": "vpz_qmj_130",
+   "en": "Damn it, I can still fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_131",
+   "en": "You're getting cocky!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_132",
+   "en": "I can still fight!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'yarenri'; read as 'yareru'."
+  },
+  {
+   "id": "vpz_qmj_133",
+   "en": "You bastard!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'kono sukka ga'; read as an insult like 'kono yarou ga'."
+  },
+  {
+   "id": "vpz_qmj_134",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_135",
+   "en": "What the hell?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_136",
+   "en": "You'll remember this!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6734 vps_mis_639: Valkyrie to Lieutenant Dream, your order has arrived. Return at once. - Transcript is odd ('Valkyrie-tai' vs 'Valkyrie-tsui'); 'Lieutenant Dream' is not in the glossary. Possibly a code phrase.",
+   "row 6741 vps_mis_646: Valkyrie Eastern Patrol, Max and Midia squads: Quamzin's faction is believed to be after the reaction engines. Defend the reaction engines at the industrial complex block. - Whisper wrote 'dasshu' (dash) where 'dasshu' (seizing, a wrong-kanji homophone) is meant; read as seizing the engines. 'Midia' squad is not in the glossary and is a guess from the transcript.",
+   "row 6744 vpz_qmj_001: Move out, boys! - Yarou-domo is rough; 'boys' chosen to keep it addressed to his own troops.",
+   "row 6745 vpz_qmj_002: This is Quamzin. Moving out! - Whisper wrote 'Quamzin dan'; read as 'Quamzin da' (this is Quamzin).",
+   "row 6759 vpz_qmj_016: Shut up! - Whisper wrote 'urushii'; read as 'urusai' (shut up). 'Annoying' is the other option.",
+   "row 6762 vpz_qmj_019: Farewell! - Whisper wrote 'sarayo'; guessed 'saraba'. Could be another kill line.",
+   "row 6765 vpz_qmj_101: Let's go, you lot! - Yarou-domo is rough; kept a gruff form of address.",
+   "row 6788 vpz_qmj_124: Is this all you... - Whisper wrote 'kono teido no teido'; sentence is cut off, reading is a guess."
+  ],
+  "whisper_doubt": [
+   "row 6727 vps_mis_632: Whisper wrote the army's name with the wrong first kanji; glossary form is Supervision Army.",
+   "row 6731 vps_mis_636: Whisper no-speech warning; transcript plausible.",
+   "row 6734 vps_mis_639: Transcript is odd ('Valkyrie-tai' vs 'Valkyrie-tsui'); 'Lieutenant Dream' is not in the glossary. Possibly a code phrase.",
+   "row 6736 vps_mis_641: Whisper used the wrong kanji for 'tsugu' (announce); sense unchanged.",
+   "row 6741 vps_mis_646: Whisper wrote 'dasshu' (dash) where 'dasshu' (seizing, a wrong-kanji homophone) is meant; read as seizing the engines. 'Midia' squad is not in the glossary and is a guess from the transcript.",
+   "row 6745 vpz_qmj_002: Whisper wrote 'Quamzin dan'; read as 'Quamzin da' (this is Quamzin).",
+   "row 6748 vpz_qmj_005: Shout (eifooku), no clear words.",
+   "row 6749 vpz_qmj_006: Whisper wrote 'nani shiyou'; read as a startled 'what the...' (sibling clip is a surprised 'what is this').",
+   "row 6753 vpz_qmj_010: Shout (jea / zakuru), no clear words.",
+   "row 6754 vpz_qmj_011: Shout (zaakuru), not understood.",
+   "row 6757 vpz_qmj_014: Whisper wrote 'kiss me'; not understood, probably a cry of pain or anger.",
+   "row 6759 vpz_qmj_016: Whisper wrote 'urushii'; read as 'urusai' (shut up). 'Annoying' is the other option.",
+   "row 6761 vpz_qmj_018: Whisper wrote 'nigasuke'; read as 'nigasu ka'.",
+   "row 6762 vpz_qmj_019: Whisper wrote 'sarayo'; guessed 'saraba'. Could be another kill line.",
+   "row 6766 vpz_qmj_102: Whisper no-speech warning; transcript plausible.",
+   "row 6776 vpz_qmj_112: Whisper wrote 'zakuru'; shout, not understood.",
+   "row 6777 vpz_qmj_113: Whisper wrote a repeated laugh; no words.",
+   "row 6784 vpz_qmj_120: Whisper wrote 'rakunakaridane'; read as 'raku na kari da ne'.",
+   "row 6785 vpz_qmj_121: Whisper wrote 'kanarazu shield'; read as 'shimatta, shield ga'.",
+   "row 6788 vpz_qmj_124: Whisper wrote 'kono teido no teido'; sentence is cut off, reading is a guess.",
+   "row 6791 vpz_qmj_127: Whisper wrote 'uttoushuu'; read as 'uttoushii'.",
+   "row 6792 vpz_qmj_128: Shout (eifosu), no clear words.",
+   "row 6793 vpz_qmj_129: Whisper wrote 'kushat'; read as 'kuso'.",
+   "row 6796 vpz_qmj_132: Whisper wrote 'yarenri'; read as 'yareru'.",
+   "row 6797 vpz_qmj_133: Whisper wrote 'kono sukka ga'; read as an insult like 'kono yarou ga'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 6734 vps_mis_639: Transcript is odd ('Valkyrie-tai' vs 'Valkyrie-tsui'); 'Lieutenant Dream' is not in the glossary. Possibly a code phrase.",
+   "row 6741 vps_mis_646: Whisper wrote 'dasshu' (dash) where 'dasshu' (seizing, a wrong-kanji homophone) is meant; read as seizing the engines. 'Midia' squad is not in the glossary and is a guess from the transcript."
+  ],
+  "unfinished": [
+   "row 6788 vpz_qmj_124"
+  ]
+ }
+}

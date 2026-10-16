@@ -1,0 +1,538 @@
+{
+ "slice": 53,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_om1_115",
+   "en": "Come on in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_115",
+   "en": "Target found!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_115",
+   "en": "Target confirmed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_115",
+   "en": "Target locked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_115",
+   "en": "I'll take that one out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_116",
+   "en": "I take that one down, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_116",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_116",
+   "en": "Anyone who wants to get shot down by me, come on out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_116",
+   "en": "There you are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_116",
+   "en": "That one?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_116",
+   "en": "Here it comes! Target found!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_117",
+   "en": "I can do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_117",
+   "en": "More of them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_117",
+   "en": "If anything, this is heating up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_117",
+   "en": "If I get that one...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_of1_117",
+   "en": "They're here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_117",
+   "en": "Looks like my beloved opponent has arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_118",
+   "en": "Yes! I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_118",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_118",
+   "en": "I'm getting high on this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_118",
+   "en": "Target destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_118",
+   "en": "Target down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_118",
+   "en": "Target destruction confirmed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_119",
+   "en": "Attack target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_119",
+   "en": "All right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_119",
+   "en": "Yes, yes, I love this feeling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_119",
+   "en": "Yay, I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_119",
+   "en": "Too easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_119",
+   "en": "Look at me, I'm amazing!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'yanpuu'; probably an exclamation of pride like 'yaru-u', how about that."
+  },
+  {
+   "id": "vp0_om0_120",
+   "en": "Got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_120",
+   "en": "Easy, easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_120",
+   "en": "Looks like you got more than a burn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_120",
+   "en": "Yahoo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_120",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'taina'; unclear short word."
+  },
+  {
+   "id": "vp0_of2_120",
+   "en": "Guess my love was too intense.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_121",
+   "en": "M-my shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_121",
+   "en": "You can have it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_121",
+   "en": "I relied on the shield too much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_121",
+   "en": "Even without my shield...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_of1_121",
+   "en": "My shield...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_of2_121",
+   "en": "And I just polished my shield, too! What the heck!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_122",
+   "en": "Only my shield's gone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_122",
+   "en": "It's only a shield.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'shield cry'; probably 'shield kurai', just a shield."
+  },
+  {
+   "id": "vp0_om2_122",
+   "en": "My shield's gone. Now, what to do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_122",
+   "en": "Ah! M-my shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_122",
+   "en": "Shields don't matter...",
+   "flags": [
+    "uncertain",
+    "unfinished"
+   ],
+   "notes": "'shield nado wa' is left unfinished; I supplied a plausible meaning."
+  },
+  {
+   "id": "vp0_of2_122",
+   "en": "That was my favorite shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_123",
+   "en": "If I dodge everything!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_123",
+   "en": "It's nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_123",
+   "en": "A shield? You can have it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_123",
+   "en": "Dodge it all and I'm fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_123",
+   "en": "If they don't hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_123",
+   "en": "The mechanics won't get mad if it's just a shield, right?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard '...okoranai yo de'; probably '...yo ne'."
+  },
+  {
+   "id": "vp0_om0_124",
+   "en": "Just a graze!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_124",
+   "en": "How dare you scratch me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_124",
+   "en": "That's a nasty way to attack, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_124",
+   "en": "No problem!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_124",
+   "en": "That's your best?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_124",
+   "en": "Pfft! Is that your best?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_125",
+   "en": "I'm still fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_125",
+   "en": "That's your best?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_125",
+   "en": "This much won't make me feel any pain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_125",
+   "en": "This much is fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_125",
+   "en": "This much is no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_125",
+   "en": "That won't take me down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_126",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_126",
+   "en": "If it's only this...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_om2_126",
+   "en": "Well, aren't you something!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_126",
+   "en": "I let my guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_126",
+   "en": "This much is just a handicap.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_126",
+   "en": "Hehehe, doesn't even faze me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_127",
+   "en": "If it's only this...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_om1_127",
+   "en": "I can still go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_127",
+   "en": "You've got guts.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'getasshaa na yatsu da'; probably 'gattsu na yatsu da', a gutsy one. Low confidence."
+  },
+  {
+   "id": "vp0_of0_127",
+   "en": "I can still fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_127",
+   "en": "This much won't...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vp0_of2_127",
+   "en": "The mechanics are gonna yell at me again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_128",
+   "en": "This is nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_128",
+   "en": "Getting cocky, are you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_128",
+   "en": "I thank fate for this encounter!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 4206: 'shield nado wa' is left unfinished; I supplied a plausible meaning.",
+   "row 4234: Heard 'getasshaa na yatsu da'; probably 'gattsu na yatsu da', a gutsy one. Low confidence."
+  ],
+  "whisper_doubt": [
+   "row 4189: Whisper wrote 'yanpuu'; probably an exclamation of pride like 'yaru-u', how about that.",
+   "row 4194: Whisper wrote 'taina'; unclear short word.",
+   "row 4203: Heard 'shield cry'; probably 'shield kurai', just a shield.",
+   "row 4213: Heard '...okoranai yo de'; probably '...yo ne'.",
+   "row 4234: Heard 'getasshaa na yatsu da'; probably 'gattsu na yatsu da', a gutsy one. Low confidence."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 4175: Trails off.",
+   "row 4199: Trails off.",
+   "row 4200: Trails off.",
+   "row 4206: 'shield nado wa' is left unfinished; I supplied a plausible meaning.",
+   "row 4227: Trails off.",
+   "row 4232: Trails off.",
+   "row 4236: Trails off."
+  ]
+ }
+}

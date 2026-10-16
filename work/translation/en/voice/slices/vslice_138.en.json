@@ -1,0 +1,529 @@
+{
+ "slice": 138,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_rnk_196",
+   "en": "Let my song reach you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_320",
+   "en": "Geez! You've got to do better, or I'm in trouble!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_321",
+   "en": "That's it, I don't have the confidence to team up with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_322",
+   "en": "From now on, I'm doing things my own way too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_323",
+   "en": "I could barely keep up with what was right in front of me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_324",
+   "en": "When you're tired, that's exactly when you need vitamin-rich carrots!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_325",
+   "en": "Yay! We succeeded, right? Thank goodness!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_326",
+   "en": "You've got to come see my next concert!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_327",
+   "en": "Thanks again this time. Oh, I'll treat you at Nyan-Nyan next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_328",
+   "en": "That went well! Let's keep it up from now on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_329",
+   "en": "You always help me. Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_330",
+   "en": "Idiot, idiot, idiot! I was really worried!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_331",
+   "en": "You're here. That alone is enough for me to keep going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_360",
+   "en": "It's part of the job. Even when it's tough, I have to try.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_361",
+   "en": "I'm glad it worked, but... hmm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_362",
+   "en": "I never thought it'd get this hard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_363",
+   "en": "Oh, I have to get back! I'll be late for work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_364",
+   "en": "We did it! Total success!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_365",
+   "en": "Let's keep working together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_366",
+   "en": "I'm always the one being helped, aren't I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_367",
+   "en": "Thanks to you, I've got a little more courage now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_368",
+   "en": "Thank you for helping me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_369",
+   "en": "I'm always the one being helped. Thank you so, so much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_370",
+   "en": "I wish I could be like you, just once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_371",
+   "en": "That was wonderful! I really look up to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_601",
+   "en": "Huh!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_602",
+   "en": "I was scared... so scared...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_603",
+   "en": "Everyone, hold me tight... to the ends of the galaxy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"ginga no hata made\" (galaxy's flag); her song line is \"ginga no hate made\" (to the ends of the galaxy)."
+  },
+  {
+   "id": "vpf_rnk_604",
+   "en": "Because I wanted to tell you. Happy birthday, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_605",
+   "en": "Alto, can you hear me? Alto?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_606",
+   "en": "Um, it's like a big cave, and there are lots of eggs...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_607",
+   "en": "Alto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_608",
+   "en": "No!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_609",
+   "en": "Yes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_610",
+   "en": "Alto, big brother, this is... this is right, isn't it?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "\"Onii-chan\" next to Alto; Ozma or Brera, left as \"big brother\"."
+  },
+  {
+   "id": "vpf_rnk_611",
+   "en": "Everyone, hold me tight! To the ends of the galaxy!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"ginga no hata made\" (galaxy's flag); her song line is \"ginga no hate made\"."
+  },
+  {
+   "id": "vpf_rnk_612",
+   "en": "That's... the enemy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_613",
+   "en": "Help me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_615",
+   "en": "Big brother!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_616",
+   "en": "Yes, big brother!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_619",
+   "en": "Kira!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_620",
+   "en": "Thank you, Brera!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_700",
+   "en": "A Deculture selection! Welcome to the Nyan-Nyan Shop! Kira!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_701",
+   "en": "Welcome! Welcome to the Super Dimension Restaurant Nyan-Nyan! Kira!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says \"chojiku hanten Nyan-Nyan\" with kanji for reversal (hanten); the shop name is the restaurant (hanten, 'inn/restaurant'); the ui text list carries the same name without an English entry."
+  },
+  {
+   "id": "vpf_rnk_702",
+   "en": "Welcome! Take your time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_703",
+   "en": "That item's a good deal!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_704",
+   "en": "I have that one too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_705",
+   "en": "Staring at it that long won't get you a discount.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_706",
+   "en": "Still can't decide?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_707",
+   "en": "Come on, just go for it and buy it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard the kanji for \"win\" (katchaou); read as \"kacchaou\" (buy it)."
+  },
+  {
+   "id": "vpf_rnk_708",
+   "en": "You can't go wrong with anything here! Trust the Nyan-Nyan Shop!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_709",
+   "en": "I think you've got to buy it by now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_710",
+   "en": "I'm scared. I wonder if I can really sell anything.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_711",
+   "en": "Thanks for buying! Oh, sorry, you haven't bought it yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_712",
+   "en": "Aww, you're not buying?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_713",
+   "en": "No way... you came this far and you're not buying...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_714",
+   "en": "Why? Why won't you buy it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_715",
+   "en": "Thank you for your purchase! Kira!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_716",
+   "en": "Thank you for buying! Kira!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_717",
+   "en": "I'm so happy you bought it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_718",
+   "en": "Be sure to come again! I'll be waiting! Kira!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_719",
+   "en": "Next time, buy even more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_720",
+   "en": "Thank you very much! Kira!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_721",
+   "en": "With me minding the shop, you won't buy anything, will you?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"mise-ban\" with odd kanji; read as \"mise-ban\" (minding the shop)."
+  },
+  {
+   "id": "vpf_rnk_722",
+   "en": "My chest... it hurts...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_723",
+   "en": "At this rate the manager will get mad at me again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_730",
+   "en": "Buy it all up!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Rest of the transcript (\"Gendron, Gakuma de\") is unintelligible; only \"buy it all up\" kept. Possibly a joke line."
+  },
+  {
+   "id": "vpf_rnk_731",
+   "en": "Welcome back, as always! Welcome to the Super Dimension Restaurant Nyan-Nyan! Kira!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same shop name as rnk_701 (hanten written with kanji for reversal)."
+  },
+  {
+   "id": "vpf_rnk_732",
+   "en": "You came back! Thanks as always. Welcome to the Nyan-Nyan Shop! Kira!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_733",
+   "en": "I have that one too! If you buy it, we'll match!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_734",
+   "en": "If you stare at me like that, I'll get nervous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_735",
+   "en": "Oh, I recommend that one! It's really amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_736",
+   "en": "I'm happy to spend so long with you, but could you buy something soon?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_737",
+   "en": "What would it take for you to buy something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_738",
+   "en": "I want you to buy it! Absolutely!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_739",
+   "en": "I was hoping you'd buy that one. Of course you will, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_740",
+   "en": "I believe in you! You're going to buy it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard the kanji for \"win\" (katte); read as \"katte\" (buy)."
+  },
+  {
+   "id": "vpf_rnk_741",
+   "en": "My big brother used to say, \"If you're going to regret it, just buy it.\"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Onii-chan: Ozma or Brera, left unnamed."
+  },
+  {
+   "id": "vpf_rnk_742",
+   "en": "I believed in you more than anyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_743",
+   "en": "Right, you have your reasons for not buying too.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "vpf_rnk_610: \"Onii-chan\" next to Alto; Ozma or Brera, left as \"big brother\".",
+   "vpf_rnk_741: Onii-chan: Ozma or Brera, left unnamed.",
+   "row 11027 vpf_rnk_730: mostly unintelligible."
+  ],
+  "whisper_doubt": [
+   "vpf_rnk_603: Heard \"ginga no hata made\" (galaxy's flag); her song line is \"ginga no hate made\" (to the ends of the galaxy).",
+   "vpf_rnk_611: Heard \"ginga no hata made\" (galaxy's flag); her song line is \"ginga no hate made\".",
+   "vpf_rnk_701: Transcript says \"chojiku hanten Nyan-Nyan\" with kanji for reversal (hanten); the shop name is the restaurant (hanten, 'inn/restaurant'); the ui text list carries the same name without an English entry.",
+   "vpf_rnk_707: Heard the kanji for \"win\" (katchaou); read as \"kacchaou\" (buy it).",
+   "vpf_rnk_721: Heard \"mise-ban\" with odd kanji; read as \"mise-ban\" (minding the shop).",
+   "vpf_rnk_730: Rest of the transcript (\"Gendron, Gakuma de\") is unintelligible; only \"buy it all up\" kept. Possibly a joke line.",
+   "vpf_rnk_731: Same shop name as rnk_701 (hanten written with kanji for reversal).",
+   "vpf_rnk_740: Heard the kanji for \"win\" (katte); read as \"katte\" (buy)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Super Dimension Restaurant (chojiku hanten) Nyan-Nyan: restaurant name, no English entry in the glossary or ui.json."
+  ],
+  "unfinished": []
+ }
+}

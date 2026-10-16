@@ -1,0 +1,559 @@
+{
+ "slice": 93,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpx_gld_638",
+   "en": "You must have known. Everything about the past.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_639",
+   "en": "All this time, I've called you a traitor and a coward!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_640",
+   "en": "Even Myung knew about it, and yet...",
+   "flags": [
+    "whisper_doubt",
+    "unfinished"
+   ],
+   "notes": "'Min' read as 'Myung'; the sentence runs into the next clip."
+  },
+  {
+   "id": "vpx_gld_641",
+   "en": "Hidden away out of pity for a Zentradi like me?",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Subject of 'hid it' left unstated in the clip; kept impersonal."
+  },
+  {
+   "id": "vpx_gld_643",
+   "en": "You...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_644",
+   "en": "There's still more, isn't there?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_645",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter."
+  },
+  {
+   "id": "vpx_gld_646",
+   "en": "A ghost, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_647",
+   "en": "That's my line.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_648",
+   "en": "Go! I'll take care of the monster! You go to Myung!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Myuu' read as 'Myung'."
+  },
+  {
+   "id": "vpx_gld_649",
+   "en": "We protect the people, no matter what. That's our oath, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_650",
+   "en": "Isamu!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_651",
+   "en": "Hey, Isamu, how's it going?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'yoi, samu'; read as 'you, Isamu'."
+  },
+  {
+   "id": "vpx_gld_652",
+   "en": "I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_653",
+   "en": "I never told you, did I.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_654",
+   "en": "I'm sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_655",
+   "en": "I'll have this settled soon. I'm looking forward to that drink.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kata ga tsuku' as before."
+  },
+  {
+   "id": "vpx_gld_656",
+   "en": "Here's to our first reunion in seven years. Cheers!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_000",
+   "en": "Standing by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_001",
+   "en": "Ready to go anytime!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_002",
+   "en": "Gonna take a quick spin!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Opening 'pehen' is garbled."
+  },
+  {
+   "id": "vpp_ism_003",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_004",
+   "en": "So what?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_005",
+   "en": "What about it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groan."
+  },
+  {
+   "id": "vpp_ism_007",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_008",
+   "en": "Damn it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kusottarae' read as 'kusottare'."
+  },
+  {
+   "id": "vpp_ism_009",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Battle cry."
+  },
+  {
+   "id": "vpp_ism_011",
+   "en": "Yeah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_012",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpp_ism_013",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpp_ism_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpp_ism_016",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'ukka'; a short exclamation, no safe reading."
+  },
+  {
+   "id": "vpp_ism_017",
+   "en": "Oh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_018",
+   "en": "Here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_019",
+   "en": "Here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_020",
+   "en": "Good night, baby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_100",
+   "en": "Isamu Dyson, starting the mission now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_101",
+   "en": "All right, let's get this party started.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_102",
+   "en": "What kind of girl is today's opponent?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'ko' (kid/girl): Isamu talking about his opponent like a date."
+  },
+  {
+   "id": "vpp_ism_103",
+   "en": "Thrilling, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_104",
+   "en": "Go get 'em!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'nee ikko no'; read as 'ikke kono'."
+  },
+  {
+   "id": "vpp_ism_105",
+   "en": "I'll finish this right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_106",
+   "en": "Come on, come on! Yahoo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_107",
+   "en": "Don't mess with the master of running wild!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_108",
+   "en": "Woo-hoo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_109",
+   "en": "I'll scrap you before long.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'jiki ni' written with the wrong kanji ('next term')."
+  },
+  {
+   "id": "vpp_ism_110",
+   "en": "I'll teach you a lesson.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_111",
+   "en": "Take that, and that, and that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_112",
+   "en": "Serves you right!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'za mamiro'; read as 'zamamiro'."
+  },
+  {
+   "id": "vpp_ism_113",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_114",
+   "en": "Boom! Whoo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_115",
+   "en": "This is gonna be fun. Let's do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_116",
+   "en": "There you are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_117",
+   "en": "Now then, shall I hit 'em with another one?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_118",
+   "en": "Done already, you hunk of junk?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_119",
+   "en": "Mmm, feeling good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_120",
+   "en": "Now it's getting exciting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_121",
+   "en": "Tch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_122",
+   "en": "Busted already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_123",
+   "en": "Doesn't matter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_124",
+   "en": "Shut up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_125",
+   "en": "Tch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'chekku' (check); read as 'chee'."
+  },
+  {
+   "id": "vpp_ism_126",
+   "en": "Hit me? That was luck, just luck!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_127",
+   "en": "I don't have time for this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_128",
+   "en": "Ugh, what a pain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_129",
+   "en": "Damn it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_130",
+   "en": "You keep getting in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_131",
+   "en": "What's going on?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_132",
+   "en": "Hey! You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_133",
+   "en": "Fine! Bring it on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_134",
+   "en": "You've got to be kidding me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_135",
+   "en": "Quit screwing around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_136",
+   "en": "Ha ha, looks like I died.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_137",
+   "en": "Aw man, the maintenance crew's gonna chew me out for this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_138",
+   "en": "I'll let you off the hook today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_139",
+   "en": "You're just dead weight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_140",
+   "en": "All you're doing is running away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_141",
+   "en": "You struggle with small fry, so you get someone on your tail!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpp_ism_142",
+   "en": "Friendly unit, respond. ...No good?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'yuugunki' written with the wrong kanji."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7393 (vpp_ism_016): Heard 'ukka'; a short exclamation, no safe reading.",
+   "row 7400 (vpp_ism_102): 'ko' (kid/girl): Isamu talking about his opponent like a date.",
+   "row 7402 (vpp_ism_104): Heard 'nee ikko no'; read as 'ikke kono'."
+  ],
+  "whisper_doubt": [
+   "row 7363 (vpx_gld_640): 'Min' read as 'Myung'; the sentence runs into the next clip.",
+   "row 7370 (vpx_gld_648): 'Myuu' read as 'Myung'.",
+   "row 7373 (vpx_gld_651): Heard 'yoi, samu'; read as 'you, Isamu'.",
+   "row 7377 (vpx_gld_655): 'kata ga tsuku' as before.",
+   "row 7381 (vpp_ism_002): Opening 'pehen' is garbled.",
+   "row 7387 (vpp_ism_008): 'kusottarae' read as 'kusottare'.",
+   "row 7393 (vpp_ism_016): Heard 'ukka'; a short exclamation, no safe reading.",
+   "row 7402 (vpp_ism_104): Heard 'nee ikko no'; read as 'ikke kono'.",
+   "row 7407 (vpp_ism_109): 'jiki ni' written with the wrong kanji ('next term').",
+   "row 7410 (vpp_ism_112): Heard 'za mamiro'; read as 'zamamiro'.",
+   "row 7423 (vpp_ism_125): Heard 'chekku' (check); read as 'chee'.",
+   "row 7440 (vpp_ism_142): 'yuugunki' written with the wrong kanji."
+  ],
+  "kept_omission": [
+   "row 7364 (vpx_gld_641): Subject of 'hid it' left unstated in the clip; kept impersonal."
+  ],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 7363 (vpx_gld_640): 'Min' read as 'Myung'; the sentence runs into the next clip."
+  ]
+ }
+}

@@ -1,0 +1,1418 @@
+{
+ "slice": 2,
+ "rows_in_slice": 230,
+ "rows_examined": 230,
+ "rows": [
+  {
+   "id": "u0321",
+   "en": "Snow White",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0322",
+   "en": "Mary Poppins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0323",
+   "en": "Defeat Manfred",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Manfred Brando (Macross VF-X2 villain, ME_050); not in glossary."
+  },
+  {
+   "id": "u0324",
+   "en": "My Fair Lady",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0325",
+   "en": "Variable Generation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0326",
+   "en": "Zentradi Bowl, Extra Large",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Donburi joke title for ME_110 (Zentradi horde); extra-large serving."
+  },
+  {
+   "id": "u0327",
+   "en": "Listen to Our Song!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0328",
+   "en": "Macross Ultimate Frontier: Earth",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ten/Chi pair with u0331: chi = Earth, ten = Heaven."
+  },
+  {
+   "id": "u0329",
+   "en": "Macross Heaven",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0330",
+   "en": "Yack Yack Deculture",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0331",
+   "en": "Macross Ultimate Frontier: Heaven",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0332",
+   "en": "Editorial Sentai Dengeki V",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0333",
+   "en": "Super Dimension Fortress Famitsu",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0334",
+   "en": "Biggest Carnival",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0335",
+   "en": "Moon Island Platoon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0336",
+   "en": "Like I Could Fight Scared of Booze!",
+   "flags": [],
+   "notes": "Roy's line; matches NN shop title 5128 wording."
+  },
+  {
+   "id": "u0337",
+   "en": "Defeat the VF-0S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0338",
+   "en": "The Fool Risking His Life for a Woman",
+   "flags": [],
+   "notes": "Shin Kudo (male per glossary), MC_020. | review: Source says stakes his life for a woman: no possessive his woman, and risk, not die. | review: refit: 'Who Risks' -> 'Risking'"
+  },
+  {
+   "id": "u0339",
+   "en": "Defeat the VF-0A",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0340",
+   "en": "Aces of the Anti-U.N. Forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0341",
+   "en": "Defeat the two SV-51γ",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0342",
+   "en": "Guide of the Wind",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0343",
+   "en": "Defeat the Bird Human",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0344",
+   "en": "The Genius and the Ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0345",
+   "en": "Defeat the two Queadluun-Rau",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0346",
+   "en": "The Boss in a Fine Mood",
+   "flags": [],
+   "notes": "Quamzin (MC_060)."
+  },
+  {
+   "id": "u0347",
+   "en": "Defeat the Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0348",
+   "en": "The Menace of Boddole Zer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0349",
+   "en": "Defeat Golg Boddole Zer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0350",
+   "en": "Dalmatian High School Duo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0351",
+   "en": "Defeat the YF-19 and YF-21",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0352",
+   "en": "Eyes on the monitor!",
+   "flags": [],
+   "notes": "review: refit: UI copy of title row 1093, changed identically"
+  },
+  {
+   "id": "u0353",
+   "en": "Defeat the Battle 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0354",
+   "en": "Beauty and Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0355",
+   "en": "Defeat the Protodeviln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0356",
+   "en": "His Excellency Gepelnitchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0357",
+   "en": "Diamond Force Spirit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0358",
+   "en": "Defeat the VF-22S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0359",
+   "en": "Dynamite Explosion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0360",
+   "en": "Defeat the VF-19P and Diving Suit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0361",
+   "en": "Flag Crusher",
+   "flags": [],
+   "notes": "Ozma breaking death flags (MC_140 briefing)."
+  },
+  {
+   "id": "u0362",
+   "en": "Defeat the VF-25S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0363",
+   "en": "Bearer of the Macross Name",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0364",
+   "en": "Defeat the Macross Quarter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0365",
+   "en": "Klan Enraged",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0366",
+   "en": "Defeat Klan Klang",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0367",
+   "en": "That's Why We Can Love Someone!!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Alto's line from the MF finale; completes the MC_170 briefing quote."
+  },
+  {
+   "id": "u0368",
+   "en": "Defeat the VF-25F and VF-27",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0369",
+   "en": "Guardian of the Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0370",
+   "en": "That's not Ranka! Shoot that fake!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Quote used as the MC_180 objective (Ranka)."
+  },
+  {
+   "id": "u0371",
+   "en": "Super Dimension Lifeforms",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0372",
+   "en": "Defeat the Vajra Queen",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0373",
+   "en": "New Battleship Parade",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0374",
+   "en": "Fighter Piloting Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0375",
+   "en": "Battroid Piloting Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0376",
+   "en": "GERWALK Piloting Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0377",
+   "en": "Shooting Attack Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0378",
+   "en": "Melee Attack Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0379",
+   "en": "Special Maneuvers Drill 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0380",
+   "en": "Special Maneuvers Drill 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0381",
+   "en": "Container Transport Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0382",
+   "en": "Reach the target point / Collect containers",
+   "flags": [],
+   "notes": "Two objectives separated by an ASCII space in the source; rendered with ' / '. | review: refit: 'Recover the containers' -> 'Collect containers' (matches u0249)"
+  },
+  {
+   "id": "u0383",
+   "en": "Real Flight Piloting Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0384",
+   "en": "New Special Maneuvers Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0385",
+   "en": "Missile Shoot-Down Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0386",
+   "en": "Ground Training Field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0387",
+   "en": "Conduct combat training on the ground",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0388",
+   "en": "Space Training Field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0389",
+   "en": "Conduct combat training in space",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0390",
+   "en": "In-Base Training Field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0391",
+   "en": "Conduct combat training inside the base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0392",
+   "en": "Indoor Training Field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0393",
+   "en": "Conduct combat training indoors",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0394",
+   "en": "Flight Training Field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0395",
+   "en": "Conduct combat training in the canyon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0396",
+   "en": "Auto Select",
+   "flags": [],
+   "notes": "Used 3x (auto-select option)."
+  },
+  {
+   "id": "u0397",
+   "en": "Wild Plain",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0398",
+   "en": "Mountain Snow",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0399",
+   "en": "Close Canyon",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Katakana kurosu read as 'Close' (cf. Close Encounter u0286); could be 'Cross'."
+  },
+  {
+   "id": "u0400",
+   "en": "Over the Ocean",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0401",
+   "en": "Land and Sea",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0402",
+   "en": "Blue Sky",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0403",
+   "en": "Sunset Battle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0404",
+   "en": "Skyscraper",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0405",
+   "en": "Battle Ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0406",
+   "en": "Vajra Nest",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0407",
+   "en": "Great Meteor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0408",
+   "en": "Earth Light",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0409",
+   "en": "Zentradian Fleet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0410",
+   "en": "Beside City 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0411",
+   "en": "Beyond Jupiter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0412",
+   "en": "Fire Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0413",
+   "en": "Saturn Ring",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0414",
+   "en": "Titan Battle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0415",
+   "en": "Inside Base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0416",
+   "en": "In the Dark",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0417",
+   "en": "Vajra Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0418",
+   "en": "Vajra Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0419",
+   "en": "Daylight City",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0420",
+   "en": "Twilight City",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0421",
+   "en": "Night City",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0422",
+   "en": "Green Wild",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0423",
+   "en": "Do You Remember Love?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0424",
+   "en": "To A Wi Arabul Ren",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Zentradi-language phrase, romanised as written."
+  },
+  {
+   "id": "u0425",
+   "en": "Training Hall",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0426",
+   "en": "Parameter Tuning 01",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0427",
+   "en": "Parameter Tuning 02",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0428",
+   "en": "ARMS Showroom 01",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0429",
+   "en": "ARMS Showroom 02",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0430",
+   "en": "Defeat Ace Fast",
+   "flags": [],
+   "notes": "review: refit: dropped 'Enemy' (same as u0134)"
+  },
+  {
+   "id": "u0431",
+   "en": "Test Mission 03",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0432",
+   "en": "Test Mission 04",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0433",
+   "en": "Test Mission 05",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0434",
+   "en": "Defeat Enemy Ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0435",
+   "en": "Battleship Weight Reduction Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0436",
+   "en": "Destroy the battleship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0437",
+   "en": "Old City District Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0438",
+   "en": "New City District Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0439",
+   "en": "Mass Grunts Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0440",
+   "en": "Mixed Grunts Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0441",
+   "en": "35mm Gatling Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0442",
+   "en": "Medium-Range AAM (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0443",
+   "en": "Medium-Range AAM (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+  },
+  {
+   "id": "u0444",
+   "en": "Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+  },
+  {
+   "id": "u0445",
+   "en": "Micro Missiles (Blast)\nMissiles that cause a huge blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0446",
+   "en": "Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0447",
+   "en": "Medium-Range AAM (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0448",
+   "en": "Medium-Range AAM (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0449",
+   "en": "Laser Machine Gun\nA single laser machine gun mounted in the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0450",
+   "en": "Laser Machine Gun\nTwo laser machine guns mounted in the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0451",
+   "en": "Micro Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0452",
+   "en": "Melee\nPerforms a melee attack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0453",
+   "en": "Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0454",
+   "en": "Micro Missiles (Cluster)\nMissiles that burst and split into several after launch",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0455",
+   "en": "Large Hand Grenade\nA grenade with tremendous destructive power",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0456",
+   "en": "55mm Triple-Barrel Gatling Gun Pod\nStandard main weapon of the Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0457",
+   "en": "Gun Pod\nStandard main weapon of the Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0458",
+   "en": "55mm Triple-Barrel Gatling Gun Pod (Beam)\nStandard main weapon of the Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0459",
+   "en": "Micro Missiles (Laser/Blast)\nMissiles that fly straight at the enemy and cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0460",
+   "en": "High-Maneuver Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0461",
+   "en": "Reaction Weapons\nAttacks with reaction weapons",
+   "flags": [],
+   "notes": "review: terms.json: this term = reaction weapon (also u2403 Reaction Weapon)."
+  },
+  {
+   "id": "u0462",
+   "en": "Laser Machine Gun\nFour laser machine guns mounted in the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0463",
+   "en": "Quad Laser Cannon/Twin Beam Cannon\nBeam cannons only an ace pilot can handle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0464",
+   "en": "Minmay Voice\nMinmay cheers you on",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0465",
+   "en": "Ultra-High-Mobility Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles)."
+  },
+  {
+   "id": "u0466",
+   "en": "Ultra-High-Mobility Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles)."
+  },
+  {
+   "id": "u0467",
+   "en": "Ultra-High-Mobility Micro Missiles (Blast)\nMissiles with tremendous destructive power",
+   "flags": [],
+   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles)."
+  },
+  {
+   "id": "u0468",
+   "en": "Large Hand Grenade\n",
+   "flags": [],
+   "notes": "Source has an empty description line; kept empty."
+  },
+  {
+   "id": "u0469",
+   "en": "Single-Barrel Charged Particle Beam Cannon\nBeam cannon mounted on the arm",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0470",
+   "en": "Semi-Conformal Medium-Range Guided Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+  },
+  {
+   "id": "u0471",
+   "en": "Semi-Conformal Medium-Range Guided Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0472",
+   "en": "Semi-Conformal Medium-Range Guided Missiles (Blast)\nMissiles that cause a huge blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0473",
+   "en": "30mm 6-Barrel Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0474",
+   "en": "Long-Barrel High-Penetration Gun Pod\nMain weapon for the VF-11 Full Armored",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0475",
+   "en": "Large Hand Grenade + Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a huge blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0476",
+   "en": "Anti-Air Pulse Laser Cannon\nA single anti-air laser cannon mounted in the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0477",
+   "en": "AA Pulse Laser Cannon/Twin Beam Cannon\nFires the shoulder-mounted twin beam cannon and the head laser cannon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0478",
+   "en": "Bayonet\nPerforms a melee attack with the bayonet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0479",
+   "en": "7-Barrel Gun Pod (Laser)\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0480",
+   "en": "Small-Caliber Laser Cannon\nLaser cannon mounted in the chest",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0481",
+   "en": "Medium-Caliber Beam Cannon\nBeam cannon mounted on the arm",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0482",
+   "en": "New Standard Gatling Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0483",
+   "en": "Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0484",
+   "en": "Cluster Missiles\nMissiles that burst and split into several after launch",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0485",
+   "en": "Semi-Fixed Laser Machine Gun\nLaser gun mounted at the waist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0486",
+   "en": "Pinpoint Barrier Punch\nPerforms a melee attack with a pinpoint barrier punch",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0487",
+   "en": "Caseless Gatling Gun Pod\nStandard main weapon of variable fighters (two equipped)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0488",
+   "en": "Caseless Gatling Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0489",
+   "en": "Beam Gun Pod\nStandard main weapon of variable fighters (two equipped)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0490",
+   "en": "High-Maneuver Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0491",
+   "en": "Semi-Fixed Beam Cannon\nBeam gun mounted on the arm",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0492",
+   "en": "Laser Beam Gun\nBeam gun mounted on the arm",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0493",
+   "en": "Pinpoint Barrier\nGenerates a pinpoint barrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0494",
+   "en": "Launcher Pod\nFires in speaker pods to make the target hear the song",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0495",
+   "en": "Song (MY FRIENDS)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0496",
+   "en": "Song (HOLY LONELY LIGHT)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0497",
+   "en": "Song SP (TRY AGAIN)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0498",
+   "en": "Song (Totsugeki Love Heart)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0499",
+   "en": "Speaker Pod γ\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0500",
+   "en": "Launcher Pod\nFires in speaker pods to make the target hear the drums",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0501",
+   "en": "Drums (Totsugeki Love Heart)\nPlays red-hot drums that shake the soul",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0502",
+   "en": "Harpoon Launcher Gun Pod\nGun pod that fires whale-catching harpoons",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0503",
+   "en": "Listen to My Song!!\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0504",
+   "en": "Song (DYNAMITE EXPLOSION)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0505",
+   "en": "Song SP\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0506",
+   "en": "MDE Vulcan\nMain weapon developed for use against the Vajra",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0507",
+   "en": "MDE Particle Anti-Gravity Cannon\nMain weapon developed for use against the Vajra",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0508",
+   "en": "MDE Warhead Micro Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0509",
+   "en": "MDE Warhead Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+  },
+  {
+   "id": "u0510",
+   "en": "MDE Warhead Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0511",
+   "en": "MDE Warhead Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0512",
+   "en": "Large Anti-Carrier Missile\nA large missile with tremendous destructive power",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0513",
+   "en": "Small-Caliber Laser Cannon\nBeam gun mounted in the chest",
+   "flags": [],
+   "notes": "Name says laser cannon, description says beam gun: kept as in source."
+  },
+  {
+   "id": "u0514",
+   "en": "Ghost\nLaunches a wave attack with three Ghosts",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0515",
+   "en": "New 58mm Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0516",
+   "en": "New 58mm Gun Pod (Beam)\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0517",
+   "en": "Dragunov Anti-Materiel Sniper Rifle\nA rifle capable of long-range fire",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0518",
+   "en": "12.7mm Beam Machine Gun\nBeam machine gun mounted in the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0519",
+   "en": "57mm Anti-Ship/Anti-Air Rapid-Fire Beam Turret\nBeam cannon mounted on the Armored Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0520",
+   "en": "Assault Knife\nPerforms a melee attack with the assault knife",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0521",
+   "en": "Beam Gun Pod\nGun pod for the VF-27",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0522",
+   "en": "Beam Grenade\nFires a heavy particle reaction beam from the gun pod",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0523",
+   "en": "Anti-Air Laser Machine Gun\nTwo laser machine guns mounted in the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0524",
+   "en": "Squire\nLaunches a wave attack with bits",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0525",
+   "en": "Railgun\nRailgun mounted on the SAP",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0526",
+   "en": "Rotary Laser Cannon\nLaser cannon mounted on the right shoulder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0527",
+   "en": "Shock Gun Pod\nMain weapon fitted to Patrol units",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0528",
+   "en": "Anti-Air Pulse Laser Cannon\nA single laser machine gun mounted in the head",
+   "flags": [],
+   "notes": "Description says laser machine gun though the name says pulse laser cannon: kept as in source."
+  },
+  {
+   "id": "u0529",
+   "en": "Anti-Air Pulse Laser Cannon\nTwo laser machine guns mounted in the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0530",
+   "en": "Balloon Shot\nCaptures the target with a balloon shot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0531",
+   "en": "Call Allies\nCalls in VF-5000Gs",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0532",
+   "en": "55mm Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0533",
+   "en": "Medium Anti-Ship Missiles (Blast)\nMissiles that cause a huge blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0534",
+   "en": "Medium Anti-Ship Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0535",
+   "en": "Medium Anti-Ship Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0536",
+   "en": "Medium Anti-Ship Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0537",
+   "en": "12.7mm Machine Gun\nMachine gun mounted at the waist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0538",
+   "en": "Fuel-Air Bomb\nAttacks with a fuel-air bomb",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0539",
+   "en": "Medium Anti-Ship Missiles (Blast)\nMissiles with tremendous destructive power",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0540",
+   "en": "Fixed Pulse Laser Gun\nLaser guns mounted on both hands",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0541",
+   "en": "High-Maneuver Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0542",
+   "en": "Large 6-Barrel AA Gatling Cannon\nGatling cannons mounted on both arms",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0543",
+   "en": "6-Tube Rocket Launcher\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0544",
+   "en": "Quad AA Missile Launcher\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0545",
+   "en": "Call Allies\nCalls in Cheyennes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0546",
+   "en": "40cm Liquid-Propellant Cannon\nPowerful cannon mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0547",
+   "en": "Triple-Mount Anti-Ground Missile Launcher\nMissiles that can lock onto several enemies at once",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+  },
+  {
+   "id": "u0548",
+   "en": "Laser Cannon\nLaser cannons mounted on both hands",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0549",
+   "en": "57mm Multipurpose Rapid-Fire Gun\nRapid-fire gun mounted on the upper head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0550",
+   "en": "8-Tube Missile Launcher\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0326: Joke title; 'Zentradi Bowl, Extra Large' is a free rendering of a donburi gag.",
+   "u0328: Earth/Heaven for the chi/ten suffix pair (with u0331).",
+   "u0367: Rendered as Alto's full line; could be shortened to 'We Can Love Someone!!'.",
+   "u0370: Speaker and exact source line not verified; 'fake' for mayakashi (illusion/sham).",
+   "u0399: Close vs Cross Canyon.",
+   "u0424: Zentradi phrase romanisation unverified.",
+   "u0547: 3-za-sou rendered 'Triple-Mount'."
+  ],
+  "missing_glossary": [
+   "Manfred Brando (VF-X2 villain; listed in gaps.json; used as 'Manfred')"
+  ],
+  "unfinished": []
+ }
+}

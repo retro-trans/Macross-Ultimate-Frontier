@@ -1,0 +1,547 @@
+{
+ "slice": 23,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1084",
+   "en": "Sub-control system damaged.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1084",
+   "en": "The sub-control system is damaged!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1084",
+   "en": "Sub-control system damaged!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1084",
+   "en": "Sub-control system damaged.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1085",
+   "en": "Blocks D3 and D7 hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1085",
+   "en": "Blocks D3 and D7 hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1085",
+   "en": "Blocks D3 and D7 hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1085",
+   "en": "Blocks D3 and D7 hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1085",
+   "en": "Blocks D3 and D7 hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1086",
+   "en": "Secondary gun turrets 2 and 5 are down. They cannot be repaired right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1086",
+   "en": "Secondary gun turrets 2 and 5 are down. They can't be repaired right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1086",
+   "en": "Secondary gun turrets 2 and 5 are down. No quick repair possible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1086",
+   "en": "Secondary gun turrets 2 and 5 are down. No immediate repair possible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1086",
+   "en": "Secondary gun turrets 2 and 5 are down. They can't be repaired right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1087",
+   "en": "Subsystems 1 and 2 are not responding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1087",
+   "en": "Subsystems 1 and 2 are not responding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1087",
+   "en": "Subsystems 1 and 2 are not responding!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'handou' (recoil) for 'hannou' (response)."
+  },
+  {
+   "id": "vo0_om0_1087",
+   "en": "Subsystems 1 and 2, no response.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1087",
+   "en": "Subsystems 1 and 2, no response.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'handou' (recoil) for 'hannou' (response)."
+  },
+  {
+   "id": "vo0_of0_1088",
+   "en": "Rear of D block hit.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript has 'D block koukuu/kooku hidan' (aviation / coke, hit); I read it as 'D block koubu' (rear section); not sure."
+  },
+  {
+   "id": "vo0_of1_1088",
+   "en": "Rear of D block hit.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript has 'D block kooku hidan' ('kooku' is not a word); read as 'koubu' (rear section); not sure."
+  },
+  {
+   "id": "vo0_of2_1088",
+   "en": "Rear of D block hit.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript has 'tii block kooku hidan'; tii block = D block, 'kooku' read as 'koubu' (rear section); not sure."
+  },
+  {
+   "id": "vo0_om0_1088",
+   "en": "Rear of D block hit.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript has 'D block kooku hidan' (flying bullet); read as 'koubu hidan' (rear hit); not sure."
+  },
+  {
+   "id": "vos_mis_1088",
+   "en": "Rear of D block hit.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript has 'D block koukuu hidan' (aviation, flying bullet); read as 'koubu hidan' (rear hit); not sure."
+  },
+  {
+   "id": "vo0_of0_1089",
+   "en": "Engine Section 4 is devastated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1089",
+   "en": "Engine Section 4 is devastated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1089",
+   "en": "Engine Section 4 is devastated!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1089",
+   "en": "Engine Section 4 is devastated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1089",
+   "en": "Engine Section 4 is devastated.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes kikan-ku with the kanji for 'sky'; it is kikan-ku (engine section)."
+  },
+  {
+   "id": "vo0_of0_1090",
+   "en": "Section 27 has been wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1090",
+   "en": "Section 27 has been wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1090",
+   "en": "Section 27 is gone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1090",
+   "en": "Section 27 has been wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1090",
+   "en": "Section 27 has been wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1091",
+   "en": "All control systems are inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1091",
+   "en": "All control systems are inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1091",
+   "en": "All control systems are down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1091",
+   "en": "All control systems are down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1091",
+   "en": "All control systems are inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1092",
+   "en": "Macross disabled. We are withdrawing from the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1092",
+   "en": "Macross disabled. We're leaving the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1092",
+   "en": "Macross is out of action. We're leaving the combat zone!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'zen'iki' (whole area) for 'sen'iki' (combat zone)."
+  },
+  {
+   "id": "vo0_om0_1092",
+   "en": "Macross disabled. We're leaving the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1092",
+   "en": "Macross disabled. We are withdrawing from the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1093",
+   "en": "Auxiliary reactor malfunction. The Macross is uncontrollable.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'hojo-han node' (auxiliary squad node) for 'hojo hannouro' (auxiliary reactor) and wrong kanji sousa (investigation) for sousa (operation)."
+  },
+  {
+   "id": "vo0_of1_1093",
+   "en": "Auxiliary reactor malfunction. Macross is uncontrollable.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'souchi' (investigation) for 'sousa' (operation), wrong kanji, same sound; the other operators' rows read the same."
+  },
+  {
+   "id": "vo0_of2_1093",
+   "en": "Auxiliary reactor malfunction! The Macross is uncontrollable!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1093",
+   "en": "Auxiliary reactor malfunction! The Macross is uncontrollable!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'souchi' (investigation) for 'sousa' (operation), wrong kanji, same sound; the other operators' rows read the same."
+  },
+  {
+   "id": "vos_mis_1093",
+   "en": "Auxiliary reactor malfunction. The Macross is uncontrollable.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'hojo hannou 6-chou' for 'hojo hannouro fuchou' (auxiliary reactor malfunction) and wrong kanji sousa (investigation) for sousa (operation)."
+  },
+  {
+   "id": "vo0_of0_1095",
+   "en": "Lieutenant Isamu Dyson is at the controls. Please be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1095",
+   "en": "Lieutenant Isamu Dyson is at the controls. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1095",
+   "en": "Lieutenant Isamu Dyson is flying it. Stay sharp!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1095",
+   "en": "Lieutenant Isamu Dyson is at the controls. Stay alert.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'chuui' (caution) in place of 'chuui' (lieutenant, wrong kanji), same sound."
+  },
+  {
+   "id": "vos_mis_1095",
+   "en": "Lieutenant Isamu Dyson is at the controls. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1096",
+   "en": "The YF-19's test pilot is at the controls. Please be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1096",
+   "en": "The YF-19's test pilot is at the controls. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1096",
+   "en": "The YF-19's test pilot is flying it. Stay sharp!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1096",
+   "en": "The YF-19's test pilot is at the controls. Stay alert.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1096",
+   "en": "The YF-19's test pilot is at the controls. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1097",
+   "en": "Development chief Guld Goa Bowman is at the controls. Please don't get careless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1097",
+   "en": "Development chief Guld Goa Bowman is piloting. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1097",
+   "en": "Development chief Guld Goa Bowman is flying it. Don't get careless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1097",
+   "en": "Development chief Guld Goa Bowman is at the controls. Don't get careless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1097",
+   "en": "Development chief Guld Goa Bowman is at the controls. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1098",
+   "en": "The YF-21's test pilot is at the controls. Please do not let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1098",
+   "en": "The YF-21's test pilot is at the controls. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1098",
+   "en": "The YF-21's test pilot is flying it. Don't get careless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1098",
+   "en": "The YF-21's test pilot is at the controls. Don't get careless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1098",
+   "en": "The YF-21's test pilot is at the controls. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1099",
+   "en": "Please head for the next target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1099",
+   "en": "Head for the next target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1099",
+   "en": "Head for the next target area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1099",
+   "en": "Head for the next target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1099",
+   "en": "Head for the next target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1100",
+   "en": "Please hurry to the next target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1100",
+   "en": "Hurry to the next target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1100",
+   "en": "Hurry to the next target area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1100",
+   "en": "Hurry to the next target area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1100",
+   "en": "Hurry to the next target area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1101",
+   "en": "Target area passed. Please head for the next one.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1780-1784 (clip 1088): garbled 'D block koukuu/kooku' read as 'D block rear section hit'; real wording could differ",
+   "rows 1805-1809 (clip 1093): 'sousa fuka' read as 'cannot be operated' = 'uncontrollable'; 'auxiliary reactor' from three of five transcripts",
+   "rows 1810-1829 (clips 1095-1098): the pilot is the enemy test craft's; 'at the controls' used; no pronoun for the pilots",
+   "rows 1770-1774 (clip 1086): 'secondary gun turrets' for fukuhoutou; 'are down' for yarareta"
+  ],
+  "whisper_doubt": [
+   "row 1777: Transcript has 'handou' (recoil) for 'hannou' (response).",
+   "row 1779: Transcript has 'handou' (recoil) for 'hannou' (response).",
+   "row 1780: Transcript has 'D block koukuu/kooku hidan' (aviation / coke, hit); I read it as 'D block koubu' (rear section); not sure.",
+   "row 1781: Transcript has 'D block kooku hidan' ('kooku' is not a word); read as 'koubu' (rear section); not sure.",
+   "row 1782: Transcript has 'tii block kooku hidan'; tii block = D block, 'kooku' read as 'koubu' (rear section); not sure.",
+   "row 1783: Transcript has 'D block kooku hidan' (flying bullet); read as 'koubu hidan' (rear hit); not sure.",
+   "row 1784: Transcript has 'D block koukuu hidan' (aviation, flying bullet); read as 'koubu hidan' (rear hit); not sure.",
+   "row 1789: Transcript writes kikan-ku with the kanji for 'sky'; it is kikan-ku (engine section).",
+   "row 1802: Transcript has 'zen'iki' (whole area) for 'sen'iki' (combat zone).",
+   "row 1805: Transcript has 'hojo-han node' (auxiliary squad node) for 'hojo hannouro' (auxiliary reactor) and wrong kanji sousa (investigation) for sousa (operation).",
+   "row 1806: Transcript has 'souchi' (investigation) for 'sousa' (operation), wrong kanji, same sound; the other operators' rows read the same.",
+   "row 1808: Transcript has 'souchi' (investigation) for 'sousa' (operation), wrong kanji, same sound; the other operators' rows read the same.",
+   "row 1809: Transcript has 'hojo hannou 6-chou' for 'hojo hannouro fuchou' (auxiliary reactor malfunction) and wrong kanji sousa (investigation) for sousa (operation).",
+   "row 1813: Transcript has 'chuui' (caution) in place of 'chuui' (lieutenant, wrong kanji), same sound."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,508 @@
+{
+ "slice": 60,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_of0_325",
+   "en": "Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_325",
+   "en": "Glad we both made it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_325",
+   "en": "Well, glad the mission ended safely, I say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_326",
+   "en": "Was my support helpful?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_326",
+   "en": "Looks like we were both in good form.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_326",
+   "en": "Looks like my soul got through to you, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_326",
+   "en": "Was my support helpful?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_326",
+   "en": "Not bad. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_326",
+   "en": "So how was it? How'd you like my support?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_327",
+   "en": "Impressive skill. I'll keep counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_327",
+   "en": "Not bad skills. Where'd you learn that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_327",
+   "en": "You're finally getting it, this passion thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_327",
+   "en": "Thank goodness you're safe. I was a little worried.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_327",
+   "en": "Keeping up with me, huh. Quite skilled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_327",
+   "en": "Together, anything's a breeze!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_328",
+   "en": "Well, the mission's over. Shall we relax?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_328",
+   "en": "Count on you next time, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_328",
+   "en": "You're teaming with me next time, too. Nobody else satisfies me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_328",
+   "en": "Looking forward to the next sortie, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_328",
+   "en": "Hey, I'm counting on you next mission, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_328",
+   "en": "Not bad at all, you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_329",
+   "en": "Well, there's no way we'd lose.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_329",
+   "en": "Work's done. Let's go grab a drink.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_329",
+   "en": "Be my partner from now on. No, my soul buddy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_329",
+   "en": "I feel any mission will be fine with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_329",
+   "en": "I don't mind continuing as your partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_329",
+   "en": "I'm completely smitten with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_330",
+   "en": "Let's rest up for the next one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_330",
+   "en": "It's nice to have someone watch your back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_330",
+   "en": "Hmph, looks like you've already surpassed me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_330",
+   "en": "I'll always welcome sorties with you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_330",
+   "en": "Come on, join me for a drink. I'll pour you something special.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_330",
+   "en": "I was nervous. With you I get so nervous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_331",
+   "en": "I think our teamwork got sharper.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_331",
+   "en": "Teaming with you is too easy. That's the problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_331",
+   "en": "Looks like the mission ended safely. Want a drink in my room?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_331",
+   "en": "Let's have some tea and relax after this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_331",
+   "en": "Can you eat pineapple? Come by my place.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pine read as pineapple; might be pai (pie)."
+  },
+  {
+   "id": "vp0_of2_331",
+   "en": "Steak is waiting for us! On you, of course!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_340",
+   "en": "Sortieing with you... This looks like a struggle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_340",
+   "en": "I'll do my own thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_340",
+   "en": "Not really in the mood to team up with a woman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_340",
+   "en": "Um, I'm sortieing with you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_340",
+   "en": "Sortieing next to a little girl, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_340",
+   "en": "Just don't get in my way. That's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_341",
+   "en": "Um, it'd help if you stayed back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_341",
+   "en": "Don't make me work for it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_341",
+   "en": "Heads up. I won't back you up just because you're a woman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_341",
+   "en": "Yes, if it's an order, I have no choice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_341",
+   "en": "I can handle this much alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_341",
+   "en": "Wow... With you? This'll be rough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_342",
+   "en": "Um, please don't move on your own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_342",
+   "en": "Why don't you go home, miss?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_342",
+   "en": "Tch, you probably can't feel my passion.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_342",
+   "en": "Um, well, never mind!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_342",
+   "en": "Don't do anything unnecessary.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_342",
+   "en": "Is this the worst or what?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Unclear whether she means the partner or the situation."
+  },
+  {
+   "id": "vp0_om0_343",
+   "en": "Okay! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_343",
+   "en": "Let's go! Stay sharp!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_343",
+   "en": "Watch out you don't get burned by my passion.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_343",
+   "en": "Here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_343",
+   "en": "Let's go, girl!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_343",
+   "en": "All right! Let's fire it up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_344",
+   "en": "Here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_344",
+   "en": "Mission start. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_344",
+   "en": "Spirit! Spirit! Yeah!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kiyagi da kiyagi'; probably 'kiai da kiai' (fighting spirit)."
+  },
+  {
+   "id": "vp0_of0_344",
+   "en": "This mission will be okay, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_344",
+   "en": "Follow me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_344",
+   "en": "Heh heh heh, think you can keep up with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_345",
+   "en": "Let's finish this quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_345",
+   "en": "Well then, let's get to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_345",
+   "en": "Let's go! Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_345",
+   "en": "Let's stay calm!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_345",
+   "en": "Don't let up for a second!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_345",
+   "en": "Stay alert! The mission's starting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_346",
+   "en": "Let's show our full strength!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_346",
+   "en": "Burn my gallant form into your eyes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_346",
+   "en": "You'll feel it, my passion.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_346",
+   "en": "I think this mission will be fine with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_346",
+   "en": "The party's starting. Save the main course.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Unclear whether she means leave some enemies for her or for later."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 4758: Pine read as pineapple; might be pai (pie).",
+   "row 4777: Unclear whether she means the partner or the situation.",
+   "row 4800: Unclear whether she means leave some enemies for her or for later."
+  ],
+  "whisper_doubt": [
+   "row 4786: Heard 'kiyagi da kiyagi'; probably 'kiai da kiai' (fighting spirit)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

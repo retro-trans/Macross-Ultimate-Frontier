@@ -1,0 +1,704 @@
+{
+ "fixes": [
+  {
+   "row": 1,
+   "en": "July, A.D. 1999. The object that fell onto South Ataria Island, a lone Pacific isle,",
+   "why": "refit: 'gigantic' dropped (row 2 says giant battleship); 'lone isle in the Pacific' -> 'lone Pacific isle'"
+  },
+  {
+   "row": 3,
+   "en": "The battleship brought a technological revolution through OverTechnology,",
+   "why": "refit/rebalance: 'existence' cut; 'but at the same time' moved to row 4 as 'but it also'"
+  },
+  {
+   "row": 4,
+   "en": "but it also pointed to an unknown threat from extraterrestrial life.",
+   "why": "rebalance: takes 'but ... also' from row 3"
+  },
+  {
+   "row": 10,
+   "en": "The war dragged on, finally ending in 2007. Meanwhile, the giant battleship",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 11,
+   "en": "was under constant repair, to be reborn as a U.N. Forces battleship.",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 17,
+   "en": "and an age had come when many a generation called one of them home.",
+   "why": "refit: 'no longer rare for a generation' -> 'many a generation'"
+  },
+  {
+   "row": 19,
+   "en": "humanity had narrowly escaped extinction by wielding the power of \"culture,\"",
+   "why": "refit: 'with ... as its weapon' -> 'by wielding'"
+  },
+  {
+   "row": 22,
+   "en": "It began with postwar reconstruction, then quelling some Zentradi remnants,",
+   "why": "refit: 'the suppression of some of the' -> 'quelling some'"
+  },
+  {
+   "row": 23,
+   "en": "and went as far as bolstering defenses against unknown threats yet to come.",
+   "why": "refit: 'stretched all the way to' -> 'went as far as'"
+  },
+  {
+   "row": 27,
+   "en": "built around Macross 7, the seventh ship of the New Macross class,",
+   "why": "rebalance: 'carrying over a million citizens' moved to row 28"
+  },
+  {
+   "row": 28,
+   "en": "carried over a million citizens through space, seeking a new planet to settle.",
+   "why": "rebalance: takes the citizens clause from row 27 as the main verb"
+  },
+  {
+   "row": 29,
+   "en": "The fleet's commander, who was also captain of the space carrier Battle 7,",
+   "why": "refit: 'also served as' -> 'was also'"
+  },
+  {
+   "row": 31,
+   "en": "Meanwhile, City 7, Macross 7's residential area, was governed by Mayor Milia,",
+   "why": "rebalance: 'once feared even within the Zentradi forces' moved to row 32"
+  },
+  {
+   "row": 32,
+   "en": "once feared even within the Zentradi forces as \"Milia the Ace.\"",
+   "why": "rebalance: takes the epithet clause from row 31"
+  },
+  {
+   "row": 33,
+   "en": "She was also Max's wife, wed to him in wartime in the first interstellar marriage.",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 45,
+   "en": "The giant battleship that fell on South Ataria Island in the late 20th century",
+   "why": "refit: 'space' dropped; 'at the end of' -> 'in the late'"
+  },
+  {
+   "row": 46,
+   "en": "made humanity aware of extraterrestrial life and the threat it posed, while",
+   "why": "refit: 'that ... existed' compressed"
+  },
+  {
+   "row": 51,
+   "en": "factions around the world that rejected the U.N. Government's monopoly",
+   "why": "rebalance: 'on OverTechnology' moved to row 52; 'refused to accept' -> 'rejected'"
+  },
+  {
+   "row": 52,
+   "en": "on OverTechnology organized themselves into the \"Anti-U.N. Forces.\"",
+   "why": "rebalance: takes 'on OverTechnology' from row 51"
+  },
+  {
+   "row": 53,
+   "en": "The \"U.N. Forces\" and the \"Anti-U.N. Forces.\" Their conflict grew fiercer",
+   "why": "refit: 'The conflict between the two sides' -> 'Their conflict'"
+  },
+  {
+   "row": 54,
+   "en": "and at last sparked the struggle later called the \"Unification Wars.\"",
+   "why": "refit: 'led to the outbreak of' -> 'sparked'"
+  },
+  {
+   "row": 55,
+   "en": "Amid the still-raging Unification Wars, on Mayan Island, a lone southern isle,",
+   "why": "refit: tighter wording"
+  },
+  {
+   "row": 56,
+   "en": "readings were picked up that, like the crashed battleship, seemed alien-made,",
+   "why": "refit: 'seemed to be the work of alien life' -> 'seemed alien-made'; 'giant' dropped"
+  },
+  {
+   "row": 58,
+   "en": "Over this mysterious object, which must have been on Earth since antiquity,",
+   "why": "refit: 'ancient times' -> 'antiquity'"
+  },
+  {
+   "row": 59,
+   "en": "the \"U.N. Forces\" and \"Anti-U.N. Forces\" began a secret but fierce struggle...",
+   "why": "refit: second 'the' dropped"
+  },
+  {
+   "row": 60,
+   "en": "The battleship brought a technological revolution through OverTechnology,",
+   "why": "refit/rebalance: same as row 3; 'but at the same time' moved to row 61"
+  },
+  {
+   "row": 61,
+   "en": "but it also pointed to an unknown threat from extraterrestrial life.",
+   "why": "rebalance: same as row 4"
+  },
+  {
+   "row": 63,
+   "en": "the U.N. Government then repaired the giant battleship that crashed to Earth",
+   "why": "refit: 'had crashed' -> 'crashed'"
+  },
+  {
+   "row": 65,
+   "en": "As fate would have it, the threat from space came on the Macross's launch day.",
+   "why": "refit: 'the very day of the ... launch ceremony' -> 'launch day'"
+  },
+  {
+   "row": 66,
+   "en": "Having sensed the Macross, an alien battleship appeared near Earth,",
+   "why": "rebalance: 'and hostilities with it' moved to row 67"
+  },
+  {
+   "row": 67,
+   "en": "and hostilities with it suddenly broke out.",
+   "why": "rebalance: takes clause from row 66"
+  },
+  {
+   "row": 69,
+   "en": "With 50,000 citizens aboard, it jumped to the outer solar system, near Uranus.",
+   "why": "refit: 'still' dropped; 'far reaches of the solar system' -> 'outer solar system'"
+  },
+  {
+   "row": 74,
+   "en": "Home to the Zolans since ancient times, it was a quiet, utterly ordinary planet",
+   "why": "refit: 'utterly unremarkable, peaceful' -> 'quiet, utterly ordinary'"
+  },
+  {
+   "row": 77,
+   "en": "Mysterious giant life-forms that at times appeared nearby: the \"Galaxy Whales.\"",
+   "why": "refit: 'sometimes appeared in the space around the planet' -> 'at times appeared nearby'"
+  },
+  {
+   "row": 80,
+   "en": "But once it was known that the whales could power high-performance ships,",
+   "why": "refit: 'ever since it became known', 'be used to power', 'spaceships' compressed"
+  },
+  {
+   "row": 81,
+   "en": "there was no end of poachers illegally hunting the whales for the black market,",
+   "why": "refit: 'trying to capture ... illegally' -> 'illegally hunting'"
+  },
+  {
+   "row": 82,
+   "en": "and the Zolan Star Patrol, guarding the whales, struggled with armed poachers.",
+   "why": "refit: 'which protected the Galaxy Whales' -> 'guarding the whales'; 'to deal with the' cut"
+  },
+  {
+   "row": 93,
+   "en": "Staking humanity's fate, the Macross advanced on the heart of the enemy.",
+   "why": "refit: 'on this attack' and 'fleet' cut (source says the enemy's core)"
+  },
+  {
+   "row": 94,
+   "en": "Its target: Supreme Commander Boddole Zer's flagship, the Fulbtzs-Berrentzs.",
+   "why": "refit: restructured"
+  },
+  {
+   "row": 104,
+   "en": "Quamzin, unable to accept culture and refusing to coexist with Earth's people,",
+   "why": "refit: 'live alongside the people of Earth' -> 'coexist with Earth's people'"
+  },
+  {
+   "row": 106,
+   "en": "But the Macross rose again, and its main cannon set Quamzin's ship ablaze,",
+   "why": "refit: 'rose into the air once more' -> 'rose again'"
+  },
+  {
+   "row": 110,
+   "en": "was being built: a colony ship to seek a new world beyond the solar system.",
+   "why": "refit: second sentence merged with a colon"
+  },
+  {
+   "row": 114,
+   "en": "At Macross City's ceremony marking 30 years since the end of Space War I,",
+   "why": "refit: restructured"
+  },
+  {
+   "row": 120,
+   "en": "They were the YF-19 and YF-21, prototypes whose development was frozen.",
+   "why": "refit: 'prototype fighters' -> 'prototypes' (row 119 says fighters)"
+  },
+  {
+   "row": 121,
+   "en": "Sharon tried to destroy them with the X-9 Ghost drone and the Macross, but",
+   "why": "refit: 'eliminate the two machines' -> 'destroy them'; 'unmanned fighter' -> 'drone'"
+  },
+  {
+   "row": 122,
+   "en": "thanks to their machines' astonishing power and the pilots' desperate stand,",
+   "why": "refit: 'performance' -> 'power'; 'desperate resistance of their two pilots' -> 'pilots' desperate stand'"
+  },
+  {
+   "row": 124,
+   "en": "And so the Macross's rampage under Sharon Apple was brought to a halt.",
+   "why": "refit: 'at the hands of' -> 'under'"
+  },
+  {
+   "row": 125,
+   "en": "The incident was classified top secret, known only to a few insiders, but",
+   "why": "refit: restructured"
+  },
+  {
+   "row": 126,
+   "en": "it brought the danger of rogue unmanned fighters and artificial intelligence",
+   "why": "refit: 'running amok' -> 'rogue'"
+  },
+  {
+   "row": 130,
+   "en": "The nearly derailed development competition ended in victory for the YF-19,",
+   "why": "refit: relative clause folded into adjective"
+  },
+  {
+   "row": 132,
+   "en": "Meanwhile, the losing YF-21's capabilities were also highly rated,",
+   "why": "refit: concessive clause folded into 'losing'"
+  },
+  {
+   "row": 136,
+   "en": "boarded a ship for the far reaches of space to put their experience to use...",
+   "why": "refit: 'bound for the farthest' -> 'for the far'"
+  },
+  {
+   "row": 140,
+   "en": "it was the power of the songs of Basara Nekki and friends that ended the war.",
+   "why": "refit: 'his comrades' -> 'friends'; 'brought the fighting to an end' -> 'ended the war'"
+  },
+  {
+   "row": 151,
+   "en": "it journeyed on through space, once again in search of a new planet to settle.",
+   "why": "refit: 'continued its journey' -> 'journeyed on'"
+  },
+  {
+   "row": 172,
+   "en": "Humanity and the Vajra: utterly different life-forms that never got along.",
+   "why": "refit: 'had never been able to get along' -> 'never got along'"
+  },
+  {
+   "row": 175,
+   "en": "Revived after absorbing Sara, the Bird Human used its overwhelming might",
+   "why": "rebalance: takes 'overwhelming might' from row 176"
+  },
+  {
+   "row": 176,
+   "en": "to wreak utter destruction, bent on wiping out a humanity that kept fighting.",
+   "why": "rebalance/refit: restructured after moving the might clause to row 175"
+  },
+  {
+   "row": 179,
+   "en": "Reaction weapons flew to destroy the Bird Human, deemed uncontrollable.",
+   "why": "refit: 'now judged to be beyond control' -> 'out-of-control' (the 'judged' nuance is lost) | review: keep \"deemed uncontrollable\""
+  },
+  {
+   "row": 180,
+   "en": "To protect Earth, Mayan Island, and above all Shin, Sara flew off into space,",
+   "why": "rebalance: takes 'flew off into space' from row 181"
+  },
+  {
+   "row": 181,
+   "en": "taking with her the reaction weapons she had sealed away with her own power.",
+   "why": "rebalance: 'flew off into space' moved to row 180"
+  },
+  {
+   "row": 182,
+   "en": "Thus both ruin by the Bird Human and reaction-weapon fallout were averted.",
+   "why": "refit: 'annihilation' -> 'ruin'; 'contamination by the reaction weapons' -> 'reaction-weapon fallout'"
+  },
+  {
+   "row": 186,
+   "en": "began to climb, wrapped in a mysterious light,",
+   "why": "rebalance: period -> comma so row 187 continues the sentence (one sentence in the source)"
+  },
+  {
+   "row": 187,
+   "en": "watched by %s, %s and the islanders,",
+   "why": "refit: 'It rose as ... looked on' -> 'watched by'; 'the people of Mayan Island' -> 'the islanders' (Mayan Island named in row 180)"
+  },
+  {
+   "row": 201,
+   "en": "The Main Fleet's commander and core unit of Boddole Zer's mobile fortress,",
+   "why": "refit: possessive; second 'the' dropped"
+  },
+  {
+   "row": 222,
+   "en": "Ahead of %s and %s, who had also left Zola,",
+   "why": "refit: leading 'And' dropped"
+  },
+  {
+   "row": 234,
+   "en": "To stop the theft of the AFOS fragment,\\nannihilate the Anti-U.N. Forces.",
+   "why": "refit: 'from being seized' -> 'the theft of'"
+  },
+  {
+   "row": 242,
+   "en": "Wipe out the Anti-U.N. Forces so they\\ncan't recover the Bird Human's head.",
+   "why": "refit: restructured, purpose clause moved to the end"
+  },
+  {
+   "row": 272,
+   "en": "Destroy the enemies nearing the Macross.",
+   "why": "refit: 'enemy units approaching' -> 'enemies nearing'"
+  },
+  {
+   "row": 284,
+   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "why": "refit: 'away from' -> 'off'"
+  },
+  {
+   "row": 286,
+   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "why": "refit: 'away from' -> 'off'"
+  },
+  {
+   "row": 288,
+   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "why": "refit: 'away from' -> 'off'"
+  },
+  {
+   "row": 290,
+   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "why": "refit: 'away from' -> 'off'"
+  },
+  {
+   "row": 306,
+   "en": "To capture the automated spaceship\\nfactory, seize control of the facility.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 308,
+   "en": "To capture the automated spaceship\\nfactory, seize control of the facility.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 310,
+   "en": "Wipe out Quamzin's faction, which is\\ntrying to steal the micronization device.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 314,
+   "en": "Wipe out Quamzin's faction, which is\\ntrying to steal the reaction engine.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 358,
+   "en": "As part of your training, fight\\nmock battles with the Destroid squads.",
+   "why": "refit: 'against' -> 'with', line break moved"
+  },
+  {
+   "row": 362,
+   "en": "To assess your aptitude as a test pilot,\\nfight the Valkyrie squad in a mock battle.",
+   "why": "refit: reordered"
+  },
+  {
+   "row": 364,
+   "en": "Pass each waypoint as it is designated,\\nas quickly as you can.",
+   "why": "refit: 'Fly through' -> 'Pass'"
+  },
+  {
+   "row": 400,
+   "en": "Wipe out the unknowns that just appeared.",
+   "why": "refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source"
+  },
+  {
+   "row": 402,
+   "en": "Wipe out the unknowns that just appeared.",
+   "why": "refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source"
+  },
+  {
+   "row": 406,
+   "en": "Recover the containers holding citizens\\nand annihilate the Varauta Army.",
+   "why": "refit: 'the citizens' -> 'citizens'"
+  },
+  {
+   "row": 424,
+   "en": "Stop the Protodeviln coming to save their\\ncomrade from reaching the target area.",
+   "why": "refit: 'rescue' -> 'save'"
+  },
+  {
+   "row": 428,
+   "en": "As part of training,\\nfight a mock battle with the legendary duo.",
+   "why": "refit: 'against' -> 'with'"
+  },
+  {
+   "row": 460,
+   "en": "Protect the Galaxy Whale from the\\nreaction weapon and arrest the poachers.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 462,
+   "en": "Make Basara's song ring across the galaxy.",
+   "why": "refit: 'ring out across' -> 'ring across'"
+  },
+  {
+   "row": 474,
+   "en": "Annihilate the returning Victors.",
+   "why": "refit: 'that have reappeared' -> 'returning'"
+  },
+  {
+   "row": 482,
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "why": "refit: 'rescue' -> 'save'"
+  },
+  {
+   "row": 484,
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "why": "refit: 'rescue' -> 'save'"
+  },
+  {
+   "row": 486,
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "why": "refit: 'rescue' -> 'save'"
+  },
+  {
+   "row": 488,
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "why": "refit: 'rescue' -> 'save'"
+  },
+  {
+   "row": 490,
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "why": "refit: 'rescue' -> 'save'"
+  },
+  {
+   "row": 492,
+   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "why": "refit: 'rescue' -> 'save'"
+  },
+  {
+   "row": 510,
+   "en": "Wipe out the Vajra so they can't disrupt\\nthe experiment using Ranka Lee's song.",
+   "why": "refit: 'interfere with' -> 'disrupt', line break moved"
+  },
+  {
+   "row": 512,
+   "en": "Defend the Macross Quarter and wipe out\\nthe Vajra or survive for 5 minutes.",
+   "why": "refit: 'either' dropped, line break moved"
+  },
+  {
+   "row": 514,
+   "en": "Defend the Macross Quarter and wipe out\\nthe Vajra or survive for 5 minutes.",
+   "why": "refit: 'either' dropped, line break moved"
+  },
+  {
+   "row": 516,
+   "en": "Defend the Battle Frontier for 5 minutes\\nas it prepares a super-long-distance fold.",
+   "why": "refit: 'while it prepares for' -> 'as it prepares', line break moved"
+  },
+  {
+   "row": 522,
+   "en": "Wipe out the deserters trying to escape\\nin the stolen Macross Quarter.",
+   "why": "refit: 'who seized the Macross Quarter' -> 'in the stolen Macross Quarter'"
+  },
+  {
+   "row": 524,
+   "en": "To test the VF-171EX, hold a mock battle\\nwith the Sagittarius Squadron.",
+   "why": "refit: 'As a test of' -> 'To test', 'against' -> 'with', line break moved"
+  },
+  {
+   "row": 560,
+   "en": "Defeat the variable fighters of all eras.",
+   "why": "refit: 'every generation' -> 'all eras'"
+  },
+  {
+   "row": 564,
+   "en": "To be accepted as a security guard,\\nfight a mock battle with Basara's band.",
+   "why": "refit: 'hold ... with Basara and the band' -> 'fight ... with Basara's band'"
+  },
+  {
+   "row": 578,
+   "en": "Defeat the Famitsu editors blocking your\\nprobe and uncover the collection's secret.",
+   "why": "refit: 'obstructing your investigation' -> 'blocking your probe'; 'secret of the collection' -> 'collection's secret'"
+  },
+  {
+   "row": 604,
+   "en": "Triumph over His Excellency Gepelnitchi.",
+   "why": "refit: 'Seize victory from' -> 'Triumph over' (title kept)"
+  },
+  {
+   "row": 622,
+   "en": "Seize victory from the enemy battleships\\nnew to the fight in this game.",
+   "why": "refit: 'joining the fight for the first time' -> 'new to the fight'"
+  },
+  {
+   "row": 642,
+   "en": "Practice the new special maneuvers.",
+   "why": "refit: 'newly added' -> 'new'"
+  },
+  {
+   "row": 664,
+   "en": "Take the AFOS fragment to the target point",
+   "why": "refit: 'Carry' -> 'Take'"
+  },
+  {
+   "row": 741,
+   "en": "Let's go over the basics of Fighter mode.",
+   "why": "refit: 'basic controls for' -> 'basics of' (matches rows 778/796)"
+  },
+  {
+   "row": 742,
+   "en": "During training, flight mode is set to\nNormal Flight, and controller settings are\nreset to defaults. Please keep this in mind.",
+   "why": "refit: articles dropped, lines rebalanced; 'revert to their defaults' -> 'are reset to defaults' (matches row 755)"
+  },
+  {
+   "row": 743,
+   "en": "Press Up on the D-pad to nose down and\ndescend, and Down to nose up and climb.",
+   "why": "refit: 'dip/raise the nose' -> 'nose down/up'; second 'on the D-pad' dropped"
+  },
+  {
+   "row": 745,
+   "en": "Hold the L button and press Left or Right\non the D-pad to yaw.\n(Real Flight only)",
+   "why": "refit: line break moved (matches row 854)"
+  },
+  {
+   "row": 751,
+   "en": "That covers the basics of Fighter mode.\nNote: in this training you can't transform\ninto any mode other than Fighter.",
+   "why": "refit: 'basic controls for' -> 'basics of'; 'Note that' -> 'Note:'"
+  },
+  {
+   "row": 753,
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 765,
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 777,
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 795,
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 808,
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 827,
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 841,
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 862,
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 873,
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 884,
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 754,
+   "en": "Let's go over the basics of Battroid mode.",
+   "why": "refit: as row 741"
+  },
+  {
+   "row": 763,
+   "en": "That covers the basics of Battroid mode.\nNote: in this training you can't transform\ninto any mode other than Battroid.",
+   "why": "refit: as row 751"
+  },
+  {
+   "row": 766,
+   "en": "Let's go over the basics of GERWALK mode.",
+   "why": "refit: as row 741"
+  },
+  {
+   "row": 775,
+   "en": "That covers the basics of GERWALK mode.\nNote: in this training you can't transform\ninto any mode other than GERWALK.",
+   "why": "refit: as row 751; line breaks aligned with rows 751/763"
+  },
+  {
+   "row": 785,
+   "en": "Press the □ button to attack the locked-on\nenemy with your main weapon.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 786,
+   "en": "Press the ○ button to attack the locked-on\nenemy with your special weapon.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 787,
+   "en": "If your unit has several special weapons,\nhold the L button and press the □ button\nto switch between them.",
+   "why": "refit: 'more than one special weapon' -> 'several special weapons'"
+  },
+  {
+   "row": 791,
+   "en": "While the locked-on enemy is ahead of you,\nyour lock-on level goes up.",
+   "why": "refit: 'in front of' -> 'ahead of'"
+  },
+  {
+   "row": 804,
+   "en": "A launched enemy is left defenseless\nfor a short time.\nYou can attack it further during that time.",
+   "why": "refit: 'keep attacking it during that window' -> 'attack it further during that time'"
+  },
+  {
+   "row": 815,
+   "en": "You can also step left or right and dash\nwhile moving on guard. Be careful:\nyour guard drops while you do.",
+   "why": "refit: line break moved"
+  },
+  {
+   "row": 817,
+   "en": "While hovering, press Left or Right on the\nD-pad to strafe while facing forward.",
+   "why": "refit: 'sideways' and 'still' dropped, line break moved"
+  },
+  {
+   "row": 821,
+   "en": "If you have a wingman, press the SELECT\nbutton together with the D-pad\nto issue tactical commands.",
+   "why": "refit: 'When' -> 'If'"
+  },
+  {
+   "row": 826,
+   "en": "That covers Special Maneuvers 1.",
+   "why": "refit: 'the controls for' dropped"
+  },
+  {
+   "row": 840,
+   "en": "That covers Special Maneuvers 2.",
+   "why": "refit: 'the controls for' dropped"
+  },
+  {
+   "row": 849,
+   "en": "Training's over once you bring the container\nto the designated point, reach the target\narea, or run out of time.",
+   "why": "refit: line breaks moved"
+  },
+  {
+   "row": 851,
+   "en": "During training, flight mode is set to\nReal Flight, and controller settings are\nreset to defaults. Please keep this in mind.",
+   "why": "refit: as row 742"
+  },
+  {
+   "row": 865,
+   "en": "With your current option parts equipped,\nthe option part transformation limit means\nyou can't switch to Fighter on the ground.",
+   "why": "refit: 'Fighter mode' -> 'Fighter'"
+  },
+  {
+   "row": 867,
+   "en": "In Fighter mode, with an enemy locked on,\nhold the R button to turn\nand bring the enemy dead ahead.",
+   "why": "refit: 'while locked on to an enemy' -> 'with an enemy locked on'"
+  },
+  {
+   "row": 872,
+   "en": "That covers the new special maneuvers\nand those with updated controls.",
+   "why": "refit: 'newly added' -> 'new'; repeated 'special maneuvers' -> 'those'"
+  }
+ ]
+}

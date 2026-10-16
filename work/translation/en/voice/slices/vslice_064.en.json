@@ -1,0 +1,524 @@
+{
+ "slice": 64,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vph_ddi_340",
+   "en": "I never expected anything from you to begin with.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_341",
+   "en": "Don't ruin my fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_342",
+   "en": "Do you even know how to fly that machine, little lady?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_343",
+   "en": "Don't botch an easy mission like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_344",
+   "en": "Move as I tell you, and you'll at least survive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_345",
+   "en": "I'll teach you, little lady, how to handle a machine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_346",
+   "en": "Don't take the battlefield lightly! All that's beside you is death!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the letter C; read as shi (death)."
+  },
+  {
+   "id": "vph_ddi_347",
+   "en": "Let's enjoy this mission together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_348",
+   "en": "Show me what you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_349",
+   "en": "Fighting alongside you might be fun, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_350",
+   "en": "You've become worthy of being my partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_351",
+   "en": "I'm counting on your work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_360",
+   "en": "You managed to come back alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_361",
+   "en": "If you want to live, never set foot on a battlefield again, little lady.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_362",
+   "en": "Was your mission to get in my way?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_363",
+   "en": "Looks like you made it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_364",
+   "en": "Mission accomplished. Returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_365",
+   "en": "Learn to handle your machine delicately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_366",
+   "en": "You can do better than this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_367",
+   "en": "You'll keep this up next time, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_368",
+   "en": "You've gotten pretty good yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_369",
+   "en": "You've gotten good. Keep it up from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_370",
+   "en": "To think you'd learn to handle a machine this well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_371",
+   "en": "I'll have to treat you like a lady from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_600",
+   "en": "Tch, out of fuel. We'll meet again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_601",
+   "en": "Damn it! That damn rookie!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote okka; a curse of annoyance (kuso), then 'that rookie'."
+  },
+  {
+   "id": "vph_ddi_602",
+   "en": "Clear out the small fry and head for the target. Follow me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_603",
+   "en": "I'm low on fuel. I'll keep this one busy. Nora, you take the other Bird Human.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Bird Human' pair, other half (katawara): which one is not clear from the clip alone."
+  },
+  {
+   "id": "vph_ddi_604",
+   "en": "Sorry to keep you waiting, Nora.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_606",
+   "en": "Nora, behind you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_607",
+   "en": "Pathetic! Utterly pathetic!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_608",
+   "en": "I won't forgive you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_609",
+   "en": "Don't mock me! You're Nora's enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_611",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote nyaa (logprob flag); not words."
+  },
+  {
+   "id": "vph_nor_000",
+   "en": "Feels good. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_001",
+   "en": "Nora here. Launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_002",
+   "en": "Not bad maintenance. Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_003",
+   "en": "Too soft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_004",
+   "en": "Don't mock me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_005",
+   "en": "It's no use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vph_nor_007",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_008",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_010",
+   "en": "Got you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_011",
+   "en": "I'll end this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_012",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_014",
+   "en": "You've done it now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_015",
+   "en": "Damn you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_016",
+   "en": "Tch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (kuh), whisper logprob warning."
+  },
+  {
+   "id": "vph_nor_018",
+   "en": "You're wide open!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_019",
+   "en": "Here!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote sodora; guessed sora yo (here you go)."
+  },
+  {
+   "id": "vph_nor_020",
+   "en": "I won't let you get away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_100",
+   "en": "An operation like this? Failing it would be harder.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_101",
+   "en": "Try to amuse me a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_102",
+   "en": "Now then, it's time for a fun hunt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_103",
+   "en": "Come on, over here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_104",
+   "en": "Run, run!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_105",
+   "en": "I'll play with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_106",
+   "en": "Die!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_107",
+   "en": "Here's a present for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_108",
+   "en": "Dance! Dance! Dance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_109",
+   "en": "Persistent bastard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_110",
+   "en": "You half-dead wretch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_111",
+   "en": "How does it feel to have your life in my grip?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_112",
+   "en": "You're no match for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_113",
+   "en": "You vermin!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote mushi kiraga; read as mushikera ga (insect, vermin)."
+  },
+  {
+   "id": "vph_nor_114",
+   "en": "Who said you could go down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_115",
+   "en": "That one's mine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_116",
+   "en": "Found the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_117",
+   "en": "So that's the prey. Entertain me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_118",
+   "en": "Isn't there any better prey?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_119",
+   "en": "Boring.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_120",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_121",
+   "en": "A shield's no comfort at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_122",
+   "en": "The shield's busted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_123",
+   "en": "Don't get cocky over a shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_124",
+   "en": "That's all? Don't make me laugh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_nor_125",
+   "en": "Light damage.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote sonsho keibi (damage security); read as sonsho keibi da = damage is slight."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5068 (vph_ddi_603): 'Bird Human' pair, other half (katawara): which one is not clear from the clip alone.",
+   "row 5093 (vph_nor_019): Whisper wrote sodora; guessed sora yo (here you go)."
+  ],
+  "whisper_doubt": [
+   "row 5047 (vph_ddi_346): Whisper wrote the letter C; read as shi (death).",
+   "row 5066 (vph_ddi_601): Whisper wrote okka; a curse of annoyance (kuso), then 'that rookie'.",
+   "row 5074 (vph_ddi_611): Whisper wrote nyaa (logprob flag); not words.",
+   "row 5093 (vph_nor_019): Whisper wrote sodora; guessed sora yo (here you go).",
+   "row 5108 (vph_nor_113): Whisper wrote mushi kiraga; read as mushikera ga (insect, vermin).",
+   "row 5120 (vph_nor_125): Whisper wrote sonsho keibi (damage security); read as sonsho keibi da = damage is slight."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

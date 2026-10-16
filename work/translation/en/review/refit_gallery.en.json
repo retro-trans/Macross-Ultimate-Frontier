@@ -1,0 +1,1069 @@
+{
+ "fixes": [
+  {
+   "id": "u1324",
+   "en": "SDF: Capture 001",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1325",
+   "en": "SDF: Capture 002",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1326",
+   "en": "SDF: Capture 003",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1327",
+   "en": "SDF: Capture 004",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1328",
+   "en": "SDF: Capture 005",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1329",
+   "en": "SDF: Capture 006",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1330",
+   "en": "SDF: Capture 007",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1331",
+   "en": "SDF: Capture 008",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1332",
+   "en": "SDF: Capture 009",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1333",
+   "en": "SDF: Capture 010",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1334",
+   "en": "SDF: Capture 011",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1335",
+   "en": "SDF: Capture 012",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1336",
+   "en": "SDF: Capture 013",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1337",
+   "en": "SDF: Capture 014",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1338",
+   "en": "SDF: Capture 015",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1339",
+   "en": "SDF: Capture 016",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1340",
+   "en": "SDF: Capture 017",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1341",
+   "en": "SDF: Capture 018",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1342",
+   "en": "SDF: Capture 019",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1343",
+   "en": "SDF: Capture 020",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1344",
+   "en": "SDF: Capture 021",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1345",
+   "en": "SDF: Capture 022",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1346",
+   "en": "SDF: Capture 023",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1347",
+   "en": "SDF: Capture 024",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1348",
+   "en": "SDF: Capture 025",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1349",
+   "en": "SDF: Capture 026",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1350",
+   "en": "SDF: Capture 027",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1351",
+   "en": "SDF: Capture 028",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1352",
+   "en": "SDF: Capture 029",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1353",
+   "en": "SDF: Capture 030",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1354",
+   "en": "SDF: Capture 031",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1355",
+   "en": "SDF: Capture 032",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1356",
+   "en": "SDF: Capture 033",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1357",
+   "en": "SDF: Capture 034",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1358",
+   "en": "SDF: Capture 035",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1359",
+   "en": "SDF: Capture 036",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1360",
+   "en": "SDF: Capture 037",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1361",
+   "en": "SDF: Capture 038",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1362",
+   "en": "SDF: Capture 039",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1363",
+   "en": "SDF: Capture 040",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1364",
+   "en": "SDF: Capture 041",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1365",
+   "en": "SDF: Capture 042",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1366",
+   "en": "SDF: Capture 043",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1367",
+   "en": "SDF: Capture 044",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1368",
+   "en": "SDF: Capture 045",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1369",
+   "en": "SDF: Capture 046",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1370",
+   "en": "SDF: Capture 047",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1371",
+   "en": "SDF: Capture 048",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1372",
+   "en": "SDF: Capture 049",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1373",
+   "en": "SDF: Capture 050",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1374",
+   "en": "SDF: Capture 051",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1375",
+   "en": "SDF: Capture 052",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1376",
+   "en": "SDF: Capture 053",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1377",
+   "en": "SDF: Capture 054",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1378",
+   "en": "SDF: Capture 055",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1379",
+   "en": "SDF: Capture 056",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1380",
+   "en": "SDF: Capture 057",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1381",
+   "en": "SDF: Capture 058",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1382",
+   "en": "SDF: Capture 059",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1383",
+   "en": "SDF: Capture 060",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1384",
+   "en": "SDF: Capture 061",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1385",
+   "en": "SDF: Capture 062",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1386",
+   "en": "SDF: Capture 063",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1387",
+   "en": "SDF: Capture 064",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1388",
+   "en": "SDF: Capture 065",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1389",
+   "en": "SDF: Capture 066",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1390",
+   "en": "SDF: Capture 067",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1391",
+   "en": "SDF: Capture 068",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1392",
+   "en": "SDF: Capture 069",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1393",
+   "en": "SDF: Capture 070",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1394",
+   "en": "SDF: Capture 071",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1395",
+   "en": "SDF: Prologue 1",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1396",
+   "en": "SDF: Prologue 2",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1397",
+   "en": "SDF: Prologue 3",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1398",
+   "en": "SDF: Chronicle 1",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1399",
+   "en": "SDF: Chronicle 2",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1400",
+   "en": "SDF: Chronicle 3",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1401",
+   "en": "SDF: Chronicle 4",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1402",
+   "en": "SDF: Epilogue 1",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1403",
+   "en": "SDF: Epilogue 2",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1404",
+   "en": "SDF: Epilogue 3",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1405",
+   "en": "SDF: Epilogue 4",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1406",
+   "en": "SDF: Epilogue 5",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1407",
+   "en": "SDF: Epilogue 6",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1408",
+   "en": "SDF: Epilogue 7",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1513",
+   "en": "FB2012: Capture 001",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1514",
+   "en": "FB2012: Capture 002",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1515",
+   "en": "FB2012: Capture 003",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1516",
+   "en": "FB2012: Capture 004",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1517",
+   "en": "FB2012: Capture 005",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1518",
+   "en": "FB2012: Capture 006",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1519",
+   "en": "FB2012: Capture 007",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1520",
+   "en": "FB2012: Capture 008",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1521",
+   "en": "FB2012: Capture 009",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1522",
+   "en": "FB2012: Capture 010",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1523",
+   "en": "FB2012: Capture 011",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1524",
+   "en": "FB2012: Capture 012",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1525",
+   "en": "FB2012: Capture 013",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1526",
+   "en": "FB2012: Capture 014",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1527",
+   "en": "FB2012: Capture 015",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1528",
+   "en": "FB2012: Capture 016",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1529",
+   "en": "FB2012: Capture 017",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1530",
+   "en": "FB2012: Capture 018",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1531",
+   "en": "FB2012: Capture 019",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1532",
+   "en": "FB2012: Capture 020",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1533",
+   "en": "FB2012: Capture 021",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1534",
+   "en": "FB2012: Capture 022",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1535",
+   "en": "FB2012: Capture 023",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1536",
+   "en": "FB2012: Capture 024",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1537",
+   "en": "FB2012: Capture 025",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1538",
+   "en": "FB2012: Capture 026",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1539",
+   "en": "FB2012: Capture 027",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1540",
+   "en": "FB2012: Capture 028",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1541",
+   "en": "FB2012: Capture 029",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1542",
+   "en": "FB2012: Capture 030",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1543",
+   "en": "FB2012: Capture 031",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1544",
+   "en": "FB2012: Capture 032",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1545",
+   "en": "FB2012: Capture 033",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1546",
+   "en": "FB2012: Capture 034",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1547",
+   "en": "FB2012: Capture 035",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1548",
+   "en": "FB2012: Capture 036",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1549",
+   "en": "FB2012: Capture 037",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1550",
+   "en": "FB2012: Capture 038",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1776",
+   "en": "D7: Capture 001",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1777",
+   "en": "D7: Capture 002",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1778",
+   "en": "D7: Capture 003",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1779",
+   "en": "D7: Capture 004",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1780",
+   "en": "D7: Capture 005",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1781",
+   "en": "D7: Capture 006",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1782",
+   "en": "D7: Capture 007",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1783",
+   "en": "D7: Capture 008",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1784",
+   "en": "D7: Capture 009",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1785",
+   "en": "D7: Capture 010",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1786",
+   "en": "D7: Capture 011",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1787",
+   "en": "D7: Capture 012",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1788",
+   "en": "D7: Capture 013",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1789",
+   "en": "D7: Capture 014",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1790",
+   "en": "D7: Capture 015",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1791",
+   "en": "D7: Capture 016",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1792",
+   "en": "D7: Capture 017",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1793",
+   "en": "D7: Capture 018",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1794",
+   "en": "D7: Capture 019",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1795",
+   "en": "D7: Capture 020",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1796",
+   "en": "D7: Capture 021",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1797",
+   "en": "D7: Capture 022",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1798",
+   "en": "D7: Capture 023",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1799",
+   "en": "D7: Capture 024",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1800",
+   "en": "D7: Capture 025",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1801",
+   "en": "D7: Capture 026",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1802",
+   "en": "D7: Capture 027",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1803",
+   "en": "D7: Capture 028",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1804",
+   "en": "D7: Capture 029",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1805",
+   "en": "D7: Capture 030",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1806",
+   "en": "D7: Capture 031",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1807",
+   "en": "D7: Capture 032",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1808",
+   "en": "D7: Capture 033",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1809",
+   "en": "D7: Capture 034",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1810",
+   "en": "D7: Capture 035",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1811",
+   "en": "D7: Capture 036",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1812",
+   "en": "D7: Capture 037",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1813",
+   "en": "D7: Capture 038",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1814",
+   "en": "D7: Capture 039",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1815",
+   "en": "D7: Capture 040",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1816",
+   "en": "D7: Capture 041",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1817",
+   "en": "D7: Capture 042",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1818",
+   "en": "D7: Capture 043",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1819",
+   "en": "D7: Capture 044",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1820",
+   "en": "D7: Capture 045",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1821",
+   "en": "D7: Capture 046",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1822",
+   "en": "D7: Capture 047",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1823",
+   "en": "D7: Capture 048",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1824",
+   "en": "D7: Capture 049",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1825",
+   "en": "D7: Capture 050",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1826",
+   "en": "D7: Capture 051",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1827",
+   "en": "D7: Capture 052",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1828",
+   "en": "D7: Capture 053",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1829",
+   "en": "D7: Capture 054",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1830",
+   "en": "D7: Capture 055",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1831",
+   "en": "D7: Capture 056",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1832",
+   "en": "D7: Capture 057",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1833",
+   "en": "D7: Capture 058",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1834",
+   "en": "D7: Capture 059",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1835",
+   "en": "D7: Capture 060",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1836",
+   "en": "D7: Capture 061",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1837",
+   "en": "D7: Capture 062",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1838",
+   "en": "D7: Capture 063",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1839",
+   "en": "D7: Prologue 1",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1840",
+   "en": "D7: Prologue 2",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1841",
+   "en": "D7: Prologue 3",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1842",
+   "en": "D7: Chronicle 1",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1843",
+   "en": "D7: Epilogue 1",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1844",
+   "en": "D7: Epilogue 2",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1845",
+   "en": "D7: Epilogue 3",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1846",
+   "en": "D7: Epilogue 4",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1847",
+   "en": "D7: Epilogue 5",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2042",
+   "en": "D7: Character 01",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2043",
+   "en": "D7: Character 02",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2044",
+   "en": "D7: Character 03",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2045",
+   "en": "D7: Character 04",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2046",
+   "en": "D7: Character 05",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2157",
+   "en": "D7: Unit 01",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2158",
+   "en": "D7: Unit 02",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2159",
+   "en": "D7: Unit 03",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2160",
+   "en": "D7: Unit 04",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2161",
+   "en": "D7: Unit 05",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2162",
+   "en": "D7: Unit 06",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2163",
+   "en": "D7: Unit 07",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u2164",
+   "en": "D7: Unit 08",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u3319",
+   "en": "SDF: Prologue",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u3320",
+   "en": "SDF: Epilogue 1",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u3321",
+   "en": "SDF: Epilogue 2",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u3328",
+   "en": "D7: Prologue",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u3329",
+   "en": "D7: Epilogue",
+   "why": "gallery label shortened to fit the 168 px list (consistent prefix)"
+  }
+ ]
+}

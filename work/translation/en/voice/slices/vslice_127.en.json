@@ -1,0 +1,525 @@
+{
+ "slice": 127,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_klm_150",
+   "en": "That's pretty good work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_151",
+   "en": "Already been taken out?!",
+   "flags": [
+    "uncertain",
+    "kept_omission"
+   ],
+   "notes": "Slots 151-153 look like a protect-target destroyed event; subject not stated"
+  },
+  {
+   "id": "vpf_klm_152",
+   "en": "Me, of all people! What a blunder!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_153",
+   "en": "Damn! What a disaster!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_154",
+   "en": "Mission over! Let's hurry home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_155",
+   "en": "Mission accomplished! That was a breeze!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_156",
+   "en": "This is a piece of cake for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_157",
+   "en": "Time's up? Impossible...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_158",
+   "en": "Out of time... What an anticlimactic end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_159",
+   "en": "I won't accept an ending like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_160",
+   "en": "Mission failed! Falling back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_161",
+   "en": "Looks like this is it. Retreat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_162",
+   "en": "If I weren't micronized, an operation like this...",
+   "flags": [
+    "whisper_doubt",
+    "unfinished"
+   ],
+   "notes": "Heard maikuron kasai (fire); read as maikuron-ka (micronized); sentence trails off"
+  },
+  {
+   "id": "vpf_klm_163",
+   "en": "Fire!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard utaa; read as ute"
+  },
+  {
+   "id": "vpf_klm_164",
+   "en": "Shooting's up to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_165",
+   "en": "Cover me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_166",
+   "en": "Charge in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_167",
+   "en": "Move up front!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_168",
+   "en": "Hit them in melee!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_169",
+   "en": "Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_170",
+   "en": "Any more recklessness is dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_171",
+   "en": "Do you want to die?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_172",
+   "en": "I'm leaving it to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_173",
+   "en": "Finish them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_174",
+   "en": "Go raise some hell!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_175",
+   "en": "Can't fall in love if you're afraid to die!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_176",
+   "en": "You've done whatever you pleased!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard yatte kureyotte; read as yatte kureyagatte"
+  },
+  {
+   "id": "vpf_klm_177",
+   "en": "I can't end like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_178",
+   "en": "Right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_179",
+   "en": "I know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_180",
+   "en": "Yeah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_181",
+   "en": "Captain's in trouble! Moving to cover!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_182",
+   "en": "What are you doing, Captain?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_183",
+   "en": "Captain! Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_184",
+   "en": "The captain's been shot down?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_185",
+   "en": "Answer me! Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_186",
+   "en": "Damn it! To think it'd come to this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_187",
+   "en": "A song, huh? That's nice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_188",
+   "en": "Time to go.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Slot is the retreat-after-song group; let's go / shall we go"
+  },
+  {
+   "id": "vpf_klm_189",
+   "en": "This... We're pulling out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_190",
+   "en": "That's our captain for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_191",
+   "en": "I can do that much too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_192",
+   "en": "Don't get cocky, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_193",
+   "en": "Not bad, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_300",
+   "en": "Get to work, kid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_301",
+   "en": "Don't turn into a coward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_302",
+   "en": "Big, but useless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_303",
+   "en": "Leave it to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_304",
+   "en": "Today I bring them to justice for sure!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_305",
+   "en": "I'm going! Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_306",
+   "en": "Sortieing with you? Well, not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_307",
+   "en": "Right, launching! Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_308",
+   "en": "I'll back you up. Yep.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_309",
+   "en": "I'll sortie with you. Be grateful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_310",
+   "en": "With you and me, this mission is no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_311",
+   "en": "Let's do this! We'll win everyone's peace back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_320",
+   "en": "Don't get cocky just because you scored a few hits.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_321",
+   "en": "I told you to work properly.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard hataraki to ittegorouni; read as hatarake to itte aro ni"
+  },
+  {
+   "id": "vpf_klm_322",
+   "en": "Size doesn't decide ability, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_323",
+   "en": "You made it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_324",
+   "en": "Glad it ended safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_325",
+   "en": "Right, let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_326",
+   "en": "Not bad at all. You show promise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_327",
+   "en": "You're doing your best, for a Micronian. Impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_328",
+   "en": "I accept you as one of us!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_329",
+   "en": "You seem to match my skill. I'll give you credit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_330",
+   "en": "I acknowledge you as a warrior!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_331",
+   "en": "Deculture!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard dekaicha; read as Deculture"
+  },
+  {
+   "id": "vpf_klm_340",
+   "en": "Don't get in my way up front.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_341",
+   "en": "Don't screw up and cause trouble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_342",
+   "en": "Quit before you get killed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_343",
+   "en": "Let's go! Today we finally get them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_344",
+   "en": "Now, to battle!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_345",
+   "en": "Mission start! Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_346",
+   "en": "Leave support to me and fight your hardest!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_347",
+   "en": "Let's go! I'll show them a woman's strength!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_348",
+   "en": "You can keep up, right? We hit them hard, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_349",
+   "en": "Right, let's show them our combination!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_350",
+   "en": "You're every bit as fierce as a Zentradi!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_351",
+   "en": "With you? I'm looking forward to this fight!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 10082: Slots 151-153 look like a protect-target destroyed event; subject not stated",
+   "row 10107: Heard yatte kureyotte; read as yatte kureyagatte",
+   "row 10119: Slot is the retreat-after-song group; let's go / shall we go"
+  ],
+  "whisper_doubt": [
+   "row 10093: Heard maikuron kasai (fire); read as maikuron-ka (micronized); sentence trails off",
+   "row 10094: Heard utaa; read as ute",
+   "row 10107: Heard yatte kureyotte; read as yatte kureyagatte",
+   "row 10138: Heard hataraki to ittegorouni; read as hatarake to itte aro ni",
+   "row 10148: Heard dekaicha; read as Deculture"
+  ],
+  "kept_omission": [
+   "row 10082: Slots 151-153 look like a protect-target destroyed event; subject not stated"
+  ],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 10093"
+  ]
+ }
+}

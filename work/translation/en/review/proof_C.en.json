@@ -1,0 +1,39 @@
+{
+ "fixes": [
+  {
+   "row": 803,
+   "en": "In Battroid mode, chain melee attacks\nwhile holding Down on the D-pad\nto perform a launching melee attack.",
+   "why": "D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "row": 814,
+   "en": "While guarding, press Up, Left or Right\non the D-pad to move\nwithout dropping your guard.",
+   "why": "D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "row": 817,
+   "en": "While hovering, press Left or Right on the D-pad\nto strafe sideways while still facing forward.",
+   "why": "D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "row": 852,
+   "en": "Press Up on the D-pad to pitch down,\nand Down on the D-pad to pitch up.",
+   "why": "D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "row": 853,
+   "en": "Press Left or Right on the D-pad to roll.",
+   "why": "D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "row": 854,
+   "en": "Hold the L button and press Left or Right\non the D-pad to yaw.",
+   "why": "D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  },
+  {
+   "row": 870,
+   "en": "Hold Up on the D-pad while locking on\nto switch your lock to enemy aces\nor disabled wingmen.",
+   "why": "D-pad direction capitalised (Up/Down/Left/Right) to match the tutorial convention used in the neighbouring rows of the same screens (e.g. 743, 856)."
+  }
+ ]
+}

@@ -1,0 +1,540 @@
+{
+ "slice": 39,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_1404",
+   "en": "Heat signature confirmed. It's a Queadluun-Rau!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1404",
+   "en": "Heat signature confirmed. It's a Queadluun-Rau.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1404",
+   "en": "Heat signature confirmed. That's a Queadluun-Rau.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1405",
+   "en": "Heat signature confirmed. It's a Destroid.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Opening heard as 'netsugen handou'; read as 'netsugen hannou', 'heat signature confirmed'."
+  },
+  {
+   "id": "vo0_of1_1405",
+   "en": "Heat signature confirmed. That's a Destroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1405",
+   "en": "Heat signature confirmed. It's a Destroid!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1405",
+   "en": "Heat signature confirmed. It's a Destroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1405",
+   "en": "Heat signature confirmed. That's a Destroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1406",
+   "en": "Heat signature confirmed. It's the Varauta army.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as the Varauta army (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1406",
+   "en": "Heat signature confirmed. That's the Varauta army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1406",
+   "en": "Heat signature confirmed. It's the Varauta army!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1406",
+   "en": "Heat signature confirmed. It's the Varauta army.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as the Varauta army (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1406",
+   "en": "Heat signature confirmed. That's the Varauta army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1407",
+   "en": "Heat signature confirmed. It's a Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1407",
+   "en": "Heat signature confirmed. That's a Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1407",
+   "en": "Heat signature confirmed. It's a Protodeviln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1407",
+   "en": "Heat signature confirmed. It's a Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1407",
+   "en": "Heat signature confirmed. That's a Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1408",
+   "en": "Heat signature confirmed. It's an Elgersoln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1408",
+   "en": "Heat signature confirmed. That's an Elgersoln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Elgersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1408",
+   "en": "Heat signature confirmed. It's an Elgersoln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1408",
+   "en": "Heat signature confirmed. It's an Elgersoln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1408",
+   "en": "Heat signature confirmed. That's an Elgersoln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Elgersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1409",
+   "en": "Heat signature confirmed. It's a Panzersoln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1409",
+   "en": "Heat signature confirmed. That's a Panzersoln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1409",
+   "en": "Heat signature confirmed. It's a Panzersoln!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1409",
+   "en": "Heat signature confirmed. It's a Panzersoln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1409",
+   "en": "Heat signature confirmed. That's a Panzersoln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1410",
+   "en": "Heat signature confirmed. It's a Vajra.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Opening heard as 'netsugen handou'; read as 'netsugen hannou', 'heat signature confirmed'."
+  },
+  {
+   "id": "vo0_of1_1410",
+   "en": "Heat signature confirmed. That's a Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1410",
+   "en": "Heat signature confirmed. It's a Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1410",
+   "en": "Heat signature confirmed. It's a Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1410",
+   "en": "Heat signature confirmed. That's a Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1411",
+   "en": "Heat signature confirmed. It's an enemy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Opening heard as 'netsugen handou'; read as 'netsugen hannou', 'heat signature confirmed'."
+  },
+  {
+   "id": "vo0_of1_1411",
+   "en": "Heat signature confirmed. That's an enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1411",
+   "en": "Heat signature confirmed. It's an enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1411",
+   "en": "Heat signature confirmed. It's an enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1411",
+   "en": "Heat signature confirmed. That's an enemy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote an unrelated word (tekiyou, 'application') for 'enemy'; read as 'enemy' per the other operators."
+  },
+  {
+   "id": "vo0_of0_1412",
+   "en": "Heat signature confirmed. It's an enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1412",
+   "en": "Heat signature confirmed. That's an enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1412",
+   "en": "Heat signature confirmed. It's an enemy unit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1412",
+   "en": "Heat signature confirmed. It's an enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1412",
+   "en": "Heat signature confirmed. That's an enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1413",
+   "en": "Many heat signatures confirmed. It's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1413",
+   "en": "Many heat signatures confirmed. That's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1413",
+   "en": "Many heat signatures confirmed. It's the Zentradi forces!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1413",
+   "en": "Many heat signatures confirmed. It's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1413",
+   "en": "Many heat signatures confirmed. That's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1414",
+   "en": "Many heat signatures confirmed. They're Regults.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1414",
+   "en": "Many heat signatures confirmed. Those are Regults.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1414",
+   "en": "Many heat signatures confirmed. They're Regults!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1414",
+   "en": "Many heat signatures confirmed. They're Regults.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1414",
+   "en": "Many heat signatures confirmed. Those are Regults.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1415",
+   "en": "Many heat signatures confirmed. They're Glaugs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1415",
+   "en": "Many heat signatures confirmed. Those are Glaugs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1415",
+   "en": "Many heat signatures confirmed. They're Glaugs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1415",
+   "en": "Many heat signatures confirmed. They're Glaugs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1415",
+   "en": "Many heat signatures confirmed. Those are Glaugs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1416",
+   "en": "Many heat signatures confirmed. They're Nousjadeul-Gers.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1416",
+   "en": "Many heat signatures confirmed. Those are Nousjadeul-Gers.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1416",
+   "en": "Many heat signatures confirmed. They're Nousjadeul-Gers!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1416",
+   "en": "Many heat signatures confirmed. They're Nousjadeul-Gers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1416",
+   "en": "Many heat signatures confirmed. Those are Nousjadeul-Gers.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1417",
+   "en": "Many heat signatures confirmed. They're Queadluun-Raus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1417",
+   "en": "Many heat signatures confirmed. Those are Queadluun-Raus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1417",
+   "en": "Many heat signatures confirmed. They're Queadluun-Raus!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1417",
+   "en": "Many heat signatures confirmed. They're Queadluun-Raus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1417",
+   "en": "Many heat signatures confirmed. Those are Queadluun-Raus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1418",
+   "en": "Many heat signatures confirmed. They're Destroids.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1418",
+   "en": "Many heat signatures confirmed. Those are Destroids.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1418",
+   "en": "Many heat signatures confirmed. They're Destroids!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1418",
+   "en": "Many heat signatures confirmed. They're Destroids.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1418",
+   "en": "Many heat signatures confirmed. Those are Destroids.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1419",
+   "en": "Many heat signatures confirmed. It's the Varauta army.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as the Varauta army (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1419",
+   "en": "Many heat signatures confirmed. That's the Varauta army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1419",
+   "en": "Many heat signatures confirmed. It's the Varauta army!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1419",
+   "en": "Many heat signatures confirmed. It's the Varauta army.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as the Varauta army (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1419",
+   "en": "Many heat signatures confirmed. That's the Varauta army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1420",
+   "en": "Many heat signatures confirmed. They're Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1420",
+   "en": "Many heat signatures confirmed. Those are Protodeviln.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 3044",
+   "row 3049",
+   "row 3052",
+   "row 3060",
+   "row 3063",
+   "row 3065",
+   "row 3066",
+   "row 3069",
+   "row 3074",
+   "row 3078",
+   "row 3099",
+   "row 3100",
+   "row 3103",
+   "row 3114",
+   "row 3117"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

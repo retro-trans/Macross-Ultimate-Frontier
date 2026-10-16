@@ -1,0 +1,542 @@
+{
+ "slice": 84,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_mis_107",
+   "en": "Now! Take them out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_108",
+   "en": "I know you can do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_139",
+   "en": "It's dangerous like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_140",
+   "en": "Fall back!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote 'shanto shinasai', not a word. Sibling clips here are 'get out/flee'; read as a retreat order (taihi shinasai?)."
+  },
+  {
+   "id": "vps_mis_141",
+   "en": "Find a way to recover!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_142",
+   "en": "No! How could this happen?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_143",
+   "en": "See? That's what you get for not listening to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_144",
+   "en": "What are you doing?! Honestly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_148",
+   "en": "Reinforcements. That's a relief.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_149",
+   "en": "Thank the reinforcements, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_150",
+   "en": "Don't relax just because backup arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_154",
+   "en": "It seems the mission was a success. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_155",
+   "en": "Well, I'd say you did fairly well, wouldn't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_156",
+   "en": "That's only natural. After all, I was the one supporting you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_175",
+   "en": "Leave it to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_176",
+   "en": "You'll pay for this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_177",
+   "en": "Don't mock me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_179",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_180",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_181",
+   "en": "Captain, you're not in good form.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote 'taichou no choushi' as 'taichou' (health); read as 'taichou, choushi ga yoku nai wa' (Captain, you're not doing well), matching the captain-in-trouble clips around it."
+  },
+  {
+   "id": "vps_mis_182",
+   "en": "Pull yourself together, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_183",
+   "en": "Please fall back, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_184",
+   "en": "Review the chain of command now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_185",
+   "en": "The captain's been shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_186",
+   "en": "Oh no... Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_190",
+   "en": "As expected, you're not captain for nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_191",
+   "en": "Keep it up like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_192",
+   "en": "Well done, Ichijyo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_194",
+   "en": "Honestly! Take this seriously!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_320",
+   "en": "You worked hard too. Mostly at getting in your allies' way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_321",
+   "en": "Sigh. I was a fool to expect anything from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_322",
+   "en": "Just so you know, you only survived through luck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_323",
+   "en": "The operation succeeded. Return to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_324",
+   "en": "You did well too. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_325",
+   "en": "You made it back. I'm counting on you next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_326",
+   "en": "You always work so hard, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_327",
+   "en": "Naturally, you'd make it a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_328",
+   "en": "Impressive! Keep this up next time too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_329",
+   "en": "I knew you'd pull it off. I recognize your ability, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_330",
+   "en": "When you get back, I'll treat you to tea to celebrate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_331",
+   "en": "I was worried. Promise me you won't do anything more reckless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_360",
+   "en": "Next time, do it a bit more properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_361",
+   "en": "Stop messing around and return quickly.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper no-speech warning; transcript plausible."
+  },
+  {
+   "id": "vps_mis_362",
+   "en": "You actually made it back. I'm amazed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper no-speech warning; transcript plausible."
+  },
+  {
+   "id": "vps_mis_363",
+   "en": "Operation complete. Return at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_364",
+   "en": "Good work. You got back safely, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_365",
+   "en": "You did well. I'm counting on you next time too.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper no-speech warning; transcript plausible."
+  },
+  {
+   "id": "vps_mis_366",
+   "en": "You're someone I can really rely on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_367",
+   "en": "Keep it up from now on, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_368",
+   "en": "That operation was amazing. Impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_369",
+   "en": "I expected it to succeed, with you there.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a stray particle (mono o); read as 'mono, seikou suru to omotte ita wa'."
+  },
+  {
+   "id": "vps_mis_370",
+   "en": "I wasn't worried. I trust you, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_371",
+   "en": "Let's go get something sweet to celebrate the success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_600",
+   "en": "Delta One to Skull, Angel and Apollo Squadrons. Adjust course to 308 plus A15. In range in 30 seconds. Intercept formation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_601",
+   "en": "Delta One to all units. A large battleship has appeared in Area 108. Its fighters are closing on this ship. Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_602",
+   "en": "Delta 1 to Skull 11. You're assigned to intercept the enemy battleship. Get to your post immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_603",
+   "en": "It's a fold! This ship is about to fold!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_604",
+   "en": "Let's get out now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_605",
+   "en": "Enemy aircraft detected. They're approaching low over the sea from Area 27, and appear to be the all-female Meltrandi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_606",
+   "en": "Huh?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_607",
+   "en": "Please give these lyrics to Minmay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_608",
+   "en": "Right now, you're the only one who can get Minmay to sing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_609",
+   "en": "This is Delta One. Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_610",
+   "en": "This ship is currently engaged with aliens. This is not a drill. I repeat, this is not a drill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_611",
+   "en": "VT-102, VT-102 at the launch spot. Why aren't you taking off?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Spot name garbled (tenjiki spot); 'launch spot' is a guess."
+  },
+  {
+   "id": "vps_mis_612",
+   "en": "Stop messing around! Take off immediately! This is war!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_613",
+   "en": "Gunsight 1 to all Valkyrie units. Form up in B formation and wipe out the ground enemies.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'senbetsu' (sort out); read as 'senmetsu' (annihilate)."
+  },
+  {
+   "id": "vps_mis_614",
+   "en": "VT-102 should have crash-landed in the city a while ago.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_615",
+   "en": "All ships, begin ascent!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_616",
+   "en": "The gravity control system...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vps_mis_617",
+   "en": "Salvaged parts, that's why.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literal 'because you use things you picked up'; referent of the earlier complaint unknown."
+  },
+  {
+   "id": "vps_mis_618",
+   "en": "All ships, attention! All ships, attention! Preparing to fire main gun!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote wrong kanji for 'zenkan ni tsugu' (all ships, attention) and for 'shuhou' (main gun); read as the standard phrases."
+  },
+  {
+   "id": "vps_mis_619",
+   "en": "Five minutes to transformation start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_620",
+   "en": "Three minutes to transformation start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_621",
+   "en": "Main gun, fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_622",
+   "en": "I have an idea. Quickly gather the Destroids at the bow of the Daedalus.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper spelled Daedalus as Daidarasu; name read as Daedalus."
+  },
+  {
+   "id": "vps_mis_623",
+   "en": "Daedalus Attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_624",
+   "en": "Lieutenant Ichijyo, armored equipment is not authorized except for special missions.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the rank as shoui with odd kanji; read as a lieutenant-grade rank."
+  },
+  {
+   "id": "vps_mis_625",
+   "en": "Switch to channel D3.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6644 vps_mis_140: Fall back! - Whisper wrote 'shanto shinasai', not a word. Sibling clips here are 'get out/flee'; read as a retreat order (taihi shinasai?).",
+   "row 6661 vps_mis_181: Captain, you're not in good form. - Whisper wrote 'taichou no choushi' as 'taichou' (health); read as 'taichou, choushi ga yoku nai wa' (Captain, you're not doing well), matching the captain-in-trouble clips around it.",
+   "row 6706 vps_mis_611: VT-102, VT-102 at the launch spot. Why aren't you taking off? - Spot name garbled (tenjiki spot); 'launch spot' is a guess.",
+   "row 6712 vps_mis_617: Salvaged parts, that's why. - Literal 'because you use things you picked up'; referent of the earlier complaint unknown."
+  ],
+  "whisper_doubt": [
+   "row 6644 vps_mis_140: Whisper wrote 'shanto shinasai', not a word. Sibling clips here are 'get out/flee'; read as a retreat order (taihi shinasai?).",
+   "row 6661 vps_mis_181: Whisper wrote 'taichou no choushi' as 'taichou' (health); read as 'taichou, choushi ga yoku nai wa' (Captain, you're not doing well), matching the captain-in-trouble clips around it.",
+   "row 6684 vps_mis_361: Whisper no-speech warning; transcript plausible.",
+   "row 6685 vps_mis_362: Whisper no-speech warning; transcript plausible.",
+   "row 6688 vps_mis_365: Whisper no-speech warning; transcript plausible.",
+   "row 6692 vps_mis_369: Transcript has a stray particle (mono o); read as 'mono, seikou suru to omotte ita wa'.",
+   "row 6706 vps_mis_611: Spot name garbled (tenjiki spot); 'launch spot' is a guess.",
+   "row 6708 vps_mis_613: Whisper wrote 'senbetsu' (sort out); read as 'senmetsu' (annihilate).",
+   "row 6713 vps_mis_618: Whisper wrote wrong kanji for 'zenkan ni tsugu' (all ships, attention) and for 'shuhou' (main gun); read as the standard phrases.",
+   "row 6717 vps_mis_622: Whisper spelled Daedalus as Daidarasu; name read as Daedalus.",
+   "row 6719 vps_mis_624: Whisper wrote the rank as shoui with odd kanji; read as a lieutenant-grade rank."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 6711 vps_mis_616"
+  ]
+ }
+}

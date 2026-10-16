@@ -1,0 +1,578 @@
+{
+ "slice": 90,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpi_max_157",
+   "en": "We didn't make it in time.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'maniaa nukata'; read as 'ma ni awanakatta'."
+  },
+  {
+   "id": "vpi_max_158",
+   "en": "Is this as far as we go?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'koko made suru na'; read as 'koko made ka'."
+  },
+  {
+   "id": "vpi_max_159",
+   "en": "Time's up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_160",
+   "en": "This is Macross. We're withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_161",
+   "en": "The operation has failed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_162",
+   "en": "They're tough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_163",
+   "en": "Just fire, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_164",
+   "en": "Attack from a distance! Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_166",
+   "en": "Close in and hold the enemy back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_167",
+   "en": "Pin them down in close combat. Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_168",
+   "en": "I'll have you handle the close combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_170",
+   "en": "Don't push yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_172",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'iroiro'; no reading."
+  },
+  {
+   "id": "vpi_max_174",
+   "en": "Let's attack all at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_182",
+   "en": "That's unexpected. I never thought the captain would take that much damage.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'yararenai tte' read as 'yarareru nante'."
+  },
+  {
+   "id": "vpi_max_183",
+   "en": "Captain, leave it to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_185",
+   "en": "Captain! Hurry and bail out!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'isoide dashisou'; read as 'isoide dasshutsu'."
+  },
+  {
+   "id": "vpi_max_187",
+   "en": "This feeling...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_188",
+   "en": "Not bad. Returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_189",
+   "en": "I see. Let's stop fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_300",
+   "en": "Why are you so giddy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_301",
+   "en": "Please don't get yourself shot to pieces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_302",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Laugh plus garbled words ('kamihami'); no reading."
+  },
+  {
+   "id": "vpi_max_303",
+   "en": "Well, I'm a bit nervous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_306",
+   "en": "This operation looks like it'll go well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_308",
+   "en": "Heh heh, this is interesting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_309",
+   "en": "Let me see what you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_320",
+   "en": "Honestly, what was all that about?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Garbled; reading uncertain."
+  },
+  {
+   "id": "vpi_max_322",
+   "en": "Phew, that had me on edge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_323",
+   "en": "That's the job done!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_326",
+   "en": "Oh, the operation's a success. Good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_329",
+   "en": "That was amazing flying. I'll learn from it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_330",
+   "en": "Hmm, I guess we were only the opening act.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'zensai' (appetizer) read as 'zenza' (opening act)."
+  },
+  {
+   "id": "vpi_max_331",
+   "en": "Maybe you didn't need my support at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_340",
+   "en": "Come on, pull yourself together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_343",
+   "en": "Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_344",
+   "en": "Pleased to work with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_345",
+   "en": "Let's do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_349",
+   "en": "It's an honor to meet someone so beautiful.",
+   "flags": [],
+   "notes": "Played for a partner who is addressed as 'beautiful'; no pronoun used."
+  },
+  {
+   "id": "vpi_max_350",
+   "en": "Ah, spring has come for me at last.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_361",
+   "en": "Well then, I'll take my leave.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_364",
+   "en": "All finished, and safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_366",
+   "en": "I'm surprised, though. I never knew you had this kind of skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_369",
+   "en": "Let's get back quickly and go for a meal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_370",
+   "en": "I was captivated watching how you fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_371",
+   "en": "Perhaps you'd grant me a match after this, too?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'negaenai to na' read as 'negaenai ka na'."
+  },
+  {
+   "id": "vpi_max_600",
+   "en": "Captain, I'm out of ammo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_601",
+   "en": "Milia, are you watching my flying?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_603",
+   "en": "I can't believe I got shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_604",
+   "en": "Was I a genius all along?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_618",
+   "en": "I've always wanted to have a match with you.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'deaiwase shite mita ka'; read as 'teawase shite mitakatta'."
+  },
+  {
+   "id": "vpi_max_619",
+   "en": "What's wrong? Suddenly getting cold feet?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'suicchi joku' garbled; may have been an address by name."
+  },
+  {
+   "id": "vpi_max_620",
+   "en": "I won't let you get away!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'nigasu moruka'; read as 'nigasu mono ka'."
+  },
+  {
+   "id": "vpi_max_622",
+   "en": "Beautiful...",
+   "flags": [],
+   "notes": "Breathing then one word."
+  },
+  {
+   "id": "vpi_max_623",
+   "en": "It's Minmay!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Minmeido'; read as 'Minmei da'."
+  },
+  {
+   "id": "vpi_max_624",
+   "en": "It's me! It's Max!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_626",
+   "en": "Beautiful. Bust about 85. Looks slimmer in clothes than she is, I bet.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'ki ase suru' read as 'kiyase suru'."
+  },
+  {
+   "id": "vpi_max_627",
+   "en": "If you don't mind, could I have your name and phone number?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_628",
+   "en": "Dying gloriously on my wedding day wouldn't be so bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_629",
+   "en": "Milia, are you watching my flying?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "First half garbled; read the end as 'boku no ude wo mite iru no'."
+  },
+  {
+   "id": "vpi_max_630",
+   "en": "Don't miss how I fight!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'minogashite kudasai' (please overlook) read as 'minogasanaide kudasai'."
+  },
+  {
+   "id": "vpi_max_633",
+   "en": "Incredible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_000",
+   "en": "The adjustments look fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_001",
+   "en": "Sortie prep complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_002",
+   "en": "Ready to go anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_003",
+   "en": "Don't underestimate me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_004",
+   "en": "I see you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_005",
+   "en": "Not even worth dodging.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_006",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_007",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groan."
+  },
+  {
+   "id": "vpx_gld_008",
+   "en": "Don't play games!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'fuzakete mane you'; read as 'fuzaketa mane wo'."
+  },
+  {
+   "id": "vpx_gld_009",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'dieeku'; a shout, no safe reading."
+  },
+  {
+   "id": "vpx_gld_010",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_011",
+   "en": "Go down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_012",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kushaou'; a hit grunt."
+  },
+  {
+   "id": "vpx_gld_013",
+   "en": "What an opponent!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_014",
+   "en": "I'll dodge next time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laugh."
+  },
+  {
+   "id": "vpx_gld_016",
+   "en": "It's nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_017",
+   "en": "So close.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'hoshikatta na'; read as 'oshikatta na'."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7133 (vpi_max_172): Heard 'iroiro'; no reading.",
+   "row 7137 (vpi_max_185): Heard 'isoide dashisou'; read as 'isoide dasshutsu'.",
+   "row 7143 (vpi_max_302): Laugh plus garbled words ('kamihami'); no reading.",
+   "row 7148 (vpi_max_320): Garbled; reading uncertain.",
+   "row 7180 (vpi_max_629): First half garbled; read the end as 'boku no ude wo mite iru no'.",
+   "row 7181 (vpi_max_630): 'minogashite kudasai' (please overlook) read as 'minogasanaide kudasai'.",
+   "row 7200 (vpx_gld_017): Heard 'hoshikatta na'; read as 'oshikatta na'."
+  ],
+  "whisper_doubt": [
+   "row 7121 (vpi_max_157): Heard 'maniaa nukata'; read as 'ma ni awanakatta'.",
+   "row 7122 (vpi_max_158): Heard 'koko made suru na'; read as 'koko made ka'.",
+   "row 7133 (vpi_max_172): Heard 'iroiro'; no reading.",
+   "row 7135 (vpi_max_182): 'yararenai tte' read as 'yarareru nante'.",
+   "row 7137 (vpi_max_185): Heard 'isoide dashisou'; read as 'isoide dasshutsu'.",
+   "row 7143 (vpi_max_302): Laugh plus garbled words ('kamihami'); no reading.",
+   "row 7148 (vpi_max_320): Garbled; reading uncertain.",
+   "row 7153 (vpi_max_330): 'zensai' (appetizer) read as 'zenza' (opening act).",
+   "row 7166 (vpi_max_371): 'negaenai to na' read as 'negaenai ka na'.",
+   "row 7171 (vpi_max_618): Heard 'deaiwase shite mita ka'; read as 'teawase shite mitakatta'.",
+   "row 7172 (vpi_max_619): 'suicchi joku' garbled; may have been an address by name.",
+   "row 7173 (vpi_max_620): Heard 'nigasu moruka'; read as 'nigasu mono ka'.",
+   "row 7175 (vpi_max_623): Heard 'Minmeido'; read as 'Minmei da'.",
+   "row 7177 (vpi_max_626): 'ki ase suru' read as 'kiyase suru'.",
+   "row 7180 (vpi_max_629): First half garbled; read the end as 'boku no ude wo mite iru no'.",
+   "row 7181 (vpi_max_630): 'minogashite kudasai' (please overlook) read as 'minogasanaide kudasai'.",
+   "row 7191 (vpx_gld_008): Heard 'fuzakete mane you'; read as 'fuzaketa mane wo'.",
+   "row 7192 (vpx_gld_009): Heard 'dieeku'; a shout, no safe reading.",
+   "row 7195 (vpx_gld_012): Heard 'kushaou'; a hit grunt.",
+   "row 7200 (vpx_gld_017): Heard 'hoshikatta na'; read as 'oshikatta na'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

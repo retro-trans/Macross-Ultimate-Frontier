@@ -1,0 +1,606 @@
+{
+ "_meta": {
+  "what": "Box width per text type, in px at the size the game draws that type.",
+  "made_by": "tools/check_widths.py limits",
+  "method": "limit_px = widest original Japanese line of the type (double-byte = size px, single-byte = 0.75 * size), unless limit_override is set. size is 14 unless confirmed in game. English is measured with the VWF advances at the same size, so an unconfirmed size changes the verdict only by rounding.",
+  "eboot_self": "EBOOT strings outside any list are held to the width of their own Japanese line (soft limit, box unknown).",
+  "hand_set_fields": [
+   "size",
+   "limit_override",
+   "line_limits",
+   "max_lines_override",
+   "max_chars",
+   "box",
+   "confirmed",
+   "evidence",
+   "note"
+  ]
+ },
+ "placeholders": {
+  "%s": {
+   "text": "　　　　　　　　　　",
+   "note": "player or partner name: assumed 10 double-byte chars, the longest default name (the name entry limit is not confirmed)"
+  },
+  "%d": {
+   "text": "999",
+   "note": "a number: assumed 3 ASCII digits"
+  }
+ },
+ "types": {
+  "eboot_bonus": {
+   "desc": "EBOOT mission records +0x3C/+0x40/+0x44: bonus conditions",
+   "count": 47,
+   "jp_max_px_at_14": 140,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:382A34",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 140.0,
+   "max_lines": 1
+  },
+  "eboot_help": {
+   "desc": "EBOOT menu help bar (table 0x3480DC, 167 lines)",
+   "count": 137,
+   "jp_max_px_at_14": 364,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:39656C",
+   "size": 12,
+   "confirmed": true,
+   "box": [
+    95,
+    236,
+    290,
+    16
+   ],
+   "evidence": "Help bar, centred. Japanese lines of 20 and 23 chars span 240 and 272 px; the VWF test line 'Single-player modes: missions from every era, or a full campaign' spans 377 px, and this tool gives 378 at size 12. The green frame is about 290 px inside; the longest Japanese line (312) already runs onto the bar ends, and text far too wide scrolls as a marquee.",
+   "limit_px": 312.0,
+   "max_lines": 1
+  },
+  "eboot_mission_name": {
+   "desc": "EBOOT mission records +0x9C: mission name (mission list, title card)",
+   "count": 200,
+   "jp_max_px_at_14": 266,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:384294",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 266.0,
+   "max_lines": 1
+  },
+  "eboot_objective": {
+   "desc": "EBOOT mission records +0x00/+0x04/+0xAC: stock objectives (orange objective strip)",
+   "count": 65,
+   "jp_max_px_at_14": 287.0,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:384798",
+   "size": 10,
+   "confirmed": true,
+   "box": [
+    248,
+    118,
+    212,
+    13
+   ],
+   "limit_override": 212,
+   "evidence": "Same orange objective strip as fes_objective: the mission tested (MA_010) shows the EBOOT stock objective there, in the mission list and the pause screen.",
+   "limit_px": 212,
+   "max_lines": 1
+  },
+  "fes_objective": {
+   "desc": "FES string pools (not mt_*): objective shown during a mission",
+   "count": 88,
+   "jp_max_px_at_14": 224,
+   "jp_max_lines": 2,
+   "longest_id": "ma_070:19e8",
+   "size": 10,
+   "confirmed": true,
+   "box": [
+    248,
+    118,
+    212,
+    13
+   ],
+   "limit_override": 212,
+   "evidence": "Objective strip (orange) in the 'Mission Information' panel and in the pause screen, one line from x=248 to the frame at x=462. 6 chars span 57.5 px of ink (size 10). The EBOOT stock objectives use the same strip. Box 212 px, wider than the longest Japanese line (160). Two-line objectives (3 strings) are shown somewhere not yet seen.",
+   "limit_px": 212,
+   "max_lines": 2
+  },
+  "fes_tutorial": {
+   "desc": "FES string pools (mt_*): tutorial instruction box",
+   "count": 144,
+   "jp_max_px_at_14": 308,
+   "jp_max_lines": 3,
+   "longest_id": "mt_012:0405",
+   "size": 14,
+   "confirmed": true,
+   "box": [
+    84,
+    22,
+    309,
+    48
+   ],
+   "limit_override": 309,
+   "evidence": "v0.2.0 test build, tutorial MT_010: the 'Information' box at the top, centred, up to 3 lines. The frame is x=82..395, about 309 px inside, which matches the longest Japanese line (308 at size 14). 'During training, the flight mode is set to Normal Flight' spans 372 px on screen and this tool gives 373. Lines that are too wide run past the frame on both sides; they are not cut or squeezed.",
+   "limit_px": 309,
+   "max_lines": 3
+  },
+  "mission_objective": {
+   "desc": "mission_ext.csv strMission: mission objective",
+   "count": 216,
+   "jp_max_px_at_14": 266,
+   "jp_max_lines": 2,
+   "longest_id": "mission_ext:MA_050:strMission",
+   "size": 10,
+   "confirmed": true,
+   "box": [
+    248,
+    134,
+    214,
+    26
+   ],
+   "limit_override": 214,
+   "evidence": "Mission select, 'Mission Information' panel, 2 lines from x=248; the text box ends at x=464. A 9-char line spans 82 px of ink (size 10). Box 214 px, wider than the longest Japanese line (190).",
+   "limit_px": 214,
+   "max_lines": 2
+  },
+  "mission_story": {
+   "desc": "mission_ext.csv strStory: mission briefing story",
+   "count": 216,
+   "jp_max_px_at_14": 546,
+   "jp_max_lines": 2,
+   "longest_id": "mission_ext:MS_440:strStory",
+   "size": 11,
+   "confirmed": true,
+   "box": [
+    7,
+    196,
+    465,
+    28
+   ],
+   "line_limits": [
+    429,
+    415
+   ],
+   "evidence": "Campaign mission screen, left-aligned from x=7, 2 lines. A 33-char line spans 355 px of ink (size 11). Line 2 shares its row with the launch button, which starts at x=424, so line 2 is held to 415. Line 1 is held to the longest Japanese line (429); the panel itself runs to about x=472.",
+   "max_chars": 79,
+   "limit_px": 429.0,
+   "max_lines": 2
+  },
+  "ms_desc": {
+   "desc": "ms_ext.csv strDescription lines 2+: unit description",
+   "count": 102,
+   "jp_max_px_at_14": 434,
+   "jp_max_lines": 2,
+   "longest_id": "ms_ext:MB_DM0:strDescription",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 434.0,
+   "max_lines": 2
+  },
+  "ms_name": {
+   "desc": "ms_ext.csv strDescription line 1: unit display name",
+   "count": 102,
+   "jp_max_px_at_14": 364,
+   "jp_max_lines": 1,
+   "longest_id": "ms_ext:MB_S10:strDescription",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 364.0,
+   "max_lines": 1
+  },
+  "narration": {
+   "desc": "EBOOT era prologue/epilogue narration, one string per on-screen line",
+   "count": 223,
+   "jp_max_px_at_14": 546,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3909B0",
+   "size": 12,
+   "confirmed": true,
+   "box": [
+    6,
+    190,
+    468,
+    80
+   ],
+   "evidence": "Era prologue: up to 5 strings per screen, each centred on its own line. A 33-char line spans 393 px (11.9 per char). The limit is the longest Japanese line (468); the screen is 480.",
+   "limit_px": 468.0,
+   "max_lines": 1
+  },
+  "nn_figure": {
+   "desc": "nn_ext.csv 6000-6999: figure names",
+   "count": 232,
+   "jp_max_px_at_14": 252,
+   "jp_max_lines": 1,
+   "longest_id": "nn_ext:NNSHOP_ITEM_6034:col1",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 252.0,
+   "max_lines": 1
+  },
+  "nn_gallery": {
+   "desc": "nn_ext.csv 3000-3999: gallery captions",
+   "count": 1000,
+   "jp_max_px_at_14": 168,
+   "jp_max_lines": 1,
+   "longest_id": "nn_ext:NNSHOP_ITEM_3190:col1",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 168.0,
+   "max_lines": 1
+  },
+  "nn_other": {
+   "desc": "nn_ext.csv 4000-4999: other collection names",
+   "count": 24,
+   "jp_max_px_at_14": 112,
+   "jp_max_lines": 1,
+   "longest_id": "nn_ext:NNSHOP_ITEM_4000:col1",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 112.0,
+   "max_lines": 1
+  },
+  "nn_pilot": {
+   "desc": "nn_ext.csv 0000-0999: Nyan-Nyan shop pilot names and series headers",
+   "count": 74,
+   "jp_max_px_at_14": 252,
+   "jp_max_lines": 1,
+   "longest_id": "nn_ext:NNSHOP_ITEM_0037:col1",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 252.0,
+   "max_lines": 1
+  },
+  "nn_song": {
+   "desc": "nn_ext.csv 2000-2999: songs, weapons, formations",
+   "count": 98,
+   "jp_max_px_at_14": 329.0,
+   "jp_max_lines": 1,
+   "longest_id": "nn_ext:NNSHOP_ITEM_2119:col1",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 329.0,
+   "max_lines": 1
+  },
+  "nn_title": {
+   "desc": "nn_ext.csv 5000-5999: player titles and quotes (ID card)",
+   "count": 300,
+   "jp_max_px_at_14": 252,
+   "jp_max_lines": 1,
+   "longest_id": "nn_ext:NNSHOP_ITEM_5152:col1",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 252.0,
+   "max_lines": 1
+  },
+  "nn_unit": {
+   "desc": "nn_ext.csv 1000-1999: shop unit names",
+   "count": 130,
+   "jp_max_px_at_14": 196,
+   "jp_max_lines": 1,
+   "longest_id": "nn_ext:NNSHOP_ITEM_1034:col1",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 196.0,
+   "max_lines": 1
+  },
+  "pack_desc": {
+   "desc": "pack_ext.csv strDescription lines 2+: pack description",
+   "count": 32,
+   "jp_max_px_at_14": 322,
+   "jp_max_lines": 1,
+   "longest_id": "pack_ext:A01:strDescription",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 322.0,
+   "max_lines": 1
+  },
+  "pack_name": {
+   "desc": "pack_ext.csv strDescription line 1: pack name",
+   "count": 32,
+   "jp_max_px_at_14": 280,
+   "jp_max_lines": 1,
+   "longest_id": "pack_ext:Y90:strDescription",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 280.0,
+   "max_lines": 1
+  },
+  "pilot_desc": {
+   "desc": "pilot_ext.csv strDescription: pilot profile (ends with the CV credit)",
+   "count": 93,
+   "jp_max_px_at_14": 434,
+   "jp_max_lines": 3,
+   "longest_id": "pilot_ext:PA_SAR:strDescription",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 434.0,
+   "max_lines": 3
+  },
+  "eboot_list:30BBD8": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x30BBD8",
+   "count": 4,
+   "jp_max_px_at_14": 350,
+   "jp_max_lines": 3,
+   "longest_id": "eboot:38C3F4",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 350.0,
+   "max_lines": 3
+  },
+  "eboot_list:31B74C": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x31B74C",
+   "count": 17,
+   "jp_max_px_at_14": 364,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:393400",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 364.0,
+   "max_lines": 1
+  },
+  "eboot_list:34F250": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x34F250",
+   "count": 4,
+   "jp_max_px_at_14": 70,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3B0F24",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 70.0,
+   "max_lines": 1
+  },
+  "eboot_list:34F2EC": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x34F2EC",
+   "count": 8,
+   "jp_max_px_at_14": 42,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3B0F90",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 42.0,
+   "max_lines": 1
+  },
+  "eboot_list:34F320": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x34F320",
+   "count": 10,
+   "jp_max_px_at_14": 84,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3B0FB4",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 84.0,
+   "max_lines": 1
+  },
+  "eboot_list:34F354": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x34F354",
+   "count": 12,
+   "jp_max_px_at_14": 112.0,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3B10D4",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 112.0,
+   "max_lines": 1
+  },
+  "eboot_list:35D624": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x35D624",
+   "count": 19,
+   "jp_max_px_at_14": 42,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3B497C",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 42.0,
+   "max_lines": 1
+  },
+  "eboot_list:366F50": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x366F50",
+   "count": 2,
+   "jp_max_px_at_14": 112,
+   "jp_max_lines": 2,
+   "longest_id": "eboot:3B943C",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 112.0,
+   "max_lines": 2
+  },
+  "eboot_list:36707C": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x36707C",
+   "count": 12,
+   "jp_max_px_at_14": 385.0,
+   "jp_max_lines": 3,
+   "longest_id": "eboot:3B97AC",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 385.0,
+   "max_lines": 3
+  },
+  "eboot_list:378010": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x378010",
+   "count": 3,
+   "jp_max_px_at_14": 224,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3BCB0C",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 224.0,
+   "max_lines": 1
+  },
+  "eboot_list:378060": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x378060",
+   "count": 3,
+   "jp_max_px_at_14": 224,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3BCC48",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 224.0,
+   "max_lines": 1
+  },
+  "eboot_list:37FA78": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x37FA78",
+   "count": 2,
+   "jp_max_px_at_14": 14,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3B9EB4",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 14.0,
+   "max_lines": 1
+  },
+  "eboot_list:3ED08C": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3ED08C",
+   "count": 14,
+   "jp_max_px_at_14": 112,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:38BF40",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 112.0,
+   "max_lines": 1
+  },
+  "eboot_list:3ED12C": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3ED12C",
+   "count": 1,
+   "jp_max_px_at_14": 210,
+   "jp_max_lines": 2,
+   "longest_id": "eboot:38C294",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 210.0,
+   "max_lines": 2
+  },
+  "eboot_list:3ED720": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3ED720",
+   "count": 5,
+   "jp_max_px_at_14": 154,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:38D780",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 154.0,
+   "max_lines": 1
+  },
+  "eboot_list:3ED748": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3ED748",
+   "count": 4,
+   "jp_max_px_at_14": 112,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:38D850",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 112.0,
+   "max_lines": 1
+  },
+  "eboot_list:3ED96C": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3ED96C",
+   "count": 6,
+   "jp_max_px_at_14": 182,
+   "jp_max_lines": 2,
+   "longest_id": "eboot:38F5A0",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 182.0,
+   "max_lines": 2
+  },
+  "eboot_list:3ED9B8": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3ED9B8",
+   "count": 5,
+   "jp_max_px_at_14": 434,
+   "jp_max_lines": 3,
+   "longest_id": "eboot:392FC8",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 434.0,
+   "max_lines": 3
+  },
+  "eboot_list:3ED9F8": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3ED9F8",
+   "count": 6,
+   "jp_max_px_at_14": 14,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:393BF8",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 14.0,
+   "max_lines": 1
+  },
+  "eboot_list:3F6BAC": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3F6BAC",
+   "count": 3,
+   "jp_max_px_at_14": 42,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3948A4",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 42.0,
+   "max_lines": 1
+  },
+  "eboot_list:3FB6D8": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3FB6D8",
+   "count": 1024,
+   "jp_max_px_at_14": 168,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:399918",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 168.0,
+   "max_lines": 1
+  },
+  "eboot_list:3FEF20": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3FEF20",
+   "count": 5,
+   "jp_max_px_at_14": 266,
+   "jp_max_lines": 2,
+   "longest_id": "eboot:3B2C8C",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 266.0,
+   "max_lines": 2
+  },
+  "eboot_list:3FF300": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3FF300",
+   "count": 32,
+   "jp_max_px_at_14": 252,
+   "jp_max_lines": 1,
+   "longest_id": "eboot:3B6474",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 252.0,
+   "max_lines": 1
+  },
+  "eboot_list:3FF3B0": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3FF3B0",
+   "count": 22,
+   "jp_max_px_at_14": 420,
+   "jp_max_lines": 2,
+   "longest_id": "eboot:3B9BA8",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 420.0,
+   "max_lines": 2
+  },
+  "eboot_list:3FF4C4": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3FF4C4",
+   "count": 5,
+   "jp_max_px_at_14": 196,
+   "jp_max_lines": 2,
+   "longest_id": "eboot:3BA648",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 196.0,
+   "max_lines": 2
+  },
+  "eboot_list:3FF5D8": {
+   "desc": "EBOOT strings of the pointer list at vaddr 0x3FF5D8",
+   "count": 2,
+   "jp_max_px_at_14": 364,
+   "jp_max_lines": 2,
+   "longest_id": "eboot:3BB0E4",
+   "size": 14,
+   "confirmed": false,
+   "limit_px": 364.0,
+   "max_lines": 2
+  }
+ }
+}

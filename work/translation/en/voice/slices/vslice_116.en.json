@@ -1,0 +1,498 @@
+{
+ "slice": 116,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpg_ghh_177",
+   "en": "Dynamite!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_179",
+   "en": "I just do it, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_180",
+   "en": "Acknowledged.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_181",
+   "en": "Danger!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_182",
+   "en": "You must want to die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_183",
+   "en": "What are you trying to do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_184",
+   "en": "Did you get hit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_185",
+   "en": "Looks like it's too late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_186",
+   "en": "Is it going to happen all over again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_187",
+   "en": "Why did you sing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_188",
+   "en": "A song... huh... Maria...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_189",
+   "en": "That feels nostalgic. I can't fight any more.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_190",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_191",
+   "en": "A skilled one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_192",
+   "en": "A strange one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_300",
+   "en": "Stay out of my fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_301",
+   "en": "Don't blame me if you get caught up in it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_302",
+   "en": "Don't follow me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_303",
+   "en": "The battle's about to begin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_304",
+   "en": "Don't hold me back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_305",
+   "en": "I'll do as I please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_306",
+   "en": "Why do you want to fight alongside me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_307",
+   "en": "Follow me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_308",
+   "en": "It starts soon. Stay alert.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_309",
+   "en": "I can trust you to cover my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_310",
+   "en": "I trust you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_311",
+   "en": "Survive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_320",
+   "en": "I told you not to get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_321",
+   "en": "Get out of here, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_322",
+   "en": "Never follow me again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_323",
+   "en": "You survived too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_324",
+   "en": "We succeeded.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_325",
+   "en": "You made it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_326",
+   "en": "Are you unharmed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_327",
+   "en": "I'm counting on you next time, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_328",
+   "en": "Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_329",
+   "en": "I got a good look at the way you fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_330",
+   "en": "There are strange ones out in the galaxy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_331",
+   "en": "Your eyes hold the greatest strength in the galaxy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_340",
+   "en": "Stay away from me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_341",
+   "en": "You really mean to follow me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_342",
+   "en": "Don't interfere!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_343",
+   "en": "The fight is about to start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_344",
+   "en": "Do it properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_345",
+   "en": "Can you really do this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_346",
+   "en": "Don't let your guard down. The operation's starting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_347",
+   "en": "Don't die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_348",
+   "en": "Why do you keep trying to follow me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_349",
+   "en": "I wouldn't mind teaming up with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_350",
+   "en": "I'll cover you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_351",
+   "en": "You should be able to do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_360",
+   "en": "I told you to stay away from me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_361",
+   "en": "Never show yourself to me again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_362",
+   "en": "This is the last time I get dragged into your recklessness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_363",
+   "en": "Looks like you survived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_364",
+   "en": "That's only natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_366",
+   "en": "You did well, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_367",
+   "en": "Glad you're safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_368",
+   "en": "I'm counting on you from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_369",
+   "en": "Splendid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_370",
+   "en": "You're safe. That's enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_371",
+   "en": "Fighting together wasn't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_600",
+   "en": "Let's settle this, White One!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_601",
+   "en": "The whale journeys for 7,000 years, spent, and falls to this land of Zola.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_602",
+   "en": "You're looking for a place to die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_603",
+   "en": "Hundreds of times you've watched only your comrades die, and you wander on, unable to die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_604",
+   "en": "I'll kill you. I'll end your wandering journey.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'sashirai'; read as 'sasurai' (wandering)."
+  },
+  {
+   "id": "vpg_ghh_605",
+   "en": "I won't give you to anyone. I'm the one who'll kill you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_606",
+   "en": "No one understands how you feel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_607",
+   "en": "You want to fight me. You're waiting for me to kill you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_608",
+   "en": "Have you ever looked into a whale's eyes?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_609",
+   "en": "The eyes! The strongest in the galaxy, yet full of deep sorrow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_611",
+   "en": "I know how you feel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_612",
+   "en": "You ended up with the greatest power of all your kind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_613",
+   "en": "You've kept losing your precious comrades. That loneliness...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_614",
+   "en": "Now I'll free you from that loneliness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_615",
+   "en": "If you're lost, searching for a place to die, I'll take you there myself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_616",
+   "en": "You've lived too long. You missed your time to die and can't even fall.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_617",
+   "en": "I'll let you rest in peace. Leave the herd and fall from the sky.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 9268 (vpg_ghh_604): Whisper 'sashirai'; read as 'sasurai' (wandering)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

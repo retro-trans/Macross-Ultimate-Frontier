@@ -1,0 +1,542 @@
+{
+ "slice": 46,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_2324",
+   "en": "Battle Frontier, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2324",
+   "en": "Battle Frontier, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2324",
+   "en": "Battle Frontier, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2325",
+   "en": "VF-27 Lucifer, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2325",
+   "en": "VF-27 Lucifer, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2325",
+   "en": "VF-27 Lucifer, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2325",
+   "en": "VF-27 Lucifer, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2325",
+   "en": "VF-27 Lucifer, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2326",
+   "en": "Battle Galaxy, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2326",
+   "en": "Battle Galaxy, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2326",
+   "en": "Battle Galaxy, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2326",
+   "en": "Battle Galaxy, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2326",
+   "en": "Battle Galaxy, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2327",
+   "en": "VF-2SS Valkyrie II, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2327",
+   "en": "VF-2SS Valkyrie II, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2327",
+   "en": "VF-2SS Valkyrie II, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_om0_2327",
+   "en": "VF-2SS Valkyrie II, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2327",
+   "en": "VF-2SS Valkyrie II, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2328",
+   "en": "Gigamesh, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2328",
+   "en": "Gigamesh, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2328",
+   "en": "Gigamesh, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2328",
+   "en": "Gigamesh, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2328",
+   "en": "Gigamesh, you're cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_of0_2329",
+   "en": "VF-9 Cutlass, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2329",
+   "en": "VF-9 Cutlass, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2329",
+   "en": "VF-9 Cutlass, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_om0_2329",
+   "en": "VF-9 Cutlass, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2329",
+   "en": "VF-9 Cutlass, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2330",
+   "en": "All units, cleared to launch. Do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2330",
+   "en": "All units, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2330",
+   "en": "All units, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2330",
+   "en": "All units, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2330",
+   "en": "All units, cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2331",
+   "en": "VT-1 Valkyrie, you're cleared to launch. Please do your best!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As transcribed; the unit may be the VT-1 trainer Valkyrie."
+  },
+  {
+   "id": "vo0_of1_2331",
+   "en": "VT-1 Valkyrie, you're cleared to launch. Give it your all.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As transcribed; the unit may be the VT-1 trainer Valkyrie."
+  },
+  {
+   "id": "vo0_of2_2331",
+   "en": "VT-1 Valkyrie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As transcribed; the unit may be the VT-1 trainer Valkyrie."
+  },
+  {
+   "id": "vo0_om0_2331",
+   "en": "VT-1 Valkyrie, launch approved. Go give it your best!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As transcribed; the unit may be the VT-1 trainer Valkyrie."
+  },
+  {
+   "id": "vos_mis_2331",
+   "en": "VT-1 Valkyrie, you're cleared to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As transcribed; the unit may be the VT-1 trainer Valkyrie."
+  },
+  {
+   "id": "vo0_of0_3271",
+   "en": "Destroid Cheyenne, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3271",
+   "en": "Destroid Cheyenne, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3271",
+   "en": "Destroid Cheyenne, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3271",
+   "en": "Destroid Cheyenne, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3271",
+   "en": "Destroid Cheyenne, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3272",
+   "en": "VF-0 Phoenix, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_of1_3272",
+   "en": "VF-0 Phoenix, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3272",
+   "en": "VF-0 Phoenix, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3272",
+   "en": "VF-0 Phoenix, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3272",
+   "en": "VF-0 Phoenix, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3273",
+   "en": "SV-51, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3273",
+   "en": "SV-51, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3273",
+   "en": "SV-51, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3273",
+   "en": "SV-51, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3273",
+   "en": "SV-51, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3274",
+   "en": "Octos, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3274",
+   "en": "Octos, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3274",
+   "en": "Octos, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3274",
+   "en": "Octos, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3274",
+   "en": "Octos, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3275",
+   "en": "Prototype Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3275",
+   "en": "Prototype Monster, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3275",
+   "en": "Prototype Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3275",
+   "en": "Prototype Monster, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3275",
+   "en": "Prototype Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3276",
+   "en": "AFOS, stand by to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is a guessed romanisation, not in the glossary."
+  },
+  {
+   "id": "vo0_of1_3276",
+   "en": "AFOS, stand by to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is a guessed romanisation, not in the glossary."
+  },
+  {
+   "id": "vo0_of2_3276",
+   "en": "AFOS, stand by to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is a guessed romanisation, not in the glossary."
+  },
+  {
+   "id": "vo0_om0_3276",
+   "en": "AFOS, stand by to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is a guessed romanisation, not in the glossary."
+  },
+  {
+   "id": "vos_mis_3276",
+   "en": "AFOS, stand by to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is a guessed romanisation, not in the glossary."
+  },
+  {
+   "id": "vo0_of0_3277",
+   "en": "Destroid Defender, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3277",
+   "en": "Destroid Defender, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3277",
+   "en": "Destroid Defender, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3277",
+   "en": "Destroid Defender, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3277",
+   "en": "Destroid Defender, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3278",
+   "en": "Destroid Spartan, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3278",
+   "en": "Destroid Spartan, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3278",
+   "en": "Destroid Spartan, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3278",
+   "en": "Destroid Spartan, launch standby.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3278",
+   "en": "Destroid Spartan, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3279",
+   "en": "Destroid Phalanx, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3279",
+   "en": "Destroid Phalanx, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name misheard (Phalanx), per the other operators."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3634: As transcribed; the unit may be the VT-1 trainer Valkyrie.",
+   "row 3635: As transcribed; the unit may be the VT-1 trainer Valkyrie.",
+   "row 3636: As transcribed; the unit may be the VT-1 trainer Valkyrie.",
+   "row 3637: As transcribed; the unit may be the VT-1 trainer Valkyrie.",
+   "row 3638: As transcribed; the unit may be the VT-1 trainer Valkyrie."
+  ],
+  "whisper_doubt": [
+   "row 3616: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3623: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3626: Whisper wrote the wrong kanji for hasshin (launch).",
+   "row 3644: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3680: Name misheard (Phalanx), per the other operators."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 3664: Eifos",
+   "row 3665: Eifos",
+   "row 3666: Eifos",
+   "row 3667: Eifos",
+   "row 3668: Eifos"
+  ],
+  "unfinished": []
+ }
+}

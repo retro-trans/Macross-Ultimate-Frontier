@@ -1,0 +1,527 @@
+{
+ "slice": 24,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1101",
+   "en": "Target area passed. Head for the next one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1101",
+   "en": "Target area passed. Head for the next one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1101",
+   "en": "Target area passed. Head for the next one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1101",
+   "en": "Target area passed. Head for the next one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1102",
+   "en": "You have passed half of the target areas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1102",
+   "en": "You've passed half of the target areas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1102",
+   "en": "You've passed half of the target areas!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1102",
+   "en": "Half of the target areas passed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1102",
+   "en": "Half of the target areas passed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1103",
+   "en": "The test is almost over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1103",
+   "en": "The test is almost over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1103",
+   "en": "The test is almost over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1103",
+   "en": "The test is almost over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1103",
+   "en": "The test is almost over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1104",
+   "en": "Only the targets need to be destroyed to clear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1104",
+   "en": "Only the targets need destroying to clear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1104",
+   "en": "You only have to destroy the targets to clear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1104",
+   "en": "Only the targets need to be destroyed to clear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1104",
+   "en": "Only the targets need destroying to clear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1105",
+   "en": "Many drones have launched from a bomber. Please intercept them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1105",
+   "en": "Many drones have launched from a bomber. Intercept them.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'gengeki' (reduce fire) for 'geigeki' (intercept)."
+  },
+  {
+   "id": "vo0_of2_1105",
+   "en": "Tons of drones have come out of a bomber. Intercept them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1105",
+   "en": "Many drones have launched from a bomber! Intercept them!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'gekigeki' for 'geigeki' (intercept), garbled."
+  },
+  {
+   "id": "vos_mis_1105",
+   "en": "Many drones have launched from a bomber. Intercept them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1106",
+   "en": "Please destroy the carrier, but watch out for the escort ships and Destroid units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1106",
+   "en": "Destroy the carrier, but watch out for escort ships and Destroid units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1106",
+   "en": "Destroy the carrier, but watch out for the escort ships and Destroid units!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1106",
+   "en": "Destroy the carrier, but watch out for the escort ships and Destroid units!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1106",
+   "en": "Destroy the carrier, but watch out for the escort ships and Destroid units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1107",
+   "en": "Please destroy the base, but watch out for the Destroid units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1107",
+   "en": "Destroy the base, but watch out for the Destroid units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1107",
+   "en": "Destroy the base, but watch out for the Destroid units!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1107",
+   "en": "Destroy the base, but watch out for the Destroid units!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1107",
+   "en": "Destroy the base, but watch out for the Destroid units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1108",
+   "en": "The objective is to see the performance of the YF-19 and YF-21.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1108",
+   "en": "The objective is to see the performance of the YF-19 and YF-21.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1108",
+   "en": "The point is to see how the YF-19 and YF-21 perform.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1108",
+   "en": "The objective is to see the performance of the YF-19 and YF-21.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1108",
+   "en": "The objective is to see the performance of the YF-19 and YF-21.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1109",
+   "en": "Please attack without holding back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1109",
+   "en": "Attack without holding back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1109",
+   "en": "Don't hold back. Attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1109",
+   "en": "Don't hold back. Attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1109",
+   "en": "Attack, don't hold back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1110",
+   "en": "Unmanned enemy aircraft controlled by someone have appeared. Please intercept.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1110",
+   "en": "Unmanned enemy aircraft controlled by someone have appeared. Intercept.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1110",
+   "en": "Unmanned enemy aircraft controlled by someone have appeared. Intercept them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1110",
+   "en": "Unmanned enemies controlled by someone have appeared. Intercept.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1110",
+   "en": "Unmanned enemy aircraft controlled by someone have appeared. Intercept.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1111",
+   "en": "Please destroy the satellite.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1111",
+   "en": "Destroy the satellite.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1111",
+   "en": "Destroy the satellite!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1111",
+   "en": "Destroy the satellite!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1111",
+   "en": "Destroy the satellite.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1112",
+   "en": "We now enter Earth's atmosphere, hidden in the satellite debris.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1112",
+   "en": "We now enter Earth's atmosphere, hidden in the satellite debris.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1112",
+   "en": "We're going down to Earth, hidden in the satellite debris!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1112",
+   "en": "We now go down to Earth, hidden in the satellite debris!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1112",
+   "en": "We now enter Earth's atmosphere, hidden in the satellite debris.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1113",
+   "en": "Friendly aircraft are leaving.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1113",
+   "en": "Friendly aircraft are leaving.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'yuugun-ki' (reserve force aircraft) for 'yuugun-ki' (friendly aircraft), wrong kanji, same sound."
+  },
+  {
+   "id": "vo0_of2_1113",
+   "en": "Friendly aircraft are leaving!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji 'yuugun' (reserve) for 'yuugun' (friendly), same sound."
+  },
+  {
+   "id": "vo0_om0_1113",
+   "en": "Friendly aircraft are leaving.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji 'yuugun' (reserve) for 'yuugun' (friendly), same sound."
+  },
+  {
+   "id": "vos_mis_1113",
+   "en": "Friendly aircraft are leaving.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji 'yuugun' (reserve) for 'yuugun' (friendly), same sound."
+  },
+  {
+   "id": "vo0_of0_1114",
+   "en": "Please stop the Macross that Sharon is controlling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1114",
+   "en": "Stop the Macross Sharon is controlling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1114",
+   "en": "Stop the Macross Sharon is controlling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1114",
+   "en": "Stop the Macross Sharon is controlling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1114",
+   "en": "Stop the Macross Sharon is controlling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1116",
+   "en": "Ignore the singing unidentified aircraft and focus on wiping out the enemy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'uta o mikakunin kitai' (the song, unidentified aircraft); read as 'utau mikakunin kitai' (singing unidentified aircraft), as in the other rows."
+  },
+  {
+   "id": "vo0_of1_1116",
+   "en": "Ignore the singing unknown aircraft and focus on wiping out the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1116",
+   "en": "Ignore the singing unknown aircraft. Focus on wiping out the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1116",
+   "en": "Ignore the singing unknown aircraft. Focus on wiping out the enemy!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'utau' written with the kanji for 'shoot'; read as utau (sing), as in the other rows."
+  },
+  {
+   "id": "vos_mis_1116",
+   "en": "Ignore the singing unknown aircraft and focus on wiping out the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1117",
+   "en": "There are citizens in the containers. Stop the enemy's escape at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1117",
+   "en": "Citizens are in the containers. Stop the enemy escaping at all costs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1117",
+   "en": "There are citizens in the containers. Stop the enemy from escaping, whatever it takes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1117",
+   "en": "Citizens are in the containers. Stop the enemy escaping at all costs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1117",
+   "en": "There are citizens in the containers. Stop the enemy from escaping at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1118",
+   "en": "Please carry the container to a safe place.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1845-1849 (clip 1102): 'half of the target areas' (target-area count not stated); could mean half of one area",
+   "rows 1885-1889 (clip 1110): 'someone' for nanimono ka (could be 'something')",
+   "rows 1895-1899 (clip 1112): 'enter Earth's atmosphere' for 'rush into Earth'",
+   "rows 1910-1914 (clip 1116): 'singing unknown aircraft' (the Macross 7 mission's unit); kept neutral",
+   "rows 1915-1919 (clip 1117): 'the containers' plural assumed from context"
+  ],
+  "whisper_doubt": [
+   "row 1861: Transcript has 'gengeki' (reduce fire) for 'geigeki' (intercept).",
+   "row 1863: Transcript has 'gekigeki' for 'geigeki' (intercept), garbled.",
+   "row 1901: Transcript has 'yuugun-ki' (reserve force aircraft) for 'yuugun-ki' (friendly aircraft), wrong kanji, same sound.",
+   "row 1902: Wrong kanji 'yuugun' (reserve) for 'yuugun' (friendly), same sound.",
+   "row 1903: Wrong kanji 'yuugun' (reserve) for 'yuugun' (friendly), same sound.",
+   "row 1904: Wrong kanji 'yuugun' (reserve) for 'yuugun' (friendly), same sound.",
+   "row 1910: Transcript has 'uta o mikakunin kitai' (the song, unidentified aircraft); read as 'utau mikakunin kitai' (singing unidentified aircraft), as in the other rows.",
+   "row 1913: Transcript has 'utau' written with the kanji for 'shoot'; read as utau (sing), as in the other rows."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Destroid (standard term used)"
+  ],
+  "unfinished": []
+ }
+}

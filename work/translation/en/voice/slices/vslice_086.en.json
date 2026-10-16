@@ -1,0 +1,591 @@
+{
+ "slice": 86,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpz_qmj_137",
+   "en": "Damn it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'shikusho'; most likely 'chikusho' (damn)."
+  },
+  {
+   "id": "vpz_qmj_138",
+   "en": "I can't believe I got shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_139",
+   "en": "Don't you flinch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_140",
+   "en": "Don't run! Get in there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_141",
+   "en": "Useless.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'tsukanee'; likely 'tsukaenee' (useless), matching the next rows."
+  },
+  {
+   "id": "vpz_qmj_142",
+   "en": "Spineless fools!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'funuke ya funu'; likely 'fuenuke domo' (spineless cowards)."
+  },
+  {
+   "id": "vpz_qmj_143",
+   "en": "You useless bastards!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_144",
+   "en": "Get a grip, you fools!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript is nonsense; guessed a scold from the neighbouring 'ally in trouble' lines."
+  },
+  {
+   "id": "vpz_qmj_148",
+   "en": "I don't need any reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_149",
+   "en": "Who asked you to butt in?!",
+   "flags": [],
+   "notes": "Reinforcements arrive; he resents them."
+  },
+  {
+   "id": "vpz_qmj_150",
+   "en": "What? Reinforcements?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_151",
+   "en": "Such fragile things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_152",
+   "en": "Damn it all!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'chikushoumei'; likely 'chikushoume'."
+  },
+  {
+   "id": "vpz_qmj_153",
+   "en": "Couldn't even last that long?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_154",
+   "en": "What? That's it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_155",
+   "en": "Mission accomplished, is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_156",
+   "en": "Not enough! On to the next one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_157",
+   "en": "Damn it! Just when we're close, we pull out!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'ei' is likely 'eei' (damn it)."
+  },
+  {
+   "id": "vpz_qmj_158",
+   "en": "What? Time's up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_159",
+   "en": "It ends like this?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_160",
+   "en": "I don't give a damn about the plan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_161",
+   "en": "That's enough. Pull back, you lot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_162",
+   "en": "Damn it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kusogan'; likely 'kuso' / 'kusoga'."
+  },
+  {
+   "id": "vpz_qmj_163",
+   "en": "Cover me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_164",
+   "en": "Keep your distance and fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_165",
+   "en": "Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_166",
+   "en": "You're the decoy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_167",
+   "en": "Charge, you monsters!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Unsure who 'bakemono' addresses; taken as a rough term for the squad or partner."
+  },
+  {
+   "id": "vpz_qmj_168",
+   "en": "Keep going, straight in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_169",
+   "en": "Don't you dare enjoy this more than me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_170",
+   "en": "Get back! You want me to shoot you?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_171",
+   "en": "Just keep charging in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_172",
+   "en": "Here, take this!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript is nonsense; guessed a 'soora, kutabare' type attack shout."
+  },
+  {
+   "id": "vpz_qmj_173",
+   "en": "Make it count!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard '3 bun ni yabareru'; no clear reading; guessed an order to hit hard (between 172 and 174)."
+  },
+  {
+   "id": "vpz_qmj_174",
+   "en": "Go on, land a big one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_175",
+   "en": "Now you've made me serious!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_177",
+   "en": "Let's do this!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'yattia rizui'; guessed 'yatte yaru ze'."
+  },
+  {
+   "id": "vpz_qmj_178",
+   "en": "Hm?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Number 178 is an acknowledgement for other pilots; kept as written."
+  },
+  {
+   "id": "vpz_qmj_179",
+   "en": "All right, all right, got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_180",
+   "en": "Don't give me orders!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_181",
+   "en": "Guess I'll back you up, Captain. Real nice and thorough.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Garbled; read as a sarcastic offer to cover the captain."
+  },
+  {
+   "id": "vpz_qmj_182",
+   "en": "Captain's in a pinch, huh?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'taichou' heard as the homophone for 'physical condition' (taichou ga pinchi)."
+  },
+  {
+   "id": "vpz_qmj_183",
+   "en": "What's wrong, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_184",
+   "en": "Shot down before I could do it myself!",
+   "flags": [],
+   "notes": "Captain/ally lost; gender of that person unknown so passive."
+  },
+  {
+   "id": "vpz_qmj_185",
+   "en": "Now I can do whatever I like!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_186",
+   "en": "That's what you get for getting cocky!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_187",
+   "en": "This is... Men, we're pulling out!",
+   "flags": [],
+   "notes": "Culture-song event; the Zentradi withdraw."
+  },
+  {
+   "id": "vpz_qmj_188",
+   "en": "So this is what they call Culture! It sends a thrill through me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_189",
+   "en": "Not bad.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Leading '7' is noise."
+  },
+  {
+   "id": "vpz_qmj_190",
+   "en": "Some skill you've got. Just as I'd expect.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_300",
+   "en": "Stay out of my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_301",
+   "en": "Make sure I don't shoot you down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_302",
+   "en": "Slow me down and you'll pay for it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_303",
+   "en": "This ain't a joint training drill!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'doujiku' read as 'goudou' (joint) training."
+  },
+  {
+   "id": "vpz_qmj_304",
+   "en": "Let's put on a big, flashy firefight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_305",
+   "en": "Quit dawdling! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_306",
+   "en": "All right, let's get out there too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_307",
+   "en": "Yahoo! Sortie!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_308",
+   "en": "All right, let's go wild to our hearts' content!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_309",
+   "en": "Don't forget our crew's pride rides on you too!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Kamujin ikka' = Quamzin's family/band; rendered 'crew' (glossary has no term)."
+  },
+  {
+   "id": "vpz_qmj_310",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Garbled; possibly a Zentradi-language line. No safe reading."
+  },
+  {
+   "id": "vpz_qmj_311",
+   "en": "Let's see what you can do.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'demae' (delivery) read as 'udemae' (skill)."
+  },
+  {
+   "id": "vpz_qmj_320",
+   "en": "Get in my way again and I'll shoot you down myself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_321",
+   "en": "You made a fool of me!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'hajikakase yatteyaru'; read as 'haji kakase yagatte'."
+  },
+  {
+   "id": "vpz_qmj_322",
+   "en": "Anyway, you're one lucky bastard.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'tonikaku ukeyarou daze'; guessed an 'akuun' (luck) line like the neighbours."
+  },
+  {
+   "id": "vpz_qmj_323",
+   "en": "Don't get excited over results like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_324",
+   "en": "Pulling this off is the least I'd expect.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_325",
+   "en": "Oh, you made it back in one piece.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_326",
+   "en": "That was quite a fun operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_327",
+   "en": "That fight was a blast!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'satsuei' (filming); read as 'sentou' (fight)."
+  },
+  {
+   "id": "vpz_qmj_328",
+   "en": "Not bad! I'll let you be my right-hand man!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_329",
+   "en": "Nothing's impossible for us, the Quamzin crew!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kanou' (possible) read as 'fukanou' (impossible)."
+  },
+  {
+   "id": "vpz_qmj_330",
+   "en": "All right, I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_340",
+   "en": "Run away and you'll pay for it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'tada ja sasareru' read as 'tada ja okanee'."
+  },
+  {
+   "id": "vpz_qmj_341",
+   "en": "You can at least be useful as a decoy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hai' read as 'seizei'."
+  },
+  {
+   "id": "vpz_qmj_342",
+   "en": "Watch your back, or you'll get shot from behind!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Unclear whether he threatens or warns; kept as a warning that works either way."
+  },
+  {
+   "id": "vpz_qmj_343",
+   "en": "Quit spacing out! Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_344",
+   "en": "Watch how the Quamzin crew fights.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_345",
+   "en": "Don't make me waste time on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_346",
+   "en": "Hey! I'm leaving my support to you!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6806 (vpz_qmj_142): Heard 'funuke ya funu'; likely 'fuenuke domo' (spineless cowards).",
+   "row 6808 (vpz_qmj_144): Transcript is nonsense; guessed a scold from the neighbouring 'ally in trouble' lines.",
+   "row 6828 (vpz_qmj_167): Unsure who 'bakemono' addresses; taken as a rough term for the squad or partner.",
+   "row 6833 (vpz_qmj_172): Transcript is nonsense; guessed a 'soora, kutabare' type attack shout.",
+   "row 6834 (vpz_qmj_173): Heard '3 bun ni yabareru'; no clear reading; guessed an order to hit hard (between 172 and 174).",
+   "row 6837 (vpz_qmj_177): Heard 'yattia rizui'; guessed 'yatte yaru ze'.",
+   "row 6838 (vpz_qmj_178): Number 178 is an acknowledgement for other pilots; kept as written.",
+   "row 6841 (vpz_qmj_181): Garbled; read as a sarcastic offer to cover the captain.",
+   "row 6860 (vpz_qmj_309): 'Kamujin ikka' = Quamzin's family/band; rendered 'crew' (glossary has no term).",
+   "row 6861 (vpz_qmj_310): Garbled; possibly a Zentradi-language line. No safe reading.",
+   "row 6865 (vpz_qmj_322): Heard 'tonikaku ukeyarou daze'; guessed an 'akuun' (luck) line like the neighbours.",
+   "row 6876 (vpz_qmj_342): Unclear whether he threatens or warns; kept as a warning that works either way."
+  ],
+  "whisper_doubt": [
+   "row 6801 (vpz_qmj_137): Heard 'shikusho'; most likely 'chikusho' (damn).",
+   "row 6805 (vpz_qmj_141): Heard 'tsukanee'; likely 'tsukaenee' (useless), matching the next rows.",
+   "row 6806 (vpz_qmj_142): Heard 'funuke ya funu'; likely 'fuenuke domo' (spineless cowards).",
+   "row 6808 (vpz_qmj_144): Transcript is nonsense; guessed a scold from the neighbouring 'ally in trouble' lines.",
+   "row 6813 (vpz_qmj_152): Heard 'chikushoumei'; likely 'chikushoume'.",
+   "row 6818 (vpz_qmj_157): 'ei' is likely 'eei' (damn it).",
+   "row 6823 (vpz_qmj_162): Heard 'kusogan'; likely 'kuso' / 'kusoga'.",
+   "row 6833 (vpz_qmj_172): Transcript is nonsense; guessed a 'soora, kutabare' type attack shout.",
+   "row 6834 (vpz_qmj_173): Heard '3 bun ni yabareru'; no clear reading; guessed an order to hit hard (between 172 and 174).",
+   "row 6837 (vpz_qmj_177): Heard 'yattia rizui'; guessed 'yatte yaru ze'.",
+   "row 6841 (vpz_qmj_181): Garbled; read as a sarcastic offer to cover the captain.",
+   "row 6842 (vpz_qmj_182): 'taichou' heard as the homophone for 'physical condition' (taichou ga pinchi).",
+   "row 6849 (vpz_qmj_189): Leading '7' is noise.",
+   "row 6854 (vpz_qmj_303): 'doujiku' read as 'goudou' (joint) training.",
+   "row 6861 (vpz_qmj_310): Garbled; possibly a Zentradi-language line. No safe reading.",
+   "row 6862 (vpz_qmj_311): 'demae' (delivery) read as 'udemae' (skill).",
+   "row 6864 (vpz_qmj_321): Heard 'hajikakase yatteyaru'; read as 'haji kakase yagatte'.",
+   "row 6865 (vpz_qmj_322): Heard 'tonikaku ukeyarou daze'; guessed an 'akuun' (luck) line like the neighbours.",
+   "row 6870 (vpz_qmj_327): Heard 'satsuei' (filming); read as 'sentou' (fight).",
+   "row 6872 (vpz_qmj_329): 'kanou' (possible) read as 'fukanou' (impossible).",
+   "row 6874 (vpz_qmj_340): 'tada ja sasareru' read as 'tada ja okanee'.",
+   "row 6875 (vpz_qmj_341): 'hai' read as 'seizei'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

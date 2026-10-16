@@ -1,0 +1,505 @@
+{
+ "slice": 6,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_093",
+   "en": "Please escort the defense target until arrival.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_093",
+   "en": "Escort the defense target to the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_093",
+   "en": "Escort the defense target to the objective area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_093",
+   "en": "Escort the defense target until it arrives.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_093",
+   "en": "Escort the defense target until it reaches the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_094",
+   "en": "Please buy time until the defense target arrives.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_094",
+   "en": "Buy time until the defense target reaches the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_094",
+   "en": "Escort the target and get it to the objective area for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_094",
+   "en": "Buy time until the defense target arrives.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_094",
+   "en": "The defense target has entered the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_095",
+   "en": "Please support the defense target's arrival.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_095",
+   "en": "I'm counting on you to escort the defense target until it arrives.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_095",
+   "en": "The job's simple. Escort the defense target to the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_095",
+   "en": "Support the defense target's arrival!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_095",
+   "en": "The defense target is headed your way. You escort it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_096",
+   "en": "The defense target is almost out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_096",
+   "en": "The defense target will be out in no time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_096",
+   "en": "Keep escorting the target like that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_096",
+   "en": "The defense target is almost out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_096",
+   "en": "Almost there. Protect the defense target no matter what!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject of \"arrive soon\" is not stated; read as the destination or escape point being near."
+  },
+  {
+   "id": "vo0_of0_097",
+   "en": "The defense target has reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_097",
+   "en": "The defense target has reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_097",
+   "en": "The defense target has reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_097",
+   "en": "Defense target reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_097",
+   "en": "The defense target has reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_098",
+   "en": "Please break through this combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_098",
+   "en": "Break through this combat zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_098",
+   "en": "Break through this zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_098",
+   "en": "Break through this zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_098",
+   "en": "Please break through this combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_099",
+   "en": "Just a little more to break through.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_099",
+   "en": "Almost through the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_099",
+   "en": "Hey, just a bit more and we're through the zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_099",
+   "en": "Almost through the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_099",
+   "en": "We'll break through soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_100",
+   "en": "Breakthrough successful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_100",
+   "en": "We broke through the combat zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_100",
+   "en": "Well, I'll give you credit for breaking through the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_100",
+   "en": "Combat zone breakthrough successful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_100",
+   "en": "We've broken through the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_101",
+   "en": "Retreat from the zone is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_101",
+   "en": "We've been cleared to retreat from the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_101",
+   "en": "Hey, we've got permission to retreat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_101",
+   "en": "Retreat from the zone is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_101",
+   "en": "Attention all pilots. Withdraw from the combat zone immediately. I repeat, withdraw immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_102",
+   "en": "Retreat ordered. Please leave the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_102",
+   "en": "A retreat order has been given. Leave the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_102",
+   "en": "Retreat order's out. Get out of the zone, quick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_102",
+   "en": "Retreat order issued. Leave the zone!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has senyaku (war service); surely sen-iki (combat zone)."
+  },
+  {
+   "id": "vos_mis_102",
+   "en": "A retreat order has been issued. Get away from there quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_103",
+   "en": "Please retreat from the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_103",
+   "en": "Please withdraw from the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_103",
+   "en": "Hey, retreat from the zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_103",
+   "en": "Retreat from the combat zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_103",
+   "en": "Withdraw from the combat zone immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_106",
+   "en": "We'll be out of the zone soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_106",
+   "en": "We're almost out of the combat zone.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has noridasu (to set out); surely ridatsu (to leave), as the other operators say."
+  },
+  {
+   "id": "vo0_of2_106",
+   "en": "Looks like we can get out soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_106",
+   "en": "Almost out of the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_106",
+   "en": "We'll be out of the combat zone shortly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_107",
+   "en": "Departure from the combat zone confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_107",
+   "en": "Departure from the combat zone confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_107",
+   "en": "We're out of the combat zone. Confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_107",
+   "en": "Departure from the zone confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_107",
+   "en": "We've left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_110",
+   "en": "Please head for the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_110",
+   "en": "Head for the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_110",
+   "en": "Get to the objective area, quick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_110",
+   "en": "Head for the objective area at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_110",
+   "en": "All units, move to the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_111",
+   "en": "We're almost at the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_111",
+   "en": "The objective area is right in front of us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_111",
+   "en": "Just a little more to the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_111",
+   "en": "Almost at the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_111",
+   "en": "Almost at the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_112",
+   "en": "We've reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_112",
+   "en": "Reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_112",
+   "en": "We made it to the objective area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_112",
+   "en": "Reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_112",
+   "en": "We've arrived at the objective area.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 420: Subject of \"arrive soon\" is not stated; read as the destination or escape point being near."
+  ],
+  "whisper_doubt": [
+   "row 449: Transcript has senyaku (war service); surely sen-iki (combat zone).",
+   "row 457: Transcript has noridasu (to set out); surely ridatsu (to leave), as the other operators say."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

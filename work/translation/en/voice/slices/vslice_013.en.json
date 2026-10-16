@@ -1,0 +1,532 @@
+{
+ "slice": 13,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_412",
+   "en": "4 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_412",
+   "en": "4 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_412",
+   "en": "4 seconds!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_412",
+   "en": "4 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_412",
+   "en": "4 seconds",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'yonbyo' in katakana; 4 seconds like the others."
+  },
+  {
+   "id": "vo0_of0_413",
+   "en": "3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_413",
+   "en": "3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_413",
+   "en": "3",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'saa' (come on); the countdown step is 3 (san), as the other four say."
+  },
+  {
+   "id": "vo0_om0_413",
+   "en": "3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_413",
+   "en": "3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_414",
+   "en": "2",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'nii', the spoken word for 2."
+  },
+  {
+   "id": "vo0_of1_414",
+   "en": "2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_414",
+   "en": "2!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'nii', the spoken word for 2."
+  },
+  {
+   "id": "vo0_om0_414",
+   "en": "2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_414",
+   "en": "2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_415",
+   "en": "1",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ichi', the spoken word for 1."
+  },
+  {
+   "id": "vo0_of1_415",
+   "en": "1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_415",
+   "en": "1",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ichi', the spoken word for 1."
+  },
+  {
+   "id": "vo0_om0_415",
+   "en": "1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_415",
+   "en": "1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_416",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_416",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_416",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_416",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_416",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_417",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_417",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_417",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_417",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_417",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_418",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_418",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_418",
+   "en": "1 minute left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_418",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_418",
+   "en": "1 minute left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_419",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_419",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_419",
+   "en": "30 seconds left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_419",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_419",
+   "en": "30 seconds left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_420",
+   "en": "10 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_420",
+   "en": "10 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_420",
+   "en": "10 seconds left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_420",
+   "en": "10 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_420",
+   "en": "10 seconds left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_421",
+   "en": "5 seconds",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard a garbled word; the other operators say 5 seconds."
+  },
+  {
+   "id": "vo0_of1_421",
+   "en": "5 secs",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'gobio'; 5 seconds."
+  },
+  {
+   "id": "vo0_of2_421",
+   "en": "5 seconds!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_421",
+   "en": "5 seconds!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_421",
+   "en": "5 seconds",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard a wrong-kanji 'gohyo'; 5 seconds."
+  },
+  {
+   "id": "vo0_of0_422",
+   "en": "4 seconds!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_422",
+   "en": "4 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_422",
+   "en": "4 seconds!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_422",
+   "en": "4 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_422",
+   "en": "4 seconds",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'yanbyo'; 4 seconds."
+  },
+  {
+   "id": "vo0_of0_423",
+   "en": "3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_423",
+   "en": "3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_423",
+   "en": "3",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'saa'; the count is 3 (san)."
+  },
+  {
+   "id": "vo0_om0_423",
+   "en": "3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_423",
+   "en": "3!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_424",
+   "en": "2!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'nii', the spoken word for 2."
+  },
+  {
+   "id": "vo0_of1_424",
+   "en": "2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_424",
+   "en": "2",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ni', 2."
+  },
+  {
+   "id": "vo0_om0_424",
+   "en": "2!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'mii'; the count is 2 (ni)."
+  },
+  {
+   "id": "vos_mis_424",
+   "en": "2!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'nii', the spoken word for 2."
+  },
+  {
+   "id": "vo0_of0_425",
+   "en": "1!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ichi', the spoken word for 1."
+  },
+  {
+   "id": "vo0_of1_425",
+   "en": "1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_425",
+   "en": "1!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ichi', the spoken word for 1."
+  },
+  {
+   "id": "vo0_om0_425",
+   "en": "1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_425",
+   "en": "1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_426",
+   "en": "The set time seems to have elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_426",
+   "en": "The set time seems to have elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_426",
+   "en": "The set time is up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_426",
+   "en": "The set time seems to have elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om1_426",
+   "en": "Zentradi forces! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_426",
+   "en": "The set time has elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_427",
+   "en": "The enemy is retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_427",
+   "en": "The enemy is retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_427",
+   "en": "The enemy is retreating!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_427",
+   "en": "The enemy has begun to retreat.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 1035 vo0_om1_426: a Zentradi-intercept line sitting in the time-limit group; the 13 extra Itsuki clips belong elsewhere, translated as heard"
+  ],
+  "whisper_doubt": [
+   "countdown rows 965,968,971-980,1006-1030 (garbled number words; all read as the plain number)"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

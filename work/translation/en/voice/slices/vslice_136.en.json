@@ -1,0 +1,510 @@
+{
+ "slice": 136,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_ozm_162",
+   "en": "This is it, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_163",
+   "en": "Cover me with fire! Got it?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"ii no?\"; probably \"ii na?\" (understood?)."
+  },
+  {
+   "id": "vpf_ozm_164",
+   "en": "Don't let them get too close! Attack from range!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_165",
+   "en": "Use your ranged weapons!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_166",
+   "en": "Take it to close quarters!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_167",
+   "en": "Melee! Get ready... go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_168",
+   "en": "Melee! Stop it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"kakutou desu\"; probably \"kakutou da\" (melee)."
+  },
+  {
+   "id": "vpf_ozm_169",
+   "en": "I'll hold this one off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_170",
+   "en": "Don't overextend!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_171",
+   "en": "Stay back as far as you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_172",
+   "en": "All weapons free! Do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_173",
+   "en": "Show them what you've got!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_174",
+   "en": "Give it everything!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_175",
+   "en": "Guess I have to get serious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_176",
+   "en": "Don't underestimate me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_177",
+   "en": "Time to wrap this up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_179",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_180",
+   "en": "All right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_181",
+   "en": "Captain, you've taken a lot of damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_182",
+   "en": "You're not at your sharpest today, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_183",
+   "en": "Captain, maybe you should return to base for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_184",
+   "en": "Captain!?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"taishou\" (target); read as \"taichou\" (captain) per the neighbouring clips."
+  },
+  {
+   "id": "vpf_ozm_185",
+   "en": "Captain! Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_186",
+   "en": "The Captain's been shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_187",
+   "en": "We're pulling out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_188",
+   "en": "No good. We'll pull back for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_189",
+   "en": "This isn't good. We're heading back.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"warukunai na\" (not bad); fits a retreat group better as \"yokunai na\" (not good)."
+  },
+  {
+   "id": "vpf_ozm_190",
+   "en": "As expected of you, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_191",
+   "en": "We're following the Captain's lead!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_192",
+   "en": "You've gotten better, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_193",
+   "en": "Well done, Michael.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_300",
+   "en": "Don't think you can fight on a whim.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_301",
+   "en": "Can you fight with skills like an amateur's?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_302",
+   "en": "Can you keep up on my tail with those skills?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_303",
+   "en": "Let's go! Can you keep up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_304",
+   "en": "I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_305",
+   "en": "Let's take them out fast.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_306",
+   "en": "Flying with you isn't so bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_307",
+   "en": "You're finally starting to look the part.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_308",
+   "en": "Let's see how much you've improved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_309",
+   "en": "You're good enough to watch my back now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_310",
+   "en": "One slip and you'll leave me behind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_311",
+   "en": "You and I can protect everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_320",
+   "en": "Fly like that and you'll get yourself killed someday.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_321",
+   "en": "What are you fighting for?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_322",
+   "en": "Not good at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_323",
+   "en": "You weren't dead weight, at least.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_324",
+   "en": "You've got potential, kid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_325",
+   "en": "Not bad for a greenhorn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_326",
+   "en": "You've improved a lot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_327",
+   "en": "Can't call you a greenhorn anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_328",
+   "en": "You're handling your machine well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_329",
+   "en": "You're a full-fledged pilot now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_330",
+   "en": "All right! Tonight's on me! Stick with me till morning!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_331",
+   "en": "You can fly at my side anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_340",
+   "en": "Maybe you should stay holed up in your room.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"heya ni tsukkonde\" (charge into the room); probably \"hikkonde\" (hole up)."
+  },
+  {
+   "id": "vpf_ozm_341",
+   "en": "Whatever you do, don't get in front of me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_342",
+   "en": "Don't get lost, greenhorn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_343",
+   "en": "Follow me! I'll teach you how to fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_344",
+   "en": "Forget about women when you fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_345",
+   "en": "Better than flying with some smelly guy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_346",
+   "en": "Let's give them a nasty surprise!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_347",
+   "en": "Show me what a greenhorn's made of.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_348",
+   "en": "Just don't do anything reckless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_349",
+   "en": "I'll protect you, and your dream too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_350",
+   "en": "Got to protect the women who matter to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_351",
+   "en": "Flying with you isn't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_360",
+   "en": "Why not hold a frying pan instead of a control stick?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_361",
+   "en": "Maybe you're just not cut out for this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_362",
+   "en": "Aren't you on the wrong path?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_363",
+   "en": "Lucky you. Keep it up next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_364",
+   "en": "Okay, heading back. Keep up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_365",
+   "en": "Well, you didn't get in the way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_366",
+   "en": "Passable. Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_367",
+   "en": "Keep it up like that from now on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_368",
+   "en": "I could watch you without worrying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_369",
+   "en": "Skills that put a man to shame.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_370",
+   "en": "Some woman, really.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_371",
+   "en": "From now on, cover my back too.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "vpf_ozm_163: Heard \"ii no?\"; probably \"ii na?\" (understood?).",
+   "vpf_ozm_168: Heard \"kakutou desu\"; probably \"kakutou da\" (melee).",
+   "vpf_ozm_184: Heard \"taishou\" (target); read as \"taichou\" (captain) per the neighbouring clips.",
+   "vpf_ozm_189: Heard \"warukunai na\" (not bad); fits a retreat group better as \"yokunai na\" (not good).",
+   "vpf_ozm_340: Heard \"heya ni tsukkonde\" (charge into the room); probably \"hikkonde\" (hole up)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

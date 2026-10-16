@@ -1,0 +1,516 @@
+{
+ "slice": 118,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_alt_140",
+   "en": "Idiot! Dodge properly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_141",
+   "en": "Hey! Are you all right?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_142",
+   "en": "What are you spacing out for?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_143",
+   "en": "Idiot! You went and got reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_144",
+   "en": "Damn it! I've been shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_148",
+   "en": "What the...? Allies?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_149",
+   "en": "Are those friendlies?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_150",
+   "en": "I don't need backup! I can handle it alone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_151",
+   "en": "Stop it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_152",
+   "en": "What the hell is going on?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_153",
+   "en": "We're taking hits! Damn it!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "yarareteru: could be 'I'm getting hit' or 'it/they are getting hit' (defense target); kept 'we'."
+  },
+  {
+   "id": "vpf_alt_154",
+   "en": "I'll be late for class. I'm heading back, now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_155",
+   "en": "Is it over?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_156",
+   "en": "Mission complete. Let's head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_157",
+   "en": "What a mess, damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_158",
+   "en": "Out of time already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_159",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_160",
+   "en": "Every last one of them...",
+   "flags": [
+    "uncertain",
+    "kept_omission"
+   ],
+   "notes": "Failure-group line; referent of 'everyone' not settled by the clip, so left open."
+  },
+  {
+   "id": "vpf_alt_161",
+   "en": "What the hell is this?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_162",
+   "en": "Damn it...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Clip is 3.5 s but transcript is a single 'kuso'; probably a sigh or a trailing line."
+  },
+  {
+   "id": "vpf_alt_163",
+   "en": "Cover fire! I'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_164",
+   "en": "Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_165",
+   "en": "Cover me with fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_166",
+   "en": "Go in for melee!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_167",
+   "en": "Fight them up close!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_168",
+   "en": "Close combat. You can do it, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_169",
+   "en": "Pull back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_170",
+   "en": "Wait! I'll be the decoy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_171",
+   "en": "I'll hold them off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_172",
+   "en": "Do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_173",
+   "en": "We can make it now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_174",
+   "en": "Hit them hard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_175",
+   "en": "You want me to get serious?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_176",
+   "en": "All right, let's do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_177",
+   "en": "Let's finish this fast! Here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_178",
+   "en": "Yes, sir!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_179",
+   "en": "I know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_180",
+   "en": "Yeah, roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_181",
+   "en": "That's not like you, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_182",
+   "en": "Geez, for a captain you're sloppy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_183",
+   "en": "Losing your touch, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_184",
+   "en": "Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_185",
+   "en": "The Captain's been shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_186",
+   "en": "Which one was it?! Who got the Captain?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_187",
+   "en": "We can't fight this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_188",
+   "en": "No choice. Let's pull back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_189",
+   "en": "I've got a bad feeling. I'm going back!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'kono kanji wa, kaeru zo' (change?); read as 'kaeru' = go home, matching the retreat group 187-189."
+  },
+  {
+   "id": "vpf_alt_190",
+   "en": "As expected of you, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_191",
+   "en": "Naturally, with the Captain's skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_192",
+   "en": "I can't let Michael beat me.",
+   "flags": [],
+   "notes": "Michel = Michael Blanc (glossary)."
+  },
+  {
+   "id": "vpf_alt_193",
+   "en": "Not bad, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_300",
+   "en": "Don't slow me down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_301",
+   "en": "Do what you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_302",
+   "en": "I don't want to get killed by your mistake.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_303",
+   "en": "Let's finish this quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_304",
+   "en": "All right, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_305",
+   "en": "Let's do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_306",
+   "en": "With you, this might be a little easier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_307",
+   "en": "I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_308",
+   "en": "Leave a little to me, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_309",
+   "en": "We'll be fine! We can do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_310",
+   "en": "I'm counting on you again this time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_311",
+   "en": "Let's finish up and head back together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_320",
+   "en": "Looks like you miraculously survived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_321",
+   "en": "It'd be easier to sortie alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_322",
+   "en": "Don't chicken out next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_323",
+   "en": "Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_324",
+   "en": "Let's head home already.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_325",
+   "en": "Another one done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_326",
+   "en": "Same again next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_327",
+   "en": "Well done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_328",
+   "en": "You fought well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_329",
+   "en": "I could fight at ease again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_330",
+   "en": "Leave more to me next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_331",
+   "en": "We'll be fine from now on too, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_340",
+   "en": "Can I really count on you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_341",
+   "en": "Just don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_342",
+   "en": "Don't screw up. I don't want dead weight.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'heeman' read as 'hema' (screw-up)."
+  },
+  {
+   "id": "vpf_alt_343",
+   "en": "Well, shall we begin?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_344",
+   "en": "I'm counting on you again.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9371 (vpf_alt_153): yarareteru: could be 'I'm getting hit' or 'it/they are getting hit' (defense target); kept 'we'.",
+   "row 9378 (vpf_alt_160): Failure-group line; referent of 'everyone' not settled by the clip, so left open.",
+   "row 9407 (vpf_alt_189): Transcript 'kono kanji wa, kaeru zo' (change?); read as 'kaeru' = go home, matching the retreat group 187-189."
+  ],
+  "whisper_doubt": [
+   "row 9380 (vpf_alt_162): Clip is 3.5 s but transcript is a single 'kuso'; probably a sigh or a trailing line.",
+   "row 9407 (vpf_alt_189): Transcript 'kono kanji wa, kaeru zo' (change?); read as 'kaeru' = go home, matching the retreat group 187-189.",
+   "row 9438 (vpf_alt_342): Transcript 'heeman' read as 'hema' (screw-up)."
+  ],
+  "kept_omission": [
+   "row 9378 (vpf_alt_160): Failure-group line; referent of 'everyone' not settled by the clip, so left open."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

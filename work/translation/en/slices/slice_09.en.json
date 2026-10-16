@@ -1,0 +1,510 @@
+{
+ "slice": 9,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "mission_ext:MT_040:strStory",
+   "en": "Ranka: \"Sheryl and I are going to show you how to fly in Real Flight Mode!\"\\nSheryl: \"You don't get service like this very often, so be grateful.\"",
+   "flags": [],
+   "notes": "Speaker labels rendered as Name: \"...\". Two speakers per row joined by the existing \n. | review: Glossary term is 'Real Flight Mode' (also used in objective row 640)."
+  },
+  {
+   "id": "mission_ext:MT_041:strMission",
+   "en": "Practice the new special maneuvers.",
+   "flags": [],
+   "notes": "review: refit: 'newly added' -> 'new'"
+  },
+  {
+   "id": "mission_ext:MT_041:strStory",
+   "en": "Sheryl: \"Here I'll explain the controls that changed since the previous game.\"\\nRanka: \"Explaining with Sheryl makes me nervous, but I'll do my best!\"",
+   "flags": [],
+   "notes": "\"the previous game\" = the prequel (Macross Ace Frontier). | review: refit: tightened line 2"
+  },
+  {
+   "id": "mission_ext:MT_042:strMission",
+   "en": "Practice the Anti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_042:strStory",
+   "en": "Ranka: \"The last lesson is about the Anti-Missile Action.\"\\nSheryl: \"Keep up with our lessons at Macross speed!\"",
+   "flags": [],
+   "notes": "Source coins a pun: Macross + speed. Kept as \"Macross speed\"."
+  },
+  {
+   "id": "mission_ext:MT_100:strMission",
+   "en": "Train at the ground training field.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_100:strStory",
+   "en": "Sheryl: \"Now you're going to do combat training at the ground training field.\\n         There are targets on the field too, so train however you like.\"",
+   "flags": [],
+   "notes": "Hanging indent of the second line: the full-width spaces aligning it under the opening quote are replaced by ASCII spaces matching \"Sheryl: \\\"\" (9). Insertion may need to re-tune."
+  },
+  {
+   "id": "mission_ext:MT_110:strMission",
+   "en": "Train at the space training field.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_110:strStory",
+   "en": "Ranka: \"Now you're going to do combat training at the space training field!\\n        There are targets on the field too, so train however you like!\"",
+   "flags": [],
+   "notes": "Hanging indent: 8 ASCII spaces matching \"Ranka: \\\"\". Ranka uses a friendlier ending than Sheryl; same wording with exclamation marks."
+  },
+  {
+   "id": "mission_ext:MT_120:strMission",
+   "en": "Train at the in-base training field.",
+   "flags": [],
+   "notes": "Base-interior field vs indoor field (row 652) kept distinct: \"in-base\" vs \"indoor\"."
+  },
+  {
+   "id": "mission_ext:MT_120:strStory",
+   "en": "Sheryl: \"Now you're going to do combat training at the in-base training field.\\n         There are targets on the field too, so train however you like.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_130:strMission",
+   "en": "Train at the indoor training field.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_130:strStory",
+   "en": "Ranka: \"Now you're going to do combat training at the indoor training field!\\n        There are targets on the field too, so train however you like!\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_140:strMission",
+   "en": "Train at the flight training field.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MT_140:strStory",
+   "en": "Sheryl: \"Now you're going to do combat training at the flight training field.\\n         There are targets on the field too, so train however you like.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "m7_330:2335",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "m7_340:219e",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "m7_350:2165",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "m7_451:1069",
+   "en": "Defeat the Protodeviln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "m7_456:0cff",
+   "en": "Defeat Gepelnitchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ma_060:2317",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ma_065:1618",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ma_070:19b2",
+   "en": "Recover the AFOS fragment",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ma_070:19e8",
+   "en": "Take the AFOS fragment to the target point",
+   "flags": [],
+   "notes": "review: refit: 'Carry' -> 'Take'"
+  },
+  {
+   "id": "ma_091:0d49",
+   "en": "Destroy the AFOS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ma_096:0c3c",
+   "en": "Destroy the AFOS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "me_040:17d3",
+   "en": "Shoot down the enemy ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "me_041:0c7f",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "me_151:0a38",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_150:1d61",
+   "en": "Attack with melee strikes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_150:21b8",
+   "en": "Survive for the set time",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_155:1d17",
+   "en": "Attack with melee strikes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_155:216e",
+   "en": "Survive for the set time",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_160:1e85",
+   "en": "Survive for the set time",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_170:19cb",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_172:0d42",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_191:113c",
+   "en": "Vanquish the phantom",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally \"destroy the false image\"; singular/plural not settled by source."
+  },
+  {
+   "id": "mf_201:0be0",
+   "en": "Defeat Grace O'Connor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_206:0b31",
+   "en": "Defeat Grace O'Connor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_311:0f28",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_311:107a",
+   "en": "Annihilate all enemies\nProtect the defense target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_311:1582",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_316:1030",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_350:1df1",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_370:196a",
+   "en": "Reach the target point",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_371:0c55",
+   "en": "Rescue the allied unit",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Allied unit(s) number not settled by source; singular chosen."
+  },
+  {
+   "id": "mf_372:0f54",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_375:2391",
+   "en": "Reach the target point",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_376:0b4f",
+   "en": "Rescue the allied unit",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Allied unit(s) number not settled by source; singular chosen."
+  },
+  {
+   "id": "mf_377:0d72",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_390:28b7",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_395:237e",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_400:1ba8",
+   "en": "Reach the target point",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_401:0cb9",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mf_411:11b7",
+   "en": "Destroy the Vajra Sub-Queen",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mg_010:1f5f",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mg_040:1fb1",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mg_040:1fd5",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mg_050:1ec6",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mi_011:0e1c",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mi_011:0f3e",
+   "en": "Catch the civilians",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says catch (with the Valkyrie hand); kept \"Catch\" rather than \"Rescue\"."
+  },
+  {
+   "id": "mi_016:183c",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mi_016:1973",
+   "en": "Catch the civilians",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says catch (with the Valkyrie hand); kept \"Catch\" rather than \"Rescue\"."
+  },
+  {
+   "id": "mi_020:19fe",
+   "en": "Annihilate all enemies\nProtect the defense target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mi_020:200e",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mi_051:0dcd",
+   "en": "Shoot down the enemy ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mi_056:0ccb",
+   "en": "Shoot down the enemy ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mi_061:0e74",
+   "en": "Destroy the attack target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mi_066:0cd3",
+   "en": "Destroy the attack target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mp_380:1c42",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mp_380:1cbd",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mp_400:197b",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mp_421:0e74",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mp_426:0af7",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mp_431:0c39",
+   "en": "Defeat Sharon Apple",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mp_431:0d04",
+   "en": "Destroy the attack target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mp_436:0b66",
+   "en": "Defeat Sharon Apple",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_210:22d2",
+   "en": "Move to the target point",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_211:0d4e",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ms_220:217f",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 641-655: speaker-label convention chosen as Name: \"...\"; hanging indent on second lines uses ASCII spaces (9 for Sheryl, 8 for Ranka) in place of the full-width spaces; first briefing rows with speakers, so the orchestrator should harmonise with slice 8 (rows 625-639).",
+   "row 645: \"Macross speed\" keeps the Macross+speed pun literally.",
+   "row 677: objective in mf_191 (Vajra homeworld mission) literally \"destroy the false image\"; rendered \"Vanquish the phantom\"; what the phantom is (and whether plural) could not be verified from the corpus.",
+   "rows 686/689: \"allied unit\" singular chosen; source does not mark number.",
+   "rows 701/703: \"Catch the civilians\" kept literal (the game action is catching falling civilians).",
+   "ingame objectives: no trailing period, matching the source; \"Annihilate all enemies\" used for the stock annihilation objective, \"Defeat\" for named characters, \"Destroy\" for things/monsters, \"Shoot down\" for enemy ace units."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

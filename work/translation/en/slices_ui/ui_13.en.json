@@ -1,0 +1,457 @@
+{
+ "slice": 13,
+ "rows_in_slice": 58,
+ "rows_examined": 58,
+ "rows": [
+  {
+   "id": "u3208",
+   "en": "VF-1S Valkyrie Roy Focker Special\\nA high-performance unit for commander-class pilots. After\\nFocker fell, his junior Hikaru flew it to defend the Macross.",
+   "flags": [],
+   "notes": "review: refit: 'issued to' -> 'for'; 'Hikaru Ichijyo' -> 'Hikaru'"
+  },
+  {
+   "id": "u3209",
+   "en": "SDF-1 Macross Daedalus Type\\nAn alien battleship that suddenly fell to Earth. Through it,\\nhumanity met OverTechnology far beyond any existing tech.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3210",
+   "en": "VT-1 Super Ostrich\\nA two-seat trainer. Hikaru took it without permission for a\\nSaturn date with Minmay, but the Zentradi captured them.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Who was captured is not stated; rendered 'the two' (Hikaru and Minmay), as in the movie. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3211",
+   "en": "VF-1A Valkyrie (Hikaru)\\nHikaru's VF-1A from the movie. Flying it, he defied Misa's\\norders to rescue Minmay, and so the love triangle began.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3212",
+   "en": "VF-1S Valkyrie (Hikaru)\\nA high-performance unit for commanders. In the final battle, it\\ncharged the foe's ship with the Macross and beat Boddole Zer.",
+   "flags": [],
+   "notes": "review: refit: 'commander-class pilots' -> 'commanders'; 'enemy mothership' -> 'foe's ship'"
+  },
+  {
+   "id": "u3213",
+   "en": "VF-1S Valkyrie (Max)\\nA high-performance unit for commander-class pilots. Max flew\\nit as Skull Squadron leader and won his duel with Milia.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3214",
+   "en": "VF-4 Lightning III\\nDeveloped as the VF-1's successor. When the Megaroad-01 set\\nout, Hikaru flew it as the ship's air group commander.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Megaroad-01 not in glossary. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3215",
+   "en": "SDF-1 Macross Armored Type\\nAn alien battleship that suddenly fell to Earth. In the movie,\\nunlike the TV series, it has ARMD-01 and ARMD-02 as its arms.",
+   "flags": [],
+   "notes": "review: refit: restructured TV/movie contrast"
+  },
+  {
+   "id": "u3216",
+   "en": "Regult\\nThe Zentradi forces' most widely used battle pod. Swapping\\nweapons suits it to any operation. The troops think it's so-so.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says the troops rate it 'so-so'; rendered colloquially. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3217",
+   "en": "Glaug\\nA high-performance unit with big cannons on both arms, plus\\nmany lasers and guns. Quamzin's unit, it plagued the Macross.",
+   "flags": [],
+   "notes": "review: refit: 'machine guns' -> 'guns'"
+  },
+  {
+   "id": "u3218",
+   "en": "Nousjadeul-Ger (TV)\\nA humanoid powered combat suit, nimbler and comfier than\\na Regult, with shoulder cannons and many handheld weapons.",
+   "flags": [],
+   "notes": "review: Same version qualifier is \"(TV)\" in the shop name of this unit (u3306) and in the VF-1 Super Pack rows (u3305, u3349); align the display name. | review: refit: 'more comfortable to ride' -> 'comfier'; 'heavily armed' folded into 'many handheld weapons'"
+  },
+  {
+   "id": "u3219",
+   "en": "Nousjadeul-Ger (Movie)\\nA humanoid powered combat suit, nimbler and comfier than\\nthe Regult. Its design differs between TV and movie.",
+   "flags": [],
+   "notes": "review: Same version qualifier is \"(Movie)\" in the shop name of this unit (u3311) and in the Super Pack rows (u3310, u3350); align the display name. | review: refit: 'more comfortable to ride' -> 'comfier'"
+  },
+  {
+   "id": "u3220",
+   "en": "Queadluun-Rau (Standard)\\nA high-performance Meltrandi battle suit. Highly mobile, it\\nmenaced Valkyrie squadrons with big guns and many missiles.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3221",
+   "en": "Queadluun-Rau (Milia)\\nMilia's red personal unit, unbeaten and feared even by allies.\\nAfter a fierce dogfight, Max got on its tail and shot it down.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject of 'undefeated, feared even by allies' taken as Milia, not the unit. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3222",
+   "en": "Queadluun-Rau (Max)\\nThe blue unit Max flew after marrying Milia and growing to\\nZentradi size. Paired with Milia's unit, it scored big wins.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3223",
+   "en": "Zentradi Soldier\\nA Zentradi rank-and-file soldier. Despite wearing only a space\\nsuit, at over 10 m tall they can match a Battroid hand to hand.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3224",
+   "en": "HWR-00-Mk II Monster (Ridden by Quamzin)\\nA Monster with a delighted Boss Quamzin astride it. Apparently\\nhe wanted to imitate a Western he'd once seen.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Coined display suffix '(Ridden by Quamzin)' for the source's 'Quamzin aboard' suffix. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3225",
+   "en": "Vrlitwhai Kridanik\\nA Zentradi fleet commander. Tougher than common troops, he\\ncan briefly work unprotected in space. A strong fighter too.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3226",
+   "en": "Golg Boddole Zer\\nZentradi Commander-in-Chief. Core bio-unit of a mobile\\nfortress built 120,000 cycles ago; bigger than other Zentradi.",
+   "flags": [],
+   "notes": "review: refit: 'Commander-in-Chief of the Zentradi fleet' -> 'Zentradi Commander-in-Chief'; 'than an ordinary Zentradi' -> 'than other Zentradi'"
+  },
+  {
+   "id": "u3227",
+   "en": "VF-11B Thunderbolt\\nDeveloped to succeed the VF-1 as main fighter. Isamu flew it\\nwhile hunting Zentradi remnants scattered across space.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3228",
+   "en": "YF-19 Excalibur (Isamu)\\nNew engines gave it high mobility but made it hard to handle --\\na wild bronco that Isamu called his \"little cutie.\"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Isamu's pet name for the plane rendered 'little cutie'; 'wild bronco' for the unruly-horse idiom. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3229",
+   "en": "YF-21 Sturmvogel (Guld)\\nA unit piloted by brain waves. To stop Sharon's new unmanned\\nfighter Ghost, Guld made a suicide charge that downed both.",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Source has 'Sturmvogel' without 'II'; mecha.json lists only 'YF-21'. Kept the nickname as written. YF-21 Sturmvogel nickname not in glossary. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3230",
+   "en": "X-9 Ghost\\nAn unmanned fighter hijacked by Sharon Apple. Its very high\\nmobility toyed with Guld, but his suicide charge downed both.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source orders the name 'Ghost X-9'; used the mecha.json form 'X-9 Ghost'. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3231",
+   "en": "VF-11C Thunderbolt\\nThe U.N. Forces' main unit from 2040 on. Its forgiving handling\\nand easy upkeep kept it the mainstay for a long time.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says 'U.N. Forces' (not 'New') for 2040; kept literal per the brief mapping. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3232",
+   "en": "VF-17D Nightmare (Standard)\\nA stealth unit for special missions, large and heavily armed.\\nAfter the Protodeviln appeared, it mainly defended City 7.",
+   "flags": [],
+   "notes": "review: refit: 'large airframe with a big weapons load' -> 'large and heavily armed'"
+  },
+  {
+   "id": "u3233",
+   "en": "VF-17S Nightmare (Kinryu/Gamlin)\\nA VF-17 upgraded for commanders. After leader Kinryu died,\\nGamlin became leader of Diamond Force and flew this unit.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source nickname is 'Nightmare' for the VF-17S; mecha.json lists the VF-17S as 'Stealth Valkyrie'. Followed the source. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3234",
+   "en": "VF-17S Nightmare (Milia)\\nTo protect City 7, cut off from the fleet by an enemy ploy,\\nMayor Milia flew this VF-17S, repainted red.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source does not say who repainted it; used passive. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3235",
+   "en": "VF-19F Excalibur (Standard)\\nDeployed to Emerald Force. The YF-19's peaky handling was\\ntoned down so that rank-and-file pilots could fly it.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source nickname is 'Excalibur'; mecha.json lists the VF-19F as 'Blazer Valkyrie'. Followed the source (matches generic 'VF-19 Excalibur'). | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3236",
+   "en": "VF-19S Excalibur (Docker)\\nDocker's unit as leader of Emerald Force. Unlike the standard\\nunit, it adds four anti-air beam guns for more firepower.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same as u3235 for the VF-19S. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3237",
+   "en": "VF-22S Sturmvogel II (Max)\\nMax sortied in it to attack the Protodeviln nest. A high-end\\nunit packed with new tech, such as solo fold capability.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3238",
+   "en": "VF-22S Sturmvogel II (Milia)\\nMilia's red unit. She fought beside Max in Operation Stargazer,\\nand once even sang in it with a Sound Booster fitted.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject of 'once sang with a Sound Booster' taken as Milia. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3239",
+   "en": "VF-19 Kai Fire Valkyrie (Basara)\\nA modified VF-19. Its bright red frame has a big speaker and\\nspeaker pods, and it roamed the galaxy blaring Basara's songs.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3240",
+   "en": "VF-11MAXL Kai Mylene Valkyrie (Mylene)\\nA VF-11 modified for Mylene, its Battroid mode distinctly\\nfeminine. She sang with Basara, the battlefield her stage.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3241",
+   "en": "VF-17T Kai Storm Valkyrie (Ray & Veffidas)\\nA modified VF-17T. Ray and Veffidas flew it together as\\nFIRE BOMBER members, firing up live shows even in battle.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Kept 'FIRE BOMBER' in capitals because the source writes it in Latin letters. | review: refit: 'as band members' -> 'as FIRE BOMBER members'"
+  },
+  {
+   "id": "u3242",
+   "en": "Battle 7\\nMacross 7 fleet flagship, captained by Maximilian Jenius. Its\\ntrump card, the Macross Cannon, got it through many crises.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3243",
+   "en": "Fz-109A Elgersoln (Standard)\\nA variable fighter for rank-and-file Varauta Army pilots. Said\\nto derive from the U.N.'s VF-14, but nobody knows for sure.",
+   "flags": [],
+   "notes": "review: refit: 'U.N. Forces' -> 'U.N.'"
+  },
+  {
+   "id": "u3244",
+   "en": "Fz-109F Elgersoln (Gigile)\\nThe Fz-109's commander model. Mainly Gigile's, it attacked\\nBasara & co. repeatedly; Gamlin's team downed it over City 7.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3245",
+   "en": "Az-130A Panzersoln\\nA variable attacker the Varauta Army made by upgrading the\\nElgersoln. Its extra power made life harder still for Macross 7.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source has 'Az-130A'; mecha.json lists 'Az-130 Panzersoln'. Kept the A. | review: refit: 'Macross 7 fleet' -> 'Macross 7'"
+  },
+  {
+   "id": "u3246",
+   "en": "FBz-99G Zaubergeran (Gavil)\\nGavil's own unit, a mighty variable bomber with all sorts of\\nweapons. Supposedly. Yet Gamlin often downed it in one hit.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3247",
+   "en": "Queadluun-Rau (Chlore)\\nPersonal unit of Chlore, who leads a rogue Meltrandi fleet.\\nPilot skill plus performance let it land a hit on Basara himself.",
+   "flags": [],
+   "notes": "review: refit: pronoun-free (Chlore gender unknown in glossary); 'Chlore's skill and the unit's performance' -> 'pilot skill plus performance'"
+  },
+  {
+   "id": "u3248",
+   "en": "Glavil\\nGavil's physical body. It needs so much Spiritia that Gavil takes\\na small spirit form, merging into Gavigla to fight all-out.",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Gavil and Glavil's combined form coined as 'Gavigla' (not in glossary). Gavigla (combined form) not in glossary. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3249",
+   "en": "Gepelnitchi\\nLeader of the Protodeviln. To build a world of endless Spiritia,\\nhe attacks humans, the \"Spiritia-regenerating race\" he sought.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Coined 'Spiritia-regenerating race' for the quoted Protodeviln term. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3250",
+   "en": "VT-1C Valkyrie\\nA variable trainer for basic training. Basara flew it to make\\nthe Galaxy Whale hear his song, but the whale shot it down.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source calls it 'VT-1C Valkyrie'; mecha.json has 'VT-1C Ostrich'. Followed the source. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3251",
+   "en": "VF-17D Nightmare (Liza)\\nThe unit Liza stole fleeing smugglers. Whether the bill for it\\never reached the Zolan Star Patrol is anybody's guess.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3252",
+   "en": "VF-5000T-G Star Mirage\\nA two-seat VF-5000 of the Zolan Star Patrol. With a Super\\nBooster fitted, it played a key role in arresting the poachers.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Super Booster not in the packs list. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3253",
+   "en": "VF-5000G Star Mirage\\nA VF-5000 of the Zolan Star Patrol. Liza complained that\\nit carried nothing but non-lethal weapons.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3254",
+   "en": "VF-19P Excalibur\\nThe unit Basara forced his way into to sing to the Galaxy\\nWhale. Whether Ray was billed the rental is anybody's guess.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3255",
+   "en": "VF-22S Sturmvogel II (Gamlin)\\nGamlin's own unit in his signature black. To let Basara's song\\nbe heard, he fought the poachers without quite knowing why.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3256",
+   "en": "VA-C-3 Invader\\nThe poachers' main variable attacker, with harpoon launcher\\npods to catch Galaxy Whales and whaling mods all over it.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source has no 'Kai'; mecha.json has 'VA-C-3 Invader Kai'. Followed the source. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3257",
+   "en": "Diving Suit\\nThe suit Graham Hoilie wore to fight the Galaxy Whale.\\nHarpoon in hand, he fought the white whale to the death.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3258",
+   "en": "Cheyenne II\\nAn anti-air interceptor Destroid, a redesign of the Cheyenne.\\nIt put its firepower to full use in the Macross Attack.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Cheyenne II and 'Macross Attack' not in glossary. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3259",
+   "en": "VF-171 Nightmare Plus\\nMain variable fighter of the Frontier fleet. Weaker than its base\\nVF-17, but easier for ordinary pilots to handle.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3260",
+   "en": "VF-171EX Nightmare Plus (Standard)\\nA VF-171 refit to fight the Vajra. Mainly flown by rank-and-file\\nU.N. Forces pilots, it fought to defend the Frontier.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source omits the trailing 'EX' of the nickname; mecha.json has 'VF-171EX Nightmare Plus EX'. Followed the source. 'U.N. Forces' kept literal in the Frontier era. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3261",
+   "en": "VF-171EX Nightmare Plus (Alto)\\nAlto's unit as Sagittarius Squadron leader. Hardly a poor\\nperformer, but it couldn't keep up with Alto's skill.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same nickname issue as u3260. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3262",
+   "en": "RVF-171EX Nightmare Plus (Luca)\\nThe unit Luca flew when Jeffrey and the others deserted.\\nFor electronic warfare, it is fitted with a radome and Ghosts.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same nickname issue as u3260. 'Ghosts' = the unmanned drones it carries."
+  },
+  {
+   "id": "u3263",
+   "en": "VF-25F Messiah (Alto)\\nCutting-edge unit sent to military provider S.M.S., partly for\\ntesting. Alto's F type is built for high-mobility combat.",
+   "flags": [],
+   "notes": "review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3264",
+   "en": "VF-25S Messiah (Ozma)\\nThe gray unit of Ozma, S.M.S. Skull Squadron's leader. It beats\\nthe standard model, and is formidable with Armored Parts on.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says 'Armored Parts' rather than 'Armored Pack'; kept as written. | review: refit: tighter wording to fit 434 px per line"
+  },
+  {
+   "id": "u3265",
+   "en": "VF-25G Messiah (Michel)\\nA VF-25 customized for long-range combat, painted blue for\\nMichel. Its sniper rifle and long-range head are trademarks.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Name suffix in the source uses the formal name (Mihael); used 'Michel' per the mecha.json pilot_suffix convention, matching the body text. | review: refit: tighter wording to fit 434 px per line"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3210: Who was captured is not stated; rendered 'the two' (Hikaru and Minmay), as in the movie.",
+   "u3216: Source says the troops rate it 'so-so'; rendered colloquially.",
+   "u3221: Subject of 'undefeated, feared even by allies' taken as Milia, not the unit.",
+   "u3224: Coined display suffix '(Ridden by Quamzin)' for the source's 'Quamzin aboard' suffix.",
+   "u3228: Isamu's pet name for the plane rendered 'little cutie'; 'wild bronco' for the unruly-horse idiom.",
+   "u3229: Source has 'Sturmvogel' without 'II'; mecha.json lists only 'YF-21'. Kept the nickname as written.",
+   "u3230: Source orders the name 'Ghost X-9'; used the mecha.json form 'X-9 Ghost'.",
+   "u3231: Source says 'U.N. Forces' (not 'New') for 2040; kept literal per the brief mapping.",
+   "u3233: Source nickname is 'Nightmare' for the VF-17S; mecha.json lists the VF-17S as 'Stealth Valkyrie'. Followed the source.",
+   "u3234: Source does not say who repainted it; used passive.",
+   "u3235: Source nickname is 'Excalibur'; mecha.json lists the VF-19F as 'Blazer Valkyrie'. Followed the source (matches generic 'VF-19 Excalibur').",
+   "u3236: Same as u3235 for the VF-19S.",
+   "u3238: Subject of 'once sang with a Sound Booster' taken as Milia.",
+   "u3241: Kept 'FIRE BOMBER' in capitals because the source writes it in Latin letters.",
+   "u3245: Source has 'Az-130A'; mecha.json lists 'Az-130 Panzersoln'. Kept the A.",
+   "u3248: Gavil and Glavil's combined form coined as 'Gavigla' (not in glossary).",
+   "u3249: Coined 'Spiritia-regenerating race' for the quoted Protodeviln term.",
+   "u3250: Source calls it 'VT-1C Valkyrie'; mecha.json has 'VT-1C Ostrich'. Followed the source.",
+   "u3256: Source has no 'Kai'; mecha.json has 'VA-C-3 Invader Kai'. Followed the source.",
+   "u3260: Source omits the trailing 'EX' of the nickname; mecha.json has 'VF-171EX Nightmare Plus EX'. Followed the source. 'U.N. Forces' kept literal in the Frontier era.",
+   "u3261: Same nickname issue as u3260.",
+   "u3262: Same nickname issue as u3260. 'Ghosts' = the unmanned drones it carries.",
+   "u3264: Source says 'Armored Parts' rather than 'Armored Pack'; kept as written.",
+   "u3265: Name suffix in the source uses the formal name (Mihael); used 'Michel' per the mecha.json pilot_suffix convention, matching the body text."
+  ],
+  "missing_glossary": [
+   "Megaroad-01 (u3214)",
+   "Gavigla, Gavil+Glavil combined form (u3248)",
+   "Super Booster (u3252)",
+   "Cheyenne II (u3258)",
+   "Macross Attack (u3258)",
+   "YF-21 Sturmvogel, YF-19 Excalibur nicknames (u3228, u3229)",
+   "VT-1C Valkyrie / VF-17S Nightmare / VF-19F,S Excalibur / VF-171EX Nightmare Plus nickname variants (see uncertain)",
+   "Chlore: not in characters.json (no pronoun used)"
+  ],
+  "unfinished": [],
+  "coined": [
+   "(Standard) for the generic/mass-production unit suffix",
+   "(TV Version)/(Movie Version) for Nousjadeul-Ger variants",
+   "Spiritia-regenerating race",
+   "Gavigla",
+   "Super Booster"
+  ]
+ }
+}

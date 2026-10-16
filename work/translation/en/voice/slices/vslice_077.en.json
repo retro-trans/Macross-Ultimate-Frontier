@@ -1,0 +1,536 @@
+{
+ "slice": 77,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_lyn_752",
+   "en": "Thank you so much for coming to my very first concert tonight, so many of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_753",
+   "en": "Thank you. It's been five months since our Macross left Earth, and so much has happened. I'm sure many of you have been hurt.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Start of the transcript ('arigatou hee') is garbled; wording trimmed to fit the box."
+  },
+  {
+   "id": "vps_lyn_754",
+   "en": "But tonight, forget all that sadness and have a great time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_755",
+   "en": "Now, here's a medley from my first album, coming out soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_756",
+   "en": "Mm... Huh? You... me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_757",
+   "en": "You saved me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_758",
+   "en": "Thank you, Lieutenant.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'shoi-san'; read as 'shoi' (second lieutenant) addressed to Hikaru, could be a name."
+  },
+  {
+   "id": "vps_lyn_759",
+   "en": "I'm so happy. You're listening to my songs?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_760",
+   "en": "Everyone must be worried... Hey, Lieutenant, where are we?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'shoi-san'; read as 'shoi' (second lieutenant), could be a name."
+  },
+  {
+   "id": "vps_lyn_761",
+   "en": "Huh? Oh, yes. Here you go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_762",
+   "en": "Is there an exit anywhere?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_763",
+   "en": "Can't it be broken?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_764",
+   "en": "Can't you use the plane's radio?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_765",
+   "en": "Right. Anybody? Is anybody there? No good... Fine, I've had enough of my packed schedule anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_766",
+   "en": "So now I can finally catch my breath.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_768",
+   "en": "TV.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_769",
+   "en": "What? You believe it too? That's just something the magazine made up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_770",
+   "en": "Hee hee, honestly, I can do that kind of thing as an act. It's business.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_771",
+   "en": "Want me to show you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_772",
+   "en": "Hey, Hikaru.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_773",
+   "en": "You know, I've actually liked you all along. Say you love me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_774",
+   "en": "I see. So you don't love me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_775",
+   "en": "Really?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_776",
+   "en": "I'm so happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_777",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Gasp, no words."
+  },
+  {
+   "id": "vps_lyn_778",
+   "en": "Won't we get scolded for using it unasked?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_779",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_780",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Gasp, no words."
+  },
+  {
+   "id": "vps_lyn_781",
+   "en": "Yeah! Wow, it's wonderful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_782",
+   "en": "Wow, this is the best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_783",
+   "en": "Excuse me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_784",
+   "en": "Big brother.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_785",
+   "en": "The melody playing now was decoded from a memory plate handed down in the Zentradi forces since ancient times.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_786",
+   "en": "Unfortunately, the lyrics to this song weren't recorded on their memory plate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_787",
+   "en": "So now, the lyricists aboard the Macross are writing wonderful lyrics for this song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_788",
+   "en": "We'll broadcast this song across the universe, make peace with the Meltrandi too, and create a world without war.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_789",
+   "en": "I like you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_790",
+   "en": "I don't know what happened between you and that person, but still, I like you.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript says 'that person'; gender of the other party not stated."
+  },
+  {
+   "id": "vps_lyn_791",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Short hum, no words."
+  },
+  {
+   "id": "vps_lyn_792",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Gasp, no words."
+  },
+  {
+   "id": "vps_lyn_794",
+   "en": "You say it isn't true? A misunderstanding?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_795",
+   "en": "That's too cruel. It's too much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_796",
+   "en": "Oh... Hikaru.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has 'hikaru' as the word for light; read as the name Hikaru."
+  },
+  {
+   "id": "vps_lyn_797",
+   "en": "You came. You came for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_798",
+   "en": "Huh? What is that? Why do I have to sing the song that person found?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_799",
+   "en": "Even if I sing that, there's no chance we'll win!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_800",
+   "en": "Forget that. Stay with me, Hikaru. If we're going to die anyway, I want to stay together like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_801",
+   "en": "That has nothing to do with it! Why aren't we the only two people in the world?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_802",
+   "en": "I wish everyone except you and me would just die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_lyn_804",
+   "en": "Sigh, I'm sorry, Hikaru. I wasn't myself. I chose this path because I wanted to, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_000",
+   "en": "Maximilian Jenius, launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_001",
+   "en": "Alright, here I go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_002",
+   "en": "Launching now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_003",
+   "en": "Whoa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_004",
+   "en": "Look out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_005",
+   "en": "It's no use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_006",
+   "en": "Oh no!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_007",
+   "en": "That's nothing!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Fragment 'konna koto'; guessed a dismissive reply to an attack."
+  },
+  {
+   "id": "vps_max_008",
+   "en": "Open fire!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'oopun' (open); guessed 'open fire'."
+  },
+  {
+   "id": "vps_max_009",
+   "en": "That does it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_010",
+   "en": "Here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_011",
+   "en": "Take that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_012",
+   "en": "Aah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_013",
+   "en": "I'm hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_014",
+   "en": "Ah, they're coming out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_015",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Single gasp, no words."
+  },
+  {
+   "id": "vps_max_018",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Chuckle, no words."
+  },
+  {
+   "id": "vps_max_019",
+   "en": "Goodbye.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_020",
+   "en": "Hey!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_100",
+   "en": "Beginning the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_101",
+   "en": "Alright, let's begin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_102",
+   "en": "Okay, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_103",
+   "en": "I won't let you get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_104",
+   "en": "Come over here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_105",
+   "en": "So you're coming at me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_106",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_107",
+   "en": "I'll show you my skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_108",
+   "en": "Here I go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_109",
+   "en": "It's still alive?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper flagged no speech; text taken at face value, enemy subject added."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6087: Heard 'shoi-san'; read as 'shoi' (second lieutenant) addressed to Hikaru, could be a name.",
+   "row 6089: Heard 'shoi-san'; read as 'shoi' (second lieutenant), could be a name.",
+   "row 6118: Transcript says 'that person'; gender of the other party not stated.",
+   "row 6138: Fragment 'konna koto'; guessed a dismissive reply to an attack."
+  ],
+  "whisper_doubt": [
+   "row 6082: Start of the transcript ('arigatou hee') is garbled; wording trimmed to fit the box.",
+   "row 6087: Heard 'shoi-san'; read as 'shoi' (second lieutenant) addressed to Hikaru, could be a name.",
+   "row 6089: Heard 'shoi-san'; read as 'shoi' (second lieutenant), could be a name.",
+   "row 6123: Transcript has 'hikaru' as the word for light; read as the name Hikaru.",
+   "row 6139: Heard 'oopun' (open); guessed 'open fire'.",
+   "row 6160: Whisper flagged no speech; text taken at face value, enemy subject added."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

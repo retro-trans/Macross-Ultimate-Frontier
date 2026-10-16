@@ -1,0 +1,505 @@
+{
+ "slice": 74,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_hik_126",
+   "en": "What are you doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_127",
+   "en": "Damn it, you're messing with me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_128",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_129",
+   "en": "Aw, I missed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_131",
+   "en": "Isn't this bad?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_132",
+   "en": "Damn it! You'll pay for that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_133",
+   "en": "I'm pretty beat up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_134",
+   "en": "What a tough one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_135",
+   "en": "Damn it, at this rate...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_136",
+   "en": "Pathetic. Really pathetic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_137",
+   "en": "I'm hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_138",
+   "en": "Sigh... I'm losing my confidence.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_139",
+   "en": "Huh? Don't scare me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_140",
+   "en": "Can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_141",
+   "en": "You're a total greenhorn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_142",
+   "en": "That's why I told you not to charge in alone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_143",
+   "en": "Did a wingman take damage?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (bizarre); read as 'ryouki' (wingman aircraft)."
+  },
+  {
+   "id": "vps_hik_144",
+   "en": "Did they go down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_148",
+   "en": "Oh, reinforcements are here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_149",
+   "en": "Friendlies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_150",
+   "en": "Finally, you made it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_151",
+   "en": "Damn! It got taken out!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject not stated; taken as the escorted target."
+  },
+  {
+   "id": "vps_hik_152",
+   "en": "What, it got destroyed?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject not stated; taken as the escorted target."
+  },
+  {
+   "id": "vps_hik_153",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_154",
+   "en": "Mission accomplished!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_155",
+   "en": "Alright, returning to base!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_156",
+   "en": "Yes! Mission complete!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_157",
+   "en": "Damn it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_158",
+   "en": "We didn't make it in time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_159",
+   "en": "Out of time already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_160",
+   "en": "I give up. This is hopeless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_161",
+   "en": "Ahh... so we failed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_162",
+   "en": "Mission failed, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_163",
+   "en": "Covering fire, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_164",
+   "en": "Keep your distance and shoot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_165",
+   "en": "Switch to ranged attacks!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_166",
+   "en": "Keep the enemy distracted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_167",
+   "en": "Go for close combat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_168",
+   "en": "Switch to melee!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_169",
+   "en": "Switch to defense!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_170",
+   "en": "Stay away from the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_171",
+   "en": "Leave this to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_172",
+   "en": "Attack with everything! Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_173",
+   "en": "Hit them with everything you've got!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_174",
+   "en": "All-out attack, got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_175",
+   "en": "Alright, let's get serious for once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_176",
+   "en": "Here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_177",
+   "en": "I'm not just going to take it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_179",
+   "en": "Alright, alright.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_180",
+   "en": "Yes, yes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_181",
+   "en": "Are you all right, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_182",
+   "en": "What's wrong, Captain?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_183",
+   "en": "Captain, maybe you should return to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_184",
+   "en": "Dead? The captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_185",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_186",
+   "en": "No... Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_187",
+   "en": "I'd forgotten this feeling. I'm pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_188",
+   "en": "This song... I'm pulling out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_189",
+   "en": "This is... Let's stop fighting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_190",
+   "en": "Phew, impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_191",
+   "en": "You're pretty good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_300",
+   "en": "Geez, why do I have to take orders?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_301",
+   "en": "Mission this, mission that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_302",
+   "en": "Yeah, yeah, I'm going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_303",
+   "en": "Oh well, I guess I'll go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_304",
+   "en": "Don't underestimate this op.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_305",
+   "en": "Keep up with me, got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_306",
+   "en": "I'm expecting a lot from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_307",
+   "en": "I'll be on support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_308",
+   "en": "Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_309",
+   "en": "Well then, I'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_310",
+   "en": "Alright, let's get this over with!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_311",
+   "en": "I can't afford to lose either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_320",
+   "en": "Give me a break, what kind of op was that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_321",
+   "en": "At this rate I've got no future either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_322",
+   "en": "There, all done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_323",
+   "en": "Alright, pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_324",
+   "en": "Let's go home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_325",
+   "en": "Phew. Good work.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5862: Subject not stated; taken as the escorted target.",
+   "row 5863: Subject not stated; taken as the escorted target."
+  ],
+  "whisper_doubt": [
+   "row 5857: Heard 'ryouki' (bizarre); read as 'ryouki' (wingman aircraft)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

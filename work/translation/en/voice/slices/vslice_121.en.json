@@ -1,0 +1,519 @@
+{
+ "slice": 121,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpy_blr_150",
+   "en": "Reinforcements confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_151",
+   "en": "Defense target destruction confirmed.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Stock failure-group line; sense inferred from 152-153."
+  },
+  {
+   "id": "vpy_blr_152",
+   "en": "Shot down, of all things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_153",
+   "en": "So we couldn't protect it.",
+   "flags": [
+    "kept_omission",
+    "uncertain"
+   ],
+   "notes": "Object left open; guessed the defense target."
+  },
+  {
+   "id": "vpy_blr_154",
+   "en": "I'll grant Ranka's true wish.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_155",
+   "en": "Carrying out the mission is my reason for existing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_156",
+   "en": "Mission complete. Returning at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_157",
+   "en": "Out of time. This is as far as it goes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_158",
+   "en": "Time's up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_159",
+   "en": "Mission time exceeded. Failure.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_160",
+   "en": "Mission failed. Starting withdrawal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_161",
+   "en": "What is my reason for existing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_162",
+   "en": "I'm sorry I couldn't keep my promise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_163",
+   "en": "Provide cover fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_164",
+   "en": "Back me up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_165",
+   "en": "I'll take the front line.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_166",
+   "en": "I'll guard your back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_167",
+   "en": "Move to the front.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_168",
+   "en": "Switch to close combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_169",
+   "en": "Stay back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_170",
+   "en": "Dodge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_171",
+   "en": "I'll protect you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_172",
+   "en": "If you're going to do it, now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_173",
+   "en": "Strike now, while the enemy is open.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_174",
+   "en": "Begin the all-out attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_175",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Moaning, no words."
+  },
+  {
+   "id": "vpy_blr_176",
+   "en": "Disappear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_177",
+   "en": "I will defeat you. Whatever it takes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_179",
+   "en": "Yes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_180",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_181",
+   "en": "I'll protect the Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_182",
+   "en": "Roger. Moving to support the Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_183",
+   "en": "Fall back, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_184",
+   "en": "Captain, why?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_185",
+   "en": "The Captain's been taken out?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_186",
+   "en": "I see. I couldn't protect the Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_187",
+   "en": "Heh. Withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_188",
+   "en": "This isn't going well. Pulling back.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'kono kanji' (this feeling) read as 'this isn't going well', same retreat group as other pilots' 188."
+  },
+  {
+   "id": "vpy_blr_189",
+   "en": "Let's stop fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_190",
+   "en": "Well done, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_191",
+   "en": "Naturally, for the Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_192",
+   "en": "Good, for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_301",
+   "en": "You're not fit to be a pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_302",
+   "en": "Watch out, or I'll eliminate you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_303",
+   "en": "Enemy sighted. Beginning the sweep.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'tekiyou kakunin soutou' (garbled); read as 'teki kakunin, soutou' = enemy confirmed, sweep."
+  },
+  {
+   "id": "vpy_blr_304",
+   "en": "I'll drive them out of our territory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_305",
+   "en": "Carrying out the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_306",
+   "en": "Better than expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_307",
+   "en": "Not bad, for a pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_308",
+   "en": "Do you want my support?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_309",
+   "en": "I'll support you. Fight without worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_310",
+   "en": "You may not need it, but leave your back to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_311",
+   "en": "I'll cooperate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_320",
+   "en": "I did tell you not to get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_321",
+   "en": "Luck alone won't keep you alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_322",
+   "en": "Don't become a thing of the past.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Phrase 'kako ni naru' kept literal; echoes row 629."
+  },
+  {
+   "id": "vpy_blr_323",
+   "en": "Mission complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_324",
+   "en": "My atonement isn't over yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_325",
+   "en": "So this is my mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_326",
+   "en": "With you, maybe we can stop the fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_327",
+   "en": "Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_328",
+   "en": "My memories have grown again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_329",
+   "en": "Your fighting has stayed in my memory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_330",
+   "en": "If you need me again, call me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_331",
+   "en": "Don't worry. I'm with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_340",
+   "en": "I hope this won't be for nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_341",
+   "en": "I'd prefer to be alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_342",
+   "en": "Watch out I don't shoot you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_343",
+   "en": "I'll cover you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_344",
+   "en": "I'll remove the enemy by force.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'dekki' (deck); probably 'tekki' (enemy unit)."
+  },
+  {
+   "id": "vpy_blr_345",
+   "en": "Mission understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_346",
+   "en": "I'll support you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_347",
+   "en": "No matter how far you go, a person is alone, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_348",
+   "en": "That's not an order, is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_349",
+   "en": "I'll protect you. Fight without worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_350",
+   "en": "It seems I've found my reason for existing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_351",
+   "en": "I'll protect you, even at the cost of my life.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_360",
+   "en": "Who are you fighting for?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_361",
+   "en": "I don't need you here.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9602 (vpy_blr_151): Stock failure-group line; sense inferred from 152-153.",
+   "row 9604 (vpy_blr_153): Object left open; guessed the defense target.",
+   "row 9639 (vpy_blr_188): 'kono kanji' (this feeling) read as 'this isn't going well', same retreat group as other pilots' 188.",
+   "row 9657 (vpy_blr_322): Phrase 'kako ni naru' kept literal; echoes row 629."
+  ],
+  "whisper_doubt": [
+   "row 9646 (vpy_blr_303): Transcript 'tekiyou kakunin soutou' (garbled); read as 'teki kakunin, soutou' = enemy confirmed, sweep.",
+   "row 9671 (vpy_blr_344): Transcript 'dekki' (deck); probably 'tekki' (enemy unit)."
+  ],
+  "kept_omission": [
+   "row 9604 (vpy_blr_153): Object left open; guessed the defense target."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,509 @@
+{
+ "slice": 9,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_255",
+   "en": "More enemy reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_255",
+   "en": "Enemy contacts confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_255",
+   "en": "Hey, the enemy reinforcements won't stop!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_255",
+   "en": "Enemy appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_255",
+   "en": "More enemies?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_256",
+   "en": "Multiple enemies appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_256",
+   "en": "Many enemy contacts confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_256",
+   "en": "Enemy reinforcements, and multiple ones at that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_256",
+   "en": "Enemy reinforcements, and a lot of them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_256",
+   "en": "Multiple targets approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_257",
+   "en": "Many new enemy signatures confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_257",
+   "en": "Multiple enemies closing in fast.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_257",
+   "en": "How long will these enemy reinforcements keep coming?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_257",
+   "en": "Multiple enemies closing in fast!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_257",
+   "en": "Enemy force in the combat area! Intercept!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_258",
+   "en": "Detached enemy unit confirmed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'betsu doutai'; probably betsudoutai (detached unit)."
+  },
+  {
+   "id": "vo0_of1_258",
+   "en": "Detected many enemy signatures.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kiei' with the wrong kanji; probably kiei meaning enemy craft or signatures, per the other four operators."
+  },
+  {
+   "id": "vo0_of2_258",
+   "en": "Hey! Multiple enemies closing in fast!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_258",
+   "en": "Many enemy reinforcements confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_258",
+   "en": "There are a lot of enemies! Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_300",
+   "en": "Um, excuse me. Please get on with the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_300",
+   "en": "Now, just try not to get in everyone's way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_300",
+   "en": "Hey, you hack. Do your job properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_300",
+   "en": "Just try not to die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_300",
+   "en": "Operation commencing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_301",
+   "en": "Please take this seriously. I'm begging you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_301",
+   "en": "Focus on the mission. It's about to start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_301",
+   "en": "Follow my orders. If you can even understand them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_301",
+   "en": "It's fine. I'm not expecting anything from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_301",
+   "en": "You do understand the mission details, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_302",
+   "en": "I hope this mission ends safely...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_302",
+   "en": "The mission's about to start. Pull yourself together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_302",
+   "en": "I really don't think this mission will go well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_302",
+   "en": "Don't fail a mission this easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_302",
+   "en": "You, a pilot? We're seriously short-handed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_303",
+   "en": "It's starting. Good luck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_303",
+   "en": "Here we go. Good luck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_303",
+   "en": "The mission's starting. Bring back solid results.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_303",
+   "en": "Mission start. I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_303",
+   "en": "Operation start. Good luck.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kentou' written as consideration; should be kentou meaning a good fight (wish of good luck)."
+  },
+  {
+   "id": "vo0_of0_304",
+   "en": "I wish you good fortune.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard gobun; probably buun (good fortune in battle)."
+  },
+  {
+   "id": "vo0_of1_304",
+   "en": "Now, show me a bit of your cool side.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_304",
+   "en": "Show me you can pull off a mission like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_304",
+   "en": "Good luck.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kimi ni bun are; probably kimi ni buun are (may fortune be with you)."
+  },
+  {
+   "id": "vos_mis_304",
+   "en": "Operation start! Stay sharp, you too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_305",
+   "en": "Please make sure this mission succeeds!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_305",
+   "en": "I'll pray you stay safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_305",
+   "en": "Don't you dare fail. Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_305",
+   "en": "Listen carefully to my support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_305",
+   "en": "Mission in progress. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_306",
+   "en": "You have to come back safely, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_306",
+   "en": "Don't do anything reckless that worries me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_306",
+   "en": "Oh, it's you. Then we'll be fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_306",
+   "en": "Don't be reckless. You only have one life.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_306",
+   "en": "Don't overdo it and take risks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_307",
+   "en": "This mission is no problem for you, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_307",
+   "en": "I can't help expecting you to pull it off somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_307",
+   "en": "I'm counting on you again. Do what you always do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_307",
+   "en": "With your skill it's no problem. Go on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_307",
+   "en": "No telling how the battle will go. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_308",
+   "en": "I'll back you up fully on this mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_308",
+   "en": "Live up to my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_308",
+   "en": "Follow my orders. You can do it, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_308",
+   "en": "Rely on my support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_308",
+   "en": "Don't take risks. We're short-handed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_309",
+   "en": "Please wrap it up in a flash!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_309",
+   "en": "Come back safe. I won't forgive you if you worry me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_309",
+   "en": "I can work comfortably with you. I don't mind it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_309",
+   "en": "I vouch for your skill. A mission like this is no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_309",
+   "en": "Good luck! I'm sure you'll succeed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_310",
+   "en": "Don't worry! I'm with you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_310",
+   "en": "You should handle it easily. I'm the one who approved you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_310",
+   "en": "I'm expecting a lot from you, you know. Really.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_310",
+   "en": "Come back alive. Drinking alone is lonely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_310",
+   "en": "Good luck, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_311",
+   "en": "Oh, when you get back, I'll treat you to my home cooking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_311",
+   "en": "Keep your schedule clear after this mission. That's an order.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_311",
+   "en": "Make sure you come back. I'll never forgive you if you don't.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_311",
+   "en": "Make sure you come back. Man's promise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_311",
+   "en": "If I were a pilot, I could fight beside you. Just kidding.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 685 vos_mis_304 flagged nospeech by Whisper but transcript reads as normal speech; kept",
+   "row 675/705: Misa's 'short-handed' lines are sarcastic jabs at the player"
+  ],
+  "whisper_doubt": [
+   "rows 656,657,680,681,684"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

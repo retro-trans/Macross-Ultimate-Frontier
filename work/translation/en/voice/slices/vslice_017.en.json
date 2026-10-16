@@ -1,0 +1,513 @@
+{
+ "slice": 17,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_906",
+   "en": "Press the D-pad up, left or right twice quickly in the same direction to roll that way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_906",
+   "en": "Also, guarding resets the camera angle to face front.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_906",
+   "en": "Press the L and R buttons together to release lock-on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_907",
+   "en": "Press the D-pad down twice quickly to fire the reverse thrusters and brake hard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_907",
+   "en": "With both units on the field, use the Select button and the D-pad together to give tactical commands.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_907",
+   "en": "The Square button attacks the locked-on enemy with your main weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_908",
+   "en": "Push the analog pad up to transform into Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_908",
+   "en": "Hold the L button and press the Circle button to spend one block of SP gauge on a charged shot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_908",
+   "en": "The Circle button attacks the locked-on enemy with your special weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_909",
+   "en": "That covers the basic controls for Fighter mode. Note that you cannot transform into any other mode in this training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_909",
+   "en": "Hold the L button and press the Triangle button to spend one block of SP gauge on a charged melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_909",
+   "en": "For units with several special weapons, hold L and press Square to switch special weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_910",
+   "en": "Now, please begin the Fighter mode flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_910",
+   "en": "Press the Triangle and Circle buttons together to spend three blocks of SP gauge on a powerful special attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_910",
+   "en": "Some special weapons can multi-lock, locking onto several enemies at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_911",
+   "en": "The training ends when you reach the target area or the time limit runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_911",
+   "en": "Press the Square and X buttons together to spend a set amount of SP gauge on the pilot's own command skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_911",
+   "en": "For multi-lock, keep holding the Circle button to lock onto several enemies within firing range.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a mangled word for multi-lock (maru-ji rokku-on, a mishearing of maruchi rokku-on)."
+  },
+  {
+   "id": "vo0_of0_912",
+   "en": "Arrival at the target area confirmed. Ending the Fighter flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_912",
+   "en": "Hold L and press Triangle and Circle together for a combined special attack with both units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_912",
+   "en": "Release the Circle button during multi-lock to hit every enemy locked so far with your special weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_913",
+   "en": "Training time is up. Ending the Fighter flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_913",
+   "en": "A combined special attack uses six blocks of SP gauge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_913",
+   "en": "These shooting attacks use the same controls in Fighter, Battroid and GERWALK modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_914",
+   "en": "I will now explain the basic controls for Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_914",
+   "en": "That covers the basic special moves.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_914",
+   "en": "That's the basics of shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_915",
+   "en": "Press the D-pad up, down, left or right to move forward, back, left or right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_915",
+   "en": "Targets will appear, so go ahead and practice the special moves.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_915",
+   "en": "Targets will appear. Practice your shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_916",
+   "en": "Press the D-pad twice quickly in one direction to step that way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_916",
+   "en": "The training ends when you reach the target area or time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_916",
+   "en": "The training ends when you reach the target area or the time limit expires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_917",
+   "en": "Keep holding the D-pad at the end of a step to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_917",
+   "en": "Arrival at the target area confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_917",
+   "en": "Arrival at the target area confirmed. Ending shooting attack training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_918",
+   "en": "Press the X button to jump.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_918",
+   "en": "Training time is up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_918",
+   "en": "Training time is up. Ending shooting attack training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_919",
+   "en": "Press the X button twice quickly and keep holding it to descent-boost and lose altitude.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has the wrong kanji for kakou-boost; it is kakou (descent) boost, same sound."
+  },
+  {
+   "id": "vo0_of1_919",
+   "en": "I will now explain how to carry containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_919",
+   "en": "Now for the basics of melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_920",
+   "en": "You can dash even while jumping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_920",
+   "en": "Approach a container while locked onto it and you can pick it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_920",
+   "en": "The Triangle button performs a melee attack. Melee is possible in every mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_921",
+   "en": "Push the analog pad down to transform into Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_921",
+   "en": "You can only carry containers in GERWALK or Battroid mode. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_921",
+   "en": "In Battroid and GERWALK modes, pressing the Triangle button repeatedly chains a combo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_922",
+   "en": "That covers the basic controls for Battroid mode. Note that you cannot transform into any other mode in this training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_922",
+   "en": "Press Square to set the container down here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_922",
+   "en": "The number of hits in a combo differs by unit and mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_923",
+   "en": "Now, please begin the Battroid flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_923",
+   "en": "Also, you cannot attack while carrying a container, so be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_923",
+   "en": "Hold the Triangle button for a while and then release it for a charged melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_924",
+   "en": "The training ends when you reach the target area or the time limit runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_924",
+   "en": "That concludes the container transport explanation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_924",
+   "en": "In Battroid and GERWALK modes, press Triangle while dashing for a dash melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_925",
+   "en": "Arrival at the target area confirmed. Ending the Battroid flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_925",
+   "en": "The training ends when you bring the container to the designated spot, reach the target area, or run out of time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_925",
+   "en": "In Battroid mode, press the Triangle button on a downed enemy for a down attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_926",
+   "en": "Training time is up. Ending the Battroid flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_926",
+   "en": "All containers recovered. That ends the container transport training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_926",
+   "en": "That's the basics of melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_927",
+   "en": "I will now explain the basic controls for GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_927",
+   "en": "Arrival at the target area confirmed. That ends the container transport training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_927",
+   "en": "Targets will appear. Practice your melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_928",
+   "en": "Press the D-pad left or right to turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_928",
+   "en": "Training time is up. That ends the container transport training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_928",
+   "en": "The training ends when you reach the target area or time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_929",
+   "en": "Press the D-pad twice quickly in one direction to step that way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_929",
+   "en": "Arrival at the target area confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_930",
+   "en": "Keep holding the D-pad at the end of a step to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_930",
+   "en": "Training time is up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_931",
+   "en": "Keep holding the X button to boost upward and gain altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_932",
+   "en": "In GERWALK mode you can hover and hold your altitude.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says paowaaku-kei (power-oak form); this is gauwaaku (Gerwalk), as in the surrounding clips."
+  },
+  {
+   "id": "vo0_of0_933",
+   "en": "Press the X button twice quickly and keep holding it to descent-boost and lose altitude.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji for kakou-boost; it is kakou (descent) boost, same sound."
+  },
+  {
+   "id": "vo0_of0_934",
+   "en": "Push the analog pad left or right to transform into GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_935",
+   "en": "That covers the basic controls for GERWALK mode. Note that you cannot transform into any other mode in this training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_936",
+   "en": "Now, please begin the GERWALK flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_937",
+   "en": "The training ends when you reach the target area or the time limit runs out.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 1281: transcript lists D-pad up, left and right for a roll; kept as heard (roll may really be left/right only)",
+   "row 1298: multi-lock word garbled in the transcript; meaning clear from rows 1295 and 1301",
+   "PSP face buttons rendered as X / Circle / Triangle / Square"
+  ],
+  "whisper_doubt": [
+   "row 1298: Transcript has a mangled word for multi-lock (maru-ji rokku-on, a mishearing of maruchi rokku-on).",
+   "row 1320: Transcript has the wrong kanji for kakou-boost; it is kakou (descent) boost, same sound.",
+   "row 1355: Transcript says paowaaku-kei (power-oak form); this is gauwaaku (Gerwalk), as in the surrounding clips.",
+   "row 1356: Wrong kanji for kakou-boost; it is kakou (descent) boost, same sound."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Gerwalk and Battroid are not in the glossary (standard terms used)"
+  ],
+  "unfinished": []
+ }
+}

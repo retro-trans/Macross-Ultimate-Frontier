@@ -1,0 +1,525 @@
+{
+ "slice": 78,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_max_110",
+   "en": "Nice!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_111",
+   "en": "Resisting is pointless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_113",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_114",
+   "en": "Pardon me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_115",
+   "en": "Care to have a match with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_116",
+   "en": "You'll make a fine opponent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_117",
+   "en": "There you are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_118",
+   "en": "That went well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_119",
+   "en": "All done!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_120",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_121",
+   "en": "Phew.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Low-confidence Whisper on a breath; read as a sigh of relief."
+  },
+  {
+   "id": "vps_max_122",
+   "en": "Huh? My shield's broken?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_123",
+   "en": "Oh boy. They broke my shield.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_124",
+   "en": "Uh-oh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_125",
+   "en": "Interesting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_127",
+   "en": "What are you doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_128",
+   "en": "You're exactly the type I can't stand.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_129",
+   "en": "Not done yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_132",
+   "en": "What power!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_133",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Breathing only, no words."
+  },
+  {
+   "id": "vps_max_134",
+   "en": "My craft's about to...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off after saying the craft is about to (fail)."
+  },
+  {
+   "id": "vps_max_135",
+   "en": "I can't dodge it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_136",
+   "en": "Guess this is as far as I go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_137",
+   "en": "A genius, huh... Guess I'm not one after all...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Final word (chigau, 'different/wrong') read as 'I'm not what I thought'."
+  },
+  {
+   "id": "vps_max_138",
+   "en": "Well, I got shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_139",
+   "en": "I told you not to let your guard down, didn't I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_140",
+   "en": "Get out of there, quickly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_141",
+   "en": "You'll get shot down like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_142",
+   "en": "What? You got shot down?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker reacting to an ally's report; reading assumed."
+  },
+  {
+   "id": "vps_max_143",
+   "en": "In a fight like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_144",
+   "en": "Oh boy, that's bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_148",
+   "en": "Don't worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_149",
+   "en": "Are you here to back us up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_150",
+   "en": "Reinforcements have arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_151",
+   "en": "Ah, they got it!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Defense-target failure line (sibling clips mention the defense target); 'it' is the target, assumed."
+  },
+  {
+   "id": "vps_max_152",
+   "en": "The defense target has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_153",
+   "en": "And I was right here...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Deliberately trails off."
+  },
+  {
+   "id": "vps_max_154",
+   "en": "Returning to base now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_155",
+   "en": "Phew. Mission complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_156",
+   "en": "We did it! Mission accomplished!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_157",
+   "en": "I didn't make it in time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_158",
+   "en": "I can't believe it gave me this much trouble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_159",
+   "en": "Time's up already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_160",
+   "en": "This is Max. Withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_161",
+   "en": "Looks like the mission has failed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_162",
+   "en": "They're pretty tough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_163",
+   "en": "Just keep shooting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_164",
+   "en": "Attack from a distance! Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_165",
+   "en": "Cover fire, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_166",
+   "en": "Close in and hold the enemy back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_167",
+   "en": "Pin them down in melee, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_168",
+   "en": "Could you take the close combat?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_169",
+   "en": "Leave this to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_170",
+   "en": "Don't push yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_171",
+   "en": "Stay back a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_172",
+   "en": "Now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_173",
+   "en": "Beginning all-out attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_174",
+   "en": "Let's attack all at once!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Imperative (seme-yo) or 'let's' (seme-you) possible; chose 'let's'."
+  },
+  {
+   "id": "vps_max_175",
+   "en": "Now I'm getting serious!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_176",
+   "en": "I guess it can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_177",
+   "en": "How about this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_178",
+   "en": "Yes, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_179",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_180",
+   "en": "Yes, I know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_181",
+   "en": "Captain, be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_182",
+   "en": "How unexpected. I never thought you'd get hit this badly, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_183",
+   "en": "Captain, leave it to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_184",
+   "en": "Rest in peace, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_185",
+   "en": "Captain, eject, quickly!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote 'dashi-sou'; read as a call to eject (dasshutsu); sibling clips fit."
+  },
+  {
+   "id": "vps_max_186",
+   "en": "Captain, pull yourself together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_187",
+   "en": "This feeling... yes...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_188",
+   "en": "Not bad at all. I'm heading back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_189",
+   "en": "I see. Then let's stop fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_190",
+   "en": "As expected of you, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_191",
+   "en": "So you can do it when you try, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_192",
+   "en": "Milia, even the way you fight is beautiful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_300",
+   "en": "What are you so excited about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_301",
+   "en": "Don't get yourself shot down by being reckless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_302",
+   "en": "Oh, God.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_max_303",
+   "en": "Man, I'm nervous.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6184 vps_max_137: A genius, huh... Guess I'm not one after all... - Final word (chigau, 'different/wrong') read as 'I'm not what I thought'.",
+   "row 6189 vps_max_142: What? You got shot down? - Speaker reacting to an ally's report; reading assumed.",
+   "row 6195 vps_max_151: Ah, they got it! - Defense-target failure line (sibling clips mention the defense target); 'it' is the target, assumed.",
+   "row 6218 vps_max_174: Let's attack all at once! - Imperative (seme-yo) or 'let's' (seme-you) possible; chose 'let's'.",
+   "row 6229 vps_max_185: Captain, eject, quickly! - Whisper wrote 'dashi-sou'; read as a call to eject (dasshutsu); sibling clips fit."
+  ],
+  "whisper_doubt": [
+   "row 6171 vps_max_121: Low-confidence Whisper on a breath; read as a sigh of relief.",
+   "row 6229 vps_max_185: Whisper wrote 'dashi-sou'; read as a call to eject (dasshutsu); sibling clips fit."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 6181 vps_max_134",
+   "row 6197 vps_max_153"
+  ]
+ }
+}

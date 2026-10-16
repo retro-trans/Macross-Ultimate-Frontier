@@ -1,0 +1,540 @@
+{
+ "slice": 40,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_1420",
+   "en": "Many heat signatures confirmed. They're Protodeviln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1420",
+   "en": "Many heat signatures confirmed. They're Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1420",
+   "en": "Many heat signatures confirmed. Those are Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1421",
+   "en": "Many heat signatures confirmed. They're Elgersolns.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1421",
+   "en": "Many heat signatures confirmed. Those are Elgersolns.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Elgersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1421",
+   "en": "Many heat signatures confirmed. They're Elgersolns!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1421",
+   "en": "Many heat signatures confirmed. They're Elgersolns.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1421",
+   "en": "Many heat signatures confirmed. Those are Elgersolns.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Elgersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1422",
+   "en": "Many heat signatures confirmed. They're Panzersolns.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1422",
+   "en": "Many heat signatures confirmed. Those are Panzersolns.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1422",
+   "en": "Many heat signatures confirmed. They're Panzersolns!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1422",
+   "en": "Many heat signatures confirmed. They're Panzersolns.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1422",
+   "en": "Many heat signatures confirmed. Those are Panzersolns.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1423",
+   "en": "Many heat signatures confirmed. They're Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1423",
+   "en": "Many heat signatures confirmed. Those are Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1423",
+   "en": "Many heat signatures confirmed. They're Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1423",
+   "en": "Many heat signatures confirmed. They're Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1423",
+   "en": "Many heat signatures confirmed. Those are Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1424",
+   "en": "Many heat signatures confirmed. They're enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1424",
+   "en": "Many heat signatures confirmed. Those are enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1424",
+   "en": "Many heat signatures confirmed. They're enemies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1424",
+   "en": "Many heat signatures confirmed. They're enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1424",
+   "en": "Many heat signatures confirmed. Those are enemies.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote an unrelated word (tekiyou, 'application') for 'enemy'; read as 'enemy' per the other operators."
+  },
+  {
+   "id": "vo0_of0_1425",
+   "en": "Many heat signatures confirmed. They're enemy units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1425",
+   "en": "Many heat signatures confirmed. Those are enemy units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1425",
+   "en": "Many heat signatures confirmed. They're enemy units!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1425",
+   "en": "Many heat signatures confirmed. They're enemy units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1425",
+   "en": "Many heat signatures confirmed. Those are enemy units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1426",
+   "en": "It's the Zentradi forces. Please intercept immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as the Zentradi forces (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1426",
+   "en": "That's the Zentradi forces! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1426",
+   "en": "It's the Zentradi forces! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1426",
+   "en": "It's the Zentradi forces! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1426",
+   "en": "That's the Zentradi forces! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1427",
+   "en": "They're Regults. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1427",
+   "en": "Those are Regults! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1427",
+   "en": "They're Regults! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1427",
+   "en": "They're Regults! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1427",
+   "en": "Those are Regults! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1428",
+   "en": "They're Glaugs. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1428",
+   "en": "Those are Glaugs! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1428",
+   "en": "They're Glaugs! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1428",
+   "en": "They're Glaugs! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1428",
+   "en": "Those are Glaugs! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1429",
+   "en": "They're Nousjadeul-Gers. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1429",
+   "en": "Those are Nousjadeul-Gers! Intercept immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1429",
+   "en": "They're Nousjadeul-Gers! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1429",
+   "en": "They're Nousjadeul-Gers! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1429",
+   "en": "Those are Nousjadeul-Gers! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1430",
+   "en": "They're Queadluun-Raus. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1430",
+   "en": "Those are Queadluun-Raus! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1430",
+   "en": "They're Queadluun-Raus! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1430",
+   "en": "They're Queadluun-Raus! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1430",
+   "en": "Those are Queadluun-Raus! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1431",
+   "en": "They're Destroids. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1431",
+   "en": "Those are Destroids! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1431",
+   "en": "They're Destroids! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1431",
+   "en": "They're Destroids! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1431",
+   "en": "Those are Destroids! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1432",
+   "en": "It's the Varauta army. Please intercept immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as the Varauta army (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1432",
+   "en": "That's the Varauta army! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1432",
+   "en": "It's the Varauta army! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1432",
+   "en": "It's the Varauta army! Intercept at once!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as the Varauta army (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1432",
+   "en": "That's the Varauta army! Intercept immediately!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as the Varauta army (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1433",
+   "en": "They're Protodeviln. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1433",
+   "en": "Those are Protodeviln! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1433",
+   "en": "They're Protodeviln! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1433",
+   "en": "They're Protodeviln! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1433",
+   "en": "Those are Protodeviln! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1434",
+   "en": "They're Elgersolns. Please intercept immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Elgersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1434",
+   "en": "Those are Elgersolns! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1434",
+   "en": "They're Elgersolns! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1434",
+   "en": "They're Elgersolns! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1434",
+   "en": "Those are Elgersolns! Intercept immediately!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Elgersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1435",
+   "en": "They're Panzersolns. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1435",
+   "en": "Those are Panzersolns! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1435",
+   "en": "They're Panzersolns! Intercept immediately!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1435",
+   "en": "They're Panzersolns! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1435",
+   "en": "Those are Panzersolns! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1436",
+   "en": "They're Vajra. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1436",
+   "en": "Those are Vajra! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 3125",
+   "row 3128",
+   "row 3130",
+   "row 3131",
+   "row 3132",
+   "row 3133",
+   "row 3143",
+   "row 3149",
+   "row 3165",
+   "row 3179",
+   "row 3182",
+   "row 3183",
+   "row 3189",
+   "row 3193",
+   "row 3196"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

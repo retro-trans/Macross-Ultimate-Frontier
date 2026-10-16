@@ -1,0 +1,582 @@
+{
+ "slice": 38,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1342",
+   "en": "Full Armored equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1342",
+   "en": "I'll allow Full Armored equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1342",
+   "en": "Full Armored equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1342",
+   "en": "Full Armored equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1343",
+   "en": "Sound Booster equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1343",
+   "en": "Sound Booster equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1343",
+   "en": "I'll allow Sound Booster equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1343",
+   "en": "Sound Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1343",
+   "en": "Sound Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1344",
+   "en": "Fold Speaker equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1344",
+   "en": "Fold Speaker equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1344",
+   "en": "I'll allow Fold Speaker equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1344",
+   "en": "Fold Speaker equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1344",
+   "en": "Fold Speaker equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1345",
+   "en": "Super Armed Pack equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1345",
+   "en": "Super Armed Pack equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1345",
+   "en": "I'll allow Super Armed Pack equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1345",
+   "en": "Super Armed Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1345",
+   "en": "Super Armed Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1346",
+   "en": "Option Parts equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1346",
+   "en": "Option Parts equipment is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1346",
+   "en": "I'll allow Option Parts equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1346",
+   "en": "Option Parts equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1346",
+   "en": "Option Parts equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1347",
+   "en": "Both aircraft can still be saved. Please hurry.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'youki' (cheerful); read as ryouki, 'both aircraft', as in the other operators' rows."
+  },
+  {
+   "id": "vo0_of1_1347",
+   "en": "Both aircraft can still be saved. Hurry.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'youki' (cheerful); read as ryouki, 'both aircraft', as in the other operators' rows."
+  },
+  {
+   "id": "vo0_of2_1347",
+   "en": "Both aircraft can still be saved. Hurry up!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'youki' (cheerful); read as ryouki, 'both aircraft', as in the other operators' rows."
+  },
+  {
+   "id": "vos_mis_1347",
+   "en": "Rescue both aircraft, quickly!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'byouki' (illness); read as ryouki, 'both aircraft', per the other operators."
+  },
+  {
+   "id": "vo0_of0_1348",
+   "en": "Please head to rescue both aircraft immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1348",
+   "en": "Head to rescue both aircraft immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_of2_1348",
+   "en": "Hey! Go rescue both aircraft!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_om0_1348",
+   "en": "Go rescue both aircraft!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'shikyuu ryoukin' (supply fee); read as 'both aircraft', per the other operators."
+  },
+  {
+   "id": "vos_mis_1348",
+   "en": "Go and rescue both aircraft at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_of0_1349",
+   "en": "Both aircraft can still be saved. Please hurry.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_of1_1349",
+   "en": "Both aircraft can still be saved. Hurry.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_of2_1349",
+   "en": "Both aircraft can still be saved! Hurry!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_om0_1349",
+   "en": "Both aircraft should still be savable! Move!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vos_mis_1349",
+   "en": "Rescue both aircraft. Hurry!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'byouki' (illness); read as ryouki, 'both aircraft', per the other operators."
+  },
+  {
+   "id": "vo0_of0_1350",
+   "en": "You should be able to save both aircraft.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_of1_1350",
+   "en": "You should be able to save both aircraft.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_of2_1350",
+   "en": "Even you can manage rescuing both aircraft, right?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_om0_1350",
+   "en": "You should be able to rescue both aircraft!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vos_mis_1350",
+   "en": "You're the only one who can rescue both aircraft! Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1351",
+   "en": "Both aircraft are back in action now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1351",
+   "en": "Both aircraft are back in action!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_of2_1351",
+   "en": "I'll give you credit for rescuing both aircraft.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_om0_1351",
+   "en": "Rescue of both aircraft successful. They're back in action!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji). (twice)"
+  },
+  {
+   "id": "vos_mis_1351",
+   "en": "I hope this improves the battle situation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1352",
+   "en": "Excellent work! Please continue the operation alongside both aircraft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1352",
+   "en": "Well done. Continue the operation together with both aircraft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1352",
+   "en": "Those pilots owe you a proper thanks.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji). (before 'pilots') Who gets the thanks is unclear (operator or player); kept impersonal."
+  },
+  {
+   "id": "vo0_om0_1352",
+   "en": "Good work. Continue the operation together with both aircraft.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Plain verb ending read as an order, to match the other operators."
+  },
+  {
+   "id": "vos_mis_1352",
+   "en": "Well done. Continue the operation together with both aircraft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1353",
+   "en": "Both aircraft confirmed back in action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1353",
+   "en": "Both aircraft confirmed back in action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1353",
+   "en": "Hey! Both aircraft are back in action!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji)."
+  },
+  {
+   "id": "vo0_om0_1353",
+   "en": "Both aircraft confirmed back in action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1353",
+   "en": "Both aircraft confirmed returning to the front.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1400",
+   "en": "Heat signature confirmed. It's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1400",
+   "en": "Heat signature confirmed. That's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1400",
+   "en": "Heat signature confirmed. It's the Zentradi forces!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1400",
+   "en": "Heat signature confirmed. It's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1400",
+   "en": "Heat signature confirmed. That's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1401",
+   "en": "Heat signature confirmed. It's a Regult.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Regult (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1401",
+   "en": "Heat signature confirmed. That's a Regult.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1401",
+   "en": "Heat signature confirmed. It's a Regult!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1401",
+   "en": "Heat signature confirmed. It's a Regult.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1401",
+   "en": "Heat signature confirmed. That's a Regult.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1402",
+   "en": "Heat signature confirmed. It's a Glaug.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1402",
+   "en": "Heat signature confirmed. That's a Glaug.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1402",
+   "en": "Heat signature confirmed. It's a Glaug!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1402",
+   "en": "Heat signature confirmed. It's a Glaug.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1402",
+   "en": "Heat signature confirmed. That's a Glaug.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1403",
+   "en": "Heat signature confirmed. It's a Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1403",
+   "en": "Heat signature confirmed. That's a Nousjadeul-Ger.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1403",
+   "en": "Heat signature confirmed. It's a Nousjadeul-Ger!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1403",
+   "en": "Heat signature confirmed. It's a Nousjadeul-Ger.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1403",
+   "en": "Heat signature confirmed. That's a Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1404",
+   "en": "Heat signature confirmed. It's a Queadluun-Rau.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Opening heard as 'netsugen handou'; read as 'netsugen hannou', 'heat signature confirmed'."
+  },
+  {
+   "id": "vo0_of1_1404",
+   "en": "Heat signature confirmed. That's a Queadluun-Rau.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3011: Heard 'ryouki' (a different word, 'bizarre'); read as ryouki 'both aircraft' (same sound, other kanji). (before 'pilots') Who gets the thanks is unclear (operator or player); kept impersonal.",
+   "row 3012: Plain verb ending read as an order, to match the other operators."
+  ],
+  "whisper_doubt": [
+   "row 2985",
+   "row 2986",
+   "row 2987",
+   "row 2988",
+   "row 2990",
+   "row 2991",
+   "row 2992",
+   "row 2993",
+   "row 2994",
+   "row 2995",
+   "row 2996",
+   "row 2997",
+   "row 2998",
+   "row 2999",
+   "row 3000",
+   "row 3001",
+   "row 3002",
+   "row 3005",
+   "row 3006",
+   "row 3007",
+   "row 3011",
+   "row 3016",
+   "row 3024",
+   "row 3035",
+   "row 3036",
+   "row 3037",
+   "row 3039"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

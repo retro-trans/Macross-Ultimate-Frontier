@@ -1,0 +1,531 @@
+{
+ "slice": 33,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1258",
+   "en": "That's a Destroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1258",
+   "en": "It's a Destroid!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1258",
+   "en": "That's a Destroid!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1258",
+   "en": "It's a Destroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1259",
+   "en": "It's the Varauta army.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as the Varauta army (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1259",
+   "en": "That's the Varauta army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1259",
+   "en": "It's the Varauta army!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1259",
+   "en": "That's the Varauta army!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as the Varauta army (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1259",
+   "en": "It's the Varauta army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1260",
+   "en": "It's a Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1260",
+   "en": "That's a Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1260",
+   "en": "It's a Protodeviln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1260",
+   "en": "That's a Protodeviln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1260",
+   "en": "It's a Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1261",
+   "en": "It's an Elgersoln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Elgersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1261",
+   "en": "That's an Elgersoln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Elgersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1261",
+   "en": "It's an Elgersoln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1261",
+   "en": "That's an Elgersoln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1261",
+   "en": "It's an Elgersoln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Elgersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1262",
+   "en": "It's a Panzersoln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1262",
+   "en": "That's a Panzersoln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1262",
+   "en": "It's a Panzersoln!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1262",
+   "en": "That's a Panzersoln!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1262",
+   "en": "It's a Panzersoln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Panzersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1263",
+   "en": "It's a Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1263",
+   "en": "That's a Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1263",
+   "en": "It's a Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1263",
+   "en": "That's a Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1263",
+   "en": "It's a Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1264",
+   "en": "It's an enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1264",
+   "en": "That's an enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1264",
+   "en": "It's an enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1264",
+   "en": "That's an enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1264",
+   "en": "It's an enemy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the object particle instead of the ending; read as 'an enemy'."
+  },
+  {
+   "id": "vo0_of0_1265",
+   "en": "It's an enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1265",
+   "en": "That's an enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1265",
+   "en": "It's an enemy unit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1265",
+   "en": "That's an enemy unit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1265",
+   "en": "It's an enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1267",
+   "en": "Launch authorized. Do your best, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1267",
+   "en": "Launch authorized. Give it your best.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1267",
+   "en": "Launch authorized. Go do your best out there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1267",
+   "en": "Launch authorized. Go do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1267",
+   "en": "Launch authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1268",
+   "en": "Sortie prep is complete. Go ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1268",
+   "en": "Sortie preparations are complete. Launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1268",
+   "en": "Sortie prep is done!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1268",
+   "en": "Sortie prep is done!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1268",
+   "en": "Sortie prep complete. Please launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1269",
+   "en": "Stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1269",
+   "en": "Stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1269",
+   "en": "Stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1269",
+   "en": "Stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1269",
+   "en": "Stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1271",
+   "en": "Destroid Cheyenne",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1271",
+   "en": "Destroid Cheyenne",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1271",
+   "en": "Destroid Cheyenne",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1271",
+   "en": "Destroid Cheyenne",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1271",
+   "en": "Destroid Cheyenne",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1272",
+   "en": "VF-0 Phoenix",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as VF-0 Phoenix (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1272",
+   "en": "VF-0 Phoenix",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1272",
+   "en": "VF-0 Phoenix",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1272",
+   "en": "VF-0 Phoenix",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1272",
+   "en": "VF-0 Phoenix",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1273",
+   "en": "SV-51",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1273",
+   "en": "SV-51",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1273",
+   "en": "SV-51",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as SV-51 (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1273",
+   "en": "SV-51",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1273",
+   "en": "SV-51",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1274",
+   "en": "Octos",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1274",
+   "en": "Octos",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1274",
+   "en": "Octos",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1274",
+   "en": "Octos",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1274",
+   "en": "Octos",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1275",
+   "en": "Prototype Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1275",
+   "en": "Prototype Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1275",
+   "en": "Prototype Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1275",
+   "en": "Prototype Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1275",
+   "en": "Prototype Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1276",
+   "en": "AFOS",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 2565",
+   "row 2568",
+   "row 2575",
+   "row 2576",
+   "row 2579",
+   "row 2581",
+   "row 2582",
+   "row 2583",
+   "row 2584",
+   "row 2594",
+   "row 2620",
+   "row 2627"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

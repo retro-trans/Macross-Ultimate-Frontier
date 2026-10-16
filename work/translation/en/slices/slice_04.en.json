@@ -1,0 +1,525 @@
+{
+ "slice": 4,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "mission_ext:MA_070:strStory",
+   "en": "The Bird Human's head: another AFOS fragment, newly found on Mayan Island.\\nFind it before the Anti-U.N. Forces do and bring it to the target area.",
+   "flags": [],
+   "notes": "review: refit: L2 refers to the head as \"it\" (named in L1)"
+  },
+  {
+   "id": "mission_ext:MA_080:strMission",
+   "en": "Wipe out the Anti-U.N. Forces so they\\ncan't recover the Bird Human's head.",
+   "flags": [],
+   "notes": "review: refit: restructured, purpose clause moved to the end"
+  },
+  {
+   "id": "mission_ext:MA_080:strStory",
+   "en": "We lost the Bird Human's head in a fierce battle with the Anti-U.N. Forces.\\nWe can't let them recover it. Wipe out the Anti-U.N. Forces searching for it.",
+   "flags": [],
+   "notes": "review: refit: \"lost track of ... after\" to \"lost ... in\""
+  },
+  {
+   "id": "mission_ext:MA_090:strMission",
+   "en": "To seize the immense power of AFOS,\\nwipe out the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MA_090:strStory",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "flags": [],
+   "notes": "review: refit: second mention \"Anti-U.N.\""
+  },
+  {
+   "id": "mission_ext:MA_091:strMission",
+   "en": "To seize the immense power of AFOS,\\nwipe out the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MA_091:strStory",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "flags": [],
+   "notes": "review: refit: second mention \"Anti-U.N.\""
+  },
+  {
+   "id": "mission_ext:MA_095:strMission",
+   "en": "To seize the immense power of AFOS,\\nwipe out the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MA_095:strStory",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "flags": [],
+   "notes": "review: refit: second mention \"Anti-U.N.\""
+  },
+  {
+   "id": "mission_ext:MA_096:strMission",
+   "en": "To seize the immense power of AFOS,\\nwipe out the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MA_096:strStory",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "flags": [],
+   "notes": "review: refit: second mention \"Anti-U.N.\""
+  },
+  {
+   "id": "mission_ext:MH_010:strMission",
+   "en": "To seize the AFOS fragment,\\nwipe out the U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MH_010:strStory",
+   "en": "To seize the AFOS fragment being studied by the U.N. Forces, we will now\\nraid the carrier Asuka. Wipe out the U.N. escorts and seize the AFOS fragment.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Carrier written as 'Asuka' in the source; glossary lists 'Asuka II'. Kept the game's short form 'the carrier Asuka'. Break kept mid-sentence as in source. | review: refit: \"escorting U.N. units\" to \"U.N. escorts\""
+  },
+  {
+   "id": "mission_ext:MH_020:strMission",
+   "en": "To seize the immense power of AFOS,\\nwipe out the U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MH_020:strStory",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the U.N. to claim the AFOS fragments for our Anti-U.N. Forces.",
+   "flags": [],
+   "notes": "review: refit: second mention \"U.N.\""
+  },
+  {
+   "id": "mission_ext:MS_310:strMission",
+   "en": "Wipe out the giant aliens who struck back\\nafter the Macross's attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_310:strStory",
+   "en": "During its launch ceremony, the Macross fired its main gun at an unknown fleet.\\nBattle with the aliens looks unavoidable. Get into intercept position at once.",
+   "flags": [],
+   "notes": "review: refit: \"unidentified space fleet\" to \"unknown fleet\""
+  },
+  {
+   "id": "mission_ext:MS_315:strMission",
+   "en": "Wipe out the giant aliens who struck back\\nafter the Macross's attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_315:strStory",
+   "en": "During its launch ceremony, the Macross fired its main gun at an unknown fleet.\\nBattle with the aliens looks unavoidable. Get into intercept position at once.",
+   "flags": [],
+   "notes": "review: refit: \"unidentified space fleet\" to \"unknown fleet\""
+  },
+  {
+   "id": "mission_ext:MS_320:strMission",
+   "en": "Wipe out the giant alien ground forces\\nattacking the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_320:strStory",
+   "en": "To escape the giant aliens' attack, the Macross now attempts a space launch.\\nEscort the blundering VF-1D while wiping out the giant alien ground forces.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The VF-1D 'flying around the battlefield recklessly/aimlessly' (Hikaru's civilian joyride); rendered 'blundering around'. | review: refit: \"blundering around the battlefield\" to \"blundering\""
+  },
+  {
+   "id": "mission_ext:MS_330:strMission",
+   "en": "Defend the Macross\\nduring the Transformation.",
+   "flags": [],
+   "notes": "Source uses a rougher imperative form; 'Transformation' capitalised as the Macross's mode-change name."
+  },
+  {
+   "id": "mission_ext:MS_330:strStory",
+   "en": "Beginning the Transformation to fire the main gun at the giant alien fleet.\\nDefend the Macross at all costs while the Transformation is under way.",
+   "flags": [],
+   "notes": "review: refit: L1 restructured; L2 unchanged"
+  },
+  {
+   "id": "mission_ext:MS_340:strMission",
+   "en": "As part of your training,\\nfight a mock battle against Major Focker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_340:strStory",
+   "en": "Our rookies lack experience, so we'll now hold a mock battle as training.\\nWin the mock battle against U.N. Forces ace Major Roy Focker.",
+   "flags": [],
+   "notes": "review: refit: L1 restructured; L2 aligned with row 233 (same source line)"
+  },
+  {
+   "id": "mission_ext:MS_350:strMission",
+   "en": "Defend the Macross until\\nits main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_350:strStory",
+   "en": "To break out of this defensive fight, we'll surprise-attack the giant aliens.\\nDefend the Macross until its main gun fires.",
+   "flags": [],
+   "notes": "review: refit: \"purely defensive\" to \"defensive\", \"launch a surprise attack on\" to \"surprise-attack\""
+  },
+  {
+   "id": "mission_ext:MS_355:strMission",
+   "en": "Defend the Macross until\\nits main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_355:strStory",
+   "en": "To break out of this defensive fight, we'll surprise-attack the giant aliens.\\nDefend the Macross until its main gun fires.",
+   "flags": [],
+   "notes": "review: refit: \"purely defensive\" to \"defensive\", \"launch a surprise attack on\" to \"surprise-attack\""
+  },
+  {
+   "id": "mission_ext:MS_360:strMission",
+   "en": "To resupply, carry the containers\\nto the designated point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_360:strStory",
+   "en": "With supplies drained by repeated battles, we'll restock at Sara Base on Mars.\\nRecover the supply containers. If enemies appear, switch to wiping them out.",
+   "flags": [],
+   "notes": "Mars base name (romaji Sara kichi) rendered 'Sara Base'; not in glossary. | review: term now in glossary | review: refit: restructured both lines"
+  },
+  {
+   "id": "mission_ext:MS_370:strMission",
+   "en": "Destroy the enemies nearing the Macross.",
+   "flags": [],
+   "notes": "review: refit: 'enemy units approaching' -> 'enemies nearing'"
+  },
+  {
+   "id": "mission_ext:MS_370:strStory",
+   "en": "Enemy units spotted approaching the Macross. A scramble has been ordered.\\nMiss Macross may be on your mind, but go at once and wipe out the enemy.",
+   "flags": [],
+   "notes": "review: refit: tighter wording"
+  },
+  {
+   "id": "mission_ext:MS_380:strMission",
+   "en": "Escort the Cat's Eye until the survey\\nof the giant aliens is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_380:strStory",
+   "en": "Just short of Earth, the giant aliens have demanded the Macross surrender.\\nWe'll recon to learn their aims. Escort the Cat's Eye and wipe out the enemy.",
+   "flags": [],
+   "notes": "review: refit: \"the enemy's true intent\" to \"their aims\""
+  },
+  {
+   "id": "mission_ext:MS_381:strMission",
+   "en": "Escort the Cat's Eye until the survey\\nof the giant aliens is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_381:strStory",
+   "en": "Just short of Earth, the giant aliens have demanded the Macross surrender.\\nWe'll recon to learn their aims. Escort the Cat's Eye and wipe out the enemy.",
+   "flags": [],
+   "notes": "review: refit: \"the enemy's true intent\" to \"their aims\""
+  },
+  {
+   "id": "mission_ext:MS_390:strMission",
+   "en": "To escape from the enemy ship,\\nhead for the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_390:strStory",
+   "en": "We've rescued Lt. Hayase and the others held captive on a Zentradi battleship,\\nbut we haven't escaped the enemy ship yet. Get out of it at all costs.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rank chuui -> 'Lieutenant' (army-style ranks, matching Major Focker for shousa). | review: refit: \"Lieutenant\" to \"Lt.\", second \"enemy ship\" to \"it\""
+  },
+  {
+   "id": "mission_ext:MS_400:strMission",
+   "en": "To make it back to Earth no matter what,\\nwipe out the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_400:strStory",
+   "en": "The Zentradi have surrounded the Macross to stop it from returning to Earth.\\nIt's a hard-line move, but destroy the Zentradi to break their encirclement.",
+   "flags": [],
+   "notes": "review: refit: \"Zentradi forces\" to \"Zentradi\", tighter wording"
+  },
+  {
+   "id": "mission_ext:MS_410:strMission",
+   "en": "Wipe out the Zentradi forces\\nthat have attacked the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_410:strStory",
+   "en": "The Zentradi have attacked the Macross, back on Earth after a year away.\\nWipe out the Zentradi forces trying to smoke the Macross out into space.",
+   "flags": [],
+   "notes": "'returned to Earth after a year' rendered as 'back on Earth for the first time in a year'. | review: refit: \"for the first time in a year\" to \"after a year away\"; L2 unchanged"
+  },
+  {
+   "id": "mission_ext:MS_420:strMission",
+   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "flags": [],
+   "notes": "review: refit: 'away from' -> 'off'"
+  },
+  {
+   "id": "mission_ext:MS_420:strStory",
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "flags": [],
+   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+  },
+  {
+   "id": "mission_ext:MS_421:strMission",
+   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "flags": [],
+   "notes": "review: refit: 'away from' -> 'off'"
+  },
+  {
+   "id": "mission_ext:MS_421:strStory",
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "flags": [],
+   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+  },
+  {
+   "id": "mission_ext:MS_425:strMission",
+   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "flags": [],
+   "notes": "review: refit: 'away from' -> 'off'"
+  },
+  {
+   "id": "mission_ext:MS_425:strStory",
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "flags": [],
+   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+  },
+  {
+   "id": "mission_ext:MS_426:strMission",
+   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "flags": [],
+   "notes": "review: refit: 'away from' -> 'off'"
+  },
+  {
+   "id": "mission_ext:MS_426:strStory",
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "flags": [],
+   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+  },
+  {
+   "id": "mission_ext:MS_430:strMission",
+   "en": "To get the civilians safely onto Earth,\\nwipe out the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_430:strStory",
+   "en": "The Ontario Autonomous Zone has agreed to take in the Macross's civilians, but\\nthe Zentradi have appeared. Wipe them out so the civilians can be taken in.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source breaks mid-phrase before 'appeared'; English breaks after 'but' at the matching point. | review: refit: restructured (Zone as subject), second Zentradi mention as \"them\""
+  },
+  {
+   "id": "mission_ext:MS_440:strMission",
+   "en": "Escort the liaison shuttle headed\\nfor U.N. Forces HQ on Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_440:strStory",
+   "en": "You'll now escort the liaison shuttle taking Capt. Hayase to U.N. HQ on Earth.\\nEscort it until it reaches a safe zone, then switch to wiping out the enemy.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rank taii -> 'Captain' (army-style, consistent with Major Focker and Lieutenant Hayase in row 279). Glossary position text says 'Lieutenant Commander'; please confirm the rank scheme. | review: refit: \"Captain\" to \"Capt.\", \"U.N. Forces HQ\" to \"U.N. HQ\", second \"shuttle\" to \"it\""
+  },
+  {
+   "id": "mission_ext:MS_450:strMission",
+   "en": "Beat the expert gamers at the smash-hit\\ngame \"Battroid Attack\".",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "In-game arcade title 'Battroid Attack' (spelling from row 297's own English logo). Clause order swapped around the break. | review: term now in glossary"
+  },
+  {
+   "id": "mission_ext:MS_450:strStory",
+   "en": "  Head-to-Head Valkyrie Simulation  ~BATTROID ATTACK!!~\\n                                  PLEASE INSERT COIN(S)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Arcade attract-screen text. Full-width spaces converted to ASCII (two per full-width space to keep the right-aligned 'insert coin' line). Logo kept in caps as in source. Spacing may need tuning at insertion."
+  },
+  {
+   "id": "mission_ext:MS_460:strMission",
+   "en": "Wipe out the Zentradi forces\\nlaunching an all-out attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_460:strStory",
+   "en": "At humanity's first interstellar wedding, the Zentradi hit the Macross all-out.\\nWe've taken our first step to peace and can't stop here. Wipe out the enemy.",
+   "flags": [],
+   "notes": "review: refit: \"launched an all-out attack on\" to \"hit ... all-out\""
+  },
+  {
+   "id": "mission_ext:MS_470:strMission",
+   "en": "To end the interstellar war,\\ndestroy Golg Boddole Zer.",
+   "flags": [],
+   "notes": "Source uses the short form of the Zentradi supreme commander's name; full glossary name used."
+  },
+  {
+   "id": "mission_ext:MS_470:strStory",
+   "en": "Fearing the power of Earth's culture, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
+   "flags": [],
+   "notes": "Full name on first mention, 'Boddole Zer' on second. | review: refit: \"Golg Boddole Zer\" to \"Boddole Zer\", \"hopeless gap in strength\" to \"hopeless odds\""
+  },
+  {
+   "id": "mission_ext:MS_475:strMission",
+   "en": "To end the interstellar war,\\ndestroy Golg Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_475:strStory",
+   "en": "Fearing the power of Earth's culture, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
+   "flags": [],
+   "notes": "review: refit: \"Golg Boddole Zer\" to \"Boddole Zer\", \"hopeless gap in strength\" to \"hopeless odds\""
+  },
+  {
+   "id": "mission_ext:MS_200:strMission",
+   "en": "Put down the rioting Zentradi\\nat once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_200:strStory",
+   "en": "Zentradi who can't fit in on Earth stole arms and are attacking civilian areas.\\nWe cannot let civilians come to harm. Put down the rampaging Zentradi.",
+   "flags": [],
+   "notes": "review: refit: \"civilian residential areas\" to \"civilian areas\", \"weapons\" to \"arms\"; L2 unchanged"
+  },
+  {
+   "id": "mission_ext:MS_210:strMission",
+   "en": "To capture the automated spaceship\\nfactory, seize control of the facility.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source is redundant ('to seize the factory, occupy the factory'); second verb rendered 'seize control of the facility'. | review: refit: line break moved"
+  },
+  {
+   "id": "mission_ext:MS_210:strStory",
+   "en": "To build up our forces, we'll capture the Zentradi automated spaceship factory.\\nWipe out the Zentradi forces defending the factory and take the factory.",
+   "flags": [],
+   "notes": "review: refit: \"carry out an operation to capture\" to \"capture\"; L2 unchanged"
+  },
+  {
+   "id": "mission_ext:MS_211:strMission",
+   "en": "To capture the automated spaceship\\nfactory, seize control of the facility.",
+   "flags": [],
+   "notes": "review: refit: line break moved"
+  },
+  {
+   "id": "mission_ext:MS_211:strStory",
+   "en": "To build up our forces, we'll capture the Zentradi automated spaceship factory.\\nWipe out the Zentradi forces defending the factory and take the factory.",
+   "flags": [],
+   "notes": "review: refit: \"carry out an operation to capture\" to \"capture\"; L2 unchanged"
+  },
+  {
+   "id": "mission_ext:MS_220:strMission",
+   "en": "Wipe out Quamzin's faction, which is\\ntrying to steal the micronization device.",
+   "flags": [],
+   "notes": "Device name (Micronian + device) rendered 'micronization device'; not in glossary. | review: term added to glossary | review: refit: line break moved"
+  },
+  {
+   "id": "mission_ext:MS_220:strStory",
+   "en": "Quamzin, who won't coexist with Earthlings, is raiding the factory to steal\\nthe micronization device. We can't allow that. Wipe out Quamzin's faction.",
+   "flags": [],
+   "notes": "Same 'micronization device' as row 310. | review: term added to glossary | review: refit: line break moved inside sentence 1; \"cannot let them take the device\" to \"can't allow that\""
+  },
+  {
+   "id": "mission_ext:MS_230:strMission",
+   "en": "To rescue the hostages,\\nwipe out Quamzin's faction.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_230:strStory",
+   "en": "Quamzin has taken civilians hostage and is demanding a battleship as ransom.\\nRescuing the hostages safely comes first. Wipe out Quamzin's faction.",
+   "flags": [],
+   "notes": "review: refit: L2 restructured; L1 unchanged"
+  },
+  {
+   "id": "mission_ext:MS_240:strMission",
+   "en": "Wipe out Quamzin's faction, which is\\ntrying to steal the reaction engine.",
+   "flags": [],
+   "notes": "review: refit: line break moved"
+  },
+  {
+   "id": "mission_ext:MS_240:strStory",
+   "en": "Quamzin's faction is raiding the industrial zone to steal the reaction engine.\\nWipe them out to protect the reaction engine in the industrial complex block.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'kombinat block' (romaji konbinaato burokku) rendered 'industrial complex block'. | review: term added to glossary | review: refit: \"district\" to \"zone\", second faction mention as \"them\""
+  },
+  {
+   "id": "mission_ext:MS_250:strMission",
+   "en": "To protect the Macross and Macross City,\\nwipe out Quamzin's faction.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_250:strStory",
+   "en": "Out to destroy the Macross, Quamzin's faction has suddenly hit Macross City.\\nWipe them out at once to protect the Macross and the people of Macross City.",
+   "flags": [],
+   "notes": "review: refit: \"appeared in\" to \"hit\", second faction mention as \"them\""
+  },
+  {
+   "id": "mission_ext:MS_251:strMission",
+   "en": "To protect the Macross and Macross City,\\nwipe out Quamzin's faction.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MS_251:strStory",
+   "en": "Out to destroy the Macross, Quamzin's faction has suddenly hit Macross City.\\nWipe them out at once to protect the Macross and the people of Macross City.",
+   "flags": [],
+   "notes": "review: refit: \"appeared in\" to \"hit\", second faction mention as \"them\""
+  },
+  {
+   "id": "mission_ext:MZ_310:strMission",
+   "en": "Using melee attacks only,\\ndefeat Fleet Commander Vrlitwhai.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 253: carrier written 'Asuka' in source, glossary has 'Asuka II'; kept 'the carrier Asuka'",
+   "rows 279/295: ranks chuui -> 'Lieutenant', taii -> 'Captain' (army-style like Major Focker); glossary position text says 'Lieutenant Commander'",
+   "row 261: VF-1D 'flying aimlessly/recklessly' -> 'blundering around'",
+   "row 293: line break placed after 'but' rather than mid-phrase",
+   "row 296: clause order swapped around the break",
+   "row 297: arcade attract text, full-width spaces doubled to ASCII to keep alignment",
+   "row 306: redundant source verbs, second rendered 'seize control of the facility'",
+   "row 315: kombinat block -> 'industrial complex block'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Sara kichi (Mars base): used as 'Sara Base' (row 271)",
+   "Battoroido Atakku (in-game arcade game): used as 'Battroid Attack' (rows 296-297)",
+   "Maikuroon souchi: used as 'micronization device' (rows 310-311)",
+   "Konbinaato burokku: used as 'industrial complex block' (row 315)"
+  ],
+  "unfinished": []
+ }
+}

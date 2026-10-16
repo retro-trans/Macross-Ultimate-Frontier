@@ -1,0 +1,523 @@
+{
+ "slice": 91,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpx_gld_018",
+   "en": "How's this?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_019",
+   "en": "Got you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_020",
+   "en": "I'll reduce you to dust!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Written with the kanji for 'scatter'; read as 'chiri' (dust), as in his later line."
+  },
+  {
+   "id": "vpx_gld_100",
+   "en": "Whoever shows up, the mission gets done.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'suikou saseru' read as 'suikou suru'."
+  },
+  {
+   "id": "vpx_gld_101",
+   "en": "I'll show you my full ability.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_102",
+   "en": "Commencing operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_103",
+   "en": "Run while you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_104",
+   "en": "Heh! Too naive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_105",
+   "en": "Enemy sighted. Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_106",
+   "en": "Here they come!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_107",
+   "en": "Let's end this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_108",
+   "en": "Heh. Learn how far apart our skills are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_109",
+   "en": "Going on seems a waste of effort.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_110",
+   "en": "What a pushover.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_111",
+   "en": "Still alive? You've got the devil's luck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_112",
+   "en": "You can't do it. You'll never surpass anything.",
+   "flags": [],
+   "notes": "Said to a rival; gender not needed."
+  },
+  {
+   "id": "vpx_gld_113",
+   "en": "You've proven you're weak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_114",
+   "en": "Enemy down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_115",
+   "en": "Moving to destroy the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_116",
+   "en": "That one must be the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_117",
+   "en": "I'll take care of this one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_118",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_119",
+   "en": "The operation is going smoothly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_120",
+   "en": "Don't underestimate my skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_121",
+   "en": "Hmph! My shield's gone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_122",
+   "en": "Then again, it makes the craft lighter.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Trailing conditional 'to omoeba'; the speaker is making the best of losing the shield."
+  },
+  {
+   "id": "vpx_gld_123",
+   "en": "Don't get cocky just because you broke my shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_124",
+   "en": "I'll recover on my own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_125",
+   "en": "Less than a scratch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_126",
+   "en": "Don't think you can win with that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_127",
+   "en": "Starting over.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'moushinaoshimasu'; read as 'yarinaoshimasu' or 'shikirinaoshi'."
+  },
+  {
+   "id": "vpx_gld_128",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groan."
+  },
+  {
+   "id": "vpx_gld_129",
+   "en": "I won't let you do it that easily!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_130",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_131",
+   "en": "It isn't over yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_132",
+   "en": "What's the meaning of this?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_134",
+   "en": "I'll have this wrapped up soon.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Written with the shoulder kanji; read as 'kata ga tsuku' (get settled)."
+  },
+  {
+   "id": "vpx_gld_135",
+   "en": "I can't go down yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_136",
+   "en": "Well, I'll go on ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_137",
+   "en": "Myung...",
+   "flags": [],
+   "notes": "Name of Myung Fang Lone."
+  },
+  {
+   "id": "vpx_gld_138",
+   "en": "Is this as far as I go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_139",
+   "en": "Protecting you is my job too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_140",
+   "en": "Don't dawdle!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_141",
+   "en": "Don't rush!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_142",
+   "en": "Bail out immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_143",
+   "en": "You're in the way of the operation. Fall out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_144",
+   "en": "Leave the rest to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_148",
+   "en": "Looks like reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_149",
+   "en": "I don't need reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_150",
+   "en": "Reinforcements at this timing... What will they do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_151",
+   "en": "How could I...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_152",
+   "en": "Things aren't going our way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_153",
+   "en": "I failed to protect them?",
+   "flags": [],
+   "notes": "The 'them' is unspecified in the clip; kept vague."
+  },
+  {
+   "id": "vpx_gld_154",
+   "en": "Operation successful. Returning at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_155",
+   "en": "Hmph. This result is only natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_156",
+   "en": "I can't break my oath, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_157",
+   "en": "Out of time? To make such a mistake...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_158",
+   "en": "We won't make it. Is this the end?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_159",
+   "en": "I won't accept an ending like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_160",
+   "en": "Am I jinxed or something?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'yakubyoushin'; read as 'yakubyougami ni demo tsukareta ka'."
+  },
+  {
+   "id": "vpx_gld_161",
+   "en": "It's my fault. All of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_162",
+   "en": "Me, failing a mission?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_163",
+   "en": "Back me up!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'eigo' (English); read as 'engo' (cover) ni mawar e."
+  },
+  {
+   "id": "vpx_gld_164",
+   "en": "I'm going in front! Cover me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_165",
+   "en": "Switch to a gunfight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_166",
+   "en": "Go into close combat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_167",
+   "en": "You be the attacker!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_168",
+   "en": "Watch out you don't get hit by my fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_169",
+   "en": "Falling back is also necessary in battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_170",
+   "en": "Don't push too far forward like some idiot I know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_171",
+   "en": "You can't take it down. Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_172",
+   "en": "You've got something to protect too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_173",
+   "en": "Bring it down with that one shot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_174",
+   "en": "You're the one who finishes this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_175",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "War cry."
+  },
+  {
+   "id": "vpx_gld_176",
+   "en": "If it weren't for you... If only you weren't here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_177",
+   "en": "No choice but to release the limiter for max performance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_179",
+   "en": "I know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpx_gld_180",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7226 (vpx_gld_122): Trailing conditional 'to omoeba'; the speaker is making the best of losing the shield.",
+   "row 7231 (vpx_gld_127): Heard 'moushinaoshimasu'; read as 'yarinaoshimasu' or 'shikirinaoshi'."
+  ],
+  "whisper_doubt": [
+   "row 7203 (vpx_gld_020): Written with the kanji for 'scatter'; read as 'chiri' (dust), as in his later line.",
+   "row 7204 (vpx_gld_100): 'suikou saseru' read as 'suikou suru'.",
+   "row 7231 (vpx_gld_127): Heard 'moushinaoshimasu'; read as 'yarinaoshimasu' or 'shikirinaoshi'.",
+   "row 7237 (vpx_gld_134): Written with the shoulder kanji; read as 'kata ga tsuku' (get settled).",
+   "row 7260 (vpx_gld_160): Heard 'yakubyoushin'; read as 'yakubyougami ni demo tsukareta ka'.",
+   "row 7263 (vpx_gld_163): Heard 'eigo' (English); read as 'engo' (cover) ni mawar e."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

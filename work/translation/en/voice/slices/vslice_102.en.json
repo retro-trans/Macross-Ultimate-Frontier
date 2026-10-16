@@ -1,0 +1,617 @@
+{
+ "slice": 102,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpd_gvl_321",
+   "en": "Ugh! You vermin who defile beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_322",
+   "en": "Not a shred of beauty in that fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_324",
+   "en": "Did you see that? Combat Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a letter-name for 'bi' (beauty); Gavil's catchphrase pattern <X> Beauty (terms.json). Heard 'senTOU bi'."
+  },
+  {
+   "id": "vpd_gvl_325",
+   "en": "Is that all? Completion Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kanryou-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_326",
+   "en": "I felt beauty in your fight. Devotion Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kenshin-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_327",
+   "en": "This is our Action Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'koudou-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_328",
+   "en": "Did you see? Explosion Beauty! Blaze Beauty! Flash Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'bakuhatsu-bi, bakuen-bi, bakukou-bi'; beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_329",
+   "en": "That fight was good. Dynamic Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'yakudou-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_331",
+   "en": "We are Perfection Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kanpeki-bi' presumed; beauty misheard as 'hi'; clip is 4.4s but transcript is short."
+  },
+  {
+   "id": "vpd_gvl_340",
+   "en": "A flower is beauty only as a single bloom. You, fall back! Retreat Beauty!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_341",
+   "en": "Do you mean to get in my way?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_342",
+   "en": "Obey me! Submission Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'fukujuu-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_343",
+   "en": "Are you ready? Resolve Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kesshin-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_344",
+   "en": "Behold the beauty of eternal sleep!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper has a name 'Eimin' that makes no sense; most likely 'eimin no bi' (eternal sleep)."
+  },
+  {
+   "id": "vpd_gvl_345",
+   "en": "Let me give it to the small fry. Gift Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'zoutou-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_346",
+   "en": "Now is the time for Sortie Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'shutsugeki-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_347",
+   "en": "Here I go! Thorough Attack Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'tetteiteki kougeki-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_348",
+   "en": "I'll do it! Extermination Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'massatsu-bi'; transcript has a bare letter B for 'bi'."
+  },
+  {
+   "id": "vpd_gvl_349",
+   "en": "Here I go! Thorough Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'tetteiteki-bi'; transcript has a bare letter B for 'bi'."
+  },
+  {
+   "id": "vpd_gvl_351",
+   "en": "I'll show you true teamwork. Awakening Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kakusei-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_360",
+   "en": "A sortie with you? Endurance Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'nintai-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_361",
+   "en": "I'll do as I please. Solo Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'tandoku-bi'; Whisper wrote 'o' (tail) for 'bi'."
+  },
+  {
+   "id": "vpd_gvl_362",
+   "en": "Your fighting is not beautiful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_363",
+   "en": "That ends it. Activity Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'katsudou-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_364",
+   "en": "Time to head home. Triumph Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'gaisen-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_365",
+   "en": "I'm counting on you next time too! Again!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Final word 'futatabi' may be a lost '<X>-bi' catchphrase; kept as 'Again!'."
+  },
+  {
+   "id": "vpd_gvl_366",
+   "en": "Your fighting is not foolish. Sagacity Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'soumeibi' heard in katakana; read as 'soumei-bi' = sagacity beauty."
+  },
+  {
+   "id": "vpd_gvl_367",
+   "en": "We keep this pace next time too. Learning Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'gakushuu-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_gvl_368",
+   "en": "I added a flower to your beauty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_369",
+   "en": "I cannot put this feeling into words.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Could be a lost '<X>-bi' tail ('hyougen-bi') but the written form makes sense as is."
+  },
+  {
+   "id": "vpd_gvl_370",
+   "en": "Your beauty is too stimulating!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_gvl_371",
+   "en": "Right now you are truly Pure Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'seijunbi' written as the nonsense 'sei junbi'; read as 'seijun-bi' (purity beauty)."
+  },
+  {
+   "id": "vpd_gvl_600",
+   "en": "I'll destroy you utterly. Suppression Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'seiatsu-bi', beauty misheard as 'hi'."
+  },
+  {
+   "id": "vpd_ggl_000",
+   "en": "Time for Lord Gigile! Is the sortie ready?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Igyuu-sama' is a mishearing of 'Gigiru-sama' (Gigile)."
+  },
+  {
+   "id": "vpd_ggl_001",
+   "en": "Time to hunt!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_002",
+   "en": "Let's go! Don't dawdle!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_003",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Whisper heard nonsense syllables; no words."
+  },
+  {
+   "id": "vpd_ggl_004",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Short laugh or breath."
+  },
+  {
+   "id": "vpd_ggl_005",
+   "en": "Annoying!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'uttorashii' for 'uttoushii'."
+  },
+  {
+   "id": "vpd_ggl_006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laugh."
+  },
+  {
+   "id": "vpd_ggl_007",
+   "en": "What's going on?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_008",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_009",
+   "en": "I'll finish you off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_010",
+   "en": "I'll waste you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_011",
+   "en": "Eat this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_012",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_013",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Cry or whistle with no words."
+  },
+  {
+   "id": "vpd_ggl_014",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Roar."
+  },
+  {
+   "id": "vpd_ggl_015",
+   "en": "Hyah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_016",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groan."
+  },
+  {
+   "id": "vpd_ggl_018",
+   "en": "Got you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_019",
+   "en": "And this one too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_020",
+   "en": "Eat this!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper has 'kurai na' (it's dark); same-number clips are attack barks (Milia 'tsuide yo'), so probably 'kurai na' = 'eat this'."
+  },
+  {
+   "id": "vpd_ggl_100",
+   "en": "Heh heh. Time to raise hell!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_101",
+   "en": "All right! Operation begins now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_102",
+   "en": "Well, let's kick things off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_103",
+   "en": "No escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_104",
+   "en": "Well, hello there!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Hai doumo da' is an odd phrase; read as a sarcastic greeting on finding the enemy."
+  },
+  {
+   "id": "vpd_ggl_105",
+   "en": "There's my prey!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_106",
+   "en": "I'll put you all to sleep!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_107",
+   "en": "Disappear!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_108",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughing battle cry."
+  },
+  {
+   "id": "vpd_ggl_109",
+   "en": "Heh, you're quite entertaining!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_110",
+   "en": "I'm gonna kill you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_111",
+   "en": "Drop dead already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_112",
+   "en": "I'll take your Spiritia for myself!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper has 'supiichi' (speech); almost certainly 'supirichia' (Spiritia)."
+  },
+  {
+   "id": "vpd_ggl_113",
+   "en": "Hah! That's not enough!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_114",
+   "en": "Mine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_115",
+   "en": "Boys! They're biting like mad!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'yarodomo' for 'yaroudomo' (boys, you lot)."
+  },
+  {
+   "id": "vpd_ggl_116",
+   "en": "So you showed up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_117",
+   "en": "Ugh! I won't let you go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_118",
+   "en": "Ha ha ha! You're brittle!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_119",
+   "en": "Slaughter them all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_120",
+   "en": "Come on, come on, come on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_121",
+   "en": "Who needs a shield anyway!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'erurukka' is unclear; read as 'iranee ka' (who needs it)."
+  },
+  {
+   "id": "vpd_ggl_122",
+   "en": "A broken shield is nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_123",
+   "en": "Hah! Didn't feel a thing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_124",
+   "en": "Damn! You annoying flies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_125",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Hum."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8094 (vpd_gvl_344): Whisper has a name 'Eimin' that makes no sense; most likely 'eimin no bi' (eternal sleep).",
+   "row 8106 (vpd_gvl_365): Final word 'futatabi' may be a lost '<X>-bi' catchphrase; kept as 'Again!'.",
+   "row 8110 (vpd_gvl_369): Could be a lost '<X>-bi' tail ('hyougen-bi') but the written form makes sense as is.",
+   "row 8134 (vpd_ggl_020): Whisper has 'kurai na' (it's dark); same-number clips are attack barks (Milia 'tsuide yo'), so probably 'kurai na' = 'eat this'.",
+   "row 8139 (vpd_ggl_104): 'Hai doumo da' is an odd phrase; read as a sarcastic greeting on finding the enemy.",
+   "row 8156 (vpd_ggl_121): 'erurukka' is unclear; read as 'iranee ka' (who needs it)."
+  ],
+  "whisper_doubt": [
+   "row 8083 (vpd_gvl_324): Whisper wrote a letter-name for 'bi' (beauty); Gavil's catchphrase pattern <X> Beauty (terms.json). Heard 'senTOU bi'.",
+   "row 8084 (vpd_gvl_325): 'kanryou-bi', beauty misheard as 'hi'.",
+   "row 8085 (vpd_gvl_326): 'kenshin-bi', beauty misheard as 'hi'.",
+   "row 8086 (vpd_gvl_327): 'koudou-bi', beauty misheard as 'hi'.",
+   "row 8087 (vpd_gvl_328): 'bakuhatsu-bi, bakuen-bi, bakukou-bi'; beauty misheard as 'hi'.",
+   "row 8088 (vpd_gvl_329): 'yakudou-bi', beauty misheard as 'hi'.",
+   "row 8089 (vpd_gvl_331): 'kanpeki-bi' presumed; beauty misheard as 'hi'; clip is 4.4s but transcript is short.",
+   "row 8092 (vpd_gvl_342): 'fukujuu-bi', beauty misheard as 'hi'.",
+   "row 8093 (vpd_gvl_343): 'kesshin-bi', beauty misheard as 'hi'.",
+   "row 8094 (vpd_gvl_344): Whisper has a name 'Eimin' that makes no sense; most likely 'eimin no bi' (eternal sleep).",
+   "row 8095 (vpd_gvl_345): 'zoutou-bi', beauty misheard as 'hi'.",
+   "row 8096 (vpd_gvl_346): 'shutsugeki-bi', beauty misheard as 'hi'.",
+   "row 8097 (vpd_gvl_347): 'tetteiteki kougeki-bi', beauty misheard as 'hi'.",
+   "row 8098 (vpd_gvl_348): 'massatsu-bi'; transcript has a bare letter B for 'bi'.",
+   "row 8099 (vpd_gvl_349): 'tetteiteki-bi'; transcript has a bare letter B for 'bi'.",
+   "row 8100 (vpd_gvl_351): 'kakusei-bi', beauty misheard as 'hi'.",
+   "row 8101 (vpd_gvl_360): 'nintai-bi', beauty misheard as 'hi'.",
+   "row 8102 (vpd_gvl_361): 'tandoku-bi'; Whisper wrote 'o' (tail) for 'bi'.",
+   "row 8104 (vpd_gvl_363): 'katsudou-bi', beauty misheard as 'hi'.",
+   "row 8105 (vpd_gvl_364): 'gaisen-bi', beauty misheard as 'hi'.",
+   "row 8107 (vpd_gvl_366): 'soumeibi' heard in katakana; read as 'soumei-bi' = sagacity beauty.",
+   "row 8108 (vpd_gvl_367): 'gakushuu-bi', beauty misheard as 'hi'.",
+   "row 8112 (vpd_gvl_371): 'seijunbi' written as the nonsense 'sei junbi'; read as 'seijun-bi' (purity beauty).",
+   "row 8113 (vpd_gvl_600): 'seiatsu-bi', beauty misheard as 'hi'.",
+   "row 8114 (vpd_ggl_000): 'Igyuu-sama' is a mishearing of 'Gigiru-sama' (Gigile).",
+   "row 8119 (vpd_ggl_005): 'uttorashii' for 'uttoushii'.",
+   "row 8134 (vpd_ggl_020): Whisper has 'kurai na' (it's dark); same-number clips are attack barks (Milia 'tsuide yo'), so probably 'kurai na' = 'eat this'.",
+   "row 8147 (vpd_ggl_112): Whisper has 'supiichi' (speech); almost certainly 'supirichia' (Spiritia).",
+   "row 8150 (vpd_ggl_115): 'yarodomo' for 'yaroudomo' (boys, you lot).",
+   "row 8156 (vpd_ggl_121): 'erurukka' is unclear; read as 'iranee ka' (who needs it)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

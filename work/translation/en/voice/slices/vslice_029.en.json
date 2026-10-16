@@ -1,0 +1,528 @@
+{
+ "slice": 29,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1185",
+   "en": "Gunfire isn't working. Take them down in melee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1185",
+   "en": "Gunfire doesn't work. Take them down in melee!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1185",
+   "en": "Gunfire doesn't work. Take them down in melee!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1185",
+   "en": "Gunfire doesn't work. Take them down in melee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1186",
+   "en": "Please escort Battle Frontier until the ultra-long-range fold starts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1186",
+   "en": "Escort Battle Frontier until the ultra-long-range fold starts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1186",
+   "en": "Escort Battle Frontier until the ultra-long-range fold starts!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1186",
+   "en": "Escort Battle Frontier until the ultra-long-range fold starts!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1186",
+   "en": "Escort Battle Frontier until the ultra-long-range fold begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1187",
+   "en": "Ultra-long-range fold starting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1187",
+   "en": "Ultra-long-range fold starting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1187",
+   "en": "Ultra-long-range fold starting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1187",
+   "en": "Ultra-long-range fold starting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1187",
+   "en": "Ultra-long-range fold starting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1188",
+   "en": "A mass outbreak of Vajra has occurred inside the Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1188",
+   "en": "A Vajra outbreak inside the Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1188",
+   "en": "Vajra are swarming inside the Island!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1188",
+   "en": "Vajra are swarming inside the Island!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1188",
+   "en": "A mass outbreak of Vajra inside the Island!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1189",
+   "en": "Please protect the micronizer.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Micron device (maikuron souchi): used 'micronizer'; not in glossary."
+  },
+  {
+   "id": "vo0_of1_1189",
+   "en": "Protect the micronizer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1189",
+   "en": "Protect the micronizer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1189",
+   "en": "Protect the micronizer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1189",
+   "en": "Protect the micronizer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1190",
+   "en": "We will now run a performance test of the VF-171EX.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1190",
+   "en": "We're running a performance test of the VF-171EX.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1190",
+   "en": "We're running a performance test of the VF-171EX!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1190",
+   "en": "We're running a performance test of the VF-171EX.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1190",
+   "en": "Performance test of the VF-171EX begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1191",
+   "en": "S.M.S. members are trying to flee using the Macross Quarter. Please stop them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1191",
+   "en": "S.M.S. members are trying to flee in the Macross Quarter. Stop them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1191",
+   "en": "S.M.S. members are trying to flee in the Macross Quarter! Stop them right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1191",
+   "en": "S.M.S. members are trying to flee in the Macross Quarter. Stop them at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1191",
+   "en": "S.M.S. members are trying to flee in the Macross Quarter. Stop them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1192",
+   "en": "Enemy mothership sighted! It's the Macross Quarter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1192",
+   "en": "Enemy mothership sighted! It's the Macross Quarter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1192",
+   "en": "Enemy mothership sighted! It's the Macross Quarter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1192",
+   "en": "Enemy mothership sighted! It's the Macross Quarter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1192",
+   "en": "Enemy mothership sighted! It's the Macross Quarter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1193",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1193",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1193",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1193",
+   "en": "Captain!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kanshou (complete victory); surely kanchou (captain)."
+  },
+  {
+   "id": "vos_mis_1193",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1194",
+   "en": "Sagittarius 1, hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1194",
+   "en": "Sagittarius 1 hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1194",
+   "en": "Sagittarius 1 hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1194",
+   "en": "Sagittarius 1 hit!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Searchzanius 1' and hidan (flying bullet); surely Sagittarius 1 and hidan (taking a hit)."
+  },
+  {
+   "id": "vos_mis_1194",
+   "en": "Sagittarius 1 hit!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard hidan (flying bullet); surely hidan (taking a hit)."
+  },
+  {
+   "id": "vo0_of0_1195",
+   "en": "Battle Galaxy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1195",
+   "en": "Battle Galaxy?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1195",
+   "en": "Battle Galaxy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1195",
+   "en": "Battle Galaxy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1195",
+   "en": "Battle Galaxy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1196",
+   "en": "Many heat sources launched from Battle Galaxy. They're Ghost V-9s.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1196",
+   "en": "Many heat sources launched from Battle Galaxy! Ghost V-9s!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1196",
+   "en": "Many heat sources launched from Battle Galaxy! Ghost V-9s!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1196",
+   "en": "Many heat sources launched from Battle Galaxy. Ghost V-9s.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1196",
+   "en": "Many heat sources launched from Battle Galaxy! Ghost V-9s!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1198",
+   "en": "Incoming aircraft, behind you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1198",
+   "en": "Incoming aircraft, behind you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1198",
+   "en": "Incoming aircraft, behind you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1198",
+   "en": "Incoming aircraft, behind you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1198",
+   "en": "Incoming aircraft, behind you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1201",
+   "en": "Defold reaction confirmed. An enemy battleship has appeared.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vo0_of1_1201",
+   "en": "Defold reaction confirmed. An enemy battleship has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1201",
+   "en": "Defold reaction confirmed. An enemy battleship has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1201",
+   "en": "Defold reaction confirmed. An enemy battleship has appeared!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vos_mis_1201",
+   "en": "Defold reaction confirmed. Enemy battleship appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1202",
+   "en": "Enemy aircraft confirmed. It's a Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1202",
+   "en": "Enemy craft confirmed. Nousjadeul-Ger.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Guujadelger; surely Nousjadeul-Ger, as the others."
+  },
+  {
+   "id": "vo0_of2_1202",
+   "en": "Enemy aircraft spotted. It's a Nousjadeul-Ger.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Nuujedelgar; spelling variant of Nousjadeul-Ger."
+  },
+  {
+   "id": "vo0_om0_1202",
+   "en": "Enemy confirmed. It's a Nousjadeul-Ger.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'teki kakunin' without 'ki' (aircraft); same sense."
+  },
+  {
+   "id": "vos_mis_1202",
+   "en": "Enemy aircraft confirmed. It's a Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1203",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1203",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1203",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1203",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1203",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1204",
+   "en": "Zentradi soldier reinforcements.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 2270-2274 (1191): 'S.M.S. members' trying to flee in the Macross Quarter, translated as given",
+   "rows 2285-2289 (1194): 'Sagittarius 1' kept as a callsign (glossary has Sagittarius Squadron)"
+  ],
+  "whisper_doubt": [
+   "row 2283: Heard kanshou (complete victory); surely kanchou (captain).",
+   "row 2288: Heard 'Searchzanius 1' and hidan (flying bullet); surely Sagittarius 1 and hidan (taking a hit).",
+   "row 2289: Heard hidan (flying bullet); surely hidan (taking a hit).",
+   "row 2305: Heard deforuto (default); defold.",
+   "row 2308: Heard deforuto (default); defold.",
+   "row 2311: Heard Guujadelger; surely Nousjadeul-Ger, as the others.",
+   "row 2312: Heard Nuujedelgar; spelling variant of Nousjadeul-Ger.",
+   "row 2313: Heard 'teki kakunin' without 'ki' (aircraft); same sense."
+  ],
+  "kept_omission": [
+   "Operator lines: subjects restored where the scene settles them; the one-word and noun-phrase stock lines (e.g. 'Many samples approaching.') stay subjectless as the Japanese is."
+  ],
+  "missing_glossary": [
+   "row 2260: Micron device (maikuron souchi): used 'micronizer'; not in glossary."
+  ],
+  "unfinished": []
+ }
+}

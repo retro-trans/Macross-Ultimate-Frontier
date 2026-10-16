@@ -1,0 +1,524 @@
+{
+ "slice": 2,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "eboot:390970",
+   "en": "there was no end of poachers illegally hunting the whales for the black market,",
+   "flags": [],
+   "notes": "review: refit: 'trying to capture ... illegally' -> 'illegally hunting'"
+  },
+  {
+   "id": "eboot:3909B0",
+   "en": "and the Zolan Star Patrol, guarding the whales, struggled with armed poachers.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The source says 'Zola's patrol unit'; rendered with the glossary name Zolan Star Patrol. | review: refit: 'which protected the Galaxy Whales' -> 'guarding the whales'; 'to deal with the' cut"
+  },
+  {
+   "id": "eboot:390A00",
+   "en": "And now, once again this year, the season of the Galaxy Whales had come...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390A9C",
+   "en": "In an instant, the attack of the Boddole Zer Main Fleet left Earth in ruins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390ADC",
+   "en": "Only one weapon could stand against the overwhelming might of the Zentradi:",
+   "flags": [],
+   "notes": "Rows 85-86: the source is a noun fragment, then 'that was nothing but Minmay's song'. Recast so 85 carries a verb; the colon hands off to 86 on the same screen."
+  },
+  {
+   "id": "eboot:390B10",
+   "en": "Minmay's song, and nothing else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390B34",
+   "en": "If Zentradi soldiers, who had never known culture, were made to hear a song,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390B6C",
+   "en": "the shock would surely throw them into chaos.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390B98",
+   "en": "Clinging to that faint hope, the Macross set out for the final battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390BD0",
+   "en": "Minmay's song was relayed by Vrlitwhai's flagship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390BF4",
+   "en": "to every ship in the Zentradi fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390C1C",
+   "en": "Just as predicted, the Zentradi forces fell into chaos.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390C48",
+   "en": "Staking humanity's fate, the Macross advanced on the heart of the enemy.",
+   "flags": [],
+   "notes": "Source is historical present; narration put in past tense per brief. | review: refit: 'on this attack' and 'fleet' cut (source says the enemy's core)"
+  },
+  {
+   "id": "eboot:390C80",
+   "en": "Its target: Supreme Commander Boddole Zer's flagship, the Fulbtzs-Berrentzs.",
+   "flags": [],
+   "notes": "Short form of Golg Boddole Zer used, as the source uses the short form with his title. | review: refit: restructured"
+  },
+  {
+   "id": "eboot:390CBC",
+   "en": "With Minmay's song ringing out, the Macross plunged into the enemy flagship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390CF0",
+   "en": "Boddole Zer fell before the Macross's all-out attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390D1C",
+   "en": "Having lost their command at the center, the Zentradi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390D44",
+   "en": "no longer had the strength to stand against the Macross and Vrlitwhai's fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390D7C",
+   "en": "And with the battle over, the Macross returned to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390DAC",
+   "en": "Two races created by the Protoculture,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390DE0",
+   "en": "the people of Earth and the Zentradi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390DFC",
+   "en": "With the end of the war, the two began to walk a single path together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390E2C",
+   "en": "But the embers of conflict between them had not yet completely died out...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390E98",
+   "en": "Quamzin, unable to accept culture and refusing to coexist with Earth's people,",
+   "flags": [],
+   "notes": "review: refit: 'live alongside the people of Earth' -> 'coexist with Earth's people'"
+  },
+  {
+   "id": "eboot:390EDC",
+   "en": "turned peaceful Macross City into a battlefield.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390F08",
+   "en": "But the Macross rose again, and its main cannon set Quamzin's ship ablaze,",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source verb means 're-surfaced / rose again'; rendered 'rose into the air once more'. | review: refit: 'rose into the air once more' -> 'rose again'"
+  },
+  {
+   "id": "eboot:390F44",
+   "en": "and Quamzin and his crew vanished into the flames.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390F6C",
+   "en": "And so Quamzin's rebellion came to an end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390F94",
+   "en": "The Macross was badly damaged in this battle, but meanwhile, a new spaceship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:390FD8",
+   "en": "was being built: a colony ship to seek a new world beyond the solar system.",
+   "flags": [],
+   "notes": "review: refit: second sentence merged with a colon"
+  },
+  {
+   "id": "eboot:391020",
+   "en": "%s and %s,",
+   "flags": [],
+   "notes": "Used only by the SDF epilogue 2 (pointer table at file offset 0x31A9E4). Subject of 112-113, set off by commas around the 'to protect' clause."
+  },
+  {
+   "id": "eboot:39102C",
+   "en": "to protect humanity and its culture, joined the space colony fleet",
+   "flags": [],
+   "notes": "'Space emigrant fleet' rendered 'space colony fleet' (glossary: fleet / Long Distance Colony Fleet)."
+  },
+  {
+   "id": "eboot:39105C",
+   "en": "and set out on a grand journey across the galaxy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3910E8",
+   "en": "At Macross City's ceremony marking 30 years since the end of Space War I,",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source term is 'the interstellar war'; rendered Space War I per glossary. | review: refit: restructured"
+  },
+  {
+   "id": "eboot:391128",
+   "en": "Sharon Apple, who had already become self-aware,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391150",
+   "en": "hacked into the Macross's main computer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:39117C",
+   "en": "and seized control of Macross City's entire information network.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3911B8",
+   "en": "She even went so far as to put the people of the whole city under mind control.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3911FC",
+   "en": "Meanwhile, two fighters were heading for Macross City.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391234",
+   "en": "They were the YF-19 and YF-21, prototypes whose development was frozen.",
+   "flags": [],
+   "notes": "review: refit: 'prototype fighters' -> 'prototypes' (row 119 says fighters)"
+  },
+  {
+   "id": "eboot:39126C",
+   "en": "Sharon tried to destroy them with the X-9 Ghost drone and the Macross, but",
+   "flags": [],
+   "notes": "Source writes the name as 'Ghost X-9'; glossary order X-9 Ghost used. | review: refit: 'eliminate the two machines' -> 'destroy them'; 'unmanned fighter' -> 'drone'"
+  },
+  {
+   "id": "eboot:3912B0",
+   "en": "thanks to their machines' astonishing power and the pilots' desperate stand,",
+   "flags": [],
+   "notes": "review: refit: 'performance' -> 'power'; 'desperate resistance of their two pilots' -> 'pilots' desperate stand'"
+  },
+  {
+   "id": "eboot:3912E8",
+   "en": "the core of the information network was destroyed. Sharon was dead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391328",
+   "en": "And so the Macross's rampage under Sharon Apple was brought to a halt.",
+   "flags": [],
+   "notes": "review: refit: 'at the hands of' -> 'under'"
+  },
+  {
+   "id": "eboot:391368",
+   "en": "The incident was classified top secret, known only to a few insiders, but",
+   "flags": [],
+   "notes": "review: refit: restructured"
+  },
+  {
+   "id": "eboot:3913AC",
+   "en": "it brought the danger of rogue unmanned fighters and artificial intelligence",
+   "flags": [],
+   "notes": "Rows 126-127 recast so the incident ('it') brings the danger to light; source: 'the danger ... the incident became the trigger for it being recognised as a major problem'. | review: refit: 'running amok' -> 'rogue'"
+  },
+  {
+   "id": "eboot:3913D8",
+   "en": "to light as a serious problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391404",
+   "en": "In the end, the full-scale introduction of the Ghost was shelved,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391430",
+   "en": "and along with that, the development of manned fighters was resumed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391468",
+   "en": "The nearly derailed development competition ended in victory for the YF-19,",
+   "flags": [],
+   "notes": "review: refit: relative clause folded into adjective"
+  },
+  {
+   "id": "eboot:3914A4",
+   "en": "which was officially adopted as the VF-19 Excalibur.",
+   "flags": [],
+   "notes": "VF-19 Excalibur: glossary only has the VF-19P Excalibur variant; base name taken from it."
+  },
+  {
+   "id": "eboot:3914E0",
+   "en": "Meanwhile, the losing YF-21's capabilities were also highly rated,",
+   "flags": [],
+   "notes": "review: refit: concessive clause folded into 'losing'"
+  },
+  {
+   "id": "eboot:39151C",
+   "en": "and it was later given its chance to shine as the high-performance VF-22.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391554",
+   "en": "And as for the two who had flown those planes,",
+   "flags": [],
+   "notes": "Cut so it works with the shared row 135 (no trailing comma there)."
+  },
+  {
+   "id": "eboot:391578",
+   "en": "%s and %s",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "SHARED STRING: the EBOOT pointer tables use this one string twice: Plus epilogue (134 -> 135 -> 136, table at file offset 0x31AB38) and Macross 7 epilogue (152 -> 135 -> 153, table at 0x31ABF8). Left without a trailing comma so both 'And as for the two who had flown those planes, %s and %s boarded...' and 'taking leave of the fleet, %s and %s vanished...' read correctly."
+  },
+  {
+   "id": "eboot:391584",
+   "en": "boarded a ship for the far reaches of space to put their experience to use...",
+   "flags": [],
+   "notes": "review: refit: 'bound for the farthest' -> 'for the far'"
+  },
+  {
+   "id": "eboot:391614",
+   "en": "The war against the Protodeviln, led by the immensely powerful Gepelnitchi,",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rows 137-138: source cuts as 'led by mighty Gepelnitchi' / 'the battle with the Protodeviln ended'. English moves 'the war against the Protodeviln' into 137; both rows are on the same screen."
+  },
+  {
+   "id": "eboot:391638",
+   "en": "had come to an end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391668",
+   "en": "Just as in Space War I,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391684",
+   "en": "it was the power of the songs of Basara Nekki and friends that ended the war.",
+   "flags": [],
+   "notes": "Source: 'the power of song of Basara Nekki and the others'; rendered 'his comrades'. | review: refit: 'his comrades' -> 'friends'; 'brought the fighting to an end' -> 'ended the war'"
+  },
+  {
+   "id": "eboot:3916BC",
+   "en": "Once able to survive only by absorbing the Spiritia of other living things,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3916F8",
+   "en": "the Protodeviln, by singing together with Basara,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391728",
+   "en": "evolved into a race able to produce Spiritia on their own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391760",
+   "en": "And so, with no more need to steal Spiritia, the Protodeviln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:39179C",
+   "en": "departed for some unknown, faraway corner of space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3917CC",
+   "en": "Afterwards, Basara went on to make his mark as the vocalist of Fire Bomber",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source writes the band name in full-width capitals (FIRE BOMBER); glossary spelling Fire Bomber used."
+  },
+  {
+   "id": "eboot:39180C",
+   "en": "and became a singer whose voice thundered across the galaxy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391830",
+   "en": "Yet the man himself had no interest whatsoever in such fame,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391860",
+   "en": "and he would end up wandering space alone. But that is another story.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:39189C",
+   "en": "Meanwhile, though the Macross 7 fleet had lost Battle 7,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3918C8",
+   "en": "it journeyed on through space, once again in search of a new planet to settle.",
+   "flags": [],
+   "notes": "review: refit: 'continued its journey' -> 'journeyed on'"
+  },
+  {
+   "id": "eboot:3918FC",
+   "en": "And then, taking leave of the Macross 7 fleet, its battles now over,",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "On screen this is followed by the shared row 135 ('%s and %s') and then row 153, so the subject of 153 is the two player characters."
+  },
+  {
+   "id": "eboot:39192C",
+   "en": "vanished off somewhere, as if following after Basara...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject is supplied by the shared row 135, placed between 152 and 153 in the M7 epilogue pointer table."
+  },
+  {
+   "id": "eboot:3919C0",
+   "en": "The giant Ranka was an illusion draped over",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rows 154-155: source cuts as 'the giant Ranka, [of the Battle Galaxy] placed under Grace's control' / 'was an illusion the Battle Galaxy wore'. English cut at the nearest natural point; same screen."
+  },
+  {
+   "id": "eboot:3919EC",
+   "en": "the Battle Galaxy, which had been placed under Grace's control.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391A18",
+   "en": "Ranka, who had been held captive inside the Galaxy,",
+   "flags": [],
+   "notes": "'the Galaxy' = Battle Galaxy, as in the source short form."
+  },
+  {
+   "id": "eboot:391A40",
+   "en": "regained consciousness thanks to Sheryl's song and Alto's voice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391A74",
+   "en": "But now it was Sheryl, her strength spent, who collapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391AA8",
+   "en": "Alto and Ranka called out to Sheryl, trying to rouse her.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391AE0",
+   "en": "And then, a miracle happened.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 135: the string '%s and %s' is shown twice by the game (Plus epilogue after row 134, and Macross 7 epilogue between rows 152 and 153, verified in the decrypted EBOOT pointer tables). Written with no trailing comma so it fits both; rows 134, 152 and 153 were built around it. Anyone editing row 135 must check both epilogues.",
+   "rows 152-153: subject of 153 is the two player characters from the shared row 135, not anyone in rows 150-151.",
+   "row 146: source styles the band in full-width capitals 'FIRE BOMBER'; glossary spelling 'Fire Bomber' used. Switch if the project prefers the logo casing.",
+   "rows 137-138 and 154-155: English cut point differs slightly from the Japanese cut (the noun 'Protodeviln' / 'Battle Galaxy' sits in the other row); each pair is on the same screen.",
+   "row 82: 'Zola's patrol unit' mapped to the glossary entry Zolan Star Patrol.",
+   "row 114: 'interstellar war' rendered Space War I.",
+   "row 106: 'resurfaced / rose again' rendered 'rose into the air once more' (the Macross relaunching).",
+   "rows 85-86: noun-fragment pair recast as 'Only one weapon could stand against...: Minmay's song, and nothing else.'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "VF-19 Excalibur (row 131): only the VF-19P Excalibur Patrol Type is in mecha.json; used 'VF-19 Excalibur'.",
+   "VF-22 (row 133): only VF-22S / VF-22 (Wilbur) entries exist; used 'VF-22'.",
+   "Ghost (row 128): the generic drone programme; 'X-9 Ghost' (row 121) is in mecha.json, bare 'the Ghost' used here."
+  ],
+  "unfinished": []
+ }
+}

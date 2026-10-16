@@ -1,0 +1,224 @@
+{
+ "fixes": [
+  {
+   "row": 1012,
+   "en": "I like the sky better than the sea.",
+   "why": "refit: dropped 'just'"
+  },
+  {
+   "row": 1016,
+   "en": "Like I'd fight a war scared o' booze!",
+   "why": "refit: compressed; kept Roy's slurred tone with o'"
+  },
+  {
+   "row": 1020,
+   "en": "Stupid... way too damn stupid!",
+   "why": "refit: dropped 'This is'"
+  },
+  {
+   "row": 1022,
+   "en": "Where's the Bird Human's head?",
+   "why": "refit: 'What have you done with' -> 'Where's'"
+  },
+  {
+   "row": 1026,
+   "en": "I don't wanna hear your weird song.",
+   "why": "refit: 'singing' -> 'song'; period as in source (no exclamation)"
+  },
+  {
+   "row": 1027,
+   "en": "Still playing the noble knight, huh?",
+   "why": "refit: 'are you?' -> 'huh?'"
+  },
+  {
+   "row": 1031,
+   "en": "A toast to our reunion after 7 years!",
+   "why": "refit: 'Let's drink a toast' -> 'A toast'; seven -> 7"
+  },
+  {
+   "row": 1040,
+   "en": "Don't mouth off on a whim, brat!",
+   "why": "refit: 'run your mouth' -> 'mouth off'; merged 'You brat!'"
+  },
+  {
+   "row": 1042,
+   "en": "You're really still just a kid after all.",
+   "why": "refit: tightened word order"
+  },
+  {
+   "row": 1043,
+   "en": "What do you have wings for?!",
+   "why": "refit: restructured question"
+  },
+  {
+   "row": 1045,
+   "en": "Got a gripe? Take the top next time.",
+   "why": "refit: 'If you've got a complaint' -> 'Got a gripe?'; 'top spot' -> 'top'"
+  },
+  {
+   "row": 1046,
+   "en": "An amateur? You're good for one.",
+   "why": "refit: compressed both clauses; subject of 2nd clause dropped | review: subject restored"
+  },
+  {
+   "row": 1047,
+   "en": "I only did my duty, Commander.",
+   "why": "refit: 'what anyone would do' -> 'my duty'"
+  },
+  {
+   "row": 1051,
+   "en": "A reckless idiot, but good instincts.",
+   "why": "refit: merged 'idiot, and reckless'; dropped 'the kid's got'"
+  },
+  {
+   "row": 1052,
+   "en": "Take that! Take that! Take that!",
+   "why": "refit: 4 repeats -> 3"
+  },
+  {
+   "row": 1053,
+   "en": "Who can love if they fear dying?!",
+   "why": "refit: rhetorical question compressed, kept generic subject"
+  },
+  {
+   "row": 1055,
+   "en": "All hands, sadly, this is not a drill.",
+   "why": "refit: 'I regret to say' -> 'sadly'"
+  },
+  {
+   "row": 1057,
+   "en": "Perish! Scatter to the galaxy's end!!",
+   "why": "refit: 'the ends of the galaxy' -> 'the galaxy's end'"
+  },
+  {
+   "row": 1061,
+   "en": "Don't regret--go all in and shatter!",
+   "why": "refit: kept logic 'rather than regret, go all in and shatter'"
+  },
+  {
+   "row": 1062,
+   "en": "Hold me tight! To the galaxy's end!!",
+   "why": "refit: famous line: kept 'Hold me tight!', 'ends of the galaxy' -> 'galaxy's end'"
+  },
+  {
+   "row": 1065,
+   "en": "Oh my, you don't want me along?",
+   "why": "refit: 'want to be with me' -> 'want me along'"
+  },
+  {
+   "row": 1067,
+   "en": "I rarely offer this service, y'know!",
+   "why": "refit: 'don't give out ... very often' -> 'rarely offer'"
+  },
+  {
+   "row": 1070,
+   "en": "Missions! Is that all you think of?!",
+   "why": "refit: 'Mission this, mission that' -> 'Missions!'; kept 'all you think of' (not the strength taunt)"
+  },
+  {
+   "row": 1073,
+   "en": "I'll never again say I'll quit singing.",
+   "why": "refit: restructured"
+  },
+  {
+   "row": 1075,
+   "en": "*pant pant*... Ah... how beautiful.",
+   "why": "refit: three pants merged into one marker"
+  },
+  {
+   "row": 1078,
+   "en": "No good! I won't make it! Waaagh!",
+   "why": "refit: dropped 'It's'"
+  },
+  {
+   "row": 1080,
+   "en": "I hate you for the shame of defeat!",
+   "why": "refit: 'branding me with the disgrace' -> 'the shame'"
+  },
+  {
+   "row": 1081,
+   "en": "As a warrior, learn some shame.",
+   "why": "refit: 'you should learn' -> imperative 'learn'"
+  },
+  {
+   "row": 1082,
+   "en": "Me... the one hailed as Ace of Aces...",
+   "why": "refit: 'they called the' -> 'hailed as'"
+  },
+  {
+   "row": 1083,
+   "en": "We will now cover your ship.",
+   "why": "refit: 'provide cover for' -> 'cover'"
+  },
+  {
+   "row": 1084,
+   "en": "Show me this thing called 'kiiss'...",
+   "why": "refit: 'you call a' -> 'called'"
+  },
+  {
+   "row": 1085,
+   "en": "What was that mountain called...?",
+   "why": "refit: dropped 'again'"
+  },
+  {
+   "row": 1086,
+   "en": "I'll make it ring to the galaxy's end!",
+   "why": "refit: 'ring out to the ends of the galaxy' -> 'ring to the galaxy's end'"
+  },
+  {
+   "row": 1087,
+   "en": "I'll make the universe ring with it!!",
+   "why": "refit: 'echo through the whole universe' -> 'universe ring with it'"
+  },
+  {
+   "row": 1088,
+   "en": "Hurl a burning heart--that's a song!",
+   "why": "refit: 'Slamming your burning heart into it' -> 'Hurl a burning heart'"
+  },
+  {
+   "row": 1089,
+   "en": "All right, I'll play my heart out!",
+   "why": "refit: 'I'm gonna' -> 'I'll'"
+  },
+  {
+   "row": 1090,
+   "en": "Special live show time! Let's start!",
+   "why": "refit: 'It's time for a' -> '... time!'"
+  },
+  {
+   "row": 1092,
+   "en": "You're no match for me in my day.",
+   "why": "refit: 'nowhere near what I was in my younger days' -> 'no match for me in my day'"
+  },
+  {
+   "row": 1093,
+   "en": "Eyes on the monitor!",
+   "why": "refit: 'Don't take your eyes off' -> 'Eyes on'; also fits the u0352 mission-name copy"
+  },
+  {
+   "row": 1096,
+   "en": "I'll give you a full taste of fear.",
+   "why": "refit: 'make you taste fear to the fullest' -> 'give you a full taste'"
+  },
+  {
+   "row": 1098,
+   "en": "I'll wreck you! Suppression Beauty!",
+   "why": "refit: 'destroy you utterly' -> 'wreck you'"
+  },
+  {
+   "row": 1099,
+   "en": "Heh, you came. Annihilation Beauty.",
+   "why": "refit: 'so you've shown yourself' -> 'you came'"
+  },
+  {
+   "row": 1106,
+   "en": "We now have the whole universe!",
+   "why": "refit: 'have now taken ... for ourselves' -> 'now have'"
+  },
+  {
+   "row": 1171,
+   "en": "Seikan Hikou",
+   "why": "refit: unencodable o-macron -> glossary spelling 'Seikan Hikou'"
+  }
+ ]
+}

@@ -1,0 +1,535 @@
+{
+ "slice": 32,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1240",
+   "en": "Enemy air unit approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1240",
+   "en": "Enemy air unit approaching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1240",
+   "en": "Enemy air unit approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1240",
+   "en": "Enemy air unit approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1241",
+   "en": "Valkyrie team spotted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1241",
+   "en": "Valkyrie team spotted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1241",
+   "en": "Valkyrie team spotted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1241",
+   "en": "Valkyrie team spotted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1241",
+   "en": "Valkyrie team spotted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1242",
+   "en": "A battleship believed to be the enemy's main force. Please destroy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1242",
+   "en": "Battleship, probably the enemy's main force, confirmed. Destroy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1242",
+   "en": "Battleship, probably the enemy's main force. Destroy it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1242",
+   "en": "Battleship, probably the enemy's main force. Destroy it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1242",
+   "en": "Battleship that looks like the enemy's main force confirmed. Destroy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1243",
+   "en": "That's a Ghost. Please be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1243",
+   "en": "That's a... Ghost! Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1243",
+   "en": "That's a Ghost! Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1243",
+   "en": "That's a... Ghost! Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1243",
+   "en": "That's a Ghost. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1244",
+   "en": "Defold reaction confirmed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto handou (default recoil); defold reaction."
+  },
+  {
+   "id": "vo0_of1_1244",
+   "en": "Defold reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1244",
+   "en": "Defold reaction confirmed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1244",
+   "en": "Defold reaction confirmed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vos_mis_1244",
+   "en": "Defold reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1245",
+   "en": "Defold reactions increasing further.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vo0_of1_1245",
+   "en": "Defold reactions increasing further.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1245",
+   "en": "Defold reactions increasing further!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vo0_om0_1245",
+   "en": "Defold reactions increasing further.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vos_mis_1245",
+   "en": "Defold reactions increasing further.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1246",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1246",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1246",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1246",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1246",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1247",
+   "en": "Please do combat training with the prototype Valkyrie.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'to' (with/against) is ambiguous in the Japanese; kept the same ambiguity."
+  },
+  {
+   "id": "vo0_of1_1247",
+   "en": "We'll do combat training with the prototype Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1247",
+   "en": "Do combat training with the prototype Valkyrie!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1247",
+   "en": "Do combat training with the prototype Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1247",
+   "en": "We're doing combat training with the prototype Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1249",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1249",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1249",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1249",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1249",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1250",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1250",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1250",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1250",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1250",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1251",
+   "en": "Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1251",
+   "en": "Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1251",
+   "en": "Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1251",
+   "en": "Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1251",
+   "en": "Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1253",
+   "en": "It's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1253",
+   "en": "It's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1253",
+   "en": "It's the Zentradi forces!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1253",
+   "en": "It's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1253",
+   "en": "It's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1254",
+   "en": "It's a Regult.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1254",
+   "en": "It's a Regult.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1254",
+   "en": "Regult!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1254",
+   "en": "Regult!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1254",
+   "en": "It's a Regult.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1255",
+   "en": "It's a Glaug.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1255",
+   "en": "It's a Glaug.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Gurajio/Gurajida; surely Glaug (Gurauji)."
+  },
+  {
+   "id": "vo0_of2_1255",
+   "en": "Glaug!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Gurajio/Gurajida; surely Glaug (Gurauji)."
+  },
+  {
+   "id": "vo0_om0_1255",
+   "en": "Glaug!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Gurajio/Gurajida; surely Glaug (Gurauji)."
+  },
+  {
+   "id": "vos_mis_1255",
+   "en": "It's a Glaug.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Gurajio/Gurajida; surely Glaug (Gurauji)."
+  },
+  {
+   "id": "vo0_of0_1256",
+   "en": "It's a Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1256",
+   "en": "It's a Nousjadeul-Ger.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Guujadelger/Muujadelger; surely Nousjadeul-Ger."
+  },
+  {
+   "id": "vo0_of2_1256",
+   "en": "Nousjadeul-Ger!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Guujadelger/Muujadelger; surely Nousjadeul-Ger."
+  },
+  {
+   "id": "vo0_om0_1256",
+   "en": "Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1256",
+   "en": "It's a Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1257",
+   "en": "It's a Queadluun-Rau.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1257",
+   "en": "It's a Queadluun-Rau.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1257",
+   "en": "Queadluun-Rau!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1257",
+   "en": "Queadluun-Rau.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1257",
+   "en": "It's a Queadluun-Rau.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1258",
+   "en": "It's a Destroid.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 2515: 'to' (with/against) is ambiguous in the Japanese; kept the same ambiguity.",
+   "rows 2515-2519 (1247): 'to' in 'with the prototype Valkyrie' can mean with or against; kept ambiguous"
+  ],
+  "whisper_doubt": [
+   "row 2500: Heard deforuto handou (default recoil); defold reaction.",
+   "row 2503: Heard deforuto (default); defold.",
+   "row 2505: Heard deforuto (default); defold.",
+   "row 2507: Heard deforuto (default); defold.",
+   "row 2508: Heard deforuto (default); defold.",
+   "row 2546: Heard Gurajio/Gurajida; surely Glaug (Gurauji).",
+   "row 2547: Heard Gurajio/Gurajida; surely Glaug (Gurauji).",
+   "row 2548: Heard Gurajio/Gurajida; surely Glaug (Gurauji).",
+   "row 2549: Heard Gurajio/Gurajida; surely Glaug (Gurauji).",
+   "row 2551: Heard Guujadelger/Muujadelger; surely Nousjadeul-Ger.",
+   "row 2552: Heard Guujadelger/Muujadelger; surely Nousjadeul-Ger."
+  ],
+  "kept_omission": [
+   "Operator lines: subjects restored where the scene settles them; the one-word and noun-phrase stock lines (e.g. 'Many samples approaching.') stay subjectless as the Japanese is."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

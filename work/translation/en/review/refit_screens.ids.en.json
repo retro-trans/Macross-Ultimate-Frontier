@@ -1,0 +1,49 @@
+{
+ "fixes": [
+  {
+   "id": "u0141",
+   "en": "Annihilate all enemies / Protect the target",
+   "why": "refit: 'defense target' -> 'target'"
+  },
+  {
+   "id": "u0226",
+   "en": "Destroy targets and reach the target point",
+   "why": "refit: 'the targets' -> 'targets'"
+  },
+  {
+   "id": "u0249",
+   "en": "Collect containers / Annihilate all enemies",
+   "why": "refit: 'Recover the containers' -> 'Collect containers'"
+  },
+  {
+   "id": "u0260",
+   "en": "Annihilate all enemies / Outlast the timer",
+   "why": "refit: 'Survive for the set time' -> 'Outlast the timer'"
+  },
+  {
+   "id": "u0275",
+   "en": "Defend the whales / Annihilate all enemies",
+   "why": "refit: 'Galaxy Whales' -> 'whales'"
+  },
+  {
+   "id": "u0280",
+   "en": "Protect the target / Annihilate all enemies",
+   "why": "refit: 'defense target' -> 'target'"
+  },
+  {
+   "id": "u0284",
+   "en": "Sing to the whales / Annihilate all enemies",
+   "why": "refit: 'Galaxy Whales' -> 'whales'"
+  },
+  {
+   "id": "u0382",
+   "en": "Reach the target point / Collect containers",
+   "why": "refit: 'Recover the containers' -> 'Collect containers' (matches u0249)"
+  },
+  {
+   "id": "u1101",
+   "en": "Select the \"Super Dimension Fortress Macross\" era.",
+   "why": "refit: 'the era of \"The ...\"' -> 'the \"...\" era'; leading 'The' of the title dropped"
+  }
+ ]
+}

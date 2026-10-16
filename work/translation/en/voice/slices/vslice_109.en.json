@@ -1,0 +1,526 @@
+{
+ "slice": 109,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_mil_331",
+   "en": "Impressive. I guess you didn't need my support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_340",
+   "en": "Obey my orders!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_341",
+   "en": "What are you doing?! Hurry, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_342",
+   "en": "Stay back and be good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_344",
+   "en": "I'll show you the Zentradi spirit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Zentoran' read as 'Zentoradi' (Zentradi)."
+  },
+  {
+   "id": "vp7_mil_345",
+   "en": "Come on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_346",
+   "en": "I'm expecting great things from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_347",
+   "en": "I'm fired up! Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_348",
+   "en": "I'll support you. Fight without worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_349",
+   "en": "Teamed with you, there's no danger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_351",
+   "en": "Let's show them what female pilots can do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_360",
+   "en": "You fought in a truly unseemly way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_361",
+   "en": "This operation was a total disgrace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_362",
+   "en": "From now on, I won't allow you to sortie at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_363",
+   "en": "Come on, we're heading home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_364",
+   "en": "You've a long way to go, but you've got promise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_365",
+   "en": "Do well next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_366",
+   "en": "Well, now I can get a good rest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_367",
+   "en": "Looks like I can leave a little to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_368",
+   "en": "Keeping up with me. Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_369",
+   "en": "Even by my experience, your skill isn't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_370",
+   "en": "That was good. Today's operation was refreshing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_371",
+   "en": "Better than I imagined. I like you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_600",
+   "en": "Looks like I wasn't needed. Pretty good skill, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_601",
+   "en": "You're going down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_602",
+   "en": "Max. Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_615",
+   "en": "What? This opponent's good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_616",
+   "en": "To lose to anyone but Max!",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off in the original."
+  },
+  {
+   "id": "vp7_mil_617",
+   "en": "Only Max can defeat me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_000",
+   "en": "All right, here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_001",
+   "en": "I'll do my best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_002",
+   "en": "I fight with my songs too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_003",
+   "en": "Yikes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_004",
+   "en": "Hey!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_005",
+   "en": "What's your problem?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_007",
+   "en": "Geez!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_008",
+   "en": "What are you doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_009",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vp7_mln_010",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "0.4s shout; Whisper wrote 'tooku' (talk), which makes no sense."
+  },
+  {
+   "id": "vp7_mln_011",
+   "en": "Here goes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_014",
+   "en": "That's awful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_015",
+   "en": "Hah!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper logprob flag; a short breath-like kiai."
+  },
+  {
+   "id": "vp7_mln_017",
+   "en": "That's terrible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_018",
+   "en": "Take that!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'ehei' read as 'eii/ei' (a kiai)."
+  },
+  {
+   "id": "vp7_mln_019",
+   "en": "Be quiet!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whisper flagged nospeech but text fits the clip."
+  },
+  {
+   "id": "vp7_mln_020",
+   "en": "Why, you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_100",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_101",
+   "en": "I'll sing for you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_102",
+   "en": "All right! I'm gonna play like crazy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_103",
+   "en": "I'll let you hear my song!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whisper flagged nospeech but text fits the clip."
+  },
+  {
+   "id": "vp7_mln_104",
+   "en": "Hey! Wait up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_105",
+   "en": "I'll beat them all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_106",
+   "en": "Get ready!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_108",
+   "en": "I'm going all out, for real!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_109",
+   "en": "I'm not done yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_110",
+   "en": "You're stubborn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_111",
+   "en": "Hey! Get back here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_112",
+   "en": "Whoa, I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_113",
+   "en": "I took it out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_114",
+   "en": "Yes! I'm on a roll!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_115",
+   "en": "I won't let you have your way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_116",
+   "en": "There you are!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_117",
+   "en": "I'll drive them off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_118",
+   "en": "Yesss!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper flagged repeat/retried (stretched vowel)."
+  },
+  {
+   "id": "vp7_mln_119",
+   "en": "Oops, I broke it by accident!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_120",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_121",
+   "en": "Whew, that scared me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_122",
+   "en": "Honestly, how rude!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_123",
+   "en": "Ugh, the worst!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_124",
+   "en": "I'm fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_125",
+   "en": "What was that?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_126",
+   "en": "Shut up already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_127",
+   "en": "H-hey, wait a second!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_128",
+   "en": "What's going on?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_129",
+   "en": "Waah! Geez!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_130",
+   "en": "I'm not scared at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_131",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vp7_mln_132",
+   "en": "Geez! Stop following me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_133",
+   "en": "Dad, Mom, help me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mln_135",
+   "en": "I told you to quit it!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8684 (vp7_mln_018): 'ehei' read as 'eii/ei' (a kiai).",
+   "row 8685 (vp7_mln_019): Whisper flagged nospeech but text fits the clip.",
+   "row 8690 (vp7_mln_103): Whisper flagged nospeech but text fits the clip."
+  ],
+  "whisper_doubt": [
+   "row 8645 (vp7_mil_344): 'Zentoran' read as 'Zentoradi' (Zentradi).",
+   "row 8682 (vp7_mln_015): Whisper logprob flag; a short breath-like kiai.",
+   "row 8684 (vp7_mln_018): 'ehei' read as 'eii/ei' (a kiai).",
+   "row 8704 (vp7_mln_118): Whisper flagged repeat/retried (stretched vowel)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 8668 (vp7_mil_616): Trails off in the original."
+  ]
+ }
+}

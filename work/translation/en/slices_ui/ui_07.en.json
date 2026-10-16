@@ -1,0 +1,1932 @@
+{
+ "slice": 7,
+ "rows_in_slice": 320,
+ "rows_examined": 320,
+ "rows": [
+  {
+   "id": "u1529",
+   "en": "FB2012: Capture 017",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1530",
+   "en": "FB2012: Capture 018",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1531",
+   "en": "FB2012: Capture 019",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1532",
+   "en": "FB2012: Capture 020",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1533",
+   "en": "FB2012: Capture 021",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1534",
+   "en": "FB2012: Capture 022",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1535",
+   "en": "FB2012: Capture 023",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1536",
+   "en": "FB2012: Capture 024",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1537",
+   "en": "FB2012: Capture 025",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1538",
+   "en": "FB2012: Capture 026",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1539",
+   "en": "FB2012: Capture 027",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1540",
+   "en": "FB2012: Capture 028",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1541",
+   "en": "FB2012: Capture 029",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1542",
+   "en": "FB2012: Capture 030",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1543",
+   "en": "FB2012: Capture 031",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1544",
+   "en": "FB2012: Capture 032",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1545",
+   "en": "FB2012: Capture 033",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1546",
+   "en": "FB2012: Capture 034",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1547",
+   "en": "FB2012: Capture 035",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1548",
+   "en": "FB2012: Capture 036",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1549",
+   "en": "FB2012: Capture 037",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1550",
+   "en": "FB2012: Capture 038",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1551",
+   "en": "Plus: Capture 001",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1552",
+   "en": "Plus: Capture 002",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1553",
+   "en": "Plus: Capture 003",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1554",
+   "en": "Plus: Capture 004",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1555",
+   "en": "Plus: Capture 005",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1556",
+   "en": "Plus: Capture 006",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1557",
+   "en": "Plus: Capture 007",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1558",
+   "en": "Plus: Capture 008",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1559",
+   "en": "Plus: Capture 009",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1560",
+   "en": "Plus: Capture 010",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1561",
+   "en": "Plus: Capture 011",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1562",
+   "en": "Plus: Capture 012",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1563",
+   "en": "Plus: Capture 013",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1564",
+   "en": "Plus: Capture 014",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1565",
+   "en": "Plus: Capture 015",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1566",
+   "en": "Plus: Capture 016",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1567",
+   "en": "Plus: Capture 017",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1568",
+   "en": "Plus: Capture 018",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1569",
+   "en": "Plus: Capture 019",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1570",
+   "en": "Plus: Capture 020",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1571",
+   "en": "Plus: Capture 021",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1572",
+   "en": "Plus: Capture 022",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1573",
+   "en": "Plus: Capture 023",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1574",
+   "en": "Plus: Capture 024",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1575",
+   "en": "Plus: Capture 025",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1576",
+   "en": "Plus: Capture 026",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1577",
+   "en": "Plus: Capture 027",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1578",
+   "en": "Plus: Capture 028",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1579",
+   "en": "Plus: Capture 029",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1580",
+   "en": "Plus: Capture 030",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1581",
+   "en": "Plus: Capture 031",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1582",
+   "en": "Plus: Capture 032",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1583",
+   "en": "Plus: Capture 033",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1584",
+   "en": "Plus: Capture 034",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1585",
+   "en": "Plus: Capture 035",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1586",
+   "en": "Plus: Capture 036",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1587",
+   "en": "Plus: Capture 037",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1588",
+   "en": "Plus: Capture 038",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1589",
+   "en": "Plus: Capture 039",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1590",
+   "en": "Plus: Capture 040",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1591",
+   "en": "Plus: Capture 041",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1592",
+   "en": "Plus: Capture 042",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1593",
+   "en": "Plus: Capture 043",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1594",
+   "en": "Plus: Capture 044",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1595",
+   "en": "Plus: Capture 045",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1596",
+   "en": "Plus: Capture 046",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1597",
+   "en": "Plus: Capture 047",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1598",
+   "en": "Plus: Capture 048",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1599",
+   "en": "Plus: Capture 049",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1600",
+   "en": "Plus: Capture 050",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1601",
+   "en": "Plus: Capture 051",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1602",
+   "en": "Plus: Capture 052",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1603",
+   "en": "Plus: Capture 053",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1604",
+   "en": "Plus: Capture 054",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1605",
+   "en": "Plus: Capture 055",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1606",
+   "en": "Plus: Capture 056",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1607",
+   "en": "Plus: Capture 057",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1608",
+   "en": "Plus: Capture 058",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1609",
+   "en": "Plus: Capture 059",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1610",
+   "en": "Plus: Capture 060",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1611",
+   "en": "Plus: Capture 061",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1612",
+   "en": "Plus: Capture 062",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1613",
+   "en": "Plus: Capture 063",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1614",
+   "en": "Plus: Capture 064",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1615",
+   "en": "Plus: Capture 065",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1616",
+   "en": "Plus: Capture 066",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1617",
+   "en": "Plus: Capture 067",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1618",
+   "en": "Plus: Capture 068",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1619",
+   "en": "Plus: Capture 069",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1620",
+   "en": "Plus: Capture 070",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1621",
+   "en": "Plus: Capture 071",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1622",
+   "en": "Plus: Capture 072",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1623",
+   "en": "Plus: Capture 073",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1624",
+   "en": "Plus: Capture 074",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1625",
+   "en": "Plus: Capture 075",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1626",
+   "en": "Plus: Capture 076",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1627",
+   "en": "Plus: Capture 077",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1628",
+   "en": "Plus: Capture 078",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1629",
+   "en": "Plus: Capture 079",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1630",
+   "en": "Plus: Capture 080",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1631",
+   "en": "Plus: Capture 081",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1632",
+   "en": "Plus: Capture 082",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1633",
+   "en": "Plus: Capture 083",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1634",
+   "en": "Plus: Capture 084",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1635",
+   "en": "Plus: Capture 085",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1636",
+   "en": "Plus: Capture 086",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1637",
+   "en": "Plus: Capture 087",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1638",
+   "en": "Plus: Capture 088",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1639",
+   "en": "Plus: Capture 089",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1640",
+   "en": "Plus: Capture 090",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1641",
+   "en": "Plus: Capture 091",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1642",
+   "en": "Plus: Prologue 1",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1643",
+   "en": "Plus: Prologue 2",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1644",
+   "en": "Plus: Prologue 3",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1645",
+   "en": "Plus: Chronicle 1",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1646",
+   "en": "Plus: Chronicle 2",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1647",
+   "en": "Plus: Epilogue 1",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1648",
+   "en": "Plus: Epilogue 2",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1649",
+   "en": "Plus: Epilogue 3",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1650",
+   "en": "Plus: Epilogue 4",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1651",
+   "en": "Plus: Epilogue 5",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1652",
+   "en": "Macross 7: Capture 001",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1653",
+   "en": "Macross 7: Capture 002",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1654",
+   "en": "Macross 7: Capture 003",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1655",
+   "en": "Macross 7: Capture 004",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1656",
+   "en": "Macross 7: Capture 005",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1657",
+   "en": "Macross 7: Capture 006",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1658",
+   "en": "Macross 7: Capture 007",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1659",
+   "en": "Macross 7: Capture 008",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1660",
+   "en": "Macross 7: Capture 009",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1661",
+   "en": "Macross 7: Capture 010",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1662",
+   "en": "Macross 7: Capture 011",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1663",
+   "en": "Macross 7: Capture 012",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1664",
+   "en": "Macross 7: Capture 013",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1665",
+   "en": "Macross 7: Capture 014",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1666",
+   "en": "Macross 7: Capture 015",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1667",
+   "en": "Macross 7: Capture 016",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1668",
+   "en": "Macross 7: Capture 017",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1669",
+   "en": "Macross 7: Capture 018",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1670",
+   "en": "Macross 7: Capture 019",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1671",
+   "en": "Macross 7: Capture 020",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1672",
+   "en": "Macross 7: Capture 021",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1673",
+   "en": "Macross 7: Capture 022",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1674",
+   "en": "Macross 7: Capture 023",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1675",
+   "en": "Macross 7: Capture 024",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1676",
+   "en": "Macross 7: Capture 025",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1677",
+   "en": "Macross 7: Capture 026",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1678",
+   "en": "Macross 7: Capture 027",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1679",
+   "en": "Macross 7: Capture 028",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1680",
+   "en": "Macross 7: Capture 029",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1681",
+   "en": "Macross 7: Capture 030",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1682",
+   "en": "Macross 7: Capture 031",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1683",
+   "en": "Macross 7: Capture 032",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1684",
+   "en": "Macross 7: Capture 033",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1685",
+   "en": "Macross 7: Capture 034",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1686",
+   "en": "Macross 7: Capture 035",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1687",
+   "en": "Macross 7: Capture 036",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1688",
+   "en": "Macross 7: Capture 037",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1689",
+   "en": "Macross 7: Capture 038",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1690",
+   "en": "Macross 7: Capture 039",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1691",
+   "en": "Macross 7: Capture 040",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1692",
+   "en": "Macross 7: Capture 041",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1693",
+   "en": "Macross 7: Capture 042",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1694",
+   "en": "Macross 7: Capture 043",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1695",
+   "en": "Macross 7: Capture 044",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1696",
+   "en": "Macross 7: Capture 045",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1697",
+   "en": "Macross 7: Capture 046",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1698",
+   "en": "Macross 7: Capture 047",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1699",
+   "en": "Macross 7: Capture 048",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1700",
+   "en": "Macross 7: Capture 049",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1701",
+   "en": "Macross 7: Capture 050",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1702",
+   "en": "Macross 7: Capture 051",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1703",
+   "en": "Macross 7: Capture 052",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1704",
+   "en": "Macross 7: Capture 053",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1705",
+   "en": "Macross 7: Capture 054",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1706",
+   "en": "Macross 7: Capture 055",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1707",
+   "en": "Macross 7: Capture 056",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1708",
+   "en": "Macross 7: Capture 057",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1709",
+   "en": "Macross 7: Capture 058",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1710",
+   "en": "Macross 7: Capture 059",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1711",
+   "en": "Macross 7: Capture 060",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1712",
+   "en": "Macross 7: Capture 061",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1713",
+   "en": "Macross 7: Capture 062",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1714",
+   "en": "Macross 7: Capture 063",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1715",
+   "en": "Macross 7: Capture 064",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1716",
+   "en": "Macross 7: Capture 065",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1717",
+   "en": "Macross 7: Capture 066",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1718",
+   "en": "Macross 7: Capture 067",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1719",
+   "en": "Macross 7: Capture 068",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1720",
+   "en": "Macross 7: Capture 069",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1721",
+   "en": "Macross 7: Capture 070",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1722",
+   "en": "Macross 7: Capture 071",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1723",
+   "en": "Macross 7: Capture 072",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1724",
+   "en": "Macross 7: Capture 073",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1725",
+   "en": "Macross 7: Capture 074",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1726",
+   "en": "Macross 7: Capture 075",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1727",
+   "en": "Macross 7: Capture 076",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1728",
+   "en": "Macross 7: Capture 077",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1729",
+   "en": "Macross 7: Capture 078",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1730",
+   "en": "Macross 7: Capture 079",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1731",
+   "en": "Macross 7: Capture 080",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1732",
+   "en": "Macross 7: Capture 081",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1733",
+   "en": "Macross 7: Capture 082",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1734",
+   "en": "Macross 7: Capture 083",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1735",
+   "en": "Macross 7: Capture 084",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1736",
+   "en": "Macross 7: Capture 085",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1737",
+   "en": "Macross 7: Capture 086",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1738",
+   "en": "Macross 7: Capture 087",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1739",
+   "en": "Macross 7: Capture 088",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1740",
+   "en": "Macross 7: Capture 089",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1741",
+   "en": "Macross 7: Capture 090",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1742",
+   "en": "Macross 7: Capture 091",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1743",
+   "en": "Macross 7: Capture 092",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1744",
+   "en": "Macross 7: Capture 093",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1745",
+   "en": "Macross 7: Capture 094",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1746",
+   "en": "Macross 7: Capture 095",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1747",
+   "en": "Macross 7: Capture 096",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1748",
+   "en": "Macross 7: Capture 097",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1749",
+   "en": "Macross 7: Capture 098",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1750",
+   "en": "Macross 7: Capture 099",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1751",
+   "en": "Macross 7: Capture 100",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1752",
+   "en": "Macross 7: Capture 101",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1753",
+   "en": "Macross 7: Capture 102",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1754",
+   "en": "Macross 7: Capture 103",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1755",
+   "en": "Macross 7: Capture 104",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1756",
+   "en": "Macross 7: Capture 105",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1757",
+   "en": "Macross 7: Capture 106",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1758",
+   "en": "Macross 7: Capture 107",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1759",
+   "en": "Macross 7: Capture 108",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1760",
+   "en": "Macross 7: Capture 109",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1761",
+   "en": "Macross 7: Capture 110",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1762",
+   "en": "Macross 7: Capture 111",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1763",
+   "en": "Macross 7: Capture 112",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1764",
+   "en": "Macross 7: Prologue 1",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1765",
+   "en": "Macross 7: Prologue 2",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1766",
+   "en": "Macross 7: Prologue 3",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1767",
+   "en": "Macross 7: Prologue 4",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1768",
+   "en": "Macross 7: Chronicle 1",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1769",
+   "en": "Macross 7: Chronicle 2",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1770",
+   "en": "Macross 7: Chronicle 3",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1771",
+   "en": "Macross 7: Chronicle 4",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1772",
+   "en": "Macross 7: Epilogue 1",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1773",
+   "en": "Macross 7: Epilogue 2",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1774",
+   "en": "Macross 7: Epilogue 3",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1775",
+   "en": "Macross 7: Epilogue 4",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  },
+  {
+   "id": "u1776",
+   "en": "D7: Capture 001",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1777",
+   "en": "D7: Capture 002",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1778",
+   "en": "D7: Capture 003",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1779",
+   "en": "D7: Capture 004",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1780",
+   "en": "D7: Capture 005",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1781",
+   "en": "D7: Capture 006",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1782",
+   "en": "D7: Capture 007",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1783",
+   "en": "D7: Capture 008",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1784",
+   "en": "D7: Capture 009",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1785",
+   "en": "D7: Capture 010",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1786",
+   "en": "D7: Capture 011",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1787",
+   "en": "D7: Capture 012",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1788",
+   "en": "D7: Capture 013",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1789",
+   "en": "D7: Capture 014",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1790",
+   "en": "D7: Capture 015",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1791",
+   "en": "D7: Capture 016",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1792",
+   "en": "D7: Capture 017",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1793",
+   "en": "D7: Capture 018",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1794",
+   "en": "D7: Capture 019",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1795",
+   "en": "D7: Capture 020",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1796",
+   "en": "D7: Capture 021",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1797",
+   "en": "D7: Capture 022",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1798",
+   "en": "D7: Capture 023",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1799",
+   "en": "D7: Capture 024",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1800",
+   "en": "D7: Capture 025",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1801",
+   "en": "D7: Capture 026",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1802",
+   "en": "D7: Capture 027",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1803",
+   "en": "D7: Capture 028",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1804",
+   "en": "D7: Capture 029",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1805",
+   "en": "D7: Capture 030",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1806",
+   "en": "D7: Capture 031",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1807",
+   "en": "D7: Capture 032",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1808",
+   "en": "D7: Capture 033",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1809",
+   "en": "D7: Capture 034",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1810",
+   "en": "D7: Capture 035",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1811",
+   "en": "D7: Capture 036",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1812",
+   "en": "D7: Capture 037",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1813",
+   "en": "D7: Capture 038",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1814",
+   "en": "D7: Capture 039",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1815",
+   "en": "D7: Capture 040",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1816",
+   "en": "D7: Capture 041",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1817",
+   "en": "D7: Capture 042",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1818",
+   "en": "D7: Capture 043",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1819",
+   "en": "D7: Capture 044",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1820",
+   "en": "D7: Capture 045",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1821",
+   "en": "D7: Capture 046",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1822",
+   "en": "D7: Capture 047",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1823",
+   "en": "D7: Capture 048",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1824",
+   "en": "D7: Capture 049",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1825",
+   "en": "D7: Capture 050",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1826",
+   "en": "D7: Capture 051",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1827",
+   "en": "D7: Capture 052",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1828",
+   "en": "D7: Capture 053",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1829",
+   "en": "D7: Capture 054",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1830",
+   "en": "D7: Capture 055",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1831",
+   "en": "D7: Capture 056",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1832",
+   "en": "D7: Capture 057",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1833",
+   "en": "D7: Capture 058",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1834",
+   "en": "D7: Capture 059",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1835",
+   "en": "D7: Capture 060",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1836",
+   "en": "D7: Capture 061",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1837",
+   "en": "D7: Capture 062",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1838",
+   "en": "D7: Capture 063",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1839",
+   "en": "D7: Prologue 1",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1840",
+   "en": "D7: Prologue 2",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1841",
+   "en": "D7: Prologue 3",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1842",
+   "en": "D7: Chronicle 1",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1843",
+   "en": "D7: Epilogue 1",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1844",
+   "en": "D7: Epilogue 2",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1845",
+   "en": "D7: Epilogue 3",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1846",
+   "en": "D7: Epilogue 4",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1847",
+   "en": "D7: Epilogue 5",
+   "flags": [],
+   "notes": "reviewed: prefill kept | review: gallery label shortened to fit the 168 px list (consistent prefix)"
+  },
+  {
+   "id": "u1848",
+   "en": "Frontier: Capture 001",
+   "flags": [],
+   "notes": "reviewed: prefill kept"
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

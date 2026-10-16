@@ -1,0 +1,547 @@
+{
+ "slice": 126,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_jwc_114",
+   "en": "Seems you lacked the experience to face us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_117",
+   "en": "Check the enemy formation, now.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Addressee not stated (crew or pilots)"
+  },
+  {
+   "id": "vpf_jwc_120",
+   "en": "Keep it up, everyone.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper has shougun (General); likely shokun (everyone), as in the sibling lines"
+  },
+  {
+   "id": "vpf_jwc_125",
+   "en": "Report our damage rate at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_126",
+   "en": "That won't be enough to bring us down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_131",
+   "en": "Everyone, it's a bit early to give up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_133",
+   "en": "There must still be a way for us to win.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_134",
+   "en": "We must decide our own fate as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_137",
+   "en": "Everyone, sorry for making you stay to the end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_138",
+   "en": "To think the Quarter would be shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_152",
+   "en": "If only we'd had the strength.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_155",
+   "en": "Don't underestimate the might of S.M.S.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_157",
+   "en": "Everyone, our work here seems done. We're withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jwc_176",
+   "en": "Don't take our strength lightly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_000",
+   "en": "This is Klan Klang. Launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_001",
+   "en": "I should be fine even at Micronian size!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_002",
+   "en": "Ready! I'm launching right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_003",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_004",
+   "en": "Too soft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_005",
+   "en": "Can't hit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Short shout"
+  },
+  {
+   "id": "vpf_klm_007",
+   "en": "Out of nowhere!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_008",
+   "en": "You coward!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard hikyou-maro; likely hikyou-mono (coward)"
+  },
+  {
+   "id": "vpf_klm_010",
+   "en": "Hit it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_011",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_013",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_014",
+   "en": "Shut up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_015",
+   "en": "Bring it on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_016",
+   "en": "Don't make a fool of me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Impact sound only"
+  },
+  {
+   "id": "vpf_klm_018",
+   "en": "Time to end this!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literal soro-soro (about time); slot is a follow-up attack"
+  },
+  {
+   "id": "vpf_klm_019",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Gun-burst sound or unintelligible"
+  },
+  {
+   "id": "vpf_klm_020",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_100",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_101",
+   "en": "Starting the operation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_102",
+   "en": "Let me show you what we can do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_103",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_104",
+   "en": "Don't run!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_105",
+   "en": "Got you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_106",
+   "en": "Take this! Take this! Take this!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Repeated battle cry (orya x6)"
+  },
+  {
+   "id": "vpf_klm_107",
+   "en": "I'll bring you to justice now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_108",
+   "en": "I'll teach you a lesson!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_109",
+   "en": "You make a fine target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_110",
+   "en": "Not good enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_111",
+   "en": "Too weak!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_112",
+   "en": "How's that?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_113",
+   "en": "You picked a fight with me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_114",
+   "en": "You'd need a hundred years to take me on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_115",
+   "en": "Finally here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_116",
+   "en": "We take that one down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_117",
+   "en": "Leave it to me and it's no problem!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_118",
+   "en": "Nailed it!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Yatta-na; who did it is not settled, kept neutral"
+  },
+  {
+   "id": "vpf_klm_119",
+   "en": "Target destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_120",
+   "en": "Least I should manage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_121",
+   "en": "Damn, the shield's gone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_122",
+   "en": "Don't get cocky over a mere shield!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled; read as shield-kurai de ii ki ni naru na yo"
+  },
+  {
+   "id": "vpf_klm_123",
+   "en": "It takes more than a broken shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_124",
+   "en": "This is just a scratch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_125",
+   "en": "That's your best? Don't make me laugh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_126",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_127",
+   "en": "A hit like that won't take me down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_128",
+   "en": "Cocky, aren't you!",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Enemy's gender not stated"
+  },
+  {
+   "id": "vpf_klm_129",
+   "en": "Why, you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_130",
+   "en": "Too early to start whining.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_131",
+   "en": "I can still fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_132",
+   "en": "I'm in trouble if this keeps up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_133",
+   "en": "If I were Zentradi size...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off"
+  },
+  {
+   "id": "vpf_klm_134",
+   "en": "Don't get cocky!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard ii ki ni naru yotte; read as naru na yo"
+  },
+  {
+   "id": "vpf_klm_135",
+   "en": "I never thought I'd be beaten this badly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_136",
+   "en": "Monster...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_137",
+   "en": "I should have been honest with myself sooner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_138",
+   "en": "Michel!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard Mishara; read as Michel (slot is calling a loved one when shot down)"
+  },
+  {
+   "id": "vpf_klm_139",
+   "en": "Calm down, you idiot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_140",
+   "en": "You've got one on your tail!",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Enemy gender not stated"
+  },
+  {
+   "id": "vpf_klm_141",
+   "en": "Stay calm, especially now! Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_142",
+   "en": "Don't die!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_143",
+   "en": "That idiot! Going down without permission!",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Gender of the downed ally not stated"
+  },
+  {
+   "id": "vpf_klm_144",
+   "en": "From now on I'll drill you hard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_148",
+   "en": "I never asked for reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_149",
+   "en": "Thanks for the backup.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 10003: Whisper has shougun (General); likely shokun (everyone), as in the sibling lines",
+   "row 10031: Literal soro-soro (about time); slot is a follow-up attack",
+   "row 10052: Yatta-na; who did it is not settled, kept neutral",
+   "row 10072: Heard Mishara; read as Michel (slot is calling a loved one when shot down)"
+  ],
+  "whisper_doubt": [
+   "row 10003: Whisper has shougun (General); likely shokun (everyone), as in the sibling lines",
+   "row 10023: Heard hikyou-maro; likely hikyou-mono (coward)",
+   "row 10040: Repeated battle cry (orya x6)",
+   "row 10056: Transcript garbled; read as shield-kurai de ii ki ni naru na yo",
+   "row 10068: Heard ii ki ni naru yotte; read as naru na yo",
+   "row 10072: Heard Mishara; read as Michel (slot is calling a loved one when shot down)"
+  ],
+  "kept_omission": [
+   "row 10002: Addressee not stated (crew or pilots)",
+   "row 10062: Enemy's gender not stated",
+   "row 10074: Enemy gender not stated",
+   "row 10077: Gender of the downed ally not stated"
+  ],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 10067"
+  ]
+ }
+}

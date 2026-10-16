@@ -1,0 +1,124 @@
+{
+ "fixes": [
+  {
+   "id": "u0565",
+   "en": "12-Round Close-Range Homing Rocket Launcher\nMissiles that can be fired in succession at a single enemy",
+   "why": "Same description line as 9 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0578",
+   "en": "Close-Range Anti-Air Quad Missile Launcher\nMissiles that can be fired in succession at a single enemy",
+   "why": "Same description line as 9 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0598",
+   "en": "Close-Combat Small Homing Missile\nMissiles that can be fired in succession at a single enemy",
+   "why": "Same description line as 9 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0611",
+   "en": "Close-Range Small High-Mobility Missile (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "why": "Same description line as 9 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0651",
+   "en": "Small Missile (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "why": "Same description line as 9 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0443",
+   "en": "Medium-Range AAM (Multi)\nMissiles that can lock onto several enemies at once",
+   "why": "Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+  },
+  {
+   "id": "u0444",
+   "en": "Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "why": "Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+  },
+  {
+   "id": "u0470",
+   "en": "Semi-Conformal Medium-Range Guided Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "why": "Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+  },
+  {
+   "id": "u0509",
+   "en": "MDE Warhead Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "why": "Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+  },
+  {
+   "id": "u0547",
+   "en": "Triple-Mount Anti-Ground Missile Launcher\nMissiles that can lock onto several enemies at once",
+   "why": "Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+  },
+  {
+   "id": "u0599",
+   "en": "Close-Combat Large Multi-Warhead Missile\nMissiles that cause a huge blast on impact",
+   "why": "Same description line as 3 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0563",
+   "en": "Short-Range High-Mobility Homing Missile (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "why": "Same description line as 6 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0612",
+   "en": "Close-Range Small High-Mobility Missile (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "why": "Same description line as 6 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0561",
+   "en": "Short-Range High-Mobility Homing Missile (Blast)\nMissiles with tremendous destructive power",
+   "why": "Same description line as 2 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0661",
+   "en": "Long-Range High-Maneuver Missile (Multi/Blast)\nMulti-lock. Missiles that cause a huge blast on impact",
+   "why": "Same description line as u0475 (and the Multi-lock pattern used in 6 rows); unified."
+  },
+  {
+   "id": "u0465",
+   "en": "Ultra-High-Mobility Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "why": "The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles)."
+  },
+  {
+   "id": "u0466",
+   "en": "Ultra-High-Mobility Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "why": "The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles)."
+  },
+  {
+   "id": "u0467",
+   "en": "Ultra-High-Mobility Micro Missiles (Blast)\nMissiles with tremendous destructive power",
+   "why": "The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles)."
+  },
+  {
+   "id": "u0461",
+   "en": "Reaction Weapons\nAttacks with reaction weapons",
+   "why": "terms.json: this term = reaction weapon (also u2403 Reaction Weapon)."
+  },
+  {
+   "id": "u0588",
+   "en": "Anti-Ship Reaction Weapon\nAttacks with reaction weapons",
+   "why": "terms.json: this term = reaction weapon."
+  },
+  {
+   "id": "u0674",
+   "en": "Prototype Destroid of the Monster\nHas four cannons that can load reaction weapons",
+   "why": "terms.json: this term = reaction weapon."
+  },
+  {
+   "id": "u0675",
+   "en": "Reaction Weapon Launch",
+   "why": "terms.json: this term = reaction weapon."
+  },
+  {
+   "id": "u0686",
+   "en": "A god of legend on Mayan Island\nSaid to make the song of destruction roar across the world",
+   "why": "Same term as mission title u0156 and skill u3164 (Song of Destruction); was song of ruin."
+  },
+  {
+   "id": "u0338",
+   "en": "The Fool Who Risks His Life for a Woman",
+   "why": "Source says stakes his life for a woman: no possessive his woman, and risk, not die."
+  }
+ ]
+}

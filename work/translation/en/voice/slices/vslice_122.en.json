@@ -1,0 +1,530 @@
+{
+ "slice": 122,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpy_blr_362",
+   "en": "You're not fit to fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_363",
+   "en": "Mission complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_364",
+   "en": "It's over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_365",
+   "en": "Heading back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_366",
+   "en": "I want this fighting to end soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_367",
+   "en": "Glad you're safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_368",
+   "en": "If you want me again, I'll lend a hand.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_369",
+   "en": "Not bad, this feeling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_370",
+   "en": "Strangely, it nags at me.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Subject of 'ki ni naru' not stated."
+  },
+  {
+   "id": "vpy_blr_371",
+   "en": "I'll cover you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_601",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A short scoff (heh)."
+  },
+  {
+   "id": "vpy_blr_603",
+   "en": "I'll support you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_615",
+   "en": "Let's settle this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_616",
+   "en": "Maybe I can leave it to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_617",
+   "en": "I can't leave it to you yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_620",
+   "en": "Heh, too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_621",
+   "en": "Hmph. Child's play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_622",
+   "en": "You're not worthy of that girl.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'ano ko' = presumably Ranka (this is a story clip vs Alto)."
+  },
+  {
+   "id": "vpy_blr_623",
+   "en": "Showdown.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_625",
+   "en": "Out of my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_626",
+   "en": "This is Major Brera Sterne of Macross Galaxy's Antares Squadron, to all Frontier forces.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Antares Squadron not in glossary."
+  },
+  {
+   "id": "vpy_blr_627",
+   "en": "Hostages have been rescued from inside the enemy mothership.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_628",
+   "en": "Antares 1, effect confirmed. Commencing the sweep.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript 'soutou' read as sweep (cf. 102)."
+  },
+  {
+   "id": "vpy_blr_629",
+   "en": "That's in the past now. Your attacks no longer work on me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_630",
+   "en": "The Vajra are a species that keeps evolving.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_631",
+   "en": "That's exactly why we need the song. Her voice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_632",
+   "en": "I'll protect you. Sing without fear, Ranka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_633",
+   "en": "That's right. Now, Ranka, protect this beautiful planet. That is your atonement.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_634",
+   "en": "Get away from my sister!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_635",
+   "en": "This is our mission, brother and sister: protecting the Vajra's home planet from invaders.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_636",
+   "en": "You were the ones who invaded our territory first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_637",
+   "en": "Scatter! To the ends of the galaxy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_638",
+   "en": "Good, Ranka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_639",
+   "en": "Thanks to that hit, I finally broke free of their control.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_640",
+   "en": "Now sing, Ranka. Sorrow, anger, joy: put all your feelings into your song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_641",
+   "en": "Yes. This time I'll stop this war. That is our atonement, brother and sister.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_643",
+   "en": "Being linked to you made it clear. No matter how far you go, a person is alone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_blr_644",
+   "en": "But...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_003",
+   "en": "Useless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_004",
+   "en": "That's your attack?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_005",
+   "en": "Are you serious?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_006",
+   "en": "How can this be...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_007",
+   "en": "Impossible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_008",
+   "en": "Don't get cocky!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_009",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Low-confidence laugh (fufufu)."
+  },
+  {
+   "id": "vpy_gos_010",
+   "en": "Die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_011",
+   "en": "Small fry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_012",
+   "en": "Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_013",
+   "en": "You're irritating me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_014",
+   "en": "Damn brat!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kusogan'; read as 'kusogaki'."
+  },
+  {
+   "id": "vpy_gos_015",
+   "en": "Insolent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (tch)."
+  },
+  {
+   "id": "vpy_gos_017",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'fooku' at low confidence; a grunt or scoff."
+  },
+  {
+   "id": "vpy_gos_018",
+   "en": "It's over for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_019",
+   "en": "You're going to die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_020",
+   "en": "How pitiful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_103",
+   "en": "You won't get away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_104",
+   "en": "Let me play with you.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'kawaigatte ageru': sinister 'I'll pamper you' / rough 'I'll toy with you'."
+  },
+  {
+   "id": "vpy_gos_105",
+   "en": "You think you can fight me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_106",
+   "en": "Now, kneel! Before my power, equal to a god's, that rules even fate!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_107",
+   "en": "Feel our power!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_108",
+   "en": "Now, clear the way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_109",
+   "en": "What a stubborn bug.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_110",
+   "en": "You're weak. No, maybe I'm just too strong.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_111",
+   "en": "So you're still alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_112",
+   "en": "Everything proceeds according to my plan. That is an unshakable fact.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_113",
+   "en": "No power can do anything against us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_121",
+   "en": "Shield broken. It won't affect the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_122",
+   "en": "I can't believe... my shield was destroyed...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_123",
+   "en": "Vermin, wasting your effort.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_124",
+   "en": "You're pretty good, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_125",
+   "en": "Defying me... what a foolish child.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_126",
+   "en": "Are you that eager to end it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_127",
+   "en": "Futile struggling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_128",
+   "en": "You're better than I expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_129",
+   "en": "You seem to have enough power to amuse me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_130",
+   "en": "I'll let you have a nice dream, just for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_131",
+   "en": "I didn't think you could get this far.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_132",
+   "en": "You dare defy me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_133",
+   "en": "You lowly creatures!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9698 (vpy_blr_622): 'ano ko' = presumably Ranka (this is a story clip vs Alto).",
+   "row 9738 (vpy_gos_104): 'kawaigatte ageru': sinister 'I'll pamper you' / rough 'I'll toy with you'."
+  ],
+  "whisper_doubt": [
+   "row 9703 (vpy_blr_628): Transcript 'soutou' read as sweep (cf. 102).",
+   "row 9725 (vpy_gos_009): Low-confidence laugh (fufufu).",
+   "row 9730 (vpy_gos_014): Transcript 'kusogan'; read as 'kusogaki'.",
+   "row 9733 (vpy_gos_017): Transcript 'fooku' at low confidence; a grunt or scoff."
+  ],
+  "kept_omission": [
+   "row 9689 (vpy_blr_370): Subject of 'ki ni naru' not stated."
+  ],
+  "missing_glossary": [
+   "row 9701 (vpy_blr_626): Antares Squadron not in glossary.",
+   "row 9703 (vpy_blr_628): Transcript 'soutou' read as sweep (cf. 102)."
+  ],
+  "unfinished": []
+ }
+}

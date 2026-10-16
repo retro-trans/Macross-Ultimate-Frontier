@@ -1,0 +1,593 @@
+{
+ "slice": 87,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpz_qmj_347",
+   "en": "Yahoo! Here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_348",
+   "en": "Flying out with you ain't bad.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Particle 'ga' read as 'mo'."
+  },
+  {
+   "id": "vpz_qmj_349",
+   "en": "Hey, afterwards I'll teach you about Culture.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'ato de bunka shusei'; guessed from clip 371."
+  },
+  {
+   "id": "vpz_qmj_350",
+   "en": "Hey, don't you dare die a dog's death.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_351",
+   "en": "Come back alive! That's an order!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_360",
+   "en": "Heh heh heh. You're no use at all.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kyukkyukyu' is likely a chuckle."
+  },
+  {
+   "id": "vpz_qmj_361",
+   "en": "There won't be a next time. Watch yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_362",
+   "en": "You laid hands on my prey!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'te o tsuke atte'; read as 'te o dashi yagatte'."
+  },
+  {
+   "id": "vpz_qmj_363",
+   "en": "All right, on to the next op!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_364",
+   "en": "Looks like it's over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_365",
+   "en": "That wasn't enough for me.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'monotariaru'; likely 'monotarinee' (not enough)."
+  },
+  {
+   "id": "vpz_qmj_366",
+   "en": "That was fine flying. I like you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_367",
+   "en": "Hell of a fun op, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_368",
+   "en": "I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_369",
+   "en": "Right, heading home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_370",
+   "en": "Not bad, for a woman.",
+   "flags": [],
+   "notes": "Explicit in the line; this clip plays for a female partner."
+  },
+  {
+   "id": "vpz_qmj_371",
+   "en": "When we get back, I'll teach you about Culture.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_qmj_600",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'neiru rirandamu'; no reading found."
+  },
+  {
+   "id": "vps_roy_136",
+   "en": "Hey, give my best to Claudia, will you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_620",
+   "en": "Skull Leader to all units. You heard it. We're switching to Intercept Formation 17. Got that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_621",
+   "en": "War again, huh? It's been a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_622",
+   "en": "Anyone know where VT-102 went?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Aircraft designation as transcribed."
+  },
+  {
+   "id": "vps_roy_623",
+   "en": "Glad I made it in time.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'osou ka yokatta'; read as 'ma ni atta ka'."
+  },
+  {
+   "id": "vps_roy_624",
+   "en": "You all right over there?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_625",
+   "en": "You can die for all I care, but save the girl!",
+   "flags": [],
+   "notes": "Addressed to a pilot; the girl is not named."
+  },
+  {
+   "id": "vps_roy_626",
+   "en": "Damn, they're so quick, not like on the ground!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_627",
+   "en": "So this is the Macross transformation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_628",
+   "en": "All right, you greenhorns, I'll take you on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_629",
+   "en": "I'm looking forward to that pineapple salad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_630",
+   "en": "I'm fine. Returning to base now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_631",
+   "en": "Even if I'd been drinking, this'd be a piece of cake!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_632",
+   "en": "Well done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_roy_633",
+   "en": "Not bad at all!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'yaru ze nee ka'; read as 'yaru jan ka'."
+  },
+  {
+   "id": "vps_roy_634",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Heard only '2'; no words."
+  },
+  {
+   "id": "vpz_bti_000",
+   "en": "I'll go out myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_001",
+   "en": "Launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_002",
+   "en": "Now then, shall I go stir things up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_003",
+   "en": "Not on my watch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_004",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter."
+  },
+  {
+   "id": "vpz_bti_005",
+   "en": "This is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_006",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'goshaka'; probably a hit grunt. No safe reading."
+  },
+  {
+   "id": "vpz_bti_007",
+   "en": "W-what?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_008",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vpz_bti_009",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kuraimu'; a grunt or shout."
+  },
+  {
+   "id": "vpz_bti_011",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Breathing."
+  },
+  {
+   "id": "vpz_bti_013",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groan."
+  },
+  {
+   "id": "vpz_bti_014",
+   "en": "What is this power?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpz_bti_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Hum or chuckle."
+  },
+  {
+   "id": "vpz_bti_018",
+   "en": "I won't let you get away!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Repetition artifact; likely 'nigasan'."
+  },
+  {
+   "id": "vpz_bti_019",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Hum or chuckle."
+  },
+  {
+   "id": "vpz_bti_020",
+   "en": "Fool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_100",
+   "en": "Vrlitwhai, moving out.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'renchuu doudou'; guessed 'Vrlitwhai, commencing the mission' from other pilots' 100 lines."
+  },
+  {
+   "id": "vpz_bti_101",
+   "en": "A fine chance to test our strength.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'wareware ni tamesu to wa'; read as 'tamesu ni wa ii joukyou'."
+  },
+  {
+   "id": "vpz_bti_102",
+   "en": "Good! Begin the operation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_104",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_105",
+   "en": "You can't escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_106",
+   "en": "I won't let you get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_107",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "War cry."
+  },
+  {
+   "id": "vpz_bti_108",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "War cry."
+  },
+  {
+   "id": "vpz_bti_109",
+   "en": "You've sharpened your skills, haven't you.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ne o ageru'; read as 'ude o ageru'."
+  },
+  {
+   "id": "vpz_bti_110",
+   "en": "Tenacious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_111",
+   "en": "Still want to fight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_112",
+   "en": "Too fragile.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_113",
+   "en": "Hardly a challenge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_114",
+   "en": "Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_115",
+   "en": "So you've shown yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_116",
+   "en": "Come at me and I'll cut you down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_117",
+   "en": "Hm? You want to fight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_118",
+   "en": "Is that the best you can do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_119",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_120",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter."
+  },
+  {
+   "id": "vpz_bti_122",
+   "en": "Hm? My shield? Well, no matter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_123",
+   "en": "My shield is gone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_125",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Hum."
+  },
+  {
+   "id": "vpz_bti_126",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpz_bti_127",
+   "en": "This is nothing. I'm made differently from you lot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_128",
+   "en": "A mere scratch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_130",
+   "en": "Fools!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Repeated 'baka'; maybe 'baka na' (impossible)."
+  },
+  {
+   "id": "vpz_bti_132",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Battle cry."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6883 (vpz_qmj_349): Heard 'ato de bunka shusei'; guessed from clip 371.",
+   "row 6891 (vpz_qmj_365): Heard 'monotariaru'; likely 'monotarinee' (not enough).",
+   "row 6898 (vpz_qmj_600): Heard 'neiru rirandamu'; no reading found.",
+   "row 6902 (vps_roy_622): Aircraft designation as transcribed.",
+   "row 6921 (vpz_bti_006): Heard 'goshaka'; probably a hit grunt. No safe reading.",
+   "row 6933 (vpz_bti_100): Heard 'renchuu doudou'; guessed 'Vrlitwhai, commencing the mission' from other pilots' 100 lines.",
+   "row 6934 (vpz_bti_101): Heard 'wareware ni tamesu to wa'; read as 'tamesu ni wa ii joukyou'.",
+   "row 6959 (vpz_bti_130): Repeated 'baka'; maybe 'baka na' (impossible)."
+  ],
+  "whisper_doubt": [
+   "row 6882 (vpz_qmj_348): Particle 'ga' read as 'mo'.",
+   "row 6883 (vpz_qmj_349): Heard 'ato de bunka shusei'; guessed from clip 371.",
+   "row 6886 (vpz_qmj_360): 'kyukkyukyu' is likely a chuckle.",
+   "row 6888 (vpz_qmj_362): Heard 'te o tsuke atte'; read as 'te o dashi yagatte'.",
+   "row 6891 (vpz_qmj_365): Heard 'monotariaru'; likely 'monotarinee' (not enough).",
+   "row 6898 (vpz_qmj_600): Heard 'neiru rirandamu'; no reading found.",
+   "row 6903 (vps_roy_623): Heard 'osou ka yokatta'; read as 'ma ni atta ka'.",
+   "row 6913 (vps_roy_633): Heard 'yaru ze nee ka'; read as 'yaru jan ka'.",
+   "row 6914 (vps_roy_634): Heard only '2'; no words.",
+   "row 6921 (vpz_bti_006): Heard 'goshaka'; probably a hit grunt. No safe reading.",
+   "row 6924 (vpz_bti_009): Heard 'kuraimu'; a grunt or shout.",
+   "row 6930 (vpz_bti_018): Repetition artifact; likely 'nigasan'.",
+   "row 6933 (vpz_bti_100): Heard 'renchuu doudou'; guessed 'Vrlitwhai, commencing the mission' from other pilots' 100 lines.",
+   "row 6934 (vpz_bti_101): Heard 'wareware ni tamesu to wa'; read as 'tamesu ni wa ii joukyou'.",
+   "row 6941 (vpz_bti_109): Heard 'ne o ageru'; read as 'ude o ageru'.",
+   "row 6955 (vpz_bti_125): Hum.",
+   "row 6959 (vpz_bti_130): Repeated 'baka'; maybe 'baka na' (impossible)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

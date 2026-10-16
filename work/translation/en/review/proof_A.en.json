@@ -1,0 +1,19 @@
+{
+ "fixes": [
+  {
+   "row": 21,
+   "en": "But the end of the war did not simply mean the arrival of peace.",
+   "why": "Mistranslated structure: source says it was not so simple that war's end equalled peace; current English compares the end of the war with the arrival of peace."
+  },
+  {
+   "row": 22,
+   "en": "It began with postwar reconstruction, then the suppression of some of the Zentradi remnants,",
+   "why": "Dropped qualifier: source says a portion of the Zentradi remnants, not all of them."
+  },
+  {
+   "row": 172,
+   "en": "Humanity and the Vajra: utterly different forms of life that had never been able to get along.",
+   "why": "Tense/meaning: source is past ('had never been compatible'); timeless 'never able to coexist' contradicts row 174, where they coexist."
+  }
+ ]
+}

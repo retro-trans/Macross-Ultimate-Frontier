@@ -1,0 +1,530 @@
+{
+ "slice": 31,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1222",
+   "en": "More poacher reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1222",
+   "en": "More poacher reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1222",
+   "en": "More poacher reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1222",
+   "en": "More poacher reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1223",
+   "en": "Poacher reinforcement unit confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1223",
+   "en": "Poacher reinforcement unit confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1223",
+   "en": "Poacher reinforcement unit confirmed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1223",
+   "en": "Poacher reinforcement unit confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1223",
+   "en": "Poacher reinforcement unit confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1224",
+   "en": "Enemy signature picked up! It's the poachers!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard tekiei with a wrong kanji; surely tekiei (enemy signature), like 'kiei' elsewhere."
+  },
+  {
+   "id": "vo0_of1_1224",
+   "en": "Enemy signature picked up! Poachers!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard tekihei (enemy soldier); surely tekiei (enemy signature)."
+  },
+  {
+   "id": "vo0_of2_1224",
+   "en": "Enemy signature picked up! It's the poachers!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard tekihei and michiryoudan (nonsense); surely tekiei and mitsuryoudan (poachers)."
+  },
+  {
+   "id": "vo0_om0_1224",
+   "en": "Enemy signature picked up! It's the poachers!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard teki-ei with a wrong kanji; surely tekiei (enemy signature)."
+  },
+  {
+   "id": "vos_mis_1224",
+   "en": "Enemy signature picked up. It's the poachers.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard tekihei and 'Misuyoudan'; surely tekiei and mitsuryoudan (poachers)."
+  },
+  {
+   "id": "vo0_of0_1225",
+   "en": "Please intercept the enemy contact that looks like the poachers' mothership.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1225",
+   "en": "Enemy contact that looks like the poachers' mothership. Intercept it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1225",
+   "en": "Enemy contact that looks like the poachers' mothership! Intercept it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1225",
+   "en": "Contact that looks like the poachers' mothership. Intercept.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard mitsuyoudan; surely mitsuryoudan (poachers)."
+  },
+  {
+   "id": "vos_mis_1225",
+   "en": "Enemy contact that looks like the poachers' mothership. Intercept it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1227",
+   "en": "Victor has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1227",
+   "en": "Victor has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1227",
+   "en": "Victor has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1227",
+   "en": "Victor has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1227",
+   "en": "Victor has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1228",
+   "en": "Victor reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1228",
+   "en": "Victor reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1228",
+   "en": "Victor reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1228",
+   "en": "Victor reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1228",
+   "en": "Victor reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1229",
+   "en": "Many defold reactions confirmed. It's a huge Victor force.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vo0_of1_1229",
+   "en": "Many defold reactions confirmed. It's a huge Victor force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1229",
+   "en": "Lots of defold reactions confirmed! It's a huge Victor force!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1229",
+   "en": "Many defold reactions confirmed. It's a huge Victor force!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vos_mis_1229",
+   "en": "Many defold reactions confirmed. It's a huge Victor swarm.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1230",
+   "en": "A large Victor has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1230",
+   "en": "A large Victor has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1230",
+   "en": "A large Victor has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1230",
+   "en": "A large Victor has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1230",
+   "en": "A large Victor has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1231",
+   "en": "It's a huge force of Vajra. Please be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1231",
+   "en": "A huge force of Vajra. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1231",
+   "en": "Hey, it's a huge force of Vajra! Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1231",
+   "en": "A huge force of Vajra! Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1231",
+   "en": "A huge force of Vajra. Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1232",
+   "en": "Giant enemy contact confirmed. It's probably the enemy mothership.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1232",
+   "en": "Giant enemy contact confirmed. Looks like their mothership.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1232",
+   "en": "Giant enemy contact confirmed. Looks like the enemy mothership.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1232",
+   "en": "Giant enemy contact confirmed! Looks like the enemy mothership!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1232",
+   "en": "Giant enemy contact confirmed. Looks like the enemy mothership.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1233",
+   "en": "Enemy reaction detected. It's a large Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1233",
+   "en": "Enemy reaction detected. It's a large Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1233",
+   "en": "Enemy reaction detected. A large Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1233",
+   "en": "Enemy reaction detected. A large Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1233",
+   "en": "Enemy reaction detected. It's a large Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1234",
+   "en": "Enemy appeared! It's Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1234",
+   "en": "Enemy appeared. It's Vajra.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard teki shutsunin; surely teki shutsugen (enemy appeared)."
+  },
+  {
+   "id": "vo0_of2_1234",
+   "en": "Enemy appeared! It's Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1234",
+   "en": "Enemy appeared! Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1234",
+   "en": "Enemy appeared! It's Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1235",
+   "en": "Defold reaction confirmed ahead. It's Vajra.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vo0_of1_1235",
+   "en": "Defold reaction confirmed ahead. It's Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1235",
+   "en": "Defold reaction confirmed ahead. It's Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1235",
+   "en": "Defold reaction ahead. It's Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1235",
+   "en": "Defold reaction confirmed ahead. It's Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1237",
+   "en": "It's the enemy! They may launch a powerful attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1237",
+   "en": "The enemy. They might launch a powerful attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1237",
+   "en": "Enemy! They might launch a powerful attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1237",
+   "en": "Enemy! They might launch a powerful attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1237",
+   "en": "Enemy! They may launch a powerful attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1238",
+   "en": "Enemy reinforcements. Please watch out for powerful attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1238",
+   "en": "Enemy reinforcements. Watch out for powerful attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1238",
+   "en": "Enemy reinforcements. Watch out for powerful attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1238",
+   "en": "Enemy reinforcements! Watch out for powerful attacks!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1238",
+   "en": "Enemy reinforcements. Watch out for powerful attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1239",
+   "en": "An enemy with a powerful attack is approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1239",
+   "en": "An enemy with a powerful attack is approaching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1239",
+   "en": "An enemy with a powerful attack is closing in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1239",
+   "en": "An enemy with a powerful attack is approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1239",
+   "en": "An enemy with a powerful attack is approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1240",
+   "en": "Enemy air unit approaching.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 2420-2439: Victor = Vajra group codename per glossary, kept as 'Victor'",
+   "rows 2410-2414 (1224): 'tekihei/tekiei' read as enemy signature"
+  ],
+  "whisper_doubt": [
+   "row 2410: Heard tekiei with a wrong kanji; surely tekiei (enemy signature), like 'kiei' elsewhere.",
+   "row 2411: Heard tekihei (enemy soldier); surely tekiei (enemy signature).",
+   "row 2412: Heard tekihei and michiryoudan (nonsense); surely tekiei and mitsuryoudan (poachers).",
+   "row 2413: Heard teki-ei with a wrong kanji; surely tekiei (enemy signature).",
+   "row 2414: Heard tekihei and 'Misuyoudan'; surely tekiei and mitsuryoudan (poachers).",
+   "row 2418: Heard mitsuyoudan; surely mitsuryoudan (poachers).",
+   "row 2430: Heard deforuto (default); defold.",
+   "row 2433: Heard deforuto (default); defold.",
+   "row 2456: Heard teki shutsunin; surely teki shutsugen (enemy appeared).",
+   "row 2460: Heard deforuto (default); defold."
+  ],
+  "kept_omission": [
+   "Operator lines: subjects restored where the scene settles them; the one-word and noun-phrase stock lines (e.g. 'Many samples approaching.') stay subjectless as the Japanese is."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

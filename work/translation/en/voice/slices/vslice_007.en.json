@@ -1,0 +1,505 @@
+{
+ "slice": 7,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_113",
+   "en": "Please find and collect the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_113",
+   "en": "Find and collect the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_113",
+   "en": "Hey, collect the containers!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_113",
+   "en": "Find and collect the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_113",
+   "en": "Collect the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_114",
+   "en": "Please prioritize securing the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_114",
+   "en": "Secure the containers first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_114",
+   "en": "Collecting containers is a proper job too, you know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_114",
+   "en": "Prioritize securing the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_114",
+   "en": "Your mission is to collect the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_115",
+   "en": "Please hurry and collect the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_115",
+   "en": "Collect the containers quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_115",
+   "en": "Collect the containers before anything else!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_115",
+   "en": "Containers, hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_115",
+   "en": "Hurry with the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_117",
+   "en": "Please collect as many containers as you can in time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_117",
+   "en": "Collect as many containers as you can before time's up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_117",
+   "en": "Collect as many containers as you can. As many as you CAN, mind you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_117",
+   "en": "Get as many containers as you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_117",
+   "en": "Collect as many containers as you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_118",
+   "en": "Collect the containers at the designated position.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Could also mean bring the containers to the designated position; the Japanese is not clear. Kept the same reading for all five."
+  },
+  {
+   "id": "vo0_of1_118",
+   "en": "Collect the containers at the designated position.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_118",
+   "en": "Collect the containers at the designated spot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_118",
+   "en": "Get the containers at the marked spot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_118",
+   "en": "Collect the containers at the designated position. Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_121",
+   "en": "Please collect the remaining containers too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_121",
+   "en": "Collect the remaining containers too, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_121",
+   "en": "Good! Keep it up and collect the remaining containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_121",
+   "en": "Collect the remaining containers too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_121",
+   "en": "There are still containers left. Collect as many as you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_122",
+   "en": "Please be careful not to destroy the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_122",
+   "en": "Be careful not to destroy the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_122",
+   "en": "Don't you dare let the containers get destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_122",
+   "en": "Be careful not to destroy the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_122",
+   "en": "Honestly! Do it right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_123",
+   "en": "The containers have been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_123",
+   "en": "The containers were destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_123",
+   "en": "You hack! Letting the containers get destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_123",
+   "en": "The containers were destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_123",
+   "en": "The containers are getting destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_154",
+   "en": "The operation is over. Please return immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_154",
+   "en": "Operation complete. Return now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_154",
+   "en": "The operation's a succe-nyo... I bit my tongue...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pinon flubs her own line; kept the stumble."
+  },
+  {
+   "id": "vo0_om0_154",
+   "en": "Operation over. Return immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_154",
+   "en": "The operation is a success! Good work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_155",
+   "en": "The operation was a success. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_155",
+   "en": "Operation successful. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_155",
+   "en": "Looks like the operation was a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_155",
+   "en": "Operation successful. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_155",
+   "en": "Good work. It seems that went well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_156",
+   "en": "You did it! The operation is a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_156",
+   "en": "You did it! The operation is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_156",
+   "en": "I'll give you credit for pulling it off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_156",
+   "en": "You did it! Operation over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_156",
+   "en": "Operation over. All units, return.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_157",
+   "en": "The operation continues. Please don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_157",
+   "en": "Operation ongoing. Stay sharp.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_157",
+   "en": "The operation isn't over. Don't relax!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_157",
+   "en": "The operation continues. Don't get careless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_157",
+   "en": "Operation ongoing. Wait for further orders.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_161",
+   "en": "I'm sorry, but the operation has failed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_161",
+   "en": "Operation failed. Retreat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_161",
+   "en": "The operation failed. You hack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_161",
+   "en": "Unfortunately, the operation has failed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_161",
+   "en": "Operation failed. Return to base for now. I repeat, return to base for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_162",
+   "en": "The operation has failed. Please retreat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_162",
+   "en": "What a shame. The operation has failed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_162",
+   "en": "A failure... You really let me down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_162",
+   "en": "Operation failed. Retreat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_162",
+   "en": "The operation failed... of all things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_163",
+   "en": "Operation failed... No way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_163",
+   "en": "Operation failed? How could this be...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_163",
+   "en": "How the hell did you fail?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_163",
+   "en": "To think the operation failed...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_163",
+   "en": "The operation failed. What a disaster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_172",
+   "en": "The detached unit has achieved its objective. Please join up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_172",
+   "en": "The detached unit achieved its objective. Join up with them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_172",
+   "en": "The detached unit's achieved its objective. Join up!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says betsu-dotai (another torso); surely betsu-doutai (detached unit), as the others say."
+  },
+  {
+   "id": "vo0_om0_172",
+   "en": "Detached unit achieved its objective. Join up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_172",
+   "en": "The detached unit has completed its operation. Rendezvous with them.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 501: Could also mean bring the containers to the designated position; the Japanese is not clear. Kept the same reading for all five.",
+   "row 523: Pinon flubs her own line; kept the stumble."
+  ],
+  "whisper_doubt": [
+   "row 558: Transcript says betsu-dotai (another torso); surely betsu-doutai (detached unit), as the others say."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,711 @@
+{
+ "_meta": {
+  "version": "0.1.0",
+  "updated": "2026-10-15",
+  "spelling_policy": "Model names and nicknames follow Macross Wiki article titles. Japanese forms come from the ja.wikipedia game article's unit list.",
+  "conventions": {
+   "pilot_suffix": "（X機） = X's personal unit. Render as '(X)' after the model, e.g. 'VF-1J Valkyrie (Hikaru)'. Use the short name the series uses for that pilot (Hikaru, Max, Milia, Roy, Isamu, Guld, Alto, Ozma, Michel, Luca, Klan, Brera...). Provisional: confirm once the UI width is measured.",
+   "pack_suffix": "／Xパック装備 = equipped with an X Pack. 'Super Pack', 'Armored Pack', 'Strike Pack', 'FAST Pack', 'Sound Booster', 'Fold Speaker', 'Reactive Armor', 'Ghost Booster', 'Twin Booster'.",
+   "kai": "改 after a model number = 'Kai' (e.g. VF-19 Kai). Keep 'Kai' rather than 'Custom' because the series uses it as part of the designation.",
+   "unusable": "※使用不可 in the source list means the unit cannot be selected by the player.",
+   "generic_suffix": "Generic / rank-and-file unit (一般機) → '(Standard)', e.g. 'VF-25 (Standard)'.",
+   "versions": "TV / movie versions → '(TV)' / '(Movie)'; with a pilot: 'VF-1A (Kakizaki, TV)'. Giant form → '(Giant)'."
+  },
+  "game_source": "https://ja.wikipedia.org/wiki/マクロスアルティメットフロンティア#登場機体"
+ },
+ "packs": [
+  {
+   "ja": "スーパーパック",
+   "en": "Super Pack"
+  },
+  {
+   "ja": "アーマードパック",
+   "en": "Armored Pack"
+  },
+  {
+   "ja": "ストライクパック",
+   "en": "Strike Pack"
+  },
+  {
+   "ja": "FASTパック",
+   "en": "FAST Pack"
+  },
+  {
+   "ja": "フルアーマード",
+   "en": "Full Armored"
+  },
+  {
+   "ja": "サウンドブースター",
+   "en": "Sound Booster"
+  },
+  {
+   "ja": "フォールドスピーカー",
+   "en": "Fold Speaker"
+  },
+  {
+   "ja": "リアクティブアーマー",
+   "en": "Reactive Armor"
+  },
+  {
+   "ja": "ゴーストブースター",
+   "en": "Ghost Booster"
+  },
+  {
+   "ja": "ツインブースター",
+   "en": "Twin Booster"
+  },
+  {
+   "ja": "スーパーアームドパック",
+   "en": "Super Armed Pack"
+  },
+  {
+   "ja": "最終決戦仕様",
+   "en": "Final Battle Spec"
+  }
+ ],
+ "families": [
+  {
+   "ja": "バルキリー",
+   "en": "Valkyrie",
+   "avoid": [
+    "Varkyrie"
+   ]
+  },
+  {
+   "ja": "可変戦闘機",
+   "en": "variable fighter",
+   "aliases": [
+    "VF"
+   ]
+  },
+  {
+   "ja": "デストロイド",
+   "en": "Destroid"
+  },
+  {
+   "ja": "ファイター",
+   "en": "Fighter",
+   "notes": "Transformation mode"
+  },
+  {
+   "ja": "ガウォーク",
+   "en": "GERWALK",
+   "notes": "Transformation mode"
+  },
+  {
+   "ja": "バトロイド",
+   "en": "Battroid",
+   "notes": "Transformation mode"
+  }
+ ],
+ "units": [
+  {
+   "series": "Macross Zero",
+   "ja": "TYPE-14",
+   "en": "TYPE-14"
+  },
+  {
+   "series": "Macross Zero",
+   "ja": "TYPE-29",
+   "en": "TYPE-29"
+  },
+  {
+   "series": "Macross Zero",
+   "ja": "VF-0S フェニックス",
+   "en": "VF-0S Phoenix"
+  },
+  {
+   "series": "Macross Zero",
+   "ja": "VF-0D フェニックス",
+   "en": "VF-0D Phoenix"
+  },
+  {
+   "series": "Macross Zero",
+   "ja": "VF-0A フェニックス",
+   "en": "VF-0A Phoenix"
+  },
+  {
+   "series": "Macross Zero",
+   "ja": "SV-51γ",
+   "en": "SV-51γ",
+   "notes": "Keep the Greek letter if the font supports it; else 'SV-51 Gamma'."
+  },
+  {
+   "series": "Macross Zero",
+   "ja": "SV-51α",
+   "en": "SV-51α"
+  },
+  {
+   "series": "Macross Zero",
+   "ja": "ADR-03-MK-III シャイアン",
+   "en": "ADR-03-Mk III Cheyenne"
+  },
+  {
+   "series": "Macross Zero",
+   "ja": "HWR-00-Mk.I プロトタイプ・モンスター",
+   "en": "HWR-00-Mk I Prototype Monster"
+  },
+  {
+   "series": "Macross Zero",
+   "ja": "オクトス",
+   "en": "Octos"
+  },
+  {
+   "series": "Macross Zero",
+   "ja": "鳥の人",
+   "en": "Bird Human",
+   "avoid": [
+    "Birdman",
+    "Bird Man"
+   ]
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "VF-1D バルキリー",
+   "en": "VF-1D Valkyrie"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "VF-1A バルキリー",
+   "en": "VF-1A Valkyrie"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "VF-1J バルキリー",
+   "en": "VF-1J Valkyrie"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "VF-1S バルキリー",
+   "en": "VF-1S Valkyrie"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "ロイ・フォッカー・スペシャル",
+   "en": "Roy Focker Special"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "ADR-04-Mk.X ディフェンダー",
+   "en": "ADR-04-Mk X Defender"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "MBR-07-Mk.II スパルタン",
+   "en": "MBR-07-Mk II Spartan"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "MBR-04-Mk-IV トマホーク",
+   "en": "MBR-04-Mk IV Tomahawk"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "SDR-04-Mk.XII ファランクス",
+   "en": "SDR-04-Mk XII Phalanx"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "HWR-00-Mk.II モンスター",
+   "en": "HWR-00-Mk II Monster"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "SDF-1 マクロス",
+   "en": "SDF-1 Macross"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "ダイダロスタイプ",
+   "en": "Daedalus Type"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "アームド級宇宙空母",
+   "en": "ARMD-class space carrier",
+   "aliases": [
+    "ARMD"
+   ]
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "リガード",
+   "en": "Regult",
+   "avoid": [
+    "Regald",
+    "Regult Pod"
+   ]
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "グラージ",
+   "en": "Glaug"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "ヌージャデル・ガー",
+   "en": "Nousjadeul-Ger"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "クァドラン・ロー",
+   "en": "Queadluun-Rau",
+   "avoid": [
+    "Quadrono",
+    "Quadran Low"
+   ]
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "ケルカリア",
+   "en": "Quel-Quallie",
+   "notes": "Wiki 'Quel-Quallie' is ケル・カリィ, so ケルカリア may be a different unit. Research needed.",
+   "status": "needs_research"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "スヴァール・サラン",
+   "en": "Thuverl-Salan",
+   "notes": "Wiki: 'Thuverl-Salan-class' (Zentradi cruiser)."
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "ブリタイ艦",
+   "en": "Vrlitwhai's flagship",
+   "notes": "Nupetiet-Vergnitzs class. UI-length alternative: 'Vrlitwhai Ship'."
+  },
+  {
+   "series": "DYRL",
+   "ja": "VT-1 スーパーオストリッチ",
+   "en": "VT-1 Super Ostrich"
+  },
+  {
+   "series": "DYRL",
+   "ja": "SDF-1 マクロス アームドタイプ",
+   "en": "SDF-1 Macross Armored Type",
+   "status": "needs_check"
+  },
+  {
+   "series": "DYRL",
+   "ja": "ゴル・ボドルザー",
+   "en": "Golg Boddole Zer",
+   "notes": "Unit named after the character."
+  },
+  {
+   "series": "DYRL",
+   "ja": "ゴルグ・ガンツ・チャーツ",
+   "en": "",
+   "notes": "Unusable unit. English name not found on the wiki yet.",
+   "status": "needs_research"
+  },
+  {
+   "series": "DYRL",
+   "ja": "ミリア艦",
+   "en": "Milia's ship"
+  },
+  {
+   "series": "Flash Back 2012",
+   "ja": "VF-4 ライトニングIII",
+   "en": "VF-4 Lightning III"
+  },
+  {
+   "series": "Macross M3",
+   "ja": "VF-9 カットラス",
+   "en": "VF-9 Cutlass"
+  },
+  {
+   "series": "Macross Plus",
+   "ja": "VF-11B サンダーボルト",
+   "en": "VF-11B Thunderbolt"
+  },
+  {
+   "series": "Macross Plus",
+   "ja": "YF-19",
+   "en": "YF-19"
+  },
+  {
+   "series": "Macross Plus",
+   "ja": "YF-21",
+   "en": "YF-21"
+  },
+  {
+   "series": "Macross Plus",
+   "ja": "X-9 ゴースト",
+   "en": "X-9 Ghost"
+  },
+  {
+   "series": "Macross Plus",
+   "ja": "爆撃機",
+   "en": "Bomber"
+  },
+  {
+   "series": "Macross Plus",
+   "ja": "ドローン",
+   "en": "Drone"
+  },
+  {
+   "series": "Macross Plus",
+   "ja": "レーザー衛星",
+   "en": "Laser Satellite"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "VF-19改 ファイヤーバルキリー",
+   "en": "VF-19 Kai Fire Valkyrie"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "VF-11MAXL改 ミレーヌバルキリー",
+   "en": "VF-11MAXL Kai Mylene Valkyrie"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "VF-17T改 ストームバルキリー",
+   "en": "VF-17T Kai Storm Valkyrie"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "VF-11C サンダーボルト",
+   "en": "VF-11C Thunderbolt"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "VF-17D ステルスバルキリー",
+   "en": "VF-17D Stealth Valkyrie",
+   "notes": "Model name is Nightmare; this game uses the nickname 'Stealth Valkyrie'."
+  },
+  {
+   "series": "Macross 7",
+   "ja": "VF-17S ステルスバルキリー",
+   "en": "VF-17S Stealth Valkyrie"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "VF-19F ブレイザーバルキリー",
+   "en": "VF-19F Blazer Valkyrie"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "VF-19S ブレイザーバルキリー",
+   "en": "VF-19S Blazer Valkyrie"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "VF-22S シュトゥルムフォーゲルII",
+   "en": "VF-22S Sturmvogel II",
+   "avoid": [
+    "Sturmvogel 2",
+    "Stormvogel"
+   ]
+  },
+  {
+   "series": "Macross 7",
+   "ja": "バトル7",
+   "en": "Battle 7"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "Fz-109A エルガーゾルン",
+   "en": "Fz-109A Elgersoln"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "Fz-109F エルガーゾルン",
+   "en": "Fz-109F Elgersoln"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "Az-130 パンツァーゾルン",
+   "en": "Az-130 Panzersoln"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "FBz-99G ザウバーゲラン",
+   "en": "FBz-99G Zaubergeran"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "バロータ艦",
+   "en": "Varauta ship"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "ギギル艦",
+   "en": "Gigile's ship"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "ゲペルニッチ艦",
+   "en": "Gepelnitchi's ship"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "グラビル",
+   "en": "Glavil"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "ゲペルニッチ",
+   "en": "Gepelnitchi"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "クァドラン・ロー（はぐれ）",
+   "en": "Queadluun-Rau (Rogue)"
+  },
+  {
+   "series": "Macross 7",
+   "ja": "クァドラン・ロー（クロレ機）",
+   "en": "Queadluun-Rau (Chlore)"
+  },
+  {
+   "series": "Macross Dynamite 7",
+   "ja": "VF-19P エクスカリバー パトロール隊仕様",
+   "en": "VF-19P Excalibur Patrol Type"
+  },
+  {
+   "series": "Macross Dynamite 7",
+   "ja": "潜水服",
+   "en": "Diving Suit"
+  },
+  {
+   "series": "Macross Dynamite 7",
+   "ja": "VF-5000T-G スターミラージュ",
+   "en": "VF-5000T-G Star Mirage"
+  },
+  {
+   "series": "Macross Dynamite 7",
+   "ja": "VF-5000G スターミラージュ",
+   "en": "VF-5000G Star Mirage"
+  },
+  {
+   "series": "Macross Dynamite 7",
+   "ja": "VF-17D ナイトメア",
+   "en": "VF-17D Nightmare"
+  },
+  {
+   "series": "Macross Dynamite 7",
+   "ja": "VA-C-3 インベーダー改",
+   "en": "VA-C-3 Invader Kai"
+  },
+  {
+   "series": "Macross Dynamite 7",
+   "ja": "VT-1C オストリッチ",
+   "en": "VT-1C Ostrich"
+  },
+  {
+   "series": "Macross Dynamite 7",
+   "ja": "銀河クジラ",
+   "en": "Galaxy Whale",
+   "aliases": [
+    "Vahla Ena"
+   ],
+   "notes": "Wiki article: 'Vahla Ena' (バーラエナ). The game says 銀河クジラ, so use 'Galaxy Whale'."
+  },
+  {
+   "series": "Macross Dynamite 7",
+   "ja": "密漁団母艦",
+   "en": "Poachers' Mothership"
+  },
+  {
+   "series": "Macross VF-X2",
+   "ja": "VF-1S バルキリー（バンローズ機）",
+   "en": "VF-1S Valkyrie (Barnrose)"
+  },
+  {
+   "series": "Macross VF-X2",
+   "ja": "VF-19A レイヴンズ仕様",
+   "en": "VF-19A Ravens Type"
+  },
+  {
+   "series": "Macross VF-X2",
+   "ja": "VF-22 シュトゥルムフォーゲルII（ウィルバー機）",
+   "en": "VF-22 Sturmvogel II (Wilbur)"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "VF-25F メサイア",
+   "en": "VF-25F Messiah"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "VF-25S メサイア",
+   "en": "VF-25S Messiah"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "VF-25G メサイア",
+   "en": "VF-25G Messiah"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "RVF-25 メサイア",
+   "en": "RVF-25 Messiah"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "VF-171 ナイトメアプラス",
+   "en": "VF-171 Nightmare Plus"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "VF-171EX ナイトメアプラスEX",
+   "en": "VF-171EX Nightmare Plus EX"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "RVF-171EX ナイトメアプラスEX",
+   "en": "RVF-171EX Nightmare Plus EX"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "クァドラン・レア",
+   "en": "Queadluun-Rhea",
+   "avoid": [
+    "Queadluun-Rea",
+    "Queadluun-Rare"
+   ]
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "VB-6 ケーニッヒモンスター",
+   "en": "VB-6 König Monster",
+   "notes": "Use 'Konig' if the font lacks ö."
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "マクロス・クォーター",
+   "en": "Macross Quarter"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "バトル・フロンティア",
+   "en": "Battle Frontier"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "AIF-9V ゴーストV9",
+   "en": "AIF-9V Ghost V-9"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "VF-27 ルシファー",
+   "en": "VF-27 Lucifer"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "バトル・ギャラクシー",
+   "en": "Battle Galaxy"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "バジュラ",
+   "en": "Vajra"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "バジュラ繭",
+   "en": "Vajra Cocoon"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "バジュラ幼生",
+   "en": "Vajra Larva"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "バジュラ母艦",
+   "en": "Vajra Mothership"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "バジュラ準女王",
+   "en": "Vajra Sub-Queen"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "バジュラクィーン",
+   "en": "Vajra Queen"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "空母級バジュラ艦",
+   "en": "Carrier-class Vajra"
+  },
+  {
+   "series": "Macross Frontier",
+   "ja": "バジュラ準女王母艦",
+   "en": "Vajra Sub-Queen Mothership"
+  },
+  {
+   "series": "Macross II",
+   "ja": "VF-2SS バルキリーII",
+   "en": "VF-2SS Valkyrie II"
+  },
+  {
+   "series": "Macross II",
+   "ja": "ギガメッシュ",
+   "en": "Gigamesh"
+  },
+  {
+   "series": "Macross II",
+   "ja": "ゼントラーディ用ワンマン戦闘ポッド",
+   "en": "Zentradi One-Man Battle Pod"
+  },
+  {
+   "series": "SDF Macross",
+   "ja": "キャッツアイ",
+   "en": "Cat's Eye",
+   "notes": "ES-11D Cat's Eye recon plane.",
+   "sources": [
+    "https://macross.fandom.com/wiki/ES-11D_Cat's_Eye"
+   ]
+  },
+  {
+   "series": "(generic)",
+   "ja": "ＶＦ－０",
+   "en": "VF-0"
+  },
+  {
+   "series": "(generic)",
+   "ja": "ＶＦ－１９ エクスカリバー",
+   "en": "VF-19 Excalibur"
+  },
+  {
+   "series": "(generic)",
+   "ja": "ＶＦ－２２",
+   "en": "VF-22"
+  },
+  {
+   "series": "(generic)",
+   "ja": "ゴースト",
+   "en": "Ghost"
+  },
+  {
+   "series": "(added from UI)",
+   "ja": "シャイアンⅡ",
+   "en": "Cheyenne II",
+   "sources": [
+    "https://macross.fandom.com/wiki/Destroid_Cheyenne_II"
+   ]
+  },
+  {
+   "series": "(added from UI)",
+   "ja": "メガロード０１",
+   "en": "SDF-2 Megaroad-01",
+   "sources": [
+    "https://macross.fandom.com/wiki/SDF-2_Megaroad-01"
+   ]
+  },
+  {
+   "series": "(added from UI)",
+   "ja": "スーパーブースター",
+   "en": "Super Booster"
+  },
+  {
+   "series": "(added from UI)",
+   "ja": "ガビグラ",
+   "en": "Gavigla"
+  }
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "slice": 130,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_kln_369",
+   "en": "Want to join Pixie Team? You're welcome.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_370",
+   "en": "Now that work's done, let's hit the town.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_371",
+   "en": "To think there's a woman pilot I can trust with my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_600",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle",
+    "uncertain"
+   ],
+   "notes": "Heard sakarashi iri; unintelligible, 1.2s; sibling clip is a call for a response"
+  },
+  {
+   "id": "vpf_kln_604",
+   "en": "Pixie Team, launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_615",
+   "en": "Michel, you...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off"
+  },
+  {
+   "id": "vpf_kln_616",
+   "en": "I can't beat you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_617",
+   "en": "I won't lose to you yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_620",
+   "en": "Nene! One's on your tail!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_621",
+   "en": "Nene!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Nunu (Pixie Team member) not in glossary"
+  },
+  {
+   "id": "vpf_kln_622",
+   "en": "Raramia!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard naromia; Pixie Team member is Raramia in the glossary"
+  },
+  {
+   "id": "vpf_kln_623",
+   "en": "Back off, rookie! We're back from recon and carrying live ammo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_624",
+   "en": "Reckless fool, but the sense isn't bad. It depends on the training.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Who is meant is not stated; likely the rookie Alto but kept neutral"
+  },
+  {
+   "id": "vpf_kln_625",
+   "en": "I'm going ahead, Michel. Don't cry again just because you can't see me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_626",
+   "en": "Monster!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_627",
+   "en": "Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_628",
+   "en": "Keep up, Nene, Raramia.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard daramia; read as Raramia"
+  },
+  {
+   "id": "vpf_kln_629",
+   "en": "Our ancestors or the Protodeviln, maybe. But the enemy isn't even a sentient being.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Iza shirazu construction; ancestors presumably Protoculture or the Zentradi forebears"
+  },
+  {
+   "id": "vpf_kln_630",
+   "en": "Yack Deculture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_632",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream"
+  },
+  {
+   "id": "vpf_kln_633",
+   "en": "You may not be happy about this, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_634",
+   "en": "But I'm Zentradi after all. I can't just back down in silence after losing the man I love.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_636",
+   "en": "You're the ones who attacked us!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_637",
+   "en": "Alto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_000",
+   "en": "Luca Angeloni, launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_001",
+   "en": "Skull 3, launch preparations complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_002",
+   "en": "Oh, yes! I can launch anytime!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_003",
+   "en": "I won't let you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_004",
+   "en": "That was close.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_005",
+   "en": "Phew.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_006",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_007",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_008",
+   "en": "Huh? Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_009",
+   "en": "How about this?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_010",
+   "en": "How's that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_011",
+   "en": "That hurts!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_012",
+   "en": "How could you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_014",
+   "en": "Huh?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_015",
+   "en": "Hyah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_016",
+   "en": "Hit!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard atta; read as atatta (hit)"
+  },
+  {
+   "id": "vpf_luk_017",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_018",
+   "en": "There's more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_019",
+   "en": "A bonus!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_020",
+   "en": "I can too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_100",
+   "en": "Simon, John, Peter, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_101",
+   "en": "Let's do this! I will!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_102",
+   "en": "Let's win! No matter what!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_103",
+   "en": "Enemy locked on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_104",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_105",
+   "en": "Found them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_106",
+   "en": "Don't treat me like a kid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_107",
+   "en": "If it's to protect everyone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_108",
+   "en": "This'll do it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard koreran; read as kore nara"
+  },
+  {
+   "id": "vpf_luk_109",
+   "en": "I'm taking it down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_110",
+   "en": "Stop your pointless resistance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_111",
+   "en": "Going well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_112",
+   "en": "Enemy down, confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_113",
+   "en": "I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_114",
+   "en": "I have things I want to protect too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_115",
+   "en": "Here they come!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_116",
+   "en": "I won't let you get away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_117",
+   "en": "That looks like the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_118",
+   "en": "Target destruction confirmed. Nice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_119",
+   "en": "I couldn't let it get away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_120",
+   "en": "Looks like I destroyed it properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_121",
+   "en": "The shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_122",
+   "en": "The shield's been destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_123",
+   "en": "Ah! The shield's down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_124",
+   "en": "I'm still fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_125",
+   "en": "No problem. I can keep going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_127",
+   "en": "That's a tough one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_128",
+   "en": "There must still be a way to turn this around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_129",
+   "en": "I can't give up over this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_130",
+   "en": "How dare you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_131",
+   "en": "I won't go down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_132",
+   "en": "Even if it's reckless, I have to do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_133",
+   "en": "Impossible...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_134",
+   "en": "To think I'd be beaten this badly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_luk_135",
+   "en": "Not yet... not yet... I need to do more...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off"
+  },
+  {
+   "id": "vpf_luk_136",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 10324: Heard sakarashi iri; unintelligible, 1.2s; sibling clip is a call for a response",
+   "row 10338: Iza shirazu construction; ancestors presumably Protoculture or the Zentradi forebears"
+  ],
+  "whisper_doubt": [
+   "row 10324: Heard sakarashi iri; unintelligible, 1.2s; sibling clip is a call for a response",
+   "row 10331: Heard naromia; Pixie Team member is Raramia in the glossary",
+   "row 10337: Heard daramia; read as Raramia",
+   "row 10360: Heard atta; read as atatta (hit)",
+   "row 10373: Heard koreran; read as kore nara"
+  ],
+  "kept_omission": [
+   "row 10333: Who is meant is not stated; likely the rookie Alto but kept neutral"
+  ],
+  "missing_glossary": [
+   "row 10330: Nunu (Pixie Team member) not in glossary"
+  ],
+  "unfinished": [
+   "row 10326",
+   "row 10399"
+  ]
+ }
+}

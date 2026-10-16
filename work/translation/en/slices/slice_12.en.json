@@ -1,0 +1,516 @@
+{
+ "slice": 12,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "mt_042:0ae6",
+   "en": "In Fighter mode, and on some units,\nAnti-Missile Action scatters flares\nto bring down enemy missiles.",
+   "flags": [],
+   "notes": "Source splits the term across lines mid-word; English keeps the term whole on line 2. Two line breaks kept."
+  },
+  {
+   "id": "mt_042:0b57",
+   "en": "That concludes the explanation of\nAnti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mt_042:0b9f",
+   "en": "The targets will fire missiles at you,\nso practice using\nAnti-Missile Action.",
+   "flags": [],
+   "notes": "Added 'at you' (the player is the missile target; implied by the tutorial)."
+  },
+  {
+   "id": "mt_042:0c04",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": "review: repeated tutorial line; majority form | review: refit: line break moved"
+  },
+  {
+   "id": "mx_011:0ccb",
+   "en": "Shoot down the enemy ace",
+   "flags": [],
+   "notes": "Mission objective; no final period, matching source. | review: stock objective; majority form"
+  },
+  {
+   "id": "mx_011:113b",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "my_330:2ada",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5000:col1",
+   "en": "Beginner",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5001:col1",
+   "en": "Trainee Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5002:col1",
+   "en": "In Training",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5003:col1",
+   "en": "Greenhorn",
+   "flags": [],
+   "notes": "Literally 'half a person', i.e. not yet fully fledged."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5004:col1",
+   "en": "Recruit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5005:col1",
+   "en": "Fledgling",
+   "flags": [],
+   "notes": "Literally 'chick'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5006:col1",
+   "en": "Rookie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5007:col1",
+   "en": "Supernova",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5008:col1",
+   "en": "Virtuoso",
+   "flags": [],
+   "notes": "Literally 'master hand / expert'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5009:col1",
+   "en": "The Real Deal",
+   "flags": [],
+   "notes": "Literally 'someone of proven ability'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5010:col1",
+   "en": "Full-Fledged",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5011:col1",
+   "en": "Galactic Guide",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5012:col1",
+   "en": "Instructor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5013:col1",
+   "en": "Hardened Warrior",
+   "flags": [],
+   "notes": "Literally a tough, seasoned fighter."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5014:col1",
+   "en": "Swift as Lightning",
+   "flags": [],
+   "notes": "Four-character idiom 'swift wind, sudden thunder'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5015:col1",
+   "en": "Crack Pilot",
+   "flags": [],
+   "notes": "Literally 'formidable skill'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5016:col1",
+   "en": "Elite Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5017:col1",
+   "en": "Battle-Hardened",
+   "flags": [],
+   "notes": "Idiom 'tempered in a hundred battles'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5018:col1",
+   "en": "King of Melee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5019:col1",
+   "en": "Asura",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5020:col1",
+   "en": "God of Battle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5021:col1",
+   "en": "Expert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5022:col1",
+   "en": "Ace Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5023:col1",
+   "en": "First-Gen Diehard",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'the original/first generation is my life'. Most likely the original SDF Macross (or its VF-1); kept generic. Same 'Diehard' pattern as rows 912, 957-959."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5024:col1",
+   "en": "Destroid Diehard",
+   "flags": [],
+   "notes": "Literally 'Destroids are my life'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5025:col1",
+   "en": "Speed Star",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5026:col1",
+   "en": "Hard Puncher",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5027:col1",
+   "en": "Spiritia Dream",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5028:col1",
+   "en": "Hard Rocker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5029:col1",
+   "en": "Zentradi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5030:col1",
+   "en": "Star Performer",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Idiom for a top-billed kabuki actor / crowd-pleaser; likely a nod to Alto's kabuki past. Rendered neutrally since any pilot can wear it."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5031:col1",
+   "en": "Kung Fu Dandy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5032:col1",
+   "en": "Purple Flight",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Unit name 'Purple' + platoon not in glossary; followed the Skull Squadron convention for the platoon word. | review: Shin Kudo's unit; wiki uses 'Purple Flight' (callsign Purple 1) | review: term now in glossary"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5033:col1",
+   "en": "Kira☆",
+   "flags": [],
+   "notes": "Ranka's line, per brief."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5034:col1",
+   "en": "Gojappe",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ibaraki dialect for 'nonsense / sloppy, half-baked'; a character catchphrase I could not attribute, so romanized. Alternative: 'Nonsense!'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5035:col1",
+   "en": "To the Endth☆",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Catchphrase of unknown origin and meaning; romanized, star kept. Also appears later as 'Galactic Hachemare' (item 5249) - keep consistent. | review: same lisped 'to the ends' as row 1137; match its rendering"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5036:col1",
+   "en": "Miss Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5037:col1",
+   "en": "Turkey",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Katakana 'turkey'; origin unclear (bowling term for three strikes in a row, or a character nickname). Literal kept."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5038:col1",
+   "en": "Rising Star",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5039:col1",
+   "en": "New Face",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5040:col1",
+   "en": "Up-and-Comer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5041:col1",
+   "en": "Dark Horse",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5042:col1",
+   "en": "Head Honcho",
+   "flags": [],
+   "notes": "Katakana 'honcho' (from the Japanese for squad leader)."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5043:col1",
+   "en": "Professional",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5044:col1",
+   "en": "Emperor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5045:col1",
+   "en": "Army of One",
+   "flags": [],
+   "notes": "Idiom 'one rider worth a thousand'; gender-neutral rendering."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5046:col1",
+   "en": "Unrivaled",
+   "flags": [],
+   "notes": "Idiom 'peerless under heaven'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5047:col1",
+   "en": "Overlord",
+   "flags": [],
+   "notes": "Literally 'hegemon king'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5048:col1",
+   "en": "Fierce Deity",
+   "flags": [],
+   "notes": "Kept distinct from row 937."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5049:col1",
+   "en": "Demon God",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5050:col1",
+   "en": "Roy Focker Medal",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5051:col1",
+   "en": "Super Dimension Fortress",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5052:col1",
+   "en": "Super Dimension Restaurant",
+   "flags": [],
+   "notes": "First half of the Nyan-Nyan restaurant's full name."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5053:col1",
+   "en": "Galactic Diva",
+   "flags": [],
+   "notes": "Literally 'songstress of the galaxy'; not in glossary (Galactic Fairy and Super Dimension Cinderella are). | review: term added to glossary"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5054:col1",
+   "en": "Galactic Fairy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5055:col1",
+   "en": "Super Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5056:col1",
+   "en": "Super Dimension Cinderella",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5057:col1",
+   "en": "Missile Maniac",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5058:col1",
+   "en": "Fan Favorite",
+   "flags": [],
+   "notes": "Literally 'popular person'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5059:col1",
+   "en": "Battle Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5060:col1",
+   "en": "Skill Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5061:col1",
+   "en": "Tactician",
+   "flags": [],
+   "notes": "Literally 'staff officer / strategist'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5062:col1",
+   "en": "True Master",
+   "flags": [],
+   "notes": "Literally 'one who has mastered it all'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5063:col1",
+   "en": "Ace Frontier",
+   "flags": [],
+   "notes": "Title of the previous game (Macross Ace Frontier)."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5064:col1",
+   "en": "Skull Leader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5065:col1",
+   "en": "FIRE BOMBER",
+   "flags": [],
+   "notes": "Source uses the all-caps band logo spelling; 'FIRE BOMBER' is a listed glossary alias of Fire Bomber."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5066:col1",
+   "en": "King of Fists",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5067:col1",
+   "en": "Sniper",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5068:col1",
+   "en": "Galactic Vocalist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5069:col1",
+   "en": "Battroid Diehard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5070:col1",
+   "en": "GERWALK Diehard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5071:col1",
+   "en": "Fighter Diehard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5072:col1",
+   "en": "Skull Squadron",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 911: 'First-Gen Diehard' - 'first generation' read as the original Macross; could also mean the VF-1.",
+   "row 918: 'Star Performer' - kabuki idiom, probably an Alto reference.",
+   "row 920: 'Purple Squadron' - unit not in glossary; source of the name unknown.",
+   "row 922: 'Gojappe' - Ibaraki dialect for 'nonsense/sloppy', romanized as an unattributed catchphrase.",
+   "row 923: 'Hachemare' - unknown catchphrase, romanized.",
+   "row 925: 'Turkey' - origin unclear, kept literal."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 920: 'Purple' platoon - used as 'Purple Squadron'",
+   "row 941: 'songstress of the galaxy' title - used as 'Galactic Diva'",
+   "row 922/923: catchphrases 'gojappe' and 'hachemare' - origin unknown, romanized"
+  ],
+  "unfinished": []
+ }
+}

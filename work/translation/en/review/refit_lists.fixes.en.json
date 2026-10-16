@@ -1,0 +1,1017 @@
+{
+ "fixes": [
+  {
+   "row": 1012,
+   "en": "I like the sky better than the sea.",
+   "why": "refit: dropped 'just'"
+  },
+  {
+   "id": "u2636",
+   "en": "I like the sky better than the sea.",
+   "why": "refit: UI copy of title row 1012, changed identically"
+  },
+  {
+   "row": 1016,
+   "en": "Like I'd fight a war scared o' booze!",
+   "why": "refit: compressed; kept Roy's slurred tone with o'"
+  },
+  {
+   "id": "u2644",
+   "en": "Like I'd fight a war scared o' booze!",
+   "why": "refit: UI copy of title row 1016, changed identically"
+  },
+  {
+   "row": 1020,
+   "en": "Stupid... way too damn stupid!",
+   "why": "refit: dropped 'This is'"
+  },
+  {
+   "id": "u2652",
+   "en": "Stupid... way too damn stupid!",
+   "why": "refit: UI copy of title row 1020, changed identically"
+  },
+  {
+   "row": 1022,
+   "en": "Where's the Bird Human's head?",
+   "why": "refit: 'What have you done with' -> 'Where's'"
+  },
+  {
+   "id": "u2656",
+   "en": "Where's the Bird Human's head?",
+   "why": "refit: UI copy of title row 1022, changed identically"
+  },
+  {
+   "row": 1026,
+   "en": "I don't wanna hear your weird song.",
+   "why": "refit: 'singing' -> 'song'; period as in source (no exclamation)"
+  },
+  {
+   "id": "u2664",
+   "en": "I don't wanna hear your weird song.",
+   "why": "refit: UI copy of title row 1026, changed identically"
+  },
+  {
+   "row": 1027,
+   "en": "Still playing the noble knight, huh?",
+   "why": "refit: 'are you?' -> 'huh?'"
+  },
+  {
+   "id": "u2666",
+   "en": "Still playing the noble knight, huh?",
+   "why": "refit: UI copy of title row 1027, changed identically"
+  },
+  {
+   "row": 1031,
+   "en": "A toast to our reunion after 7 years!",
+   "why": "refit: 'Let's drink a toast' -> 'A toast'; seven -> 7"
+  },
+  {
+   "id": "u2674",
+   "en": "A toast to our reunion after 7 years!",
+   "why": "refit: UI copy of title row 1031, changed identically"
+  },
+  {
+   "row": 1040,
+   "en": "Don't mouth off on a whim, brat!",
+   "why": "refit: 'run your mouth' -> 'mouth off'; merged 'You brat!'"
+  },
+  {
+   "id": "u2692",
+   "en": "Don't mouth off on a whim, brat!",
+   "why": "refit: UI copy of title row 1040, changed identically"
+  },
+  {
+   "row": 1042,
+   "en": "You're really still just a kid after all.",
+   "why": "refit: tightened word order"
+  },
+  {
+   "id": "u2696",
+   "en": "You're really still just a kid after all.",
+   "why": "refit: UI copy of title row 1042, changed identically"
+  },
+  {
+   "row": 1043,
+   "en": "What do you have wings for?!",
+   "why": "refit: restructured question"
+  },
+  {
+   "id": "u2698",
+   "en": "What do you have wings for?!",
+   "why": "refit: UI copy of title row 1043, changed identically"
+  },
+  {
+   "row": 1045,
+   "en": "Got a gripe? Take the top next time.",
+   "why": "refit: 'If you've got a complaint' -> 'Got a gripe?'; 'top spot' -> 'top'"
+  },
+  {
+   "id": "u2702",
+   "en": "Got a gripe? Take the top next time.",
+   "why": "refit: UI copy of title row 1045, changed identically"
+  },
+  {
+   "row": 1046,
+   "en": "An amateur? You're good for one.",
+   "why": "refit: compressed both clauses; subject of 2nd clause dropped | review: subject restored"
+  },
+  {
+   "id": "u2704",
+   "en": "An amateur? You're good for one.",
+   "why": "refit: UI copy of title row 1046, changed identically | review: subject restored"
+  },
+  {
+   "row": 1047,
+   "en": "I only did my duty, Commander.",
+   "why": "refit: 'what anyone would do' -> 'my duty'"
+  },
+  {
+   "id": "u2706",
+   "en": "I only did my duty, Commander.",
+   "why": "refit: UI copy of title row 1047, changed identically"
+  },
+  {
+   "row": 1051,
+   "en": "A reckless idiot, but good instincts.",
+   "why": "refit: merged 'idiot, and reckless'; dropped 'the kid's got'"
+  },
+  {
+   "id": "u2714",
+   "en": "A reckless idiot, but good instincts.",
+   "why": "refit: UI copy of title row 1051, changed identically"
+  },
+  {
+   "row": 1052,
+   "en": "Take that! Take that! Take that!",
+   "why": "refit: 4 repeats -> 3"
+  },
+  {
+   "id": "u2716",
+   "en": "Take that! Take that! Take that!",
+   "why": "refit: UI copy of title row 1052, changed identically"
+  },
+  {
+   "row": 1053,
+   "en": "Who can love if they fear dying?!",
+   "why": "refit: rhetorical question compressed, kept generic subject"
+  },
+  {
+   "id": "u2718",
+   "en": "Who can love if they fear dying?!",
+   "why": "refit: UI copy of title row 1053, changed identically"
+  },
+  {
+   "row": 1055,
+   "en": "All hands, sadly, this is not a drill.",
+   "why": "refit: 'I regret to say' -> 'sadly'"
+  },
+  {
+   "id": "u2722",
+   "en": "All hands, sadly, this is not a drill.",
+   "why": "refit: UI copy of title row 1055, changed identically"
+  },
+  {
+   "row": 1057,
+   "en": "Perish! Scatter to the galaxy's end!!",
+   "why": "refit: 'the ends of the galaxy' -> 'the galaxy's end'"
+  },
+  {
+   "id": "u2726",
+   "en": "Perish! Scatter to the galaxy's end!!",
+   "why": "refit: UI copy of title row 1057, changed identically"
+  },
+  {
+   "row": 1061,
+   "en": "Don't regret--go all in and shatter!",
+   "why": "refit: kept logic 'rather than regret, go all in and shatter'"
+  },
+  {
+   "id": "u2734",
+   "en": "Don't regret--go all in and shatter!",
+   "why": "refit: UI copy of title row 1061, changed identically"
+  },
+  {
+   "row": 1062,
+   "en": "Hold me tight! To the galaxy's end!!",
+   "why": "refit: famous line: kept 'Hold me tight!', 'ends of the galaxy' -> 'galaxy's end'"
+  },
+  {
+   "id": "u2736",
+   "en": "Hold me tight! To the galaxy's end!!",
+   "why": "refit: UI copy of title row 1062, changed identically"
+  },
+  {
+   "row": 1065,
+   "en": "Oh my, you don't want me along?",
+   "why": "refit: 'want to be with me' -> 'want me along'"
+  },
+  {
+   "id": "u2742",
+   "en": "Oh my, you don't want me along?",
+   "why": "refit: UI copy of title row 1065, changed identically"
+  },
+  {
+   "row": 1067,
+   "en": "I rarely offer this service, y'know!",
+   "why": "refit: 'don't give out ... very often' -> 'rarely offer'"
+  },
+  {
+   "id": "u2746",
+   "en": "I rarely offer this service, y'know!",
+   "why": "refit: UI copy of title row 1067, changed identically"
+  },
+  {
+   "row": 1070,
+   "en": "Missions! Is that all you think of?!",
+   "why": "refit: 'Mission this, mission that' -> 'Missions!'; kept 'all you think of' (not the strength taunt)"
+  },
+  {
+   "id": "u2752",
+   "en": "Missions! Is that all you think of?!",
+   "why": "refit: UI copy of title row 1070, changed identically"
+  },
+  {
+   "row": 1073,
+   "en": "I'll never again say I'll quit singing.",
+   "why": "refit: restructured"
+  },
+  {
+   "id": "u2758",
+   "en": "I'll never again say I'll quit singing.",
+   "why": "refit: UI copy of title row 1073, changed identically"
+  },
+  {
+   "row": 1075,
+   "en": "*pant pant*... Ah... how beautiful.",
+   "why": "refit: three pants merged into one marker"
+  },
+  {
+   "id": "u2762",
+   "en": "*pant pant*... Ah... how beautiful.",
+   "why": "refit: UI copy of title row 1075, changed identically"
+  },
+  {
+   "row": 1078,
+   "en": "No good! I won't make it! Waaagh!",
+   "why": "refit: dropped 'It's'"
+  },
+  {
+   "id": "u2768",
+   "en": "No good! I won't make it! Waaagh!",
+   "why": "refit: UI copy of title row 1078, changed identically"
+  },
+  {
+   "row": 1080,
+   "en": "I hate you for the shame of defeat!",
+   "why": "refit: 'branding me with the disgrace' -> 'the shame'"
+  },
+  {
+   "id": "u2772",
+   "en": "I hate you for the shame of defeat!",
+   "why": "refit: UI copy of title row 1080, changed identically"
+  },
+  {
+   "row": 1081,
+   "en": "As a warrior, learn some shame.",
+   "why": "refit: 'you should learn' -> imperative 'learn'"
+  },
+  {
+   "id": "u2774",
+   "en": "As a warrior, learn some shame.",
+   "why": "refit: UI copy of title row 1081, changed identically"
+  },
+  {
+   "row": 1082,
+   "en": "Me... the one hailed as Ace of Aces...",
+   "why": "refit: 'they called the' -> 'hailed as'"
+  },
+  {
+   "id": "u2776",
+   "en": "Me... the one hailed as Ace of Aces...",
+   "why": "refit: UI copy of title row 1082, changed identically"
+  },
+  {
+   "row": 1083,
+   "en": "We will now cover your ship.",
+   "why": "refit: 'provide cover for' -> 'cover'"
+  },
+  {
+   "id": "u2778",
+   "en": "We will now cover your ship.",
+   "why": "refit: UI copy of title row 1083, changed identically"
+  },
+  {
+   "row": 1084,
+   "en": "Show me this thing called 'kiiss'...",
+   "why": "refit: 'you call a' -> 'called'"
+  },
+  {
+   "id": "u2780",
+   "en": "Show me this thing called 'kiiss'...",
+   "why": "refit: UI copy of title row 1084, changed identically"
+  },
+  {
+   "row": 1085,
+   "en": "What was that mountain called...?",
+   "why": "refit: dropped 'again'"
+  },
+  {
+   "id": "u2782",
+   "en": "What was that mountain called...?",
+   "why": "refit: UI copy of title row 1085, changed identically"
+  },
+  {
+   "row": 1086,
+   "en": "I'll make it ring to the galaxy's end!",
+   "why": "refit: 'ring out to the ends of the galaxy' -> 'ring to the galaxy's end'"
+  },
+  {
+   "id": "u2784",
+   "en": "I'll make it ring to the galaxy's end!",
+   "why": "refit: UI copy of title row 1086, changed identically"
+  },
+  {
+   "row": 1087,
+   "en": "I'll make the universe ring with it!!",
+   "why": "refit: 'echo through the whole universe' -> 'universe ring with it'"
+  },
+  {
+   "id": "u2786",
+   "en": "I'll make the universe ring with it!!",
+   "why": "refit: UI copy of title row 1087, changed identically"
+  },
+  {
+   "row": 1088,
+   "en": "Hurl a burning heart--that's a song!",
+   "why": "refit: 'Slamming your burning heart into it' -> 'Hurl a burning heart'"
+  },
+  {
+   "id": "u2788",
+   "en": "Hurl a burning heart--that's a song!",
+   "why": "refit: UI copy of title row 1088, changed identically"
+  },
+  {
+   "row": 1089,
+   "en": "All right, I'll play my heart out!",
+   "why": "refit: 'I'm gonna' -> 'I'll'"
+  },
+  {
+   "id": "u2790",
+   "en": "All right, I'll play my heart out!",
+   "why": "refit: UI copy of title row 1089, changed identically"
+  },
+  {
+   "row": 1090,
+   "en": "Special live show time! Let's start!",
+   "why": "refit: 'It's time for a' -> '... time!'"
+  },
+  {
+   "id": "u2792",
+   "en": "Special live show time! Let's start!",
+   "why": "refit: UI copy of title row 1090, changed identically"
+  },
+  {
+   "row": 1092,
+   "en": "You're no match for me in my day.",
+   "why": "refit: 'nowhere near what I was in my younger days' -> 'no match for me in my day'"
+  },
+  {
+   "id": "u2796",
+   "en": "You're no match for me in my day.",
+   "why": "refit: UI copy of title row 1092, changed identically"
+  },
+  {
+   "row": 1093,
+   "en": "Eyes on the monitor!",
+   "why": "refit: 'Don't take your eyes off' -> 'Eyes on'; also fits the u0352 mission-name copy"
+  },
+  {
+   "id": "u0352",
+   "en": "Eyes on the monitor!",
+   "why": "refit: UI copy of title row 1093, changed identically"
+  },
+  {
+   "row": 1096,
+   "en": "I'll give you a full taste of fear.",
+   "why": "refit: 'make you taste fear to the fullest' -> 'give you a full taste'"
+  },
+  {
+   "id": "u2803",
+   "en": "I'll give you a full taste of fear.",
+   "why": "refit: UI copy of title row 1096, changed identically"
+  },
+  {
+   "row": 1098,
+   "en": "I'll wreck you! Suppression Beauty!",
+   "why": "refit: 'destroy you utterly' -> 'wreck you'"
+  },
+  {
+   "id": "u2807",
+   "en": "I'll wreck you! Suppression Beauty!",
+   "why": "refit: UI copy of title row 1098, changed identically"
+  },
+  {
+   "row": 1099,
+   "en": "Heh, you came. Annihilation Beauty.",
+   "why": "refit: 'so you've shown yourself' -> 'you came'"
+  },
+  {
+   "id": "u2809",
+   "en": "Heh, you came. Annihilation Beauty.",
+   "why": "refit: UI copy of title row 1099, changed identically"
+  },
+  {
+   "row": 1106,
+   "en": "We now have the whole universe!",
+   "why": "refit: 'have now taken ... for ourselves' -> 'now have'"
+  },
+  {
+   "id": "u2823",
+   "en": "We now have the whole universe!",
+   "why": "refit: UI copy of title row 1106, changed identically"
+  },
+  {
+   "row": 1171,
+   "en": "Seikan Hikou",
+   "why": "refit: unencodable o-macron -> glossary spelling 'Seikan Hikou'"
+  },
+  {
+   "id": "u0133",
+   "en": "Keep Ally Units Alive",
+   "why": "refit: 'Allied' -> 'Ally'"
+  },
+  {
+   "id": "u0134",
+   "en": "Defeat Ace Fast",
+   "why": "refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0143",
+   "en": "Stop Ace's Escape",
+   "why": "refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0168",
+   "en": "Keep Destroids Safe",
+   "why": "refit: 'Destroid Squad Alive' -> 'Destroids Safe'"
+  },
+  {
+   "id": "u0177",
+   "en": "Defeat Queadluun",
+   "why": "refit: source says only the base name, no '-Rau'"
+  },
+  {
+   "id": "u0186",
+   "en": "Spare Enemy Squad",
+   "why": "refit: 'Keep ... Members Alive' -> 'Spare'"
+  },
+  {
+   "id": "u0187",
+   "en": "Spare Enemy Leader",
+   "why": "refit: 'Keep Enemy Squad Leader Alive' -> 'Spare Enemy Leader'"
+  },
+  {
+   "id": "u0198",
+   "en": "Defend the Engine",
+   "why": "refit: 'Reaction Engine' -> 'the Engine'"
+  },
+  {
+   "id": "u0207",
+   "en": "Warera, Loli, Conda",
+   "why": "refit: '&' -> comma"
+  },
+  {
+   "id": "u0210",
+   "en": "Capture Success",
+   "why": "refit: 'Capture Successfully' -> 'Capture Success'"
+  },
+  {
+   "id": "u0218",
+   "en": "Beat All Reinf. (1st)",
+   "why": "refit: abbreviated Reinforcements/Half; Defeat -> Beat"
+  },
+  {
+   "id": "u0219",
+   "en": "Beat All Reinf. (2nd)",
+   "why": "refit: abbreviated Reinforcements/Half; Defeat -> Beat"
+  },
+  {
+   "id": "u0227",
+   "en": "Half Special Targets",
+   "why": "refit: dropped verb 'Destroy' (no abbreviation fits with it)"
+  },
+  {
+   "id": "u0228",
+   "en": "Destroy All Sp. Tgts",
+   "why": "refit: abbreviated Special Targets"
+  },
+  {
+   "id": "u0232",
+   "en": "Defeat All Reinf.",
+   "why": "refit: abbreviated Reinforcements, dropped 'Enemy'"
+  },
+  {
+   "id": "u0241",
+   "en": "Defeat 2 Aces",
+   "why": "refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0246",
+   "en": "Keep Guest Alive",
+   "why": "refit: dropped 'Unit'"
+  },
+  {
+   "id": "u0254",
+   "en": "Repel Protodeviln",
+   "why": "refit: dropped 'the'"
+  },
+  {
+   "id": "u0256",
+   "en": "Defeat Flagship Fast",
+   "why": "refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0273",
+   "en": "Defend Gepelnitchi",
+   "why": "refit: dropped honorific 'Lord'"
+  },
+  {
+   "id": "u0276",
+   "en": "End Whale Poaching",
+   "why": "refit: 'Stop Galaxy Whale' -> 'End Whale'"
+  },
+  {
+   "id": "u0281",
+   "en": "Ally Escapes Safely",
+   "why": "refit: restructured"
+  },
+  {
+   "id": "u0283",
+   "en": "All Whales Survive",
+   "why": "refit: 'Keep All Galaxy Whales Alive' -> 'All Whales Survive'"
+  },
+  {
+   "id": "u0285",
+   "en": "Sing All Whales Off",
+   "why": "refit: dropped 'Galaxy'; 'Away' -> 'Off'"
+  },
+  {
+   "id": "u0289",
+   "en": "Defeat All Aces",
+   "why": "refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0291",
+   "en": "Raze Enemy Base",
+   "why": "refit: 'Destroy' -> 'Raze'"
+  },
+  {
+   "id": "u0296",
+   "en": "Keep Ally 1 Alive",
+   "why": "refit: 'Allied Unit' -> 'Ally'"
+  },
+  {
+   "id": "u0297",
+   "en": "Keep Ally 2 Alive",
+   "why": "refit: 'Allied Unit' -> 'Ally'"
+  },
+  {
+   "id": "u0304",
+   "en": "Destroy All Cocoons",
+   "why": "refit: dropped 'Vajra'"
+  },
+  {
+   "id": "u0338",
+   "en": "The Fool Risking His Life for a Woman",
+   "why": "refit: 'Who Risks' -> 'Risking'"
+  },
+  {
+   "id": "u0430",
+   "en": "Defeat Ace Fast",
+   "why": "refit: dropped 'Enemy' (same as u0134)"
+  },
+  {
+   "id": "u0748",
+   "en": "Monster (Quamzin)",
+   "why": "refit: mecha.json personal-unit convention 'Unit (Pilot)'"
+  },
+  {
+   "id": "u0875",
+   "en": "Zola Patrol",
+   "why": "refit: glossary alias of Zolan Star Patrol"
+  },
+  {
+   "id": "u0880",
+   "en": "Not enough free space on the Memory Stick⑳,\nso the folder could not be created.\nDelete save data?",
+   "why": "refit: dropped 'There is'"
+  },
+  {
+   "id": "u0885",
+   "en": "Returning to Top Menu.\nProceed?",
+   "why": "refit: dropped 'the'"
+  },
+  {
+   "id": "u1006",
+   "en": "Add-on Equip. unusable in this mission is selected.\nIt will be auto-removed on sortie.",
+   "why": "refit: abbreviated Equipment; 'removed automatically after you sortie' -> 'auto-removed on sortie'"
+  },
+  {
+   "id": "u1007",
+   "en": "A rookie operator who makes up for inexperience with natural\ncheer and hard work. Her looks and manner make people think\nshe's younger, which bothers her a lot. (CV: Kimiko Koyama)",
+   "why": "refit: reflowed; 'tend to make' -> 'make', 'a great deal' -> 'a lot'"
+  },
+  {
+   "id": "u1008",
+   "en": "A big-sister operator whose precise orders can be gentle or\nstrict. A bit pushy at times, but she looks after others, and\nthe crew adore her as a big sister. (CV: Tomo Adachi)",
+   "why": "refit: 'sometimes gentle, sometimes strict' -> 'can be gentle or strict'; reflowed"
+  },
+  {
+   "id": "u1009",
+   "en": "A prodigy operator whose talent was recognized while young.\nShe hates being treated like a child and always strives to be\nan equal. A bit foul-mouthed, but endearing. (CV: Ai Nonaka)",
+   "why": "refit: reflowed; 'that's part of her charm' -> 'endearing'"
+  },
+  {
+   "id": "u1010",
+   "en": "A skilled operator who judges calmly. His harsh words get him\nmisunderstood; he's just bad at showing emotion and is warm\nat heart. Glasses are his trademark. (CV: Kiyotaka Furushima)",
+   "why": "refit: reflowed; 'with calm judgment' -> 'who judges calmly'"
+  },
+  {
+   "id": "u1011",
+   "en": "An elite U.N. Forces officer, chief combat controller of the\nMacross air wing. A by-the-book stickler whom Hikaru treated\nas an \"old lady\", she gradually falls for him. (CV: Mika Doi)",
+   "why": "refit: dropped 'serving as'; 'comes to love him' -> 'falls for him'; reflowed"
+  },
+  {
+   "id": "u2247",
+   "en": "5min",
+   "why": "refit: consistency with 10min/15min/20min (not in work list; fits either way)"
+  },
+  {
+   "id": "u2248",
+   "en": "10min",
+   "why": "refit: dropped space"
+  },
+  {
+   "id": "u2249",
+   "en": "15min",
+   "why": "refit: dropped space"
+  },
+  {
+   "id": "u2250",
+   "en": "20min",
+   "why": "refit: dropped space"
+  },
+  {
+   "id": "u2251",
+   "en": "0 Respawns",
+   "why": "refit: matches '1 Respawn' ... '8 Respawns'"
+  },
+  {
+   "id": "u2260",
+   "en": "Unlimited",
+   "why": "refit: dropped 'Respawns' (list context)"
+  },
+  {
+   "id": "u2320",
+   "en": "Cpl.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2321",
+   "en": "Sgt.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2322",
+   "en": "Sgt. Maj.",
+   "why": "refit: standard abbreviation; box_unmeasured"
+  },
+  {
+   "id": "u2323",
+   "en": "WO",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2324",
+   "en": "2nd Lt.",
+   "why": "refit: standard abbreviation; box_unmeasured"
+  },
+  {
+   "id": "u2325",
+   "en": "Lt.",
+   "why": "refit: glossary: the game uses army-style ranks, this rank = 'Lieutenant'"
+  },
+  {
+   "id": "u2326",
+   "en": "Capt.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2328",
+   "en": "Lt. Col.",
+   "why": "refit: standard abbreviation; box_unmeasured"
+  },
+  {
+   "id": "u2329",
+   "en": "Col.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2331",
+   "en": "Div. Cmdr.",
+   "why": "refit: abbreviated; box_unmeasured"
+  },
+  {
+   "id": "u2332",
+   "en": "Ldg. Airman",
+   "why": "refit: abbreviated; box_unmeasured"
+  },
+  {
+   "id": "u2333",
+   "en": "Cmdr.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2334",
+   "en": "C-in-C",
+   "why": "refit: standard abbreviation for the top commander; box_unmeasured"
+  },
+  {
+   "id": "u2335",
+   "en": "Chief",
+   "why": "refit: 'Chief Developer' -> 'Chief' (source is just 'chief')"
+  },
+  {
+   "id": "u2336",
+   "en": "Capt.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2430",
+   "en": "Raises the weapon's attack power.",
+   "why": "refit: 'Increases' -> 'Raises'"
+  },
+  {
+   "id": "u2432",
+   "en": "Raises the weapon's rate of fire.",
+   "why": "refit: 'Increases ... rapid-fire count' -> 'Raises ... rate of fire'"
+  },
+  {
+   "id": "u2434",
+   "en": "Raises the weapon's bullet speed.",
+   "why": "refit: 'Increases' -> 'Raises'"
+  },
+  {
+   "id": "u2443",
+   "en": "Raises defense vs. shooting attacks.",
+   "why": "refit: 'Increases ... against' -> 'Raises ... vs.'"
+  },
+  {
+   "id": "u2444",
+   "en": "Raises defense vs. melee attacks.",
+   "why": "refit: 'Increases ... against' -> 'Raises ... vs.'"
+  },
+  {
+   "id": "u2445",
+   "en": "Raises the unit's movement speed.",
+   "why": "refit: 'Increases' -> 'Raises'"
+  },
+  {
+   "id": "u2261",
+   "en": "Force 100",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2262",
+   "en": "Force 200",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2263",
+   "en": "Force 300",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2264",
+   "en": "Force 400",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2265",
+   "en": "Force 500",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2266",
+   "en": "Force 600",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2267",
+   "en": "Force 700",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2268",
+   "en": "Force 800",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2269",
+   "en": "Force 900",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2270",
+   "en": "Force 1000",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2271",
+   "en": "Force 2000",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2272",
+   "en": "Force 3000",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  }
+ ],
+ "unfit": [
+  {
+   "key": "u1034",
+   "reason": "box_unmeasured: weather list limit is 14 px (one kanji); 'Clear' is already the shortest sensible word, left unchanged"
+  },
+  {
+   "key": "u1035",
+   "reason": "box_unmeasured: weather list limit is 14 px (one kanji); 'Cloudy' is already the shortest sensible word, left unchanged"
+  },
+  {
+   "key": "u1036",
+   "reason": "box_unmeasured: weather list limit is 14 px (one kanji); 'Rain' is already the shortest sensible word, left unchanged"
+  },
+  {
+   "key": "u1037",
+   "reason": "box_unmeasured: weather list limit is 14 px (one kanji); 'Fog' is already the shortest sensible word, left unchanged"
+  },
+  {
+   "key": "u1038",
+   "reason": "box_unmeasured: weather list limit is 14 px (one kanji); 'Snow' is already the shortest sensible word, left unchanged"
+  },
+  {
+   "key": "u1040",
+   "reason": "box_unmeasured: 'Simon' is a name (43/42 px, also used in mission unit labels); left unchanged"
+  },
+  {
+   "key": "u2330",
+   "reason": "box_unmeasured: rank list limit is 42 px; 'Civilian' left unchanged as the shortest sensible form"
+  },
+  {
+   "key": "u2337",
+   "reason": "box_unmeasured: rank list limit is 42 px; 'Mayor' left unchanged as the shortest sensible form"
+  },
+  {
+   "key": "u2322",
+   "reason": "box_unmeasured: rank list limit is 42 px; 'Sgt. Maj.' is the shortest sensible abbreviation and is still over"
+  },
+  {
+   "key": "u2324",
+   "reason": "box_unmeasured: rank list limit is 42 px; '2nd Lt.' is the shortest sensible abbreviation and is still over"
+  },
+  {
+   "key": "u2328",
+   "reason": "box_unmeasured: rank list limit is 42 px; 'Lt. Col.' is the shortest sensible abbreviation and is still over"
+  },
+  {
+   "key": "u2331",
+   "reason": "box_unmeasured: rank list limit is 42 px; 'Div. Cmdr.' is the shortest sensible abbreviation and is still over"
+  },
+  {
+   "key": "u2332",
+   "reason": "box_unmeasured: rank list limit is 42 px; 'Ldg. Airman' is the shortest sensible abbreviation and is still over"
+  },
+  {
+   "key": "u2334",
+   "reason": "box_unmeasured: rank list limit is 42 px; 'C-in-C' is the shortest sensible abbreviation and is still over"
+  },
+  {
+   "key": "u0154",
+   "reason": "'Repel Bird Human Fast' 157/140 px: no shorter form keeps both the name and 'fast' (cf. 'Repel Ivanov Fast'); left unchanged"
+  },
+  {
+   "key": "u2644",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (224.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2652",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (196.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2656",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (168.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2664",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (210.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2666",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (196.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2674",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (210.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2696",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (224.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2702",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (238.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2706",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (210.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2714",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (224.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2718",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (224.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2726",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (168.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2736",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (238.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2742",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (196.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2758",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (224.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2762",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (182.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2774",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (196.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2776",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (196.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2778",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (154.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2780",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (210.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2782",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (168.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2784",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (196.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2786",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (168.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2792",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (210.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2796",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (224.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2803",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (196.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2807",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (210.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2809",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (168.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  },
+  {
+   "key": "u2823",
+   "reason": "soft limit only: this EBOOT copy of a shop title is held to its own Japanese width (210.0 px, box unknown); the text is identical to the dialogue row, which fits the 252 px nn_title limit"
+  }
+ ]
+}

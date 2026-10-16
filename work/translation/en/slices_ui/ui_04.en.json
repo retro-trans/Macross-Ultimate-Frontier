@@ -1,0 +1,1328 @@
+{
+ "slice": 4,
+ "rows_in_slice": 213,
+ "rows_examined": 213,
+ "rows": [
+  {
+   "id": "u0740",
+   "en": "Battle suit developed by the Zentradi forces\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0741",
+   "en": "Queadluun-Rau (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0742",
+   "en": "Battle suit developed by the Zentradi forces\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0743",
+   "en": "Queadluun-Rau (Max)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0744",
+   "en": "Battle suit developed by the Zentradi forces\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0745",
+   "en": "A soldier of the Zentradi forces\nA giant five times the height of a human",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0746",
+   "en": "All-Forces Charge",
+   "flags": [],
+   "notes": "SP attack name. | review: Mistranslation: the name means the whole army charges, not an 'all-out' charge; also aligns with the sister SP attack u0747 'All-Forces Full Salvo' (same term)."
+  },
+  {
+   "id": "u0747",
+   "en": "All-Forces Full Salvo",
+   "flags": [],
+   "notes": "SP attack name. 'Full Salvo' matches slice 3."
+  },
+  {
+   "id": "u0748",
+   "en": "Monster (Quamzin)",
+   "flags": [],
+   "notes": "Unit name; Quamzin rides on top of the Monster (see next row). | review: refit: mecha.json personal-unit convention 'Unit (Pilot)'"
+  },
+  {
+   "id": "u0749",
+   "en": "Quamzin sitting astride a Monster\nSteering it the way Quamzin orders is hard work",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0750",
+   "en": "Super Full Salvo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0751",
+   "en": "Zentradi fleet commander\nA warrior who can down a Valkyrie bare-handed",
+   "flags": [],
+   "notes": "Vrlitwhai by context; written without a pronoun."
+  },
+  {
+   "id": "u0752",
+   "en": "Supreme commander of the Zentradi fleets\nThe living core unit of Boddole Zer's flagship",
+   "flags": [],
+   "notes": "Boddole Zer."
+  },
+  {
+   "id": "u0753",
+   "en": "Tentacle Frenzy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0754",
+   "en": "Variable fighter developed to succeed the VF-1\nA VF-11A with boosted engine thrust",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0755",
+   "en": "Prototype variable fighter for the VF-19\nHigh-performing, but twitchy and hard to handle",
+   "flags": [],
+   "notes": "YF-19. 'peaky' rendered 'twitchy'."
+  },
+  {
+   "id": "u0756",
+   "en": "Prototype variable fighter for the VF-22\nHas the brainwave-driven BDI control system",
+   "flags": [],
+   "notes": "YF-21."
+  },
+  {
+   "id": "u0757",
+   "en": "Limiter Release",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0758",
+   "en": "X-9 Ghost",
+   "flags": [],
+   "notes": "Source order is 'Ghost X-9'; glossary name used."
+  },
+  {
+   "id": "u0759",
+   "en": "Unmanned fighter with artificial intelligence\nBeing unmanned, it can fight at extreme speeds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0760",
+   "en": "Ghost Frenzy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0761",
+   "en": "Variable fighter developed to succeed the VF-1\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0762",
+   "en": "Variable fighter developed for special missions\nFlown mainly by Diamond Force members",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0763",
+   "en": "Variable fighter developed for special missions\nFlown by Gamlin as leader of Diamond Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0764",
+   "en": "VF-17S (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0765",
+   "en": "Variable fighter developed for special missions\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0766",
+   "en": "Variable fighter evolved from the VF-11\nFlown mainly by Emerald Force members",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0767",
+   "en": "Variable fighter evolved from the VF-11\nFlown by Docker, leader of Emerald Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0768",
+   "en": "VF-22S (Max)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0769",
+   "en": "Special-mission VF, successor to the VF-17\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0770",
+   "en": "VF-22S (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0771",
+   "en": "Special-mission VF, successor to the VF-17\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0772",
+   "en": "Fire Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0773",
+   "en": "A VF-19 modified for Sound Force use\nBasara's unit, with blazing red as his personal color",
+   "flags": [],
+   "notes": "SF = Sound Force."
+  },
+  {
+   "id": "u0774",
+   "en": "Speaker Pod γ",
+   "flags": [],
+   "notes": "Greek gamma kept (Shift-JIS encodable; the game already uses it in SV-51 gamma)."
+  },
+  {
+   "id": "u0775",
+   "en": "Mylene Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0776",
+   "en": "A VF-11 modified for Sound Force use\nMylene's unit, known for its feminine lines",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0777",
+   "en": "Storm Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0778",
+   "en": "A VF-17 modified for Sound Force use\nRay and Veffidas's unit, with green as their personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0779",
+   "en": "Battle 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0780",
+   "en": "The Macross 7 fleet's key stealth attack carrier\nIts powerful trump card: the Macross Cannon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0781",
+   "en": "A VF converted from a U.N. Forces design\nFlown mainly by Varauta Army rank and file",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0782",
+   "en": "A VF converted from a U.N. Forces design\nGigile's unit, with stronger weapons and thrust",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0783",
+   "en": "Melee + Laser Fire",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0784",
+   "en": "Variable attacker converted from a U.N. Forces design\nDeveloped as the Varauta Army's new mainstay",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0785",
+   "en": "Variable bomber converted from a U.N. Forces design\nPersonal unit of the Protodeviln Gavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0786",
+   "en": "Queadluun-Rau (Chlore)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0787",
+   "en": "Battle suit developed by the Zentradi forces\nChlore's unit, with yellow as the pilot's personal color",
+   "flags": [],
+   "notes": "Chlore is not in characters.json: phrased without a gendered pronoun."
+  },
+  {
+   "id": "u0788",
+   "en": "Glavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0789",
+   "en": "A colossal Protodeviln measuring 300 m\nA dim-witted monster with powerful weapons",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0790",
+   "en": "Super Pentacle Beam",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0791",
+   "en": "Varauta Army commander and Protodeviln leader\nThe largest and mightiest of the Protodeviln",
+   "flags": [],
+   "notes": "Gepelnitchi."
+  },
+  {
+   "id": "u0792",
+   "en": "A variable trainer built for flight training\nArmed with a harpoon gun pod for whale hunting",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0793",
+   "en": "Listen to my song!!",
+   "flags": [],
+   "notes": "Prefilled (tm); kept."
+  },
+  {
+   "id": "u0794",
+   "en": "VF-17D (Liza)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0795",
+   "en": "Variable fighter developed for special missions\nThe unit Liza stole to escape the black marketeers",
+   "flags": [],
+   "notes": "'black marketeers' matches the MG_040 briefing."
+  },
+  {
+   "id": "u0796",
+   "en": "Variable fighter developed from an improved VF-1\nFitted with a Super Booster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0797",
+   "en": "Variable fighter developed from an improved VF-1\nThe mainstay of the Zolan Star Patrol",
+   "flags": [],
+   "notes": "Galaxy Patrol of planet Zola = Zolan Star Patrol (glossary and briefings)."
+  },
+  {
+   "id": "u0798",
+   "en": "Variable fighter evolved from the VF-11\nFlown by Basara to sing to the whale",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0799",
+   "en": "VF-22S (Gamlin)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0800",
+   "en": "Special-mission VF, successor to the VF-17\nGamlin's unit, with black as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0801",
+   "en": "Gamlin Kick Rush",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0802",
+   "en": "Variable attacker that can also operate underwater\nArmed with a harpoon launcher pod for whaling",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0803",
+   "en": "Diving Suit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0804",
+   "en": "A man obsessed with the white Galaxy Whale\nDiving-suited, he fights whales with one harpoon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0805",
+   "en": "Cheyenne II",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Not in mecha.json (only the ADR-03 Cheyenne)."
+  },
+  {
+   "id": "u0806",
+   "en": "Destroid developed as the Cheyenne's successor\nUsed as the Macross Quarter's anti-air defense",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0807",
+   "en": "Multipurpose variable fighter based on the VF-17\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0808",
+   "en": "A VF-171 upgraded to fight the Vajra\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0809",
+   "en": "VF-171EX (Alto)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0810",
+   "en": "A VF-171 upgraded to fight the Vajra\nFlown by Alto as leader of Sagittarius Squadron",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0811",
+   "en": "RVF-171EX (Luca)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0812",
+   "en": "A VF-171 upgraded to fight the Vajra\nLuca's unit, an electronic warfare type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0813",
+   "en": "VF-25F (Alto)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0814",
+   "en": "Latest-model variable fighter issued to S.M.S.\nAlto's unit, tuned for high-mobility combat",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0815",
+   "en": "VF-25S (Ozma)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0816",
+   "en": "Latest-model variable fighter issued to S.M.S.\nOzma's unit, an upgraded commander type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0817",
+   "en": "VF-25G (Michel)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source uses the formal Mihael form; mecha.json pilot_suffix lists 'Michel' as the short name."
+  },
+  {
+   "id": "u0818",
+   "en": "Latest-model variable fighter issued to S.M.S.\nMichel's unit, a long-range support type",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same Michel/Michael call as u0817."
+  },
+  {
+   "id": "u0819",
+   "en": "RVF-25 (Luca)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0820",
+   "en": "Latest-model variable fighter issued to S.M.S.\nLuca's unit, an electronic warfare type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0821",
+   "en": "Queadluun-Rhea",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0822",
+   "en": "Battle suit upgraded from the Queadluun-Rau\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0823",
+   "en": "Queadluun-Rhea (Klan)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0824",
+   "en": "Battle suit upgraded from the Queadluun-Rau\nKlan's unit, with crimson as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0825",
+   "en": "Capt. Klan, in rage and grief at losing her beloved\nA maiden who fights clad in a Super Pack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0826",
+   "en": "Konig Monster",
+   "flags": [],
+   "notes": "o-umlaut is not Shift-JIS; 'Konig' per the mecha.json note."
+  },
+  {
+   "id": "u0827",
+   "en": "Variable bomber developed from the Monster\nExcels at hit-and-run with its firepower and speed",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0828",
+   "en": "Macross Quarter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0829",
+   "en": "Variable attack space carrier, S.M.S. flagship\nOnly 400 m class, yet it bears the Macross name",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0830",
+   "en": "Sword Macross Cannon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0831",
+   "en": "Battle Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0832",
+   "en": "Giant carrier, flagship of Frontier's escort fleet\nThe latest Battle-class Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0833",
+   "en": "Vajra, an alien life form\nAgile, with a beam cannon on the tip of its head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0834",
+   "en": "Vajra, an alien life form\nCarries a powerful large beam cannon on its back",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0835",
+   "en": "Variable fighter developed by Macross Galaxy\nOnly for cyborg soldiers with mechanized bodies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0836",
+   "en": "VF-27 (Brera)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0837",
+   "en": "Variable fighter developed by Macross Galaxy\nBrera's unit, with purple as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0838",
+   "en": "Battle Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0839",
+   "en": "Giant carrier, flagship of Galaxy's escort fleet\nThe latest Battle-class Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0840",
+   "en": "Valkyrie developed as an evolution of the VF-1\nFuses Earth and Zentradi technology",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0841",
+   "en": "Gigamesh",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0842",
+   "en": "Mainstay mobile weapon of the Mardook forces\nSpecializes in close-quarters melee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0843",
+   "en": "Super Wing Cutter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0844",
+   "en": "Gigamesh (Feff)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0845",
+   "en": "Mainstay mobile weapon of the Mardook forces\nFeff's unit, with red as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0846",
+   "en": "VF-1S (Barnrose)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0847",
+   "en": "High-performance commander's Valkyrie\nBarnrose's unit, with red as her personal color",
+   "flags": [],
+   "notes": "First line matches slice 3."
+  },
+  {
+   "id": "u0848",
+   "en": "VF-19A Ravens Type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0849",
+   "en": "Variable fighter evolved from the VF-11\nTwitchy custom for the Ravens special forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0850",
+   "en": "VF-22 (Wilbur)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0851",
+   "en": "Special-mission VF, successor to the VF-17\nWilbur's unit, fitted with a jamming system",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0852",
+   "en": "VF-9 (Max)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0853",
+   "en": "Variable fighter issued to the Dancing Skull team\nMax's unit, with blue as his personal color",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Dancing Skull (squadron) is not in the glossary."
+  },
+  {
+   "id": "u0854",
+   "en": "VF-9 (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0855",
+   "en": "Variable fighter issued to the Dancing Skull team\nMilia's unit, with red as her personal color",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Dancing Skull (squadron) is not in the glossary."
+  },
+  {
+   "id": "u0856",
+   "en": "Default",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0857",
+   "en": "Vajra Sub-Queen",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0858",
+   "en": "Unavailable",
+   "flags": [],
+   "notes": "Marks a unit the player cannot select."
+  },
+  {
+   "id": "u0859",
+   "en": "Vajra Queen",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0860",
+   "en": "Giant Regult",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0861",
+   "en": "Giant Nousjadeul-Ger",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0862",
+   "en": "Giant Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0863",
+   "en": "Giant Vajra",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0864",
+   "en": "Quel-Quallie",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "mecha.json entry for this unit is needs_research; here the source writes it with a middle dot."
+  },
+  {
+   "id": "u0865",
+   "en": "Vajra homeworld guardian, the Super Dimension Cinderella. Kira☆\nShe controls the Vajra with her song",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ranka. First line is long (63 chars); may need wrapping once the box is measured."
+  },
+  {
+   "id": "u0866",
+   "en": "Day",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0867",
+   "en": "Evening",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0868",
+   "en": "Night",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0869",
+   "en": "U.N. Forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0870",
+   "en": "Zentradi Forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0871",
+   "en": "New U.N. Forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0872",
+   "en": "Varauta Army",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0873",
+   "en": "Vajra",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0874",
+   "en": "Anti-U.N. Forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0875",
+   "en": "Zola Patrol",
+   "flags": [],
+   "notes": "review: refit: glossary alias of Zolan Star Patrol"
+  },
+  {
+   "id": "u0876",
+   "en": "Poachers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0877",
+   "en": "Failed to load the data.\nTry loading again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0878",
+   "en": "This game supports autosave.\nWhile autosaving, the Memory Stick Duo⑳ access lamp\nwill flash. Do not remove the Memory Stick⑳ or\nturn off the system during that time.",
+   "flags": [],
+   "notes": "Source has both the word Duo and the icon glyph here; kept as written."
+  },
+  {
+   "id": "u0879",
+   "en": "Failed to create the folder.\nTry creating it again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0880",
+   "en": "Not enough free space on the Memory Stick⑳,\nso the folder could not be created.\nDelete save data?",
+   "flags": [],
+   "notes": "review: refit: dropped 'There is'"
+  },
+  {
+   "id": "u0881",
+   "en": "The Memory Stick⑳ was removed,\nso the folder could not be created.\nTry creating it again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0882",
+   "en": "The Memory Stick⑳ is locked,\nso the folder could not be created.\nTry creating it again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0883",
+   "en": "The soundtrack folder could not be found.\nCreate it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0884",
+   "en": "Creating folder.\nDo not remove the Memory Stick⑳.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0885",
+   "en": "Returning to Top Menu.\nProceed?",
+   "flags": [],
+   "notes": "'Proceed?' matches slice 5's confirmation prompts. | review: refit: dropped 'the'"
+  },
+  {
+   "id": "u0886",
+   "en": "Please enter a name.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0887",
+   "en": "The player and partner cannot be\ncharacters of the same type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0888",
+   "en": "The player and support cannot be\ncharacters of the same type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0889",
+   "en": "The partner and support cannot be\ncharacters of the same type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0890",
+   "en": "Please enter a name",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0891",
+   "en": "Itsuki Yamashiro",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0892",
+   "en": "Yuu Akimizu",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0893",
+   "en": "Claire Stanford",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0894",
+   "en": "Pinon Colette",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0895",
+   "en": "Custom Color 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0896",
+   "en": "Custom Color 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0897",
+   "en": "Custom Color 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0898",
+   "en": "Default Color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0899",
+   "en": "Standard Equipment",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0900",
+   "en": "Reload",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0901",
+   "en": "Fully restores ammo for all weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0902",
+   "en": "Iron Wall",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0903",
+   "en": "Defense is doubled, and you no longer\nstagger when hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0904",
+   "en": "Flight Carnival",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0905",
+   "en": "Emits colored smoke in Fighter mode.\n○ button: On/Off  □ button: Change color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0906",
+   "en": "Shock Guard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0907",
+   "en": "Guarding an enemy melee attack\nalways parries it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0908",
+   "en": "Reflection",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0909",
+   "en": "Reflects beam-type shots and\nnegates solid-ammo attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0910",
+   "en": "Emergency Evasion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0911",
+   "en": "Become invincible for a short time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0912",
+   "en": "Infinite Boost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0913",
+   "en": "The Boost Gauge is no longer consumed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0914",
+   "en": "Missile Read",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0915",
+   "en": "Slows down enemy missiles.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0916",
+   "en": "Melee Genes",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'genes of melee combat'; coined."
+  },
+  {
+   "id": "u0917",
+   "en": "You can no longer guard, but\nmelee attack power triples.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0918",
+   "en": "Covering Fire",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0919",
+   "en": "Receive covering fire from the Macross Cannon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0920",
+   "en": "Encouragement",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0921",
+   "en": "Reloads all weapons, shortens attack\nopenings, and makes you invincible for a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0922",
+   "en": "Attack power, speed and boost capacity\nincrease 1.5x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0923",
+   "en": "Bombing King",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0924",
+   "en": "All weapons carry 1.5x ammo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0925",
+   "en": "Legendary Elixir",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0926",
+   "en": "Restores HP to you and allies around\nyou, and revives any that were shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0927",
+   "en": "Galactic Fairy",
+   "flags": [],
+   "notes": "Prefilled (tm); kept. Sheryl's title."
+  },
+  {
+   "id": "u0928",
+   "en": "Attack power of you and your allies\nrises 1.5x, and HP gradually recovers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0929",
+   "en": "The Last Supper",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0930",
+   "en": "Deals heavy damage to nearby enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0931",
+   "en": "Kira☆",
+   "flags": [],
+   "notes": "Prefilled (tm); kept."
+  },
+  {
+   "id": "u0932",
+   "en": "Freezes enemies for an instant, and you and\nnearby allies gradually recover HP.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0933",
+   "en": "You and nearby allies\ngradually recover HP.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0934",
+   "en": "Emulator",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Katakana reading imyureeta, taken as 'Emulator'. Owner of the skill unknown."
+  },
+  {
+   "id": "u0935",
+   "en": "Attack power of you and your allies triples,\nbut defense is halved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0936",
+   "en": "All stats of Zentradi-made weapons and\nZentradi-piloted units drop; other units grow stronger.",
+   "flags": [],
+   "notes": "Source says Zentran-type weapons; rendered 'Zentradi-made'."
+  },
+  {
+   "id": "u0937",
+   "en": "Spiritia Barrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0938",
+   "en": "Sivil appears in front of you and\nputs up a barrier for a set time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0939",
+   "en": "Sharon's Temptation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0940",
+   "en": "Reverses the up/down and left/right controls\nof every enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0941",
+   "en": "Max World Second",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transliterated as written; meaning of the name unclear."
+  },
+  {
+   "id": "u0942",
+   "en": "Stops everything but you and triggers an SPA.\n*Hold the L button when activating for no SPA",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0943",
+   "en": "Rolling Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0944",
+   "en": "In Fighter mode, roll speed rises and\nyou can roll up to 4 times in a row.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0945",
+   "en": "Clairvoyance",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0946",
+   "en": "Lock-on range doubles, and\nmulti-lock speed increases 1.5x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0947",
+   "en": "Medic Squad",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0948",
+   "en": "When you rescue your partner,\ntheir HP is restored to 50%.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source does not say whose HP; read as the rescued partner's."
+  },
+  {
+   "id": "u0949",
+   "en": "Missile Disposal Squad",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0950",
+   "en": "Anti-Missile Action can be used\n1.5x as many times.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0951",
+   "en": "Sabotage Squad",
+   "flags": [],
+   "notes": "Literally 'special sabotage unit'; matches the effect (x2 damage to ships and bases)."
+  },
+  {
+   "id": "u0952",
+   "en": "Damage to battleships and bases doubles.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0817/u0818: pilot written in the formal Mihael form; used 'Michel' per mecha.json pilot_suffix (characters.json en is Michael Blanc).",
+   "u0864: Quel-Quallie used from mecha.json, whose entry is needs_research.",
+   "u0865: Ranka description, first line 63 chars; may need wrapping once the box is measured.",
+   "u0916: skill name 'Melee Genes' coined.",
+   "u0934: skill name read as 'Emulator'; owner unknown.",
+   "u0941: 'Max World Second' transliterated; meaning unclear.",
+   "u0948: whose HP is restored is not stated; read as the rescued partner's.",
+   "u0787: Chlore not in characters.json; phrased without a gendered pronoun."
+  ],
+  "missing_glossary": [
+   "Cheyenne II (u0805): Destroid successor to the Cheyenne, Macross Quarter AA.",
+   "Dancing Skull (u0853, u0855): squadron flying Max's and Milia's VF-9.",
+   "Konig Monster (u0826): glossary has 'Konig' with umlaut, which Shift-JIS cannot encode.",
+   "Skill names not in terms.json: Flight Carnival, Reflection, Infinite Boost, Melee Genes, Covering Fire, Encouragement, Legendary Elixir, The Last Supper, Emulator, Spiritia Barrier, Max World Second, Rolling Plus, Clairvoyance, Medic Squad, Sabotage Squad.",
+   "SP attack names: All-Out Charge, All-Forces Full Salvo, Super Full Salvo, Tentacle Frenzy, Limiter Release, Ghost Frenzy, Super Pentacle Beam, Gamlin Kick Rush, Sword Macross Cannon, Super Wing Cutter."
+  ],
+  "unfinished": []
+ }
+}

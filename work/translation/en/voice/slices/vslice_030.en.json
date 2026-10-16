@@ -1,0 +1,551 @@
+{
+ "slice": 30,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1204",
+   "en": "Zentradi soldier reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1204",
+   "en": "Zentradi soldier reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1204",
+   "en": "Zentradi soldier reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1204",
+   "en": "Zentradi soldier reinforcements.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard joen (stage performance); surely zouen (reinforcements)."
+  },
+  {
+   "id": "vo0_of0_1205",
+   "en": "Unidentified enemy contact confirmed. Please be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1205",
+   "en": "Unidentified enemy contact confirmed. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1205",
+   "en": "Unidentified enemy contact confirmed. Watch yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1205",
+   "en": "Unidentified enemy contact confirmed. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1205",
+   "en": "Unidentified enemy contact confirmed. Exercise caution.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1206",
+   "en": "New defold reaction confirmed. It's enemy ship reinforcements.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vo0_of1_1206",
+   "en": "New defold reaction confirmed. Enemy ship reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1206",
+   "en": "New defold reaction confirmed. More enemy ships have arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1206",
+   "en": "New defold reaction confirmed. More enemy ships have arrived.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard deforuto (default); defold."
+  },
+  {
+   "id": "vos_mis_1206",
+   "en": "New defold reaction confirmed. Enemy ship reinforcements.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard zouen-you (for reinforcement use); surely zouen (reinforcements)."
+  },
+  {
+   "id": "vo0_of0_1207",
+   "en": "The enemy commander has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1207",
+   "en": "The enemy commander has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1207",
+   "en": "Hey, the enemy commander has shown up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1207",
+   "en": "The enemy commander has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1207",
+   "en": "The enemy commander has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1208",
+   "en": "Large enemy battleship sighted. It looks like the enemy flagship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kikan (engine/organization); most likely kikan = flagship."
+  },
+  {
+   "id": "vo0_of1_1208",
+   "en": "Large enemy battleship sighted. That looks like the enemy flagship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kikan (engine); most likely flagship."
+  },
+  {
+   "id": "vo0_of2_1208",
+   "en": "Large enemy battleship sighted. Looks like the enemy flagship!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kikan (engine); most likely flagship."
+  },
+  {
+   "id": "vo0_om0_1208",
+   "en": "Large enemy battleship sighted! Looks like the enemy flagship!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kikan (engine); most likely flagship."
+  },
+  {
+   "id": "vos_mis_1208",
+   "en": "Large enemy battleship sighted. Looks like the enemy flagship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kikan (engine); most likely flagship."
+  },
+  {
+   "id": "vo0_of0_1209",
+   "en": "Many enemy reinforcements confirmed. Please be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1209",
+   "en": "Many enemy reinforcements confirmed. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1209",
+   "en": "Lots of enemy reinforcements confirmed. Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1209",
+   "en": "Many enemy reinforcements confirmed. Watch out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1209",
+   "en": "Many enemy reinforcements confirmed. Exercise caution.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1210",
+   "en": "Many Regults have appeared. Please intercept them immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1210",
+   "en": "Many Regults have appeared. Intercept them immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1210",
+   "en": "A lot of Regults have appeared! Intercept them right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1210",
+   "en": "Many Regults have appeared. Intercept them immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1210",
+   "en": "Many Regults have appeared. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1211",
+   "en": "It's a Monster. Please be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1211",
+   "en": "It's a Monster. Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1211",
+   "en": "It's a Monster! Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1211",
+   "en": "It's a Monster! Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1211",
+   "en": "It's a Monster. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1212",
+   "en": "Many unidentified flying objects are descending.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1212",
+   "en": "Many unidentified flying objects are descending.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1212",
+   "en": "Many unidentified flying objects are coming down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1212",
+   "en": "Many unidentified flying objects have descended!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1212",
+   "en": "Many unidentified flying objects are descending.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1213",
+   "en": "Many targets approaching. It's a ground force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1213",
+   "en": "Many targets approaching. It's a ground force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1213",
+   "en": "Many targets approaching! It's a ground force!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1213",
+   "en": "Many targets approaching. It's a ground force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1213",
+   "en": "Many targets approaching. A ground force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1215",
+   "en": "This reaction is the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1215",
+   "en": "This reaction is the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1215",
+   "en": "This reaction is the Protodeviln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1215",
+   "en": "This reaction is the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1215",
+   "en": "This reaction is the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1216",
+   "en": "This reaction is the Varauta Army!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Baruota-gun; surely Varauta (Barouta) Army."
+  },
+  {
+   "id": "vo0_of1_1216",
+   "en": "This reaction is the Varauta Army!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1216",
+   "en": "This reaction is the Varauta Army!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1216",
+   "en": "This reaction... it's the Varauta Army!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Baruota-gun; surely Varauta Army."
+  },
+  {
+   "id": "vos_mis_1216",
+   "en": "This reaction is the Varauta Army.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Paroota-kun' (Parota-kun); surely Varauta Army (gun)."
+  },
+  {
+   "id": "vo0_of0_1217",
+   "en": "Protodeviln have appeared in the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1217",
+   "en": "Protodeviln have appeared in the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1217",
+   "en": "Protodeviln have appeared in the combat zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1217",
+   "en": "Protodeviln have appeared in the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1217",
+   "en": "Protodeviln have appeared in the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1218",
+   "en": "Enemy aircraft sighted inside City 7. They're hostile.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard kiei with wrong kanji (machine camp); surely kiei (aircraft sighting)."
+  },
+  {
+   "id": "vo0_of1_1218",
+   "en": "Enemy aircraft sighted inside City 7.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1218",
+   "en": "Enemy aircraft sighted inside City 7!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kiei' as katakana; surely kiei (aircraft sighting)."
+  },
+  {
+   "id": "vo0_om0_1218",
+   "en": "Enemy aircraft sighted inside City 7.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1218",
+   "en": "Enemy aircraft sighted inside City 7!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1219",
+   "en": "Varauta Army incoming!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Baruota-kun (kun, 'Mr'); surely Varauta-gun (Varauta Army), as others."
+  },
+  {
+   "id": "vo0_of1_1219",
+   "en": "Varauta Army incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1219",
+   "en": "Varauta Army incoming!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Barouta-kun; surely Varauta-gun (army)."
+  },
+  {
+   "id": "vo0_om0_1219",
+   "en": "Varauta Army incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1219",
+   "en": "Varauta Army incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1220",
+   "en": "Protodeviln sighted! Please be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1220",
+   "en": "Protodeviln sighted. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1220",
+   "en": "Protodeviln sighted! Watch out!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard Furotoberun; surely Protodeviln."
+  },
+  {
+   "id": "vo0_om0_1220",
+   "en": "Protodeviln sighted! Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1220",
+   "en": "Protodeviln sighted. Exercise caution.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1222",
+   "en": "More poacher reinforcements.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 2340-2344 (1208): 'kikan' read as flagship (same as clip 1126)",
+   "rows 2375-2379 (1216): Varauta Army (heard Baruota/Parota-kun)"
+  ],
+  "whisper_doubt": [
+   "row 2324: Heard joen (stage performance); surely zouen (reinforcements).",
+   "row 2330: Heard deforuto (default); defold.",
+   "row 2333: Heard deforuto (default); defold.",
+   "row 2334: Heard zouen-you (for reinforcement use); surely zouen (reinforcements).",
+   "row 2340: Heard kikan (engine/organization); most likely kikan = flagship.",
+   "row 2341: Heard kikan (engine); most likely flagship.",
+   "row 2342: Heard kikan (engine); most likely flagship.",
+   "row 2343: Heard kikan (engine); most likely flagship.",
+   "row 2344: Heard kikan (engine); most likely flagship.",
+   "row 2375: Heard Baruota-gun; surely Varauta (Barouta) Army.",
+   "row 2378: Heard Baruota-gun; surely Varauta Army.",
+   "row 2379: Heard 'Paroota-kun' (Parota-kun); surely Varauta Army (gun).",
+   "row 2385: Heard kiei with wrong kanji (machine camp); surely kiei (aircraft sighting).",
+   "row 2387: Heard 'kiei' as katakana; surely kiei (aircraft sighting).",
+   "row 2390: Heard Baruota-kun (kun, 'Mr'); surely Varauta-gun (Varauta Army), as others.",
+   "row 2392: Heard Barouta-kun; surely Varauta-gun (army).",
+   "row 2397: Heard Furotoberun; surely Protodeviln."
+  ],
+  "kept_omission": [
+   "Operator lines: subjects restored where the scene settles them; the one-word and noun-phrase stock lines (e.g. 'Many samples approaching.') stay subjectless as the Japanese is."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

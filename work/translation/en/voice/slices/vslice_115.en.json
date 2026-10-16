@@ -1,0 +1,519 @@
+{
+ "slice": 115,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpg_ghh_011",
+   "en": "Hey, Maria.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper 'Meruna'; guessed Maria, Graham's late wife (see clips 137, 188)."
+  },
+  {
+   "id": "vpg_ghh_015",
+   "en": "Did I get it?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_016",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_017",
+   "en": "Weak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_018",
+   "en": "Don't get in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_019",
+   "en": "You won't get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_020",
+   "en": "This one, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_100",
+   "en": "I'll handle this much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_101",
+   "en": "I won't fail. I can't afford to.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_102",
+   "en": "I'll stake my life on getting him.",
+   "flags": [
+    "uncertain",
+    "kept_omission"
+   ],
+   "notes": "Japanese ends on the object 'yatsu o' with no verb; verb restored. 'Him' follows the clip; target could be the White One."
+  },
+  {
+   "id": "vpg_ghh_103",
+   "en": "I'll lead it to the place where it dies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_104",
+   "en": "I'll kill it myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_105",
+   "en": "It wants to fight me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_107",
+   "en": "I'll guide you to where you're meant to go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_108",
+   "en": "Let's settle this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_109",
+   "en": "I'll let you rest in peace.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'yoru' at the end; read as 'yaru'."
+  },
+  {
+   "id": "vpg_ghh_110",
+   "en": "Weak!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_111",
+   "en": "You're not this weak, surely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_112",
+   "en": "Rest in peace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_113",
+   "en": "Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_114",
+   "en": "Small fry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_115",
+   "en": "That one's just waiting for me to finish it off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_116",
+   "en": "I'll send that one to its grave.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_117",
+   "en": "I'm the one who takes that one down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_118",
+   "en": "Because you stood in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_119",
+   "en": "I did it! I finally did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_120",
+   "en": "So I finally got that one, did I.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_121",
+   "en": "Lost the shield, have I.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_122",
+   "en": "You took out my shield, did you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_123",
+   "en": "I never meant to rely on the shield anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_124",
+   "en": "Is that your best?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_125",
+   "en": "Are you making light of me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_126",
+   "en": "Your power isn't just this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_127",
+   "en": "Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_128",
+   "en": "I won't let you do as you please any longer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_129",
+   "en": "Don't think you can take me down with this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_130",
+   "en": "It aches! The arm you wounded!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_131",
+   "en": "I've been waiting for an opponent like you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_132",
+   "en": "I'm not done yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_133",
+   "en": "My blood boils because I'm fighting you!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'Tagiru' read as 'tagiru' (to seethe), not a name."
+  },
+  {
+   "id": "vpg_ghh_134",
+   "en": "I can't go down here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_135",
+   "en": "I won't fall until I've led you to your grave!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_136",
+   "en": "Is this the moment I was waiting for?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_137",
+   "en": "Maria, I'm coming to join you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_138",
+   "en": "Until I lead you to your grave, I'll come as many times as it takes...",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Sentence trails off in the Japanese; kept unfinished."
+  },
+  {
+   "id": "vpg_ghh_139",
+   "en": "What are you doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_140",
+   "en": "Stay back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_141",
+   "en": "Out of my way! Vanish!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_142",
+   "en": "You brought it on yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_143",
+   "en": "You went before me, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_144",
+   "en": "Damn. You got shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_148",
+   "en": "Who are you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_149",
+   "en": "Reinforcements? Do what you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_150",
+   "en": "I'll do things my own way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_151",
+   "en": "Couldn't protect it again...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_152",
+   "en": "That's what you get for meddling in my fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_153",
+   "en": "Looks like I underestimated it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_154",
+   "en": "I just did things my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_155",
+   "en": "I've repaid my debt, White One.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'kari o kaeshita' (hunt); read as 'kari' (debt), as in clip 160."
+  },
+  {
+   "id": "vpg_ghh_156",
+   "en": "White One, our fight isn't over yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_157",
+   "en": "Impossible! Out of time?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_158",
+   "en": "I see. Looks like we didn't make it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_159",
+   "en": "Unthinkable. Running out of time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_160",
+   "en": "White One, until I repay my debt to you, I...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_161",
+   "en": "I failed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_162",
+   "en": "Failure? Just like that time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_163",
+   "en": "Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_164",
+   "en": "Cover my rear!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_165",
+   "en": "All you have to do is shoot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_166",
+   "en": "Move up front!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_167",
+   "en": "Fight up close!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_168",
+   "en": "Don't be afraid! Charge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_169",
+   "en": "Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_170",
+   "en": "Protect yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_171",
+   "en": "If you want to die, I won't stop you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_172",
+   "en": "Do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_173",
+   "en": "You guide them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_174",
+   "en": "You can do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_175",
+   "en": "I won't go down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpg_ghh_176",
+   "en": "Not until I get that one!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9121 (vpg_ghh_011): Whisper 'Meruna'; guessed Maria, Graham's late wife (see clips 137, 188).",
+   "row 9130 (vpg_ghh_102): Japanese ends on the object 'yatsu o' with no verb; verb restored. 'Him' follows the clip; target could be the White One."
+  ],
+  "whisper_doubt": [
+   "row 9121 (vpg_ghh_011): Whisper 'Meruna'; guessed Maria, Graham's late wife (see clips 137, 188).",
+   "row 9136 (vpg_ghh_109): Whisper 'yoru' at the end; read as 'yaru'.",
+   "row 9160 (vpg_ghh_133): Whisper 'Tagiru' read as 'tagiru' (to seethe), not a name.",
+   "row 9179 (vpg_ghh_155): Whisper 'kari o kaeshita' (hunt); read as 'kari' (debt), as in clip 160."
+  ],
+  "kept_omission": [
+   "row 9130 (vpg_ghh_102): Japanese ends on the object 'yatsu o' with no verb; verb restored. 'Him' follows the clip; target could be the White One.",
+   "row 9165 (vpg_ghh_138): Sentence trails off in the Japanese; kept unfinished."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

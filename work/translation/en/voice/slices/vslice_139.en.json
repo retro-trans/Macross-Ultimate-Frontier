@@ -1,0 +1,520 @@
+{
+ "slice": 139,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_rnk_744",
+   "en": "I'm sorry for pushing you to buy something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_745",
+   "en": "You really bought it! Thank you! I love you! Kira!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_746",
+   "en": "You always buy things for me. Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_747",
+   "en": "Thank you so, so much for buying!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_748",
+   "en": "I'll be waiting for you to come again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_749",
+   "en": "I believe you'll come back! Kira!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_750",
+   "en": "I was so nervous! You were my customer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_751",
+   "en": "You were just browsing? That's mean.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_752",
+   "en": "Next time I'll definitely make you buy something! It's my revenge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_753",
+   "en": "I believe you'll buy something next time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_800",
+   "en": "Um, nice to meet you! I'm Ranka Lee, and I'll explain the basic controls for Fighter mode!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_801",
+   "en": "During training, flight mode is Normal Flight and the controller settings are reset to default, so be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_802",
+   "en": "Press up on the D-pad to lower the nose and descend, and down to raise the nose and climb.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"kakou\" (write/process) for \"kouka\" (descend)."
+  },
+  {
+   "id": "vpf_rnk_803",
+   "en": "Press left or right on the D-pad to turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_804",
+   "en": "Hold the L button and press left or right on the D-pad to yaw.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_805",
+   "en": "Press the Cross button to boost. You can boost until the boost gauge is maxed out.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Kept literal (the gauge fills as you boost); check against the game's own tutorial text."
+  },
+  {
+   "id": "vpf_rnk_806",
+   "en": "Press up, left or right on the D-pad twice quickly in the same direction to roll that way. You are invincible while rolling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_807",
+   "en": "Press down on the D-pad twice quickly to fire the reverse thrusters and brake hard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_808",
+   "en": "Hold the Triangle button to brake and slow down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_809",
+   "en": "Press up on the analog stick to transform into Fighter mode. Alto really is amazing. I'd get so dizzy!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says \"up on the analog stick transforms to Fighter\"; kept as heard."
+  },
+  {
+   "id": "vpf_rnk_810",
+   "en": "That's the basic Fighter controls. Oh, and in this training you can't transform out of Fighter mode, so be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_811",
+   "en": "Now please go through the Fighter flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_812",
+   "en": "Training ends when you reach the target area or time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_813",
+   "en": "Target area reached. Ending Fighter flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_814",
+   "en": "Training time is up. Ending Fighter flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_815",
+   "en": "I'll explain the basic controls for GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_816",
+   "en": "During training, the controller settings are reset to default, so be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_817",
+   "en": "Press left or right on the D-pad to turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_818",
+   "en": "Press the D-pad twice quickly in the same direction to step that way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_819",
+   "en": "Keep holding the D-pad at the end of a step to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_820",
+   "en": "Hold the Cross button to boost upward and gain altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_821",
+   "en": "In GERWALK mode you keep your position and float, hovering.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_822",
+   "en": "Press the Cross button twice quickly and keep holding it to boost downward and lose altitude.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"kakou boost\" (processing boost); read as \"kakou boost\" (descent boost)."
+  },
+  {
+   "id": "vpf_rnk_823",
+   "en": "Press left or right on the analog stick to transform into GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_824",
+   "en": "That's the basic GERWALK controls. Also, in this training you can't transform out of GERWALK mode, so be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_825",
+   "en": "It's kind of like the Battroid controls, isn't it? Hovering around all floaty looks like fun!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Last word heard as \"tanoshisa\" (fun-ness); read as \"tanoshisou\"/\"tanoshii\"."
+  },
+  {
+   "id": "vpf_rnk_826",
+   "en": "Now please go through the GERWALK flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_828",
+   "en": "Target area reached. Ending GERWALK flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_829",
+   "en": "Training time is up. Ending GERWALK flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_830",
+   "en": "I'll explain the basics of melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_832",
+   "en": "In GERWALK and Battroid modes, press the Triangle button for a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_833",
+   "en": "Press the Triangle button repeatedly to chain melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_834",
+   "en": "The number of chained attacks depends on the machine and mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_835",
+   "en": "Hold the Triangle button briefly and release it for a charged melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_836",
+   "en": "Press the Triangle button while dashing for a dash melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_837",
+   "en": "In Battroid mode, press down on the D-pad while attacking in melee for a launching melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_838",
+   "en": "A launched enemy is defenseless for a short time. You can keep attacking during that time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_839",
+   "en": "In Battroid mode, press the Triangle button against a downed enemy for a down attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_840",
+   "en": "Um, Fighter mode has no melee attacks, so be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_841",
+   "en": "That's the basics of melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_843",
+   "en": "Target area reached. Ending melee attack training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_844",
+   "en": "Training time is up. Ending melee attack training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_845",
+   "en": "I'll explain Special Maneuvers 2.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_847",
+   "en": "Hold the L button and press the Circle button to spend 1 block of the SP Gauge on a Charge Shot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_848",
+   "en": "Hold the L button and press the Triangle button to spend 1 block of the SP Gauge on a Charge Melee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_849",
+   "en": "Fighter mode can't use Charge Melee. Please be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_850",
+   "en": "Hold the L button and press the Cross button to spend 1 block of the SP Gauge on a Charge Boost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_851",
+   "en": "A Fighter-mode Charge Boost counts as a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_852",
+   "en": "In Battroid and GERWALK modes, press the Triangle button during a Charge Boost for a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_853",
+   "en": "Press the Triangle and Circle buttons together to spend 3 blocks of the SP Gauge on a powerful Special Attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_854",
+   "en": "Press the Circle and Cross buttons together to spend a set number of blocks and use a Support Skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_855",
+   "en": "Press the Circle and Cross buttons together to spend a set number of blocks and use a Command Skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_856",
+   "en": "Hold the L button and press the Triangle and Circle buttons together for a combined Special Attack with both units.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "\"Both units\" (ryouki) read as both allied units (player and partner); not confirmed."
+  },
+  {
+   "id": "vpf_rnk_857",
+   "en": "A combined Special Attack costs 3 blocks of the SP Gauge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_858",
+   "en": "That's the basics of Special Maneuvers 2.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_860",
+   "en": "Target area reached. Ending Special Maneuvers 2 training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_861",
+   "en": "Training time is up. Ending Special Maneuvers 2 training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_862",
+   "en": "I'm Ranka Lee! I'll explain the newly added and changed controls!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Rangariiga\"; her self-introduction \"Ranka Lee desu\"."
+  },
+  {
+   "id": "vpf_rnk_863",
+   "en": "These are the new Fighter mode controls, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_864",
+   "en": "During training, flight mode is Real Flight, and the controller settings are reset to default, so be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_865",
+   "en": "Press left or right on the D-pad to roll.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_866",
+   "en": "Press the Cross button to boost. You can boost until the boost gauge is maxed out.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same as rnk_805."
+  },
+  {
+   "id": "vpf_rnk_868",
+   "en": "In Real Flight, hold the R button while locked on and the camera turns to the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_869",
+   "en": "Sheryl! I spun around and around and got so dizzy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_870",
+   "en": "Now please go through the Real Flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_871",
+   "en": "Target area reached. Ending Real Flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_872",
+   "en": "Training time is up. Ending Real Flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_873",
+   "en": "Um, this explains the new Special Maneuvers and the changed controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_875",
+   "en": "Fighter mode no longer has Charge Melee. But now it can do a Charge Boost that counts as a melee attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_876",
+   "en": "So you can use the skills of the character you set as support?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "vpf_rnk_805: Kept literal (the gauge fills as you boost); check against the game's own tutorial text.",
+   "vpf_rnk_809: Source says \"up on the analog stick transforms to Fighter\"; kept as heard.",
+   "vpf_rnk_856: \"Both units\" (ryouki) read as both allied units (player and partner); not confirmed.",
+   "vpf_rnk_866: Same as rnk_805."
+  ],
+  "whisper_doubt": [
+   "vpf_rnk_802: Heard \"kakou\" (write/process) for \"kouka\" (descend).",
+   "vpf_rnk_822: Heard \"kakou boost\" (processing boost); read as \"kakou boost\" (descent boost).",
+   "vpf_rnk_825: Last word heard as \"tanoshisa\" (fun-ness); read as \"tanoshisou\"/\"tanoshii\".",
+   "vpf_rnk_862: Heard \"Rangariiga\"; her self-introduction \"Ranka Lee desu\"."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

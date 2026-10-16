@@ -1,0 +1,533 @@
+{
+ "slice": 104,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpd_ggl_326",
+   "en": "You made me your support!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject restored as 'you' (the player); the line could also be aimed at a commander."
+  },
+  {
+   "id": "vpd_ggl_327",
+   "en": "There's no next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_328",
+   "en": "I'm going home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_329",
+   "en": "You did what even I couldn't. Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_341",
+   "en": "Shut up, you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_342",
+   "en": "Quit ordering me around every time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_343",
+   "en": "I'll let you taste plenty of terror.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_344",
+   "en": "Now then, I'll show you what's what.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_345",
+   "en": "Hurry up and get ready!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_346",
+   "en": "Wait there!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Clip is 2.8s but transcript is two words; Whisper retried. Probably a longer line."
+  },
+  {
+   "id": "vpd_ggl_347",
+   "en": "Why the hell are we...",
+   "flags": [
+    "unfinished",
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Cut off after 'orera'; Whisper may have dropped the end."
+  },
+  {
+   "id": "vpd_ggl_348",
+   "en": "Don't be such a hassle!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_349",
+   "en": "Tch! Can't be helped! I'll back you up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_350",
+   "en": "Let me take a good look at how you fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_351",
+   "en": "Damn! You again?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_360",
+   "en": "Ugh! You useless fool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_361",
+   "en": "Hmph! Small fry are no use to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_362",
+   "en": "What a pointless operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_363",
+   "en": "Hmph! I'm done here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_364",
+   "en": "Damn, what a soft fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_365",
+   "en": "I'm done with this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_366",
+   "en": "What are you spacing out for?! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_367",
+   "en": "I had fun with that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_368",
+   "en": "Don't count on a next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_369",
+   "en": "Heading home! Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_370",
+   "en": "I might back you up again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_371",
+   "en": "Don't rely on me anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_600",
+   "en": "Where's Sivil?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_ggl_601",
+   "en": "Sivil!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper has 'shimiraa' (similar); presumably the name 'Shibiru' (Sivil), 2.1s."
+  },
+  {
+   "id": "vp7_mac_000",
+   "en": "Maximilian Jenius, launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_001",
+   "en": "All Valkyrie teams, scramble now. I'm going too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_002",
+   "en": "Launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_003",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_004",
+   "en": "Useless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_005",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt ('hmph')."
+  },
+  {
+   "id": "vp7_mac_006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Breath/sound effect."
+  },
+  {
+   "id": "vp7_mac_007",
+   "en": "Impossible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_008",
+   "en": "Am I hit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_009",
+   "en": "This ends it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_010",
+   "en": "Sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_011",
+   "en": "No escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_012",
+   "en": "This good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_013",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_014",
+   "en": "Not good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_015",
+   "en": "No problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_016",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_017",
+   "en": "Hm?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_018",
+   "en": "I'm not done!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'mada aru zo' (there's still more) read as an attack bark."
+  },
+  {
+   "id": "vp7_mac_019",
+   "en": "No escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_020",
+   "en": "Allow me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_100",
+   "en": "This is Max. Commencing the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_101",
+   "en": "I wish you all success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_102",
+   "en": "I'll show you how Maximilian Jenius fights!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_103",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_104",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_105",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_106",
+   "en": "Don't think you can escape me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_107",
+   "en": "I'll show you my skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_108",
+   "en": "Here I come!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_109",
+   "en": "Skill like that won't do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_110",
+   "en": "I'll press on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_111",
+   "en": "Further resistance is futile.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_112",
+   "en": "Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_113",
+   "en": "I was an ace pilot once, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_114",
+   "en": "Not called a genius for nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_115",
+   "en": "I have to.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_116",
+   "en": "That one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_117",
+   "en": "Target kill is top priority.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_118",
+   "en": "Old instincts coming back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_119",
+   "en": "Operation's going smoothly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_120",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_121",
+   "en": "To think my shield was destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_122",
+   "en": "My shield's in bad shape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_123",
+   "en": "All's well that ends well.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literal reading is 'if everything is fine, no problem'; rendered as the idiom."
+  },
+  {
+   "id": "vp7_mac_124",
+   "en": "This is nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_125",
+   "en": "Hmph, interesting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_126",
+   "en": "Compared to my old self, still a long way to go.",
+   "flags": [
+    "kept_omission",
+    "uncertain"
+   ],
+   "notes": "Subject left open in the Japanese (himself or the enemy); kept open. Same words as clip 191."
+  },
+  {
+   "id": "vp7_mac_127",
+   "en": "Damn, will I be too late?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_128",
+   "en": "This situation is dangerous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mac_129",
+   "en": "Enemy's pretty good.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8241 (vpd_ggl_326): Subject restored as 'you' (the player); the line could also be aimed at a commander.",
+   "row 8250 (vpd_ggl_346): Clip is 2.8s but transcript is two words; Whisper retried. Probably a longer line.",
+   "row 8251 (vpd_ggl_347): Cut off after 'orera'; Whisper may have dropped the end.",
+   "row 8269 (vpd_ggl_601): Whisper has 'shimiraa' (similar); presumably the name 'Shibiru' (Sivil), 2.1s.",
+   "row 8288 (vp7_mac_018): 'mada aru zo' (there's still more) read as an attack bark.",
+   "row 8314 (vp7_mac_123): Literal reading is 'if everything is fine, no problem'; rendered as the idiom.",
+   "row 8317 (vp7_mac_126): Subject left open in the Japanese (himself or the enemy); kept open. Same words as clip 191."
+  ],
+  "whisper_doubt": [
+   "row 8250 (vpd_ggl_346): Clip is 2.8s but transcript is two words; Whisper retried. Probably a longer line.",
+   "row 8251 (vpd_ggl_347): Cut off after 'orera'; Whisper may have dropped the end.",
+   "row 8269 (vpd_ggl_601): Whisper has 'shimiraa' (similar); presumably the name 'Shibiru' (Sivil), 2.1s."
+  ],
+  "kept_omission": [
+   "row 8317 (vp7_mac_126): Subject left open in the Japanese (himself or the enemy); kept open. Same words as clip 191."
+  ],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 8251 (vpd_ggl_347): Cut off after 'orera'; Whisper may have dropped the end."
+  ]
+ }
+}

@@ -1,0 +1,506 @@
+{
+ "slice": 15,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_605",
+   "en": "What? The enemy's acting strange.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_605",
+   "en": "The enemy's acting strange.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_605",
+   "en": "The enemy's acting strange.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_606",
+   "en": "Please proceed carefully.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_606",
+   "en": "Proceed with caution.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_606",
+   "en": "Hey, watch your step.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_606",
+   "en": "Proceed with caution.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_606",
+   "en": "Proceed with caution.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_607",
+   "en": "Please defeat Boddole Zer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Modoruuzaa'; Boddole Zer per the other four."
+  },
+  {
+   "id": "vo0_of1_607",
+   "en": "Defeat Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_607",
+   "en": "Destroy Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_607",
+   "en": "Beat Boddole Zer!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'Bodoreza'; Boddole Zer per the others."
+  },
+  {
+   "id": "vos_mis_607",
+   "en": "Defeat Boddole Zer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_608",
+   "en": "Mission complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_608",
+   "en": "Mission complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_608",
+   "en": "Mission complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_608",
+   "en": "Mission complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_608",
+   "en": "Mission complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_609",
+   "en": "Please move to the target area and send in the spy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_609",
+   "en": "Move to the target area and send in the spy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_609",
+   "en": "Get to the target area and send the spy in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_609",
+   "en": "Move to the target area and send in the spy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_609",
+   "en": "Move to the target area and send in the spy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_610",
+   "en": "We succeeded in sending in the spy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_610",
+   "en": "It seems we succeeded in sending in the spy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_610",
+   "en": "We got the spy in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_610",
+   "en": "The spy is in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_610",
+   "en": "It seems we succeeded in sending in the spy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_611",
+   "en": "The enemy has fled inside the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_611",
+   "en": "The enemy fled inside the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_611",
+   "en": "The enemy ran inside the Macross!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_611",
+   "en": "Enemy fled into the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_611",
+   "en": "The enemy has fled inside the Macross!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_612",
+   "en": "Please pursue immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_612",
+   "en": "Pursue them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_612",
+   "en": "Pursue them now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_612",
+   "en": "Pursue at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_612",
+   "en": "Pursue immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_613",
+   "en": "The enemy has fled into the Macross's city.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_613",
+   "en": "The enemy fled into the Macross's city.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_613",
+   "en": "The enemy ran into the Macross's city!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_613",
+   "en": "Enemy fled into Macross's city.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_613",
+   "en": "The enemy has fled into the Macross's city.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_614",
+   "en": "Please move quickly to the designated target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_614",
+   "en": "Move quickly to the designated target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_614",
+   "en": "Get to the designated target area, fast.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_614",
+   "en": "Move quickly to the designated target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_614",
+   "en": "Please move quickly to the designated target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_615",
+   "en": "Destroy all targets within the time limit, then move to the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_615",
+   "en": "Destroy all targets within the time limit, then move to the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_615",
+   "en": "Destroy every target within the time limit and move to the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_615",
+   "en": "Destroy all targets in the time limit, then move to the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_615",
+   "en": "Destroy all targets within the time limit, then move to the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_616",
+   "en": "Please destroy as many enemy units as you can in the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_616",
+   "en": "Destroy as many enemy units as you can within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_616",
+   "en": "Destroy as many enemy units as you can in the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_616",
+   "en": "Destroy as many enemy units as you can in the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_616",
+   "en": "Please destroy as many enemy units as you can in the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_617",
+   "en": "Please destroy only enemy units within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_617",
+   "en": "Destroy only enemy units within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_617",
+   "en": "Destroy only enemy units within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_617",
+   "en": "Destroy only enemy units within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_617",
+   "en": "Please destroy only enemy units within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_618",
+   "en": "Please destroy all targets within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_618",
+   "en": "Destroy all targets within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_618",
+   "en": "Destroy every target within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_618",
+   "en": "Destroy all targets within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_618",
+   "en": "Please destroy all targets within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_619",
+   "en": "Please destroy the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_619",
+   "en": "Shoot down the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_619",
+   "en": "Take out the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_619",
+   "en": "Take down enemy units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_619",
+   "en": "Please take down enemy units!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_620",
+   "en": "Citizens are about to be abducted. Please rescue them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_620",
+   "en": "Citizens are about to be abducted. Rescue them at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_620",
+   "en": "Citizens are about to be snatched. Go rescue them right now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_620",
+   "en": "Citizens are about to be abducted. Rescue them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_620",
+   "en": "Citizens are about to be abducted. Please rescue them at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_621",
+   "en": "Skull 3 was captured by an enemy ship. Infiltrate the ship and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_621",
+   "en": "Skull 3 has been captured by an enemy ship. Infiltrate it and rescue them.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1199-1200: Skull 3's gender is unknown, so 'them'; also unclear whether Skull 3 is a person or a craft",
+   "rows 1159-1163: 'Macross's city' = urban district inside the Macross (SDF-1)"
+  ],
+  "whisper_doubt": [
+   "row 1129",
+   "row 1132"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Skull 3 (callsign, no entry)"
+  ],
+  "unfinished": []
+ }
+}

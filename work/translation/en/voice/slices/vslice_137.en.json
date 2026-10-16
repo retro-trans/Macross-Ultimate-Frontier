@@ -1,0 +1,548 @@
+{
+ "slice": 137,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_ozm_600",
+   "en": "You've got potential.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_604",
+   "en": "I'll show you the power of the Skull Leader!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_605",
+   "en": "To think you'd beat us!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Row 10883: object/tone unclear (taunt vs. surprise); read as surprise at being beaten."
+  },
+  {
+   "id": "vpf_ozm_615",
+   "en": "Let's see how much you've improved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_616",
+   "en": "You've improved quite a bit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_617",
+   "en": "I'm not losing to you lot yet, greenhorns!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_620",
+   "en": "S.M.S. Skull Squadron leader Ozma Lee to New U.N. Forces units. We're taking over this sector.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has kanji for 'middle region' (chuuiki), read as 'space area' (chuuiki, other kanji); name heard as Ozumarii, read as Ozma Lee."
+  },
+  {
+   "id": "vpf_ozm_621",
+   "en": "Let's protect the city!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_622",
+   "en": "Ranka, what are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_623",
+   "en": "You there, amateur! Explanations later! Take that girl and get out of here, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_624",
+   "en": "Put so much as a scratch on her and I'll vaporize you with a reaction weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_625",
+   "en": "That's not Gilliam! It's an amateur!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pilot of the plane is unknown, so no pronoun; \"Gilliam\" per glossary (Henry Gilliam)."
+  },
+  {
+   "id": "vpf_ozm_626",
+   "en": "Delta 1! I've got the Vajra pinned near the ship! Requesting covering fire!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "\"Delta 1\" call sign taken as heard; not in glossary."
+  },
+  {
+   "id": "vpf_ozm_627",
+   "en": "Michael, Luca, I can only hold them so long here. Can you two handle it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_628",
+   "en": "I'll buy you a drink later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_629",
+   "en": "Skull Leader to all units. It's a mock battle, but don't slack off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_630",
+   "en": "That's why I told you not to let your guard down! Skull Leader, joining the fight now!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Sukaraman\" (call sign) and \"mokusen\" (not a word); read as Skull Leader and \"joining the battle\"."
+  },
+  {
+   "id": "vpf_ozm_631",
+   "en": "Listen up. I won't let a single one of you die. We're all going back alive to Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_632",
+   "en": "All units, Planet Dance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_633",
+   "en": "Skull 3, Luca! Don't overextend!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"desugirna\"; read as \"desugiruna\" (don't get ahead of yourself)."
+  },
+  {
+   "id": "vpf_ozm_634",
+   "en": "Luca's been eaten by the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_635",
+   "en": "No! That ship captured Luca and swallowed him up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_636",
+   "en": "Stop! What can you do on your own!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_637",
+   "en": "Skull Leader to all units, commence attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_638",
+   "en": "What!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_639",
+   "en": "We strike first and flush the Vajra out! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_640",
+   "en": "Could it be... really...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vpf_ozm_641",
+   "en": "Do you still remember how to make that pineapple cake?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Heard \"pine cake\"; cake name taken as pineapple cake; addressee unknown, so \"you\"."
+  },
+  {
+   "id": "vpf_ozm_642",
+   "en": "What of it!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_643",
+   "en": "As long as a shred of will to fight remains, I'll fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_644",
+   "en": "Stop me if you can! You think you can beat me in a makeshift refit like that?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"tometake tomete miro yo\"; read as \"tometakerya tomete miro yo\" (stop me if you can)."
+  },
+  {
+   "id": "vpf_ozm_645",
+   "en": "Alto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_646",
+   "en": "This is the best way to protect the women who matter to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_647",
+   "en": "Sorry, but I'm not a grown-up,",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Continues in ozm_648 (\"I'm a man!\")."
+  },
+  {
+   "id": "vpf_ozm_648",
+   "en": "I'm a man!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_649",
+   "en": "Alto! What are your wings for!?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"soutome Aruto\"; a word before Alto's name is garbled and dropped."
+  },
+  {
+   "id": "vpf_ozm_650",
+   "en": "I won't let you do as you please any longer! Not to Ranka, not to the Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_651",
+   "en": "That is...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vpf_ozm_652",
+   "en": "All units, let's go! Totsugeki Love Heart!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_653",
+   "en": "Go, Alto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_ozm_654",
+   "en": "I'll buy you some candy as a reward later, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_000",
+   "en": "I'm Ranka Lee. Nice to meet you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_001",
+   "en": "I'm not sure I can support you, but I'll do my best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_002",
+   "en": "I can't believe I took on a job as big as support!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_100",
+   "en": "I feel really out of place here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_101",
+   "en": "Ugh, I'm getting so nervous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_102",
+   "en": "Life is one, two, Deculture! Go for it, me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_106",
+   "en": "You can do it! Definitely!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_107",
+   "en": "Let's do our best! I'm cheering for you too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_108",
+   "en": "Let's do this gorgeously!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_139",
+   "en": "It's too dangerous to go on! Get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_140",
+   "en": "Are you okay? You look like you're hurting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_141",
+   "en": "Geez! You're way too reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_142",
+   "en": "What? No way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_143",
+   "en": "Bail out! Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_144",
+   "en": "It's because I don't have the power...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vpf_rnk_148",
+   "en": "Thanks for the reinforcements! I'm so happy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_149",
+   "en": "Thank you for coming to help!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_150",
+   "en": "Now I can relax a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_154",
+   "en": "Yay! Deculture is the best! Kira!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"tekaruchaa\"; her catchphrase \"dekaruchaa\" (Deculture)."
+  },
+  {
+   "id": "vpf_rnk_155",
+   "en": "We succeeded, right? Thank goodness!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_156",
+   "en": "I was a little useful too, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_175",
+   "en": "Hmph! Don't treat me like a kid!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_176",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_177",
+   "en": "I'd rather go all in and crash than regret it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_178",
+   "en": "Oh, yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_179",
+   "en": "I'll do my best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_180",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_181",
+   "en": "Is the Captain okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_182",
+   "en": "Hang in there, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_183",
+   "en": "Captain, this is dangerous at this rate!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_184",
+   "en": "No way! The Captain got shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_185",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_186",
+   "en": "It's my fault the Captain...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vpf_rnk_190",
+   "en": "As expected of the Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_191",
+   "en": "The Captain's so cool!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"kaichou-san\" (chairman); read as \"taichou-san\" (captain) like the neighbouring clips."
+  },
+  {
+   "id": "vpf_rnk_192",
+   "en": "Wow, wow! Amazing, Alto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_193",
+   "en": "Big brother, you were so cool!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "\"Onii-chan\": Ozma or Brera, left unnamed."
+  },
+  {
+   "id": "vpf_rnk_194",
+   "en": "Everyone, hold me tight! To the ends of the galaxy! Kira!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_195",
+   "en": "Everyone, hold me tight! To the ends of the galaxy!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "vpf_ozm_605: Row 10883: object/tone unclear (taunt vs. surprise); read as surprise at being beaten.",
+   "vpf_ozm_625: Pilot of the plane is unknown, so no pronoun; \"Gilliam\" per glossary (Henry Gilliam).",
+   "vpf_ozm_626: \"Delta 1\" call sign taken as heard; not in glossary.",
+   "vpf_ozm_641: Heard \"pine cake\"; cake name taken as pineapple cake; addressee unknown, so \"you\".",
+   "vpf_rnk_193: \"Onii-chan\": Ozma or Brera, left unnamed."
+  ],
+  "whisper_doubt": [
+   "vpf_ozm_620: Transcript has kanji for 'middle region' (chuuiki), read as 'space area' (chuuiki, other kanji); name heard as Ozumarii, read as Ozma Lee.",
+   "vpf_ozm_630: Heard \"Sukaraman\" (call sign) and \"mokusen\" (not a word); read as Skull Leader and \"joining the battle\".",
+   "vpf_ozm_633: Heard \"desugirna\"; read as \"desugiruna\" (don't get ahead of yourself).",
+   "vpf_ozm_644: Heard \"tometake tomete miro yo\"; read as \"tometakerya tomete miro yo\" (stop me if you can).",
+   "vpf_ozm_649: Heard \"soutome Aruto\"; a word before Alto's name is garbled and dropped.",
+   "vpf_rnk_154: Heard \"tekaruchaa\"; her catchphrase \"dekaruchaa\" (Deculture).",
+   "vpf_rnk_191: Heard \"kaichou-san\" (chairman); read as \"taichou-san\" (captain) like the neighbouring clips."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "vpf_ozm_640: Trails off.",
+   "vpf_ozm_647: Continues in ozm_648 (\"I'm a man!\").",
+   "vpf_ozm_651: Trails off.",
+   "vpf_rnk_144: Trails off.",
+   "vpf_rnk_186: Trails off."
+  ]
+ }
+}

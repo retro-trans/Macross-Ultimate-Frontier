@@ -1,0 +1,113 @@
+{
+ "slice": 144,
+ "rows_in_slice": 14,
+ "rows_examined": 14,
+ "rows": [
+  {
+   "id": "vp2_ish_605",
+   "en": "On this planet there is a culture of protecting and passing things down. Protect, pass on, and make something new.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_606",
+   "en": "Once you destroy something, you can never make the same thing again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_607",
+   "en": "On this planet, I learned the sorrow of destruction.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_608",
+   "en": "The teaching of the Mardook is to destroy everything, and they're trying to shut themselves inside that teaching.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Maruryuuku\"; read as Mardook, as in ish_604."
+  },
+  {
+   "id": "vp2_ish_609",
+   "en": "There's nothing to gain from destruction, and nothing can be created either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_610",
+   "en": "We must not fight. We can understand each other.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_611",
+   "en": "On this Earth there are true songs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_612",
+   "en": "Songs for happy times, songs for sad times, and love songs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_613",
+   "en": "All the destruction begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_614",
+   "en": "Even so, I believe it. That this is the ship of Ars.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "\"Ars\" not in glossary."
+  },
+  {
+   "id": "vp2_ish_615",
+   "en": "Sadness, pain, and hope.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp2_ish_616",
+   "en": "As an Emulator, I want to tell all the Mardook the heart that Macross taught me.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Marduuku\"; read as Mardook."
+  },
+  {
+   "id": "vp2_ish_617",
+   "en": "I'll sing from my heart. The song of Ars.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "\"Ars\" not in glossary."
+  },
+  {
+   "id": "vpa_sar_197",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Silent placeholder clip (skipped)."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "vp2_ish_608: Heard \"Maruryuuku\"; read as Mardook, as in ish_604.",
+   "vp2_ish_616: Heard \"Marduuku\"; read as Mardook."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Ars (Arusu): see slice 143."
+  ],
+  "unfinished": []
+ }
+}

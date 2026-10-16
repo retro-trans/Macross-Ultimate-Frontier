@@ -1,0 +1,525 @@
+{
+ "slice": 62,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp0_om1_368",
+   "en": "Next time, let's meet outside of a mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_368",
+   "en": "Now that's something! You're shaking my soul!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_368",
+   "en": "All right, let's head back and rest up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_368",
+   "en": "Heh. I'm counting on you from here on, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_368",
+   "en": "You really never let my expectations down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_369",
+   "en": "I think we succeeded because I was with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_369",
+   "en": "Free after this? Hang out with me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_369",
+   "en": "Damn, it's a waste you're a woman. What a guy you are!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Luis calls the female partner a waste as a woman; kept rough and affectionate, in his manner of speaking (you are a real piece of work)."
+  },
+  {
+   "id": "vp0_of0_369",
+   "en": "With you, we can pull off any mission, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_369",
+   "en": "The strongest all-woman duo is born right here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_369",
+   "en": "Nothing is impossible for us! Ha ha ha ha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_370",
+   "en": "Why don't we fly a little longer like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_370",
+   "en": "To think I'd dedicate this mission's success to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_370",
+   "en": "I felt it, your soul. Your spirit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_370",
+   "en": "We did it! You're more reliable than any man!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_370",
+   "en": "Made it back alive. Aside from our luck with men, we're both doing fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_370",
+   "en": "Aren't we, like, way too strong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_371",
+   "en": "A-after this, would you like to go get a meal?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_371",
+   "en": "Whoo! Nice one! I could fall for you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_371",
+   "en": "Not bad, living for love.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_371",
+   "en": "I'm all sticky now. Let's go back and take a shower.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_371",
+   "en": "All right, stay with me till morning. Just us girls, no need to hold back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_371",
+   "en": "We're done! Now let's go stuff ourselves with pineapple cake!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "pain-keeki: read as pineapple cake (Yui's favourite in other clips)."
+  },
+  {
+   "id": "vp0_om2_600",
+   "en": "Macross Broadcasting's opening special, the Miss Macross Contest! 28 beauties picked from 400 entries compete. Who wins the crown? You choose our queen!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Announcer-style clip read by Luis; wording compressed to fit the byte limit."
+  },
+  {
+   "id": "vp0_om2_601",
+   "en": "Macross Broadcasting's Miss Macross Contest: Lynn Minmay has been chosen as our leader!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Final word means head/leader; the previous clip says queen, so leader kept literal."
+  },
+  {
+   "id": "vph_ddi_000",
+   "en": "Looks like I'll have to sortie too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_001",
+   "en": "Ivanov, launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_002",
+   "en": "Looks like we're ready. Moving out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_003",
+   "en": "Pointless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_004",
+   "en": "Too soft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_005",
+   "en": "Futile.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_006",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a katakana word (arini); a short pained grunt in a hit-reaction slot, not words."
+  },
+  {
+   "id": "vph_ddi_007",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_008",
+   "en": "Quit screwing with me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_009",
+   "en": "This is the end!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_010",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_011",
+   "en": "Wide open!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_012",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_013",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_014",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_015",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper heard a long vowel (chii); most likely a tch of annoyance, no words."
+  },
+  {
+   "id": "vph_ddi_016",
+   "en": "Almost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_017",
+   "en": "Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_018",
+   "en": "While I'm at it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_019",
+   "en": "You won't get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_020",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Whisper: a hum (funfun)."
+  },
+  {
+   "id": "vph_ddi_100",
+   "en": "Schwalbe One to all units, follow me!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Schwalbe flight name (Ivanov's callsign) is not in the glossary."
+  },
+  {
+   "id": "vph_ddi_101",
+   "en": "Is there anyone worthy of dancing with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_102",
+   "en": "Now then, it's time for the fun part.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_103",
+   "en": "Let's see you dance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_104",
+   "en": "Entertain me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_105",
+   "en": "Run while you still can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_106",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_107",
+   "en": "Die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_108",
+   "en": "Don't underestimate me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_109",
+   "en": "How ridiculous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_110",
+   "en": "What? Tired of dancing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_111",
+   "en": "You handle your machine sloppily.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_112",
+   "en": "I thought it would be a bit more fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_113",
+   "en": "What a pushover.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_114",
+   "en": "Boring.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_115",
+   "en": "Leave that one to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_116",
+   "en": "Heading for the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_117",
+   "en": "So that's the one I have to take down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_118",
+   "en": "Made me work for it, damn you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_119",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_120",
+   "en": "The operation's going smoothly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_121",
+   "en": "To think my shield got broken.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_122",
+   "en": "Don't get cocky over a shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_123",
+   "en": "So the shield's gone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_124",
+   "en": "Now, now. No mischief.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote oita wa ikenai; read as oitaa wa ikenai (naughty play is not allowed), teasing the enemy."
+  },
+  {
+   "id": "vph_ddi_125",
+   "en": "Bold way to handle a machine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_126",
+   "en": "Yes, that's it! Keep it up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_127",
+   "en": "You dance quite well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_128",
+   "en": "Well, aren't you something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_129",
+   "en": "Don't mock me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_130",
+   "en": "The battle isn't over yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_131",
+   "en": "Don't think you can shoot me down with this much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_132",
+   "en": "To think I'd be outdone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vph_ddi_133",
+   "en": "Don't think you can take me!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 4888 (vp0_om2_369): Luis calls the female partner a waste as a woman; kept rough and affectionate, in his manner of speaking (you are a real piece of work).",
+   "row 4904 (vp0_om2_600): Announcer-style clip read by Luis; wording compressed to fit the byte limit.",
+   "row 4905 (vp0_om2_601): Final word means head/leader; the previous clip says queen, so leader kept literal."
+  ],
+  "whisper_doubt": [
+   "row 4903 (vp0_of2_371): pain-keeki: read as pineapple cake (Yui's favourite in other clips).",
+   "row 4912 (vph_ddi_006): Whisper wrote a katakana word (arini); a short pained grunt in a hit-reaction slot, not words.",
+   "row 4921 (vph_ddi_015): Whisper heard a long vowel (chii); most likely a tch of annoyance, no words.",
+   "row 4951 (vph_ddi_124): Whisper wrote oita wa ikenai; read as oitaa wa ikenai (naughty play is not allowed), teasing the enemy."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 4927 (vph_ddi_100): Schwalbe flight name (Ivanov's callsign) is not in the glossary."
+  ],
+  "unfinished": []
+ }
+}

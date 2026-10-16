@@ -1,0 +1,508 @@
+{
+ "slice": 49,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_3311",
+   "en": "VF-5000 Star Mirage, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3311",
+   "en": "VF-5000 Star Mirage, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3311",
+   "en": "VF-5000 Star Mirage, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3312",
+   "en": "VA-C-3 Invader, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3312",
+   "en": "VA-C-3 Invader, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3312",
+   "en": "VA-C-3 Invader, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3312",
+   "en": "VA-C-3 Invader, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3312",
+   "en": "VA-C-3 Invader, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3313",
+   "en": "Graham Hoilie, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3313",
+   "en": "Graham Hoilie, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3313",
+   "en": "Graham Hoilie, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3313",
+   "en": "Graham Hoilie, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3313",
+   "en": "Graham Hoilie, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3314",
+   "en": "Destroid Cheyenne II, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3314",
+   "en": "Destroid Cheyenne II, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3314",
+   "en": "Destroid Cheyenne II, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3314",
+   "en": "Destroid Cheyenne II, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3314",
+   "en": "Destroid Cheyenne II, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3315",
+   "en": "VF-171 Nightmare Plus, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3315",
+   "en": "VF-171 Nightmare Plus, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3315",
+   "en": "VF-171 Nightmare Plus, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3315",
+   "en": "VF-171 Nightmare Plus, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3315",
+   "en": "VF-171 Nightmare Plus, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3316",
+   "en": "VF-171EX Nightmare Plus, please stand by for launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Audio says Nightmare Plus without the final EX; glossary has Nightmare Plus EX."
+  },
+  {
+   "id": "vo0_of1_3316",
+   "en": "VF-171EX Nightmare Plus, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3316",
+   "en": "VF-171EX Nightmare Plus, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3316",
+   "en": "VF-171EX Nightmare Plus, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3316",
+   "en": "VF-171EX Nightmare Plus, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3317",
+   "en": "RVF-171EX Nightmare Plus, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3317",
+   "en": "RVF-171EX Nightmare Plus, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3317",
+   "en": "RVF-171EX Nightmare Plus, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3317",
+   "en": "RVF-171EX Nightmare Plus, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3317",
+   "en": "RVF-171EX Nightmare Plus, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3318",
+   "en": "VF-25 Messiah, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3318",
+   "en": "VF-25 Messiah, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3318",
+   "en": "VF-25 Messiah, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3318",
+   "en": "VF-25 Messiah, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3318",
+   "en": "VF-25 Messiah, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3319",
+   "en": "RVF-25 Messiah, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3319",
+   "en": "RVF-25 Messiah, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3319",
+   "en": "RVF-25 Messiah, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3319",
+   "en": "RVF-25 Messiah, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3319",
+   "en": "RVF-25 Messiah, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3320",
+   "en": "Queadluun-Rhea, stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the name as 'Kuwatoran rea'; the other four give Queadluun-Rhea."
+  },
+  {
+   "id": "vo0_of1_3320",
+   "en": "Queadluun-Rhea, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3320",
+   "en": "Queadluun-Rhea, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3320",
+   "en": "Queadluun-Rhea, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3320",
+   "en": "Queadluun-Rhea, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3321",
+   "en": "Klan Klang's team, please stand by for launch.",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Unit name read as Klan Klang's squad (variants: squad / squad member); not in glossary."
+  },
+  {
+   "id": "vo0_of1_3321",
+   "en": "Klan Klang's team, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3321",
+   "en": "Klan Klang's team, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3321",
+   "en": "Klan Klang's team, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3321",
+   "en": "Klan Klang's team, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3322",
+   "en": "Konig Monster, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3322",
+   "en": "Konig Monster, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3322",
+   "en": "Konig Monster, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3322",
+   "en": "Konig Monster, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3322",
+   "en": "Konig Monster, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3323",
+   "en": "Macross Quarter, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3323",
+   "en": "Macross Quarter, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3323",
+   "en": "Macross Quarter, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3323",
+   "en": "Macross Quarter, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3323",
+   "en": "Macross Quarter, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3324",
+   "en": "Battle Frontier, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3324",
+   "en": "Battle Frontier, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3324",
+   "en": "Battle Frontier, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3324",
+   "en": "Battle Frontier, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3324",
+   "en": "Battle Frontier, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3325",
+   "en": "VF-27 Lucifer, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3325",
+   "en": "VF-27 Lucifer, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3325",
+   "en": "VF-27 Lucifer, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3325",
+   "en": "VF-27 Lucifer, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3325",
+   "en": "VF-27 Lucifer, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3326",
+   "en": "Battle Galaxy, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3326",
+   "en": "Battle Galaxy, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3326",
+   "en": "Battle Galaxy, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3326",
+   "en": "Battle Galaxy, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3326",
+   "en": "Battle Galaxy, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3327",
+   "en": "VF-2SS Valkyrie II, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3327",
+   "en": "VF-2SS Valkyrie II, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3864: Audio says Nightmare Plus without the final EX; glossary has Nightmare Plus EX.",
+   "row 3889: Unit name read as Klan Klang's squad (variants: squad / squad member); not in glossary."
+  ],
+  "whisper_doubt": [
+   "row 3884: Whisper wrote the name as 'Kuwatoran rea'; the other four give Queadluun-Rhea."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 3889: Unit name read as Klan Klang's squad (variants: squad / squad member); not in glossary."
+  ],
+  "unfinished": []
+ }
+}

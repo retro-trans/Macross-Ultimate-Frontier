@@ -1,0 +1,205 @@
+{
+ "_meta": {},
+ "rows": [
+  {
+   "line": 1,
+   "en": "; Values are ignored if there is a space between \"=\" and the value."
+  },
+  {
+   "line": 2,
+   "en": "; Lines starting with \";\" are comments."
+  },
+  {
+   "line": 4,
+   "en": "; Camera behaviour parameters."
+  },
+  {
+   "line": 5,
+   "en": "; Basic tuning is done with the following parameters:"
+  },
+  {
+   "line": 6,
+   "en": ";\tEYE_X\t\tOffset of the eye (camera) X coordinate."
+  },
+  {
+   "line": 7,
+   "en": ";\tEYE_Y\t\tOffset of the eye (camera) Y coordinate."
+  },
+  {
+   "line": 8,
+   "en": ";\tEYE_Z\t\tOffset of the eye (camera) Z coordinate."
+  },
+  {
+   "line": 9,
+   "en": ";\tTARGET_X\tOffset of the look-at point X coordinate."
+  },
+  {
+   "line": 10,
+   "en": ";\tTARGET_Y\tOffset of the look-at point Y coordinate."
+  },
+  {
+   "line": 11,
+   "en": ";\tTARGET_Z\tOffset of the look-at point Z coordinate."
+  },
+  {
+   "line": 12,
+   "en": ";\tROLL\t\tRotation offset (degrees)."
+  },
+  {
+   "line": 13,
+   "en": ";\tRATE\t\tInterpolation rate."
+  },
+  {
+   "line": 15,
+   "en": "; Fighter mode (not locked on)."
+  },
+  {
+   "line": 16,
+   "en": "; The offset is computed from the unit's tilt."
+  },
+  {
+   "line": 17,
+   "en": "; It is computed within the FIGHTER_PITCH_RANGE and FIGHTER_ROLL_RANGE"
+  },
+  {
+   "line": 18,
+   "en": "; set in [BEHAVIOR_PARAM]."
+  },
+  {
+   "line": 19,
+   "en": "; With FIGHTER_ROLL at 60.0, a tilt of -60 to 60 degrees maps to a rate of -1.0 to 1.0,"
+  },
+  {
+   "line": 20,
+   "en": "; and the parameters below are multiplied by that rate to get the offset."
+  },
+  {
+   "line": 21,
+   "en": "; The ROLL value is ignored."
+  },
+  {
+   "line": 35,
+   "en": "; GERWALK mode (not locked on)."
+  },
+  {
+   "line": 36,
+   "en": "; Values for turning left."
+  },
+  {
+   "line": 37,
+   "en": "; When turning right, the ROLL value is inverted."
+  },
+  {
+   "line": 48,
+   "en": "; Battroid mode (not locked on)."
+  },
+  {
+   "line": 59,
+   "en": "; Fighter mode (locked on)."
+  },
+  {
+   "line": 60,
+   "en": "; The offset is computed from the positions of the unit and the target."
+  },
+  {
+   "line": 61,
+   "en": "; It uses the angle of the target as seen from the unit, within the"
+  },
+  {
+   "line": 62,
+   "en": "; LOCKON_FIGHTER_PITCH_RANGE and LOCKON_FIGHTER_ROLL_RANGE of [BEHAVIOR_PARAM]."
+  },
+  {
+   "line": 63,
+   "en": "; (offset computed in that range)"
+  },
+  {
+   "line": 64,
+   "en": "; The ROLL value is ignored."
+  },
+  {
+   "line": 82,
+   "en": "; GERWALK mode (locked on)."
+  },
+  {
+   "line": 83,
+   "en": "; Values for turning left."
+  },
+  {
+   "line": 84,
+   "en": "; When turning right, EYE_X, TARGET_X and ROLL are inverted."
+  },
+  {
+   "line": 95,
+   "en": "; Battroid mode (locked on, short range)."
+  },
+  {
+   "line": 96,
+   "en": "; Used when the distance to the target is LOCKON_BATTROID_SHORT or less."
+  },
+  {
+   "line": 107,
+   "en": "; Battroid mode (locked on, mid range)."
+  },
+  {
+   "line": 118,
+   "en": "; Battroid mode (locked on, long range)."
+  },
+  {
+   "line": 119,
+   "en": "; Used when the distance to the target is LOCKON_BATTROID_LONG or more."
+  },
+  {
+   "line": 130,
+   "en": "; While shooting down missiles."
+  },
+  {
+   "line": 141,
+   "en": "; During an SP attack."
+  },
+  {
+   "line": 154,
+   "en": "; Individual parameters."
+  },
+  {
+   "line": 155,
+   "en": ";\tBOOST_EYE_OFFSET_Z\t\t\tEye Z offset while boosting."
+  },
+  {
+   "line": 156,
+   "en": ";\tCHARGE_BOOST_EYE_OFFSET_Z\tEye Z offset during a Charge Boost."
+  },
+  {
+   "line": 157,
+   "en": ";\tBREAK_EYE_OFFSET_Z\t\t\tEye Z offset while braking."
+  },
+  {
+   "line": 158,
+   "en": ";\tFIGHTER_ROLL_RATE\t\t\tRate of camera Z rotation relative to the unit's tilt in Fighter mode."
+  },
+  {
+   "line": 159,
+   "en": ";\tFIGHTER_PITCH\t\t\t\tNose pitch range in Fighter mode (degrees)."
+  },
+  {
+   "line": 160,
+   "en": ";\tFIGHTER_ROLL\t\t\t\tBank range in Fighter mode (degrees)."
+  },
+  {
+   "line": 161,
+   "en": ";\tLOCKON_FIGHTER_PITCH\t\tNose pitch range in Fighter mode, locked on (degrees)."
+  },
+  {
+   "line": 162,
+   "en": ";\tLOCKON_FIGHTER_ROLL\t\t\tBank range in Fighter mode, locked on (degrees)."
+  },
+  {
+   "line": 163,
+   "en": ";\tLOCKON_BATTROID_SHORT\t\tSwitch distance for Battroid mode (locked on, short range)."
+  },
+  {
+   "line": 164,
+   "en": ";\tLOCKON_BATTROID_LONG\t\tSwitch distance for Battroid mode (locked on, long range)."
+  }
+ ]
+}

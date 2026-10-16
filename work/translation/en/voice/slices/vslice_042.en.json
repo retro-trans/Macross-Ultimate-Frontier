@@ -1,0 +1,537 @@
+{
+ "slice": 42,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_1463",
+   "en": "VF-22 Sturmvogel II, I'll let you equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1463",
+   "en": "VF-22 Sturmvogel II, equipping the FAST Pack is authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'back' for 'pack' (FAST Pack)."
+  },
+  {
+   "id": "vos_mis_1463",
+   "en": "VF-22 Sturmvogel II, permission granted to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1464",
+   "en": "VF-171EX Nightmare Plus, you're cleared to equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1464",
+   "en": "VF-171EX Nightmare Plus, I'm authorizing you to equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1464",
+   "en": "VF-171EX Nightmare Plus, I'll let you equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1464",
+   "en": "VF-171EX Nightmare Plus, equipping the Armored Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1464",
+   "en": "VF-171EX Nightmare Plus, permission granted to equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1465",
+   "en": "RVF-171EX Nightmare Plus, you're cleared to equip the Armored Pack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'Light-mare'; it is Nightmare Plus."
+  },
+  {
+   "id": "vo0_of1_1465",
+   "en": "RVF-171EX Nightmare Plus, I'm authorizing you to equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1465",
+   "en": "RVF-171EX Nightmare Plus, I'll let you equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1465",
+   "en": "RVF-171EX Nightmare Plus, equipping the Armored Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1465",
+   "en": "RVF-171EX Nightmare Plus, permission granted to equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1466",
+   "en": "VF-25 Messiah, you're cleared to equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1466",
+   "en": "VF-25 Messiah, I authorize equipping the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1466",
+   "en": "VF-25 Messiah, I'll let you equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1466",
+   "en": "VF-25 Messiah, equipping the Super Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1466",
+   "en": "VF-25 Messiah, permission granted to equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1467",
+   "en": "VF-25 Messiah, you're cleared to equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1467",
+   "en": "VF-25 Messiah, I authorize equipping the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1467",
+   "en": "VF-25 Messiah, I'll let you equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1467",
+   "en": "VF-25 Messiah, equipping the Armored Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1467",
+   "en": "VF-25 Messiah, permission granted to equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1468",
+   "en": "VF-25 Messiah, you're cleared to equip the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1468",
+   "en": "VF-25 Messiah, I authorize equipping the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1468",
+   "en": "VF-25 Messiah, I'll let you equip the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1468",
+   "en": "VF-25 Messiah, equipping the Fold Speaker is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1468",
+   "en": "VF-25 Messiah, permission granted to equip the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1469",
+   "en": "RVF-25 Messiah, you're cleared to equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1469",
+   "en": "RVF-25 Messiah, I'm authorizing you to equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1469",
+   "en": "RVF-25 Messiah, I'll let you equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1469",
+   "en": "RVF-25 Messiah, equipping the Super Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1469",
+   "en": "RVF-25 Messiah, permission granted to equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1470",
+   "en": "RVF-25 Messiah, you're cleared to equip the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1470",
+   "en": "RVF-25 Messiah, I'm authorizing you to equip the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1470",
+   "en": "RVF-25 Messiah, I'll let you equip the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1470",
+   "en": "RVF-25 Messiah, equipping the Fold Speaker is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1470",
+   "en": "RVF-25 Messiah, permission granted to equip the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1471",
+   "en": "Klan Klang's team, cleared to equip the Super Pack.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote the wrong kanji for 'team'. Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  },
+  {
+   "id": "vo0_of1_1471",
+   "en": "Klan Klang's team, I authorize the Super Pack.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  },
+  {
+   "id": "vo0_of2_1471",
+   "en": "Klan Klang's team, I'll let you equip the Super Pack.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  },
+  {
+   "id": "vo0_om0_1471",
+   "en": "Klan Klang's team: the Super Pack authorized.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote the wrong kanji for 'team'. Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  },
+  {
+   "id": "vos_mis_1471",
+   "en": "Klan Klang's team, the Super Pack is permitted.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  },
+  {
+   "id": "vo0_of0_1472",
+   "en": "VF-2SS Valkyrie II, you're cleared to equip the Super Armed Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1472",
+   "en": "VF-2SS Valkyrie II, I'm authorizing you to equip the Super Armed Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1472",
+   "en": "VF-2SS Valkyrie II, I'll let you equip the Super Armed Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1472",
+   "en": "VF-2SS Valkyrie II, equipping the Super Armed Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1472",
+   "en": "VF-2SS Valkyrie II, permission granted to equip the Super Armed Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1473",
+   "en": "VF-19 Excalibur, you're cleared to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1473",
+   "en": "VF-19 Excalibur, I'm authorizing you to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1473",
+   "en": "VF-19 Excalibur, I'll let you equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1473",
+   "en": "VF-19 Excalibur, equipping the FAST Pack is authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'back' for 'pack' (FAST Pack)."
+  },
+  {
+   "id": "vos_mis_1473",
+   "en": "VF-19 Excalibur, permission granted to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2271",
+   "en": "Destroid Cheyenne, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2271",
+   "en": "Destroid Cheyenne, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2271",
+   "en": "Destroid Cheyenne, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2271",
+   "en": "Destroid Cheyenne, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2271",
+   "en": "Destroid Cheyenne, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2272",
+   "en": "VF-0 Phoenix, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Unit or item name misheard; read from the other operators' transcripts."
+  },
+  {
+   "id": "vo0_of1_2272",
+   "en": "VF-0 Phoenix, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2272",
+   "en": "VF-0 Phoenix, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2272",
+   "en": "VF-0 Phoenix, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2272",
+   "en": "VF-0 Phoenix, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2273",
+   "en": "SV-51, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2273",
+   "en": "SV-51, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2273",
+   "en": "SV-51, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2273",
+   "en": "SV-51, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2273",
+   "en": "SV-51, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2274",
+   "en": "Octos, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2274",
+   "en": "Octos, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2274",
+   "en": "Octos, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_2274",
+   "en": "Octos, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2274",
+   "en": "Octos, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2275",
+   "en": "Prototype Monster, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_2275",
+   "en": "Prototype Monster, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_2275",
+   "en": "Prototype Monster, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the wrong kanji for hasshin (launch)."
+  },
+  {
+   "id": "vo0_om0_2275",
+   "en": "Prototype Monster, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_2275",
+   "en": "Prototype Monster, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_2276",
+   "en": "AFOS, you're cleared to launch. Please do your best!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is a guessed romanisation, not in the glossary."
+  },
+  {
+   "id": "vo0_of1_2276",
+   "en": "AFOS, cleared to launch. Give it your all.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Eifos is a guessed romanisation, not in the glossary."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3319: Whisper wrote the wrong kanji for 'team'. Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji.",
+   "row 3320: Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji.",
+   "row 3321: Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji.",
+   "row 3322: Whisper wrote the wrong kanji for 'team'. Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji.",
+   "row 3323: Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji."
+  ],
+  "whisper_doubt": [
+   "row 3282: Whisper wrote 'back' for 'pack' (FAST Pack).",
+   "row 3289: Whisper wrote 'Light-mare'; it is Nightmare Plus.",
+   "row 3319: Whisper wrote the wrong kanji for 'team'. Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji.",
+   "row 3322: Whisper wrote the wrong kanji for 'team'. Read as Klan Klang's team (tai); some transcripts give taiin or a wrong kanji.",
+   "row 3332: Whisper wrote 'back' for 'pack' (FAST Pack).",
+   "row 3339: Unit or item name misheard; read from the other operators' transcripts.",
+   "row 3356: Whisper wrote the wrong kanji for hasshin (launch)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 3359: Eifos",
+   "row 3360: Eifos"
+  ],
+  "unfinished": []
+ }
+}

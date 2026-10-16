@@ -1,0 +1,592 @@
+{
+ "slice": 36,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1308",
+   "en": "Queadluun-Rau",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Queadluun-Rau (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1308",
+   "en": "Queadluun-Rau",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Queadluun-Rau (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1308",
+   "en": "Queadluun-Rau",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1308",
+   "en": "Queadluun-Rau",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1309",
+   "en": "Glavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1309",
+   "en": "Glavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1309",
+   "en": "Glavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1309",
+   "en": "Glavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1309",
+   "en": "Glavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1310",
+   "en": "Lord Gepelnitchi",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper mangled the name; read as Lord Gepelnitchi (cross-checked with the other operators' rows). Title read as 'Lord'; could be 'His Excellency'."
+  },
+  {
+   "id": "vo0_of1_1310",
+   "en": "Lord Gepelnitchi",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as 'Lord'; could be 'His Excellency'."
+  },
+  {
+   "id": "vo0_of2_1310",
+   "en": "Lord Gepelnitchi",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper mangled the name; read as Lord Gepelnitchi (cross-checked with the other operators' rows). Title read as 'Lord'; could be 'His Excellency'."
+  },
+  {
+   "id": "vo0_om0_1310",
+   "en": "Lord Gepelnitchi",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as 'Lord'; could be 'His Excellency'."
+  },
+  {
+   "id": "vos_mis_1310",
+   "en": "Lord Gepelnitchi",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title read as 'Lord'; could be 'His Excellency'."
+  },
+  {
+   "id": "vo0_of0_1311",
+   "en": "VF-5000 Star Mirage",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1311",
+   "en": "VF-5000 Star Mirage",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1311",
+   "en": "VF-5000 Star Mirage",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1311",
+   "en": "VF-5000 Star Mirage",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1311",
+   "en": "VF-5000 Star Mirage",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1312",
+   "en": "VA-C-3 Invader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1312",
+   "en": "VA-C-3 Invader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1312",
+   "en": "VA-C-3 Invader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1312",
+   "en": "VA-C-3 Invader",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as VA-C-3 Invader (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1312",
+   "en": "VA-C-3 Invader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1313",
+   "en": "Graham Hoilie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1313",
+   "en": "Graham Hoilie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1313",
+   "en": "Graham Hoilie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1313",
+   "en": "Graham Hoilie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1313",
+   "en": "Graham Hoilie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1314",
+   "en": "Destroid Cheyenne II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1314",
+   "en": "Destroid Cheyenne II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1314",
+   "en": "Destroid Cheyenne II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1314",
+   "en": "Destroid Cheyenne II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1314",
+   "en": "Destroid Cheyenne II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1315",
+   "en": "VF-171 Nightmare Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1315",
+   "en": "VF-171 Nightmare Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1315",
+   "en": "VF-171 Nightmare Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1315",
+   "en": "VF-171 Nightmare Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1315",
+   "en": "VF-171 Nightmare Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1316",
+   "en": "VF-171EX Nightmare Plus",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken."
+  },
+  {
+   "id": "vo0_of1_1316",
+   "en": "VF-171EX Nightmare Plus",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken."
+  },
+  {
+   "id": "vo0_of2_1316",
+   "en": "VF-171EX Nightmare Plus",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken."
+  },
+  {
+   "id": "vo0_om0_1316",
+   "en": "VF-171EX Nightmare Plus",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken."
+  },
+  {
+   "id": "vos_mis_1316",
+   "en": "VF-171EX Nightmare Plus",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken."
+  },
+  {
+   "id": "vo0_of0_1317",
+   "en": "RVF-171EX Nightmare Plus",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken."
+  },
+  {
+   "id": "vo0_of1_1317",
+   "en": "RVF-171EX Nightmare Plus",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken."
+  },
+  {
+   "id": "vo0_of2_1317",
+   "en": "RVF-171EX Nightmare Plus",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken."
+  },
+  {
+   "id": "vo0_om0_1317",
+   "en": "RVF-171EX Nightmare Plus",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken."
+  },
+  {
+   "id": "vos_mis_1317",
+   "en": "RVF-171EX Nightmare Plus",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken."
+  },
+  {
+   "id": "vo0_of0_1318",
+   "en": "VF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1318",
+   "en": "VF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1318",
+   "en": "VF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1318",
+   "en": "VF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1318",
+   "en": "VF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1319",
+   "en": "RVF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1319",
+   "en": "RVF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1319",
+   "en": "RVF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1319",
+   "en": "RVF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1319",
+   "en": "RVF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1320",
+   "en": "Queadluun-Rhea",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Queadluun-Rhea (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1320",
+   "en": "Queadluun-Rhea",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Queadluun-Rhea (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1320",
+   "en": "Queadluun-Rhea",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1320",
+   "en": "Queadluun-Rhea",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1320",
+   "en": "Queadluun-Rhea",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1321",
+   "en": "Klan Klang's team",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team; could be rendered as a squadron."
+  },
+  {
+   "id": "vo0_of1_1321",
+   "en": "Klan Klang's team",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team; could be rendered as a squadron."
+  },
+  {
+   "id": "vo0_of2_1321",
+   "en": "Klan Klang's team",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team; could be rendered as a squadron."
+  },
+  {
+   "id": "vo0_om0_1321",
+   "en": "Klan Klang's team",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper mangled the name; read as Klan Klang's Team (cross-checked with the other operators' rows). Read as Klan Klang's team; could be rendered as a squadron."
+  },
+  {
+   "id": "vos_mis_1321",
+   "en": "Klan Klang's team",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Read as Klan Klang's team; could be rendered as a squadron."
+  },
+  {
+   "id": "vo0_of0_1322",
+   "en": "Konig Monster",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Spelled without the umlaut (ASCII only)."
+  },
+  {
+   "id": "vo0_of1_1322",
+   "en": "Konig Monster",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Spelled without the umlaut (ASCII only)."
+  },
+  {
+   "id": "vo0_of2_1322",
+   "en": "Konig Monster",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Spelled without the umlaut (ASCII only)."
+  },
+  {
+   "id": "vo0_om0_1322",
+   "en": "Konig Monster",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Spelled without the umlaut (ASCII only)."
+  },
+  {
+   "id": "vos_mis_1322",
+   "en": "Konig Monster",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Spelled without the umlaut (ASCII only)."
+  },
+  {
+   "id": "vo0_of0_1323",
+   "en": "Macross Quarter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1323",
+   "en": "Macross Quarter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1323",
+   "en": "Macross Quarter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1323",
+   "en": "Macross Quarter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1323",
+   "en": "Macross Quarter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1324",
+   "en": "Battle Frontier",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 2810: Whisper mangled the name; read as Lord Gepelnitchi (cross-checked with the other operators' rows). Title read as 'Lord'; could be 'His Excellency'.",
+   "row 2811: Title read as 'Lord'; could be 'His Excellency'.",
+   "row 2812: Whisper mangled the name; read as Lord Gepelnitchi (cross-checked with the other operators' rows). Title read as 'Lord'; could be 'His Excellency'.",
+   "row 2813: Title read as 'Lord'; could be 'His Excellency'.",
+   "row 2814: Title read as 'Lord'; could be 'His Excellency'.",
+   "row 2840: Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken.",
+   "row 2841: Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken.",
+   "row 2842: Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken.",
+   "row 2843: Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken.",
+   "row 2844: Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken.",
+   "row 2845: Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken.",
+   "row 2846: Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken.",
+   "row 2847: Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken.",
+   "row 2848: Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken.",
+   "row 2849: Speaker says the model number then 'Nightmare Plus'; glossary adds a trailing EX that is not spoken.",
+   "row 2865: Read as Klan Klang's team; could be rendered as a squadron.",
+   "row 2866: Read as Klan Klang's team; could be rendered as a squadron.",
+   "row 2867: Read as Klan Klang's team; could be rendered as a squadron.",
+   "row 2868: Whisper mangled the name; read as Klan Klang's Team (cross-checked with the other operators' rows). Read as Klan Klang's team; could be rendered as a squadron.",
+   "row 2869: Read as Klan Klang's team; could be rendered as a squadron.",
+   "row 2870: Spelled without the umlaut (ASCII only).",
+   "row 2871: Spelled without the umlaut (ASCII only).",
+   "row 2872: Spelled without the umlaut (ASCII only).",
+   "row 2873: Spelled without the umlaut (ASCII only).",
+   "row 2874: Spelled without the umlaut (ASCII only)."
+  ],
+  "whisper_doubt": [
+   "row 2801",
+   "row 2802",
+   "row 2810",
+   "row 2812",
+   "row 2823",
+   "row 2860",
+   "row 2861",
+   "row 2868"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

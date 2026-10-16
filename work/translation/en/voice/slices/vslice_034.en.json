@@ -1,0 +1,541 @@
+{
+ "slice": 34,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1276",
+   "en": "AFOS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1276",
+   "en": "AFOS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1276",
+   "en": "AFOS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1276",
+   "en": "AFOS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1277",
+   "en": "Destroid Defender",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1277",
+   "en": "Destroid Defender",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1277",
+   "en": "Destroid Defender",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1277",
+   "en": "Destroid Defender",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1277",
+   "en": "Destroid Defender",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1278",
+   "en": "Destroid Spartan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1278",
+   "en": "Destroid Spartan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1278",
+   "en": "Destroid Spartan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1278",
+   "en": "Destroid Spartan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1278",
+   "en": "Destroid Spartan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1279",
+   "en": "Destroid Phalanx",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1279",
+   "en": "Destroid Phalanx",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1279",
+   "en": "Destroid Phalanx",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1279",
+   "en": "Destroid Phalanx",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1279",
+   "en": "Destroid Phalanx",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1280",
+   "en": "Destroid Tomahawk",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1280",
+   "en": "Destroid Tomahawk",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1280",
+   "en": "Destroid Tomahawk",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1280",
+   "en": "Destroid Tomahawk",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1280",
+   "en": "Destroid Tomahawk",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1281",
+   "en": "Destroid Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1281",
+   "en": "Destroid Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1281",
+   "en": "Destroid Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1281",
+   "en": "Destroid Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1281",
+   "en": "Destroid Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1282",
+   "en": "Destroid Team",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1282",
+   "en": "Destroid Team",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1282",
+   "en": "Destroid Team",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1282",
+   "en": "Destroid Team",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1282",
+   "en": "Destroid Team",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1283",
+   "en": "VF-1 Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1283",
+   "en": "VF-1 Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1283",
+   "en": "VF-1 Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1283",
+   "en": "VF-1 Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1283",
+   "en": "VF-1 Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1284",
+   "en": "SDF-1 Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1284",
+   "en": "SDF-1 Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1284",
+   "en": "SDF-1 Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1284",
+   "en": "SDF-1 Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1284",
+   "en": "SDF-1 Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1285",
+   "en": "VT-1 Super Ostrich",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1285",
+   "en": "VT-1 Super Ostrich",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1285",
+   "en": "VT-1 Super Ostrich",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1285",
+   "en": "VT-1 Super Ostrich",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1285",
+   "en": "VT-1 Super Ostrich",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1286",
+   "en": "VF-4 Lightning III",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1286",
+   "en": "VF-4 Lightning III",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1286",
+   "en": "VF-4 Lightning III",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1286",
+   "en": "VF-4 Lightning III",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1286",
+   "en": "VF-4 Lightning III",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1287",
+   "en": "Regult",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1287",
+   "en": "Regult",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1287",
+   "en": "Regult",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1287",
+   "en": "Regult",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1287",
+   "en": "Regult",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1288",
+   "en": "Glaug",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1288",
+   "en": "Glaug",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1288",
+   "en": "Glaug",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1288",
+   "en": "Glaug",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1288",
+   "en": "Glaug",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1289",
+   "en": "Nousjadeul-Ger",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1289",
+   "en": "Nousjadeul-Ger",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1289",
+   "en": "Nousjadeul-Ger",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1289",
+   "en": "Nousjadeul-Ger",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Nousjadeul-Ger (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1289",
+   "en": "Nousjadeul-Ger",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1290",
+   "en": "All squad members",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Meaning of 'each squad member' in a list of names is a guess; may be a fragment of a longer sentence."
+  },
+  {
+   "id": "vo0_of1_1290",
+   "en": "All squad members",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper mangled the name; read as All squad members (cross-checked with the other operators' rows). Meaning of 'each squad member' in a list of names is a guess; may be a fragment of a longer sentence."
+  },
+  {
+   "id": "vo0_of2_1290",
+   "en": "All squad members",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper mangled the name; read as All squad members (cross-checked with the other operators' rows). Meaning of 'each squad member' in a list of names is a guess; may be a fragment of a longer sentence."
+  },
+  {
+   "id": "vo0_om0_1290",
+   "en": "All squad members",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Meaning of 'each squad member' in a list of names is a guess; may be a fragment of a longer sentence."
+  },
+  {
+   "id": "vos_mis_1290",
+   "en": "All squad members",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Meaning of 'each squad member' in a list of names is a guess; may be a fragment of a longer sentence."
+  },
+  {
+   "id": "vo0_of0_1291",
+   "en": "Fleet Commander Vrlitwhai Kridanik",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Fleet Commander Vrlitwhai Kridanik (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1291",
+   "en": "Fleet Commander Vrlitwhai Kridanik",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1291",
+   "en": "Fleet Commander Vrlitwhai Kridanik",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1291",
+   "en": "Fleet Commander Vrlitwhai Kridanik",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Fleet Commander Vrlitwhai Kridanik (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1291",
+   "en": "Fleet Commander Vrlitwhai Kridanik",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Fleet Commander Vrlitwhai Kridanik (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1292",
+   "en": "Golg Boddole Zer, Main Fleet Supreme Commander",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper mangled the name; read as Golg Boddole Zer, Main Fleet Supreme Commander (cross-checked with the other operators' rows). Title word heard as 'engine/organ' (kikan); read as 'main fleet' (kikan, other kanji). Rank read as supreme commander of the main fleet."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 2710: Meaning of 'each squad member' in a list of names is a guess; may be a fragment of a longer sentence.",
+   "row 2711: Whisper mangled the name; read as All squad members (cross-checked with the other operators' rows). Meaning of 'each squad member' in a list of names is a guess; may be a fragment of a longer sentence.",
+   "row 2712: Whisper mangled the name; read as All squad members (cross-checked with the other operators' rows). Meaning of 'each squad member' in a list of names is a guess; may be a fragment of a longer sentence.",
+   "row 2713: Meaning of 'each squad member' in a list of names is a guess; may be a fragment of a longer sentence.",
+   "row 2714: Meaning of 'each squad member' in a list of names is a guess; may be a fragment of a longer sentence.",
+   "row 2720: Whisper mangled the name; read as Golg Boddole Zer, Main Fleet Supreme Commander (cross-checked with the other operators' rows). Title word heard as 'engine/organ' (kikan); read as 'main fleet' (kikan, other kanji). Rank read as supreme commander of the main fleet."
+  ],
+  "whisper_doubt": [
+   "row 2705",
+   "row 2706",
+   "row 2707",
+   "row 2708",
+   "row 2711",
+   "row 2712",
+   "row 2715",
+   "row 2718",
+   "row 2719",
+   "row 2720"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

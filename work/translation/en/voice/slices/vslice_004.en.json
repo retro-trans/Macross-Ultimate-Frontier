@@ -1,0 +1,520 @@
+{
+ "slice": 4,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of0_058",
+   "en": "The target has broken through the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_058",
+   "en": "The target broke through the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_058",
+   "en": "Thanks to your clumsiness, the target broke through!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_058",
+   "en": "The target has broken through the zone!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has senyaku (war service); surely sen-iki (combat zone), as the other operators say."
+  },
+  {
+   "id": "vos_mis_058",
+   "en": "Target broke through the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_059",
+   "en": "The target has begun to withdraw. Destroy it before it breaks through the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_059",
+   "en": "Target's started withdrawing. Destroy it before it breaks through the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_059",
+   "en": "The target's trying to run. Don't let it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_059",
+   "en": "Target withdrawing. Destroy it before it breaks out of the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_059",
+   "en": "The enemy is trying to leave the combat zone. Join the pursuit too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_060",
+   "en": "The target has begun to withdraw. Please shoot it down if you possibly can.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Kanou na kagiri could cover several targets (\"as many as possible\"); read as the one target, matching Pinon's and Misa's lines."
+  },
+  {
+   "id": "vo0_of1_060",
+   "en": "The target's started withdrawing. Take it down if you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_060",
+   "en": "Take down the fleeing target. Well, only if you can manage it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_060",
+   "en": "Target withdrawing. Shoot it down if you possibly can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_060",
+   "en": "The enemy is retreating. If we can, I'd like to thin out their forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_061",
+   "en": "Target still alive. At this rate it'll break through.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has kensa (inspection); surely kenzai (still alive), as the other operators say."
+  },
+  {
+   "id": "vo0_of1_061",
+   "en": "Target still alive. Its escape is only a matter of time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_061",
+   "en": "The target's still alive. It's obvious it'll escape at this rate.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has yaruki da ze (feeling motivated); probably kenzai da ze (still alive)."
+  },
+  {
+   "id": "vo0_om0_061",
+   "en": "Target still alive. At this rate it'll break through!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes kenzai (visible) with the wrong kanji; kenzai (alive)."
+  },
+  {
+   "id": "vos_mis_061",
+   "en": "The enemy is intact. It will leave the zone shortly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_062",
+   "en": "The target has left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_062",
+   "en": "The target left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_062",
+   "en": "Aaah, we lost the target!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_062",
+   "en": "The target has left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_062",
+   "en": "Target left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_063",
+   "en": "We've lost the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_063",
+   "en": "We've lost the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_063",
+   "en": "The target ran out of the combat zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_063",
+   "en": "Target lost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_063",
+   "en": "Target lost from radar.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_064",
+   "en": "Target gone. We can't track it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_064",
+   "en": "Target left the combat zone. Can't track it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_064",
+   "en": "Aaah, we lost the target!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_064",
+   "en": "Target gone. Can't track it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_064",
+   "en": "Target has left. We can't track it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_065",
+   "en": "Please destroy the target before it reaches the objective area.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has mokuhyo-ire (target container); surely mokuhyo eria (objective area)."
+  },
+  {
+   "id": "vo0_of1_065",
+   "en": "Destroy the target before it reaches the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_065",
+   "en": "Don't let the target reach the objective area. Destroy it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_065",
+   "en": "Destroy the target before it reaches the objective area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_065",
+   "en": "Destroy the target before it reaches the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_066",
+   "en": "The target is approaching the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_066",
+   "en": "The target is going to reach the objective area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_066",
+   "en": "Destroy it quick, or the target will get to the objective area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_066",
+   "en": "Target approaching the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_066",
+   "en": "The target is approaching the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_067",
+   "en": "The target has entered the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_067",
+   "en": "The target has reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_067",
+   "en": "You're useless! You can't even stop the target getting in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_067",
+   "en": "The target has entered the objective area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_067",
+   "en": "Target has broken through the defense line.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_068",
+   "en": "The defense target has entered the operation area.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says sakusei (creation) area; surely sakusen (operation) area."
+  },
+  {
+   "id": "vo0_of1_068",
+   "en": "Defense target entered the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_068",
+   "en": "The defense target's here! Show me you can protect it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_068",
+   "en": "Defense target in the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_068",
+   "en": "Defense target has appeared. Escort it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_069",
+   "en": "Please escort the defense target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_069",
+   "en": "Escort the defense target.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript is \"regarding the escort of the defense target\"; read as a short order to take up escort."
+  },
+  {
+   "id": "vo0_of2_069",
+   "en": "Escort the target that just arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_069",
+   "en": "Escort the defense target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_069",
+   "en": "See it? That's the defense target!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_070",
+   "en": "Defense target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_070",
+   "en": "Defense target confirmed. Protect it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_070",
+   "en": "That's the defense target. Defend it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_070",
+   "en": "Defense target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_070",
+   "en": "Defense target confirmed. Move to escort.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_071",
+   "en": "Please escort the defense target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_071",
+   "en": "Escort it so enemies can't destroy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_071",
+   "en": "Defend that target!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_071",
+   "en": "Escort the defense target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_071",
+   "en": "Keep enemies off the defense target!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_072",
+   "en": "Please keep the enemy away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_072",
+   "en": "Escort duty is top priority.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_072",
+   "en": "Just keep the enemy away from the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_072",
+   "en": "Keep the enemy away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_072",
+   "en": "Please escort the defense target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_073",
+   "en": "The defense target is under attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_073",
+   "en": "The defense target is under enemy fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_073",
+   "en": "Hey, the defense target's under attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_073",
+   "en": "The defense target is under attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_073",
+   "en": "The defense target is under enemy attack.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 251: Kanou na kagiri could cover several targets (\"as many as possible\"); read as the one target, matching Pinon's and Misa's lines.",
+   "row 297: Transcript is \"regarding the escort of the defense target\"; read as a short order to take up escort."
+  ],
+  "whisper_doubt": [
+   "row 244: Transcript has senyaku (war service); surely sen-iki (combat zone), as the other operators say.",
+   "row 256: Transcript has kensa (inspection); surely kenzai (still alive), as the other operators say.",
+   "row 258: Transcript has yaruki da ze (feeling motivated); probably kenzai da ze (still alive).",
+   "row 259: Transcript writes kenzai (visible) with the wrong kanji; kenzai (alive).",
+   "row 276: Transcript has mokuhyo-ire (target container); surely mokuhyo eria (objective area).",
+   "row 291: Transcript says sakusei (creation) area; surely sakusen (operation) area."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

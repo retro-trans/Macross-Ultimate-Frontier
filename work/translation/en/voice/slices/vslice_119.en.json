@@ -1,0 +1,542 @@
+{
+ "slice": 119,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_alt_345",
+   "en": "Let's go. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_346",
+   "en": "Don't push yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_347",
+   "en": "I'm going in front! Cover my back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_348",
+   "en": "Leave this one to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_349",
+   "en": "I'm here. Fight without worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_350",
+   "en": "I'm trusting you with my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_351",
+   "en": "I'm counting on you in combat, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_360",
+   "en": "Wake up already, for crying out loud.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_361",
+   "en": "Phew, it's over somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_362",
+   "en": "Man, that wore me out for nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_363",
+   "en": "Looks like it's finally over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_364",
+   "en": "Well, time to pack it in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_365",
+   "en": "Decent enough this time, I guess.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_366",
+   "en": "We made it back safe again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_367",
+   "en": "Counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_368",
+   "en": "Flying would be fun if it weren't for the fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_369",
+   "en": "Good to hear your voice again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_370",
+   "en": "Hey, want to keep flying a while like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_371",
+   "en": "With you around, I can fight with peace of mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_600",
+   "en": "What the hell is this monster?! Why?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_601",
+   "en": "Huh? Oh, yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_602",
+   "en": "Grab on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_603",
+   "en": "Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_604",
+   "en": "It's okay. You're safe now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_605",
+   "en": "Why are there Vajra in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_606",
+   "en": "I never thought I'd fight you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_607",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Short grunt/shout (transcript 'muka')."
+  },
+  {
+   "id": "vpf_alt_608",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Battle shout (transcript 'nuka')."
+  },
+  {
+   "id": "vpf_alt_609",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groaning, no words."
+  },
+  {
+   "id": "vpf_alt_610",
+   "en": "Hedgehog or whatever, once I'm inside it...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_611",
+   "en": "Luca, hold on! I'll be right there!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Line ends on 'sugu' (right away); completed as 'right there'."
+  },
+  {
+   "id": "vpf_alt_612",
+   "en": "A song?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_613",
+   "en": "Luca! Hang in there! I'll save you right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_614",
+   "en": "I'm going ahead! Cover me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_615",
+   "en": "That unit... There's no mistake.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_616",
+   "en": "I'll be the decoy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_617",
+   "en": "I heard you never miss. Both you and your sister Jessica.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_618",
+   "en": "Michael, shoot! Surpass your sister!",
+   "flags": [],
+   "notes": "Alto says 'Mihail' here; glossary name Michael Blanc."
+  },
+  {
+   "id": "vpf_alt_619",
+   "en": "Shoot, Michael! Don't shoot! Shoot, Michael!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Odd order (shoot / don't shoot / shoot) kept as heard."
+  },
+  {
+   "id": "vpf_alt_620",
+   "en": "Hmph, nice shot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_621",
+   "en": "I'll be late for class. Let's get going, Michael.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_622",
+   "en": "Ranka, you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_624",
+   "en": "Give up! You've lost!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_625",
+   "en": "Actor's blood?! Like I care about that! I'm...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_626",
+   "en": "Ranka, why would you go this far?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_627",
+   "en": "Ranka, are you okay? Where are you now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_628",
+   "en": "Ranka, I'm coming now. Don't move!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_629",
+   "en": "Ranka, hold on! I'll save you right now!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript starts 'nanka' (somehow); probably 'Ranka'."
+  },
+  {
+   "id": "vpf_alt_630",
+   "en": "What the hell are you, you monster?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_631",
+   "en": "So that's how you Vajra keep multiplying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_632",
+   "en": "Ranka! I'll definitely save you!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Hunka'; read as Ranka."
+  },
+  {
+   "id": "vpf_alt_633",
+   "en": "Get out of my way! Ranka's inside that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_634",
+   "en": "She's been taken! On the biggest ship behind you, to the right!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'She' = Ranka (rows 633, 636); 'you' = the allied pilots he is briefing."
+  },
+  {
+   "id": "vpf_alt_635",
+   "en": "It's a Vajra mothership!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_636",
+   "en": "I'll deal with this Valkyrie! So please! Save Ranka!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_637",
+   "en": "Sheryl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_638",
+   "en": "I can't die in a place like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_639",
+   "en": "Hang on, Ranka!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Rankan'; read as Ranka."
+  },
+  {
+   "id": "vpf_alt_640",
+   "en": "Thank goodness you're safe, Sheryl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_641",
+   "en": "What about Ranka?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_642",
+   "en": "That ship... Don't tell me Ranka's...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_643",
+   "en": "Wait! Ranka's inside it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_644",
+   "en": "Request permission to rescue her!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_645",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_646",
+   "en": "Ranka!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_648",
+   "en": "You damn monster!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_649",
+   "en": "Michael.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_650",
+   "en": "Tease someone about girls in the middle of a mission and you'll get shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_651",
+   "en": "Maria!",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Transcript 'Mariama'; likely Maria (Fokina?) of this mission; not sure which glossary entry."
+  },
+  {
+   "id": "vpf_alt_652",
+   "en": "Why? Why would you...",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_653",
+   "en": "A woman?! Tch! Is that what an adult says?!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Answers a line about women in 650-651 context; 'onna' kept literal."
+  },
+  {
+   "id": "vpf_alt_654",
+   "en": "Sheryl, I'll come back. I'll survive this battle and come back, I swear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_655",
+   "en": "People can't fly alone. They shouldn't. Because I finally understand that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_656",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'iei' (yeah) at low confidence; a cheer or shout, left blank."
+  },
+  {
+   "id": "vpf_alt_657",
+   "en": "That voice... Could it be...? Ah... somehow...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Trailing off."
+  },
+  {
+   "id": "vpf_alt_658",
+   "en": "Why are you doing this? Why try to destroy us? Ranka!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_659",
+   "en": "Why did you do that to Ranka?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_660",
+   "en": "Invaders? No! We are...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_661",
+   "en": "I saw it! I saw what it really is!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_alt_662",
+   "en": "That's not Ranka! Shoot that fake!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9471 (vpf_alt_611): Line ends on 'sugu' (right away); completed as 'right there'.",
+   "row 9479 (vpf_alt_619): Odd order (shoot / don't shoot / shoot) kept as heard.",
+   "row 9488 (vpf_alt_629): Transcript starts 'nanka' (somehow); probably 'Ranka'.",
+   "row 9493 (vpf_alt_634): 'She' = Ranka (rows 633, 636); 'you' = the allied pilots he is briefing.",
+   "row 9509 (vpf_alt_651): Transcript 'Mariama'; likely Maria (Fokina?) of this mission; not sure which glossary entry.",
+   "row 9511 (vpf_alt_653): Answers a line about women in 650-651 context; 'onna' kept literal.",
+   "row 9515 (vpf_alt_657): Trailing off."
+  ],
+  "whisper_doubt": [
+   "row 9488 (vpf_alt_629): Transcript starts 'nanka' (somehow); probably 'Ranka'.",
+   "row 9491 (vpf_alt_632): Transcript 'Hunka'; read as Ranka.",
+   "row 9498 (vpf_alt_639): Transcript 'Rankan'; read as Ranka.",
+   "row 9514 (vpf_alt_656): Transcript 'iei' (yeah) at low confidence; a cheer or shout, left blank."
+  ],
+  "kept_omission": [
+   "row 9510 (vpf_alt_652): "
+  ],
+  "missing_glossary": [
+   "row 9509 (vpf_alt_651): Transcript 'Mariama'; likely Maria (Fokina?) of this mission; not sure which glossary entry."
+  ],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,543 @@
+{
+ "slice": 69,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpa_sar_326",
+   "en": "Protecting you from Kadun is also my duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_327",
+   "en": "Why... why am I helping an outsider...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_328",
+   "en": "It's all for the Mayan people. It isn't for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_329",
+   "en": "Thank you for believing in me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_330",
+   "en": "You're safe. What more could I want?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_331",
+   "en": "Y-you won't point a weapon at me?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote yariwei (unknown word); guessed it means a weapon or something thrust at her."
+  },
+  {
+   "id": "vpa_sar_360",
+   "en": "Father was right. If you have ties with outsiders, the pollen of calamity falls on you.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote katon; read as kafun (pollen)."
+  },
+  {
+   "id": "vpa_sar_361",
+   "en": "You'll bring a great calamity!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_362",
+   "en": "Outsiders really can't be trusted. Leave quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_363",
+   "en": "The word 'strife' will never disappear, will it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_364",
+   "en": "I can't let the Bird Human be revived. That, above all, never.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_365",
+   "en": "On behalf of the Mayan people, I thank you.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote maian; read as Mayan."
+  },
+  {
+   "id": "vpa_sar_366",
+   "en": "I do feel some gratitude for your protecting us.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Who was protected (me or us) is not stated."
+  },
+  {
+   "id": "vpa_sar_367",
+   "en": "Strange. The pollen that clung to you, I can't see it anymore.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote katon; read as kafun (pollen)."
+  },
+  {
+   "id": "vpa_sar_368",
+   "en": "With you, I might be able to stop the song of ruin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_369",
+   "en": "May the wind god's blessing be with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_370",
+   "en": "I only fulfilled my duty as the wind's guide.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_371",
+   "en": "Thank you. You always help me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_600",
+   "en": "Shin! You came!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sar_601",
+   "en": "Thank you, Shin, for believing in me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_snt_000",
+   "en": "Kadun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_snt_309",
+   "en": "Kadun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_000",
+   "en": "Sortie prep is OK. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_001",
+   "en": "Shin Kudo, launching.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote kudo shingi (a mis-segmented name); read as Kudo Shin."
+  },
+  {
+   "id": "vpa_sin_002",
+   "en": "As expected of the chief's maintenance. We can do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_003",
+   "en": "Piece of cake!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_004",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_005",
+   "en": "Whoa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_006",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_007",
+   "en": "What are you doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_008",
+   "en": "Whoa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_009",
+   "en": "Now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_010",
+   "en": "I've got more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_011",
+   "en": "One more shot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_012",
+   "en": "What a guy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_013",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_014",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vpa_sin_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (ki), whisper logprob warning."
+  },
+  {
+   "id": "vpa_sin_016",
+   "en": "What the...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_017",
+   "en": "Tch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_018",
+   "en": "This one too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_019",
+   "en": "Got you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_020",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_100",
+   "en": "I can do this mission. I'll definitely pull it off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_101",
+   "en": "All right, starting the operation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_102",
+   "en": "I'll handle a mission like this easily.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_103",
+   "en": "Enemy locked on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_104",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_105",
+   "en": "You won't get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_106",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream, whisper nospeech warning."
+  },
+  {
+   "id": "vpa_sin_107",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_108",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_109",
+   "en": "I'll finish this right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_110",
+   "en": "I won't let my guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_111",
+   "en": "It's pointless to keep going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_112",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_113",
+   "en": "All right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_114",
+   "en": "Keep it up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_115",
+   "en": "Here they come. If I take that one out...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vpa_sin_116",
+   "en": "That's the target. I'll take it down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_117",
+   "en": "I'll handle that one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_118",
+   "en": "Target down. Feels good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_119",
+   "en": "Phew, finally cleaned up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_120",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_121",
+   "en": "Just a shield like this...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Fragment, trails off."
+  },
+  {
+   "id": "vpa_sin_122",
+   "en": "Damn! I don't need a shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_123",
+   "en": "The shield saved me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_124",
+   "en": "This much is no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_125",
+   "en": "If it's only this much...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vpa_sin_126",
+   "en": "Is that all you've got?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_127",
+   "en": "Damn you, doing whatever you please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_128",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_129",
+   "en": "Don't make a fool of me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_131",
+   "en": "Not in a place like this...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vpa_sin_132",
+   "en": "I can still fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_133",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Gasping, whisper logprob warning."
+  },
+  {
+   "id": "vpa_sin_134",
+   "en": "Damn! My machine can't hold out!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote kitai ga motanai (expectation); read as kitai (machine)."
+  },
+  {
+   "id": "vpa_sin_135",
+   "en": "Not yet! Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpa_sin_136",
+   "en": "I... I...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off."
+  },
+  {
+   "id": "vpa_sin_138",
+   "en": "The machine isn't responding.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5446 (vpa_sar_331): Whisper wrote yariwei (unknown word); guessed it means a weapon or something thrust at her.",
+   "row 5453 (vpa_sar_366): Who was protected (me or us) is not stated."
+  ],
+  "whisper_doubt": [
+   "row 5446 (vpa_sar_331): Whisper wrote yariwei (unknown word); guessed it means a weapon or something thrust at her.",
+   "row 5447 (vpa_sar_360): Whisper wrote katon; read as kafun (pollen).",
+   "row 5452 (vpa_sar_365): Whisper wrote maian; read as Mayan.",
+   "row 5454 (vpa_sar_367): Whisper wrote katon; read as kafun (pollen).",
+   "row 5464 (vpa_sin_001): Whisper wrote kudo shingi (a mis-segmented name); read as Kudo Shin.",
+   "row 5517 (vpa_sin_134): Whisper wrote kitai ga motanai (expectation); read as kitai (machine)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 5499 (vpa_sin_115): Trails off.",
+   "row 5505 (vpa_sin_121): Fragment, trails off.",
+   "row 5509 (vpa_sin_125): Trails off.",
+   "row 5514 (vpa_sin_131): Trails off.",
+   "row 5519 (vpa_sin_136): Trails off."
+  ]
+ }
+}

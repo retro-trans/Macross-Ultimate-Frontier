@@ -1,0 +1,860 @@
+{
+ "_meta": {
+  "version": "0.1.0",
+  "updated": "2026-10-15",
+  "notes": "Game-system terms, in-universe terminology, conflicts and song titles. Entries marked 'provisional' are our own renderings, chosen before the UI was measured. Revisit them once the in-game text is extracted."
+ },
+ "lore": [
+  {
+   "ja": "フォールド",
+   "en": "fold",
+   "notes": "Space fold (FTL jump). 'fold' as a verb/noun, lowercase in running text."
+  },
+  {
+   "ja": "フォールド通信",
+   "en": "fold communication"
+  },
+  {
+   "ja": "フォールドクォーツ",
+   "en": "fold quartz",
+   "sources": [
+    "https://macross.fandom.com/wiki/Fold_Quartz"
+   ]
+  },
+  {
+   "ja": "ピンポイントバリア",
+   "en": "pinpoint barrier"
+  },
+  {
+   "ja": "オーバーテクノロジー",
+   "en": "OverTechnology"
+  },
+  {
+   "ja": "反応弾",
+   "en": "reaction weapon",
+   "aliases": [
+    "reaction warhead"
+   ]
+  },
+  {
+   "ja": "マイクローン",
+   "en": "Micronian",
+   "notes": "Zentradi word for humans / normal-sized people."
+  },
+  {
+   "ja": "マイクローン化",
+   "en": "micronize"
+  },
+  {
+   "ja": "巨人化",
+   "en": "macronize"
+  },
+  {
+   "ja": "デカルチャー",
+   "en": "Deculture!",
+   "notes": "Zentradi exclamation of shock. Keep as 'Deculture!'."
+  },
+  {
+   "ja": "ヤック・デカルチャー",
+   "en": "Yack deculture!"
+  },
+  {
+   "ja": "プロトカルチャー",
+   "en": "Protoculture"
+  },
+  {
+   "ja": "スピリチア",
+   "en": "Spiritia",
+   "sources": [
+    "https://macross.fandom.com/wiki/Spiritia"
+   ]
+  },
+  {
+   "ja": "アニマスピリチア",
+   "en": "Anima Spiritia"
+  },
+  {
+   "ja": "歌エネルギー",
+   "en": "Song Energy"
+  },
+  {
+   "ja": "スピーカーポッド",
+   "en": "speaker pod"
+  },
+  {
+   "ja": "銀河の妖精",
+   "en": "Galactic Fairy",
+   "notes": "Sheryl's title."
+  },
+  {
+   "ja": "超時空シンデレラ",
+   "en": "Super Dimension Cinderella",
+   "notes": "Ranka's title."
+  },
+  {
+   "ja": "板野サーカス",
+   "en": "Itano Circus",
+   "notes": "Missile-swarm maneuver named after animator Ichiro Itano."
+  },
+  {
+   "ja": "統合戦争",
+   "en": "Unification Wars",
+   "sources": [
+    "https://macross.fandom.com/wiki/Unification_Wars"
+   ]
+  },
+  {
+   "ja": "第一次星間大戦",
+   "en": "Space War I",
+   "sources": [
+    "https://macross.fandom.com/wiki/Space_War_I"
+   ]
+  },
+  {
+   "ja": "バロータ戦役",
+   "en": "Varauta War",
+   "status": "needs_check"
+  },
+  {
+   "ja": "バジュラ戦役",
+   "en": "Vajra War",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vajra_War"
+   ]
+  },
+  {
+   "ja": "シャロン・アップル事件",
+   "en": "Sharon Apple Incident"
+  },
+  {
+   "ja": "スーパーノヴァ計画",
+   "en": "Project Super Nova"
+  },
+  {
+   "ja": "超長距離移民船団",
+   "en": "Long Distance Colony Fleet"
+  },
+  {
+   "ja": "船団",
+   "en": "fleet",
+   "notes": "Colony fleet. 艦隊 (warfleet) is also 'fleet'."
+  },
+  {
+   "ja": "エイフォス",
+   "en": "AFOS",
+   "notes": "A.F.O.S. (Artifact From Outer Space), the Bird Human relic.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bird_Human"
+   ]
+  },
+  {
+   "ja": "エイフォスの欠片",
+   "en": "AFOS fragment",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bird_Human"
+   ]
+  },
+  {
+   "ja": "戦いのカドゥン",
+   "en": "Kadun of Battle",
+   "notes": "Mayan legend; カドゥン alone → 'Kadun'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bird_Human"
+   ]
+  },
+  {
+   "ja": "オペレーション・イコノクラスム",
+   "en": "Operation Iconoclasm",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bird_Human"
+   ]
+  },
+  {
+   "ja": "オペレーションスターゲイザー",
+   "en": "Operation Stargazer",
+   "sources": [
+    "https://macross.fandom.com/wiki/Protodeviln_War"
+   ]
+  },
+  {
+   "ja": "スピリチア・ファーム・プロジェクト",
+   "en": "Spiritia Farm Project",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gepelnitchi"
+   ]
+  },
+  {
+   "ja": "ミンメイ・アタック",
+   "en": "Minmay Attack",
+   "sources": [
+    "https://macross.fandom.com/wiki/Lynn_Minmay"
+   ]
+  },
+  {
+   "ja": "オペレーション・ミンメイ",
+   "en": "Operation Minmay"
+  },
+  {
+   "ja": "ダイダロス・アタック",
+   "en": "Daedalus Attack",
+   "sources": [
+    "https://macross.fandom.com/wiki/Daedalus_Attack"
+   ]
+  },
+  {
+   "ja": "ミス・マクロス",
+   "en": "Miss Macross",
+   "sources": [
+    "https://macross.fandom.com/wiki/Lynn_Minmay"
+   ]
+  },
+  {
+   "ja": "Ｖ型ウィルス",
+   "en": "V-type virus",
+   "notes": "Sheryl's illness. Wiki: 'V-Type infection'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/V-Type_infection"
+   ]
+  },
+  {
+   "ja": "ビクター",
+   "en": "Victor",
+   "notes": "Codename for the Vajra group in mission MF_330. Not confirmed on the wiki."
+  },
+  {
+   "ja": "巨大異星人",
+   "en": "giant aliens",
+   "notes": "How humans refer to the Zentradi before contact."
+  },
+  {
+   "ja": "民間人",
+   "en": "civilians"
+  },
+  {
+   "ja": "ゼントラーディ兵",
+   "en": "Zentradi soldier"
+  },
+  {
+   "ja": "スーパー・ノヴァ計画",
+   "en": "Project Super Nova",
+   "notes": "Variant spelling of スーパーノヴァ計画."
+  },
+  {
+   "ja": "文化",
+   "en": "Culture",
+   "notes": "Zentradi word for human culture; capitalised when Zentradi speak of it."
+  },
+  {
+   "ja": "ＡＳＳ－１",
+   "en": "ASS-1",
+   "notes": "The crashed alien ship (Alien Starship One)."
+  },
+  {
+   "ja": "新マクロス級",
+   "en": "New Macross class"
+  },
+  {
+   "ja": "ゾラ人",
+   "en": "Zolans"
+  },
+  {
+   "ja": "サラ基地",
+   "en": "Sara Base",
+   "notes": "Base on Mars (SDF TV)."
+  },
+  {
+   "ja": "バトロイド・アタック",
+   "en": "Battroid Attack",
+   "notes": "In-game arcade game; spelling from the game's own logo."
+  },
+  {
+   "ja": "マクロスキャノン",
+   "en": "Macross Cannon"
+  },
+  {
+   "ja": "プラネット・ダンス",
+   "en": "Planet Dance",
+   "notes": "Fire Bomber song and maneuver call."
+  },
+  {
+   "ja": "風の導き手",
+   "en": "Guide of the Wind",
+   "notes": "Sara Nome's title."
+  },
+  {
+   "ja": "サンプル",
+   "en": "samples",
+   "notes": "Protodeviln word for captive humans."
+  },
+  {
+   "ja": "美（ガビル）",
+   "en": "<X> Beauty!",
+   "notes": "Gavil's catchphrase pattern, e.g. 制圧美 → 'Suppression Beauty!', 殲滅美 → 'Annihilation Beauty'."
+  },
+  {
+   "ja": "マイクローン装置",
+   "en": "micronization device",
+   "notes": "Coined in the dialogue translation (2026-10-15)."
+  },
+  {
+   "ja": "コンビナートブロック",
+   "en": "industrial complex block",
+   "notes": "Coined in the dialogue translation (2026-10-15)."
+  },
+  {
+   "ja": "イージス艦",
+   "en": "Aegis ship",
+   "notes": "Coined in the dialogue translation (2026-10-15)."
+  },
+  {
+   "ja": "汎用空母",
+   "en": "multipurpose carrier",
+   "notes": "Coined in the dialogue translation (2026-10-15)."
+  },
+  {
+   "ja": "フォールドジェネレーター",
+   "en": "fold generator",
+   "notes": "Coined in the dialogue translation (2026-10-15)."
+  },
+  {
+   "ja": "バトロイドカーニバル",
+   "en": "Battroid Carnival",
+   "notes": "Coined in the dialogue translation (2026-10-15)."
+  },
+  {
+   "ja": "はぐれメルトラン艦隊",
+   "en": "rogue Meltrandi fleet",
+   "notes": "Coined in the dialogue translation (2026-10-15)."
+  },
+  {
+   "ja": "銀河の歌姫",
+   "en": "Galactic Diva",
+   "notes": "Coined in the dialogue translation (2026-10-15)."
+  }
+ ],
+ "game_system": [
+  {
+   "ja": "SPゲージ",
+   "en": "SP Gauge"
+  },
+  {
+   "ja": "SPアタック",
+   "en": "SP Attack",
+   "aliases": [
+    "SPA"
+   ]
+  },
+  {
+   "ja": "合体SPアタック",
+   "en": "Combo SP Attack",
+   "status": "provisional"
+  },
+  {
+   "ja": "チャージ攻撃",
+   "en": "Charge Attack"
+  },
+  {
+   "ja": "スキル",
+   "en": "Skill"
+  },
+  {
+   "ja": "オートスキル",
+   "en": "Auto Skill"
+  },
+  {
+   "ja": "コマンドスキル",
+   "en": "Command Skill"
+  },
+  {
+   "ja": "アンチミサイルアクション",
+   "en": "Anti-Missile Action",
+   "notes": "UI label 'ANTI' stays as is."
+  },
+  {
+   "ja": "ミサイルマーカー",
+   "en": "Missile Marker"
+  },
+  {
+   "ja": "救助",
+   "en": "Rescue"
+  },
+  {
+   "ja": "応急修理",
+   "en": "emergency repair"
+  },
+  {
+   "ja": "娘々ショップ",
+   "en": "Nyan-Nyan Shop"
+  },
+  {
+   "ja": "娘々ポイント",
+   "en": "Nyan-Nyan Points"
+  },
+  {
+   "ja": "リアルフライトモード",
+   "en": "Real Flight Mode"
+  },
+  {
+   "ja": "ノーマル",
+   "en": "Normal"
+  },
+  {
+   "ja": "追加装備",
+   "en": "Add-on Equipment",
+   "status": "provisional"
+  },
+  {
+   "ja": "パージ",
+   "en": "Purge"
+  },
+  {
+   "ja": "クロニクルモード",
+   "en": "Chronicle Mode"
+  },
+  {
+   "ja": "ストーリーモード",
+   "en": "Story Mode"
+  },
+  {
+   "ja": "EXTRAミッション",
+   "en": "EXTRA Mission"
+  },
+  {
+   "ja": "プレイヤーキャラ",
+   "en": "Player Character"
+  },
+  {
+   "ja": "パートナーキャラ",
+   "en": "Partner Character"
+  },
+  {
+   "ja": "サポートキャラ",
+   "en": "Support Character"
+  },
+  {
+   "ja": "サブパイロット",
+   "en": "Sub-Pilot"
+  },
+  {
+   "ja": "オペレーター",
+   "en": "Operator"
+  },
+  {
+   "ja": "友好度",
+   "en": "Affinity",
+   "status": "provisional"
+  },
+  {
+   "ja": "カスタマイズ",
+   "en": "Customize"
+  },
+  {
+   "ja": "カスタマイズポイント",
+   "en": "Customize Points"
+  },
+  {
+   "ja": "カラーエディット",
+   "en": "Color Edit"
+  },
+  {
+   "ja": "ハンガー",
+   "en": "Hangar"
+  },
+  {
+   "ja": "出撃",
+   "en": "Sortie",
+   "aliases": [
+    "Launch"
+   ]
+  },
+  {
+   "ja": "撃墜",
+   "en": "shot down",
+   "aliases": [
+    "kill"
+   ]
+  },
+  {
+   "ja": "ミッション",
+   "en": "Mission"
+  },
+  {
+   "ja": "カスタムサウンドトラック",
+   "en": "Custom Soundtrack"
+  },
+  {
+   "ja": "ギャラリー",
+   "en": "Gallery"
+  },
+  {
+   "ja": "ミュージアム",
+   "en": "Museum"
+  },
+  {
+   "ja": "チュートリアル",
+   "en": "Tutorial"
+  },
+  {
+   "ja": "アドホック",
+   "en": "Ad Hoc"
+  },
+  {
+   "ja": "協力プレイ",
+   "en": "Co-op"
+  },
+  {
+   "ja": "対戦",
+   "en": "Versus"
+  },
+  {
+   "ja": "特殊動作",
+   "en": "Special Maneuvers",
+   "notes": "Tutorial category."
+  },
+  {
+   "ja": "スペシャルアタック",
+   "en": "Special Attack",
+   "notes": "Tutorial spelling; SPアタック elsewhere stays 'SP Attack'."
+  },
+  {
+   "ja": "チャージ射撃",
+   "en": "Charge Shot"
+  },
+  {
+   "ja": "チャージ格闘",
+   "en": "Charge Melee"
+  },
+  {
+   "ja": "チャージブースト",
+   "en": "Charge Boost"
+  },
+  {
+   "ja": "射撃攻撃",
+   "en": "shooting attack"
+  },
+  {
+   "ja": "格闘攻撃",
+   "en": "melee attack"
+  },
+  {
+   "ja": "方向キー",
+   "en": "D-pad"
+  },
+  {
+   "ja": "アナログパッド",
+   "en": "analog stick"
+  },
+  {
+   "ja": "マルチロックオン",
+   "en": "multi-lock-on"
+  },
+  {
+   "ja": "ロックオンレベル",
+   "en": "lock-on level"
+  },
+  {
+   "ja": "ノーマルフライト",
+   "en": "Normal Flight"
+  },
+  {
+   "ja": "オプションパーツ",
+   "en": "option parts",
+   "notes": "May be the same thing as 追加装備; check against the UI."
+  },
+  {
+   "ja": "敵を殲滅せよ",
+   "en": "Annihilate all enemies",
+   "notes": "Stock objective (fixed form)."
+  },
+  {
+   "ja": "敵エース機を撃破せよ",
+   "en": "Shoot down the enemy ace",
+   "notes": "Stock objective (fixed form)."
+  },
+  {
+   "ja": "〜「…」（話者付き説明）",
+   "en": "Name: \"...\"",
+   "notes": "Speaker-label format in briefings; continuation lines indented with ASCII spaces under the opening quote."
+  },
+  {
+   "ja": "チューンポイント",
+   "en": "Tune Points",
+   "notes": "Set in the UI translation (2026-10-15)."
+  },
+  {
+   "ja": "歌武装",
+   "en": "Song Weapon",
+   "notes": "Set in the UI translation (2026-10-15)."
+  },
+  {
+   "ja": "通信プレイ",
+   "en": "wireless play",
+   "notes": "Set in the UI translation (2026-10-15)."
+  },
+  {
+   "ja": "よろしいですか？",
+   "en": "Proceed?",
+   "notes": "Set in the UI translation (2026-10-15)."
+  },
+  {
+   "ja": "娘ｐｔ",
+   "en": "Nyan-Nyan Pts",
+   "notes": "Set in the UI translation (2026-10-15)."
+  }
+ ],
+ "skills": {
+  "_note": "Initial skills of the original pilots, as listed on ja.wikipedia. English names are provisional until the skill menu width is measured.",
+  "items": [
+   {
+    "ja": "鉄壁",
+    "en": "Iron Wall",
+    "status": "provisional"
+   },
+   {
+    "ja": "緊急回避",
+    "en": "Emergency Evasion",
+    "status": "provisional"
+   },
+   {
+    "ja": "救急箱",
+    "en": "First Aid Kit",
+    "status": "provisional"
+   },
+   {
+    "ja": "リロード",
+    "en": "Reload"
+   },
+   {
+    "ja": "ミサイル処理班",
+    "en": "Missile Disposal Squad",
+    "status": "provisional"
+   },
+   {
+    "ja": "ミサイル見切り",
+    "en": "Missile Read",
+    "status": "provisional"
+   },
+   {
+    "ja": "気力充実",
+    "en": "Full Spirit",
+    "status": "provisional"
+   },
+   {
+    "ja": "ショックガード",
+    "en": "Shock Guard"
+   },
+   {
+    "ja": "サーカス飛行",
+    "en": "Circus Flight",
+    "status": "provisional"
+   },
+   {
+    "ja": "爆撃王",
+    "en": "Bombing King",
+    "status": "provisional"
+   },
+   {
+    "ja": "デストロイヤー",
+    "en": "Destroyer"
+   },
+   {
+    "ja": "VOICES",
+    "en": "VOICES",
+    "notes": "Myung's skill (song title). Keep as is."
+   },
+   {
+    "ja": "シャロンの誘惑",
+    "en": "Sharon's Temptation",
+    "status": "provisional"
+   }
+  ]
+ },
+ "songs": {
+  "_note": "Official English titles where they exist. Romanized titles (e.g. 'Totsugeki Love Heart') are kept as officially romanized. Do not translate titles already written in Latin letters.",
+  "items": [
+   {
+    "ja": "私の彼はパイロット",
+    "en": "My Boyfriend is a Pilot"
+   },
+   {
+    "ja": "愛・おぼえていますか",
+    "en": "Do You Remember Love?"
+   },
+   {
+    "ja": "小白竜",
+    "en": "Shao Pai Long"
+   },
+   {
+    "ja": "ドッグ・ファイター",
+    "en": "Dog Fighter"
+   },
+   {
+    "ja": "ゼントラディアン大要塞",
+    "en": "Zentradian Great Fortress",
+    "status": "needs_check"
+   },
+   {
+    "ja": "2億年前のように静かだね",
+    "en": "Quiet, Like 200 Million Years Ago",
+    "status": "needs_check"
+   },
+   {
+    "ja": "INFORMATION HIGH",
+    "en": "INFORMATION HIGH"
+   },
+   {
+    "ja": "After in the dark",
+    "en": "After in the dark"
+   },
+   {
+    "ja": "突撃ラブハート",
+    "en": "Totsugeki Love Heart",
+    "notes": "Music: Atsutaka Kawauchi (en.wikipedia Fire Bomber)."
+   },
+   {
+    "ja": "HOLY LONELY LIGHT",
+    "en": "HOLY LONELY LIGHT"
+   },
+   {
+    "ja": "MY FRIENDS",
+    "en": "MY FRIENDS"
+   },
+   {
+    "ja": "TRY AGAIN",
+    "en": "TRY AGAIN"
+   },
+   {
+    "ja": "DYNAMITE EXPLOSION",
+    "en": "DYNAMITE EXPLOSION"
+   },
+   {
+    "ja": "ライオン",
+    "en": "Lion"
+   },
+   {
+    "ja": "アイモ",
+    "en": "Aimo"
+   },
+   {
+    "ja": "射手座☆午後九時Don't be late",
+    "en": "Sagittarius ☆ 9 PM Don't be late",
+    "notes": "Drop the ☆ if the font lacks it."
+   },
+   {
+    "ja": "The Target",
+    "en": "The Target"
+   },
+   {
+    "ja": "BATTLE FRONTIER",
+    "en": "BATTLE FRONTIER"
+   },
+   {
+    "ja": "インフィニティ",
+    "en": "Infinity"
+   },
+   {
+    "ja": "ノーザンクロス",
+    "en": "Northern Cross"
+   },
+   {
+    "ja": "星間飛行",
+    "en": "Seikan Hikou",
+    "aliases": [
+     "Interstellar Flight"
+    ],
+    "status": "needs_check",
+    "notes": "Macron dropped: o-macron is not in Shift-JIS."
+   },
+   {
+    "ja": "Burning Fire",
+    "en": "Burning Fire"
+   },
+   {
+    "ja": "愛は流れる",
+    "en": "Love Drifts Away",
+    "sources": [
+     "https://macross.fandom.com/wiki/Love_Drifts_Away"
+    ]
+   },
+   {
+    "ja": "アナタノオト",
+    "en": "Anata no Oto",
+    "notes": "Romanised like Seikan Hikou / Aimo.",
+    "status": "needs_check"
+   },
+   {
+    "ja": "トライアングラー",
+    "en": "Triangler",
+    "sources": [
+     "https://macross.fandom.com/wiki/Triangler"
+    ]
+   },
+   {
+    "ja": "恋の歌",
+    "en": "Koi no Uta",
+    "status": "needs_check",
+    "notes": "Enemy-mode mission name."
+   }
+  ]
+ },
+ "works": [
+  {
+   "ja": "超時空要塞マクロス",
+   "en": "The Super Dimension Fortress Macross"
+  },
+  {
+   "ja": "超時空要塞マクロス 愛・おぼえていますか",
+   "en": "Macross: Do You Remember Love?"
+  },
+  {
+   "ja": "超時空要塞マクロス Flash Back 2012",
+   "en": "Macross: Flash Back 2012"
+  },
+  {
+   "ja": "超時空要塞マクロスII -LOVERS AGAIN-",
+   "en": "Macross II: Lovers Again"
+  },
+  {
+   "ja": "マクロスプラス",
+   "en": "Macross Plus"
+  },
+  {
+   "ja": "マクロス7",
+   "en": "Macross 7"
+  },
+  {
+   "ja": "マクロス ダイナマイト7",
+   "en": "Macross Dynamite 7"
+  },
+  {
+   "ja": "マクロス ゼロ",
+   "en": "Macross Zero"
+  },
+  {
+   "ja": "マクロスF",
+   "en": "Macross Frontier",
+   "aliases": [
+    "Macross F"
+   ]
+  },
+  {
+   "ja": "マクロス VF-X2",
+   "en": "Macross VF-X2"
+  },
+  {
+   "ja": "マクロスM3",
+   "en": "Macross M3"
+  },
+  {
+   "ja": "マクロスエースフロンティア",
+   "en": "Macross Ace Frontier"
+  },
+  {
+   "ja": "マクロスアルティメットフロンティア",
+   "en": "Macross Ultimate Frontier",
+   "aliases": [
+    "MUF"
+   ]
+  }
+ ]
+}

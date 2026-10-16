@@ -1,0 +1,530 @@
+{
+ "slice": 13,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5073:col1",
+   "en": "Pineapple Salad",
+   "flags": [],
+   "notes": "Roy Focker's famous pineapple-salad line, as a title."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5074:col1",
+   "en": "Genius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5075:col1",
+   "en": "Vermillion Flight",
+   "flags": [],
+   "notes": "Glossary spelling."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5076:col1",
+   "en": "Ally Killer",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'one who kills allies'; source character unclear. Could also be 'Friendly Fire'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5077:col1",
+   "en": "Ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5078:col1",
+   "en": "Strongest Bride",
+   "flags": [],
+   "notes": "Milia reference."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5079:col1",
+   "en": "Militant Commander",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Term means a hawkish / fight-first commander. Referent not certain (Vrlitwhai or Max)."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5080:col1",
+   "en": "Hellraiser",
+   "flags": [],
+   "notes": "Rowdy troublemaker epithet (likely Quamzin)."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5081:col1",
+   "en": "Kamikaze Daredevil",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source is 'suicide-charge guy' (rude 'yarou'). Kept the reckless-charge sense; neutral noun chosen for a player title."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5082:col1",
+   "en": "Listen to my song!!",
+   "flags": [],
+   "notes": "Basara; official rendering per brief, double exclamation kept."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5083:col1",
+   "en": "Sound Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5084:col1",
+   "en": "Diamond Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5085:col1",
+   "en": "Strongest Captain",
+   "flags": [],
+   "notes": "Max reference."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5086:col1",
+   "en": "Beautiful Mayor",
+   "flags": [],
+   "notes": "Milia as mayor."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5087:col1",
+   "en": "Protodeviln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5088:col1",
+   "en": "Vanguard of Beauty",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'cutting edge of beauty'; Gavil's beauty obsession."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5089:col1",
+   "en": "Kabuki Actor",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source word is 'kabukimono' (flamboyant eccentric), here almost certainly a pun on Alto's kabuki family. Chose the kabuki reading; 'Flamboyant Dandy' is the alternative."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5090:col1",
+   "en": "One Shot, One Kill",
+   "flags": [],
+   "notes": "Michel (sniper). Source: every shot hits."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5091:col1",
+   "en": "Young Master",
+   "flags": [],
+   "notes": "Luca (rich family)."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5092:col1",
+   "en": "Pineapple Cake",
+   "flags": [],
+   "notes": "Macross Frontier homage to the pineapple salad line."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5093:col1",
+   "en": "Pixie Team",
+   "flags": [],
+   "notes": "Glossary name for the Pixie squadron."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5094:col1",
+   "en": "Clumsy Genes",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'awkward/clumsy gene'; referent unclear (possibly Klan or the Lee siblings). Kept literal."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5095:col1",
+   "en": "Handsome Cyborg",
+   "flags": [],
+   "notes": "Brera."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5096:col1",
+   "en": "Old Lady!?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Shocked exclamation 'obasan!?' (auntie / old lady). Speaker and target unknown; went with the blunter 'Old Lady' to keep the sting."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5097:col1",
+   "en": "Greenhorn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5098:col1",
+   "en": "Kiddo",
+   "flags": [],
+   "notes": "Source is a mildly condescending 'little child'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5099:col1",
+   "en": "Half-Hatched Punk",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'egg bastard', i.e. a pilot still in the egg. Source character unknown."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5100:col1",
+   "en": "Valued Customer",
+   "flags": [],
+   "notes": "Shop regular."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5101:col1",
+   "en": "Frontier Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5102:col1",
+   "en": "Storm of Thanks",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5103:col1",
+   "en": "Apprentice",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source means the low-level grind of someone paying their dues; 'Apprentice' as a title."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5104:col1",
+   "en": "Nameless",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5105:col1",
+   "en": "Old Hand",
+   "flags": [],
+   "notes": "Seasoned expert."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5106:col1",
+   "en": "Self-Taught",
+   "flags": [],
+   "notes": "Source: one's own (unschooled) style."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5107:col1",
+   "en": "Completionist KING",
+   "flags": [],
+   "notes": "Source mixes a word for exhaustive play with ASCII 'KING'; kept the caps."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5108:col1",
+   "en": "Flawless",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5109:col1",
+   "en": "Proud Camper",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source: 'waiting? bring it' - fighting-game slang for someone proud of turtling/waiting for the opponent. Rendered with gamer slang 'camper'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5110:col1",
+   "en": "Technician",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5111:col1",
+   "en": "Master of Evasion",
+   "flags": [],
+   "notes": "Source: master of reading and dodging attacks by a hair."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5112:col1",
+   "en": "No Holding Back",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5113:col1",
+   "en": "Spare Me Your Opinions",
+   "flags": [],
+   "notes": "Idiom: your opinions are not wanted."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5114:col1",
+   "en": "The Great Me",
+   "flags": [],
+   "notes": "Arrogant self-reference."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5115:col1",
+   "en": "Chicken Punk",
+   "flags": [],
+   "notes": "Source: 'chicken' + rude 'yarou'."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5116:col1",
+   "en": "Super Chicken",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5117:col1",
+   "en": "Lethal Charm",
+   "flags": [],
+   "notes": "Source: to captivate/knock someone dead with sex appeal. Gender-neutral wording for a player title."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5118:col1",
+   "en": "Overthrowing the Top",
+   "flags": [],
+   "notes": "Source idiom: the lower ranks toppling their superiors."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5119:col1",
+   "en": "Late Bloomer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5120:col1",
+   "en": "Elite",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5121:col1",
+   "en": "Punching Bag",
+   "flags": [],
+   "notes": "Source: the set-up loser who exists to make others look strong."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5122:col1",
+   "en": "Soothing Soul",
+   "flags": [],
+   "notes": "Source: the 'healing type' personality."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5123:col1",
+   "en": "You're not getting away!",
+   "flags": [],
+   "notes": "Speaker unknown; to an enemy."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5124:col1",
+   "en": "I like the sky better than the sea.",
+   "flags": [],
+   "notes": "Speaker not identified (male first person). | review: refit: dropped 'just'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5125:col1",
+   "en": "I... believe in you...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5126:col1",
+   "en": "Heh, you fledgling. Let's go!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Probably Roy to Shin (Macross Zero). 'Let's go' chosen for the leader rallying the rookie; could also be 'Here I come!' if spoken to an opponent."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5127:col1",
+   "en": "Can you keep up with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5128:col1",
+   "en": "Like I'd fight a war scared o' booze!",
+   "flags": [],
+   "notes": "Roy, drinking. Slurred tone in source. | review: refit: compressed; kept Roy's slurred tone with o'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5129:col1",
+   "en": "Heh, the boy again?",
+   "flags": [],
+   "notes": "Nora about Shin (she calls him 'boy')."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5130:col1",
+   "en": "That damn fledgling...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5131:col1",
+   "en": "Dance, dance, dance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5132:col1",
+   "en": "Stupid... way too damn stupid!",
+   "flags": [],
+   "notes": "Contemptuous 'how pointless/stupid' at full strength. | review: refit: dropped 'This is'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5133:col1",
+   "en": "No! It's Kadun's fault!",
+   "flags": [],
+   "notes": "Kadun per terms glossary."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5134:col1",
+   "en": "Where's the Bird Human's head?",
+   "flags": [],
+   "notes": "Bird Human per mecha glossary. Source: 'where did you take the head'. | review: refit: 'What have you done with' -> 'Where's'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5135:col1",
+   "en": "Kadun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5136:col1",
+   "en": "Haha, looks like I'm dead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5137:col1",
+   "en": "Thrilling, isn't it?",
+   "flags": [],
+   "notes": "Isamu."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5138:col1",
+   "en": "I don't wanna hear your weird song.",
+   "flags": [],
+   "notes": "Rough male speech, kept blunt. | review: refit: 'singing' -> 'song'; period as in source (no exclamation)"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5139:col1",
+   "en": "Still playing the noble knight, huh?",
+   "flags": [],
+   "notes": "Isamu taunting Guld. | review: refit: 'are you?' -> 'huh?'"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5140:col1",
+   "en": "Stealth",
+   "flags": [],
+   "notes": "Likely the VF-17 Stealth Valkyrie nickname."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5141:col1",
+   "en": "Heh, sorry. It was an accident.",
+   "flags": [],
+   "notes": "Guld."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5142:col1",
+   "en": "Limiter off!!",
+   "flags": [],
+   "notes": "Guld releasing the YF-21 limiter."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5143:col1",
+   "en": "A toast to our reunion after 7 years!",
+   "flags": [],
+   "notes": "Source digit 7 written out as 'seven' for natural English. | review: refit: 'Let's drink a toast' -> 'A toast'; seven -> 7"
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5144:col1",
+   "en": "Why did you come to this planet?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5145:col1",
+   "en": "No one else gets the white one!",
+   "flags": [],
+   "notes": "Milia about Max's white Valkyrie."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5146:col1",
+   "en": "That one wants to fight me.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Referent of 'yatsu' not identified (could be Gigile, Guld, Max...). Kept gender-neutral 'That one' per rules."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5147:col1",
+   "en": "It's okay. I can do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5148:col1",
+   "en": "Put me... put me in a Valkyrie!",
+   "flags": [],
+   "notes": "Repetition and pause kept."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5149:col1",
+   "en": "I'll borrow your luck for now.",
+   "flags": [],
+   "notes": "Alto; 'karitoku' = borrow it for the time being."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5150:col1",
+   "en": "Attaaack!!",
+   "flags": [],
+   "notes": "Stretched shout kept."
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5151:col1",
+   "en": "Just as I feel it... I'll fly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "nn_ext:NNSHOP_ITEM_5152:col1",
+   "en": "Don't mouth off on a whim, brat!",
+   "flags": [],
+   "notes": "Full-strength rebuke; 'nori de hozaku' = spouting off on impulse. | review: refit: 'run your mouth' -> 'mouth off'; merged 'You brat!'"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 964: Literally 'one who kills allies'; source character unclear. Could also be 'Friendly Fire'.",
+   "row 967: Term means a hawkish / fight-first commander. Referent not certain (Vrlitwhai or Max).",
+   "row 969: Source is 'suicide-charge guy' (rude 'yarou'). Kept the reckless-charge sense; neutral noun chosen for a player title.",
+   "row 976: Literally 'cutting edge of beauty'; Gavil's beauty obsession.",
+   "row 977: Source word is 'kabukimono' (flamboyant eccentric), here almost certainly a pun on Alto's kabuki family. Chose the kabuki reading; 'Flamboyant Dandy' is the alternative.",
+   "row 982: Literally 'awkward/clumsy gene'; referent unclear (possibly Klan or the Lee siblings). Kept literal.",
+   "row 984: Shocked exclamation 'obasan!?' (auntie / old lady). Speaker and target unknown; went with the blunter 'Old Lady' to keep the sting.",
+   "row 987: Literally 'egg bastard', i.e. a pilot still in the egg. Source character unknown.",
+   "row 991: Source means the low-level grind of someone paying their dues; 'Apprentice' as a title.",
+   "row 997: Source: 'waiting? bring it' - fighting-game slang for someone proud of turtling/waiting for the opponent. Rendered with gamer slang 'camper'.",
+   "row 1014: Probably Roy to Shin (Macross Zero). 'Let's go' chosen for the leader rallying the rookie; could also be 'Here I come!' if spoken to an opponent.",
+   "row 1034: Referent of 'yatsu' not identified (could be Gigile, Guld, Max...). Kept gender-neutral 'That one' per rules."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

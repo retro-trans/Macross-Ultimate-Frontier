@@ -1,0 +1,534 @@
+{
+ "slice": 141,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_she_360",
+   "en": "Who put me together with an amateur like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_361",
+   "en": "Finally over. That op was bad for my mental health.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_362",
+   "en": "This is as far as it goes. Our partnership ends here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_363",
+   "en": "I supported you, so there's no way it could fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_364",
+   "en": "We're keeping this pace. Follow me next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_365",
+   "en": "Looks like you're safe. Don't make me worry again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_366",
+   "en": "As expected of the kid I had my eye on. Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_367",
+   "en": "Someone who can live as they believe really is strong.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_368",
+   "en": "You really are adorable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_369",
+   "en": "Why not get on stage with me? You've got promise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_370",
+   "en": "I'm really glad I met you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_371",
+   "en": "Of course you'll pull it off. You've got that kind of power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_600",
+   "en": "Tonight, as always, I'm charging ahead at Macross speed. So listen to my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_601",
+   "en": "Hey everyone, mind if I'm a little selfish? This last song is for someone... no, for some people. For those risking their lives far away right now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_602",
+   "en": "Alto, be grateful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_603",
+   "en": "Got it, we'll handle this. You keep that thing from moving, even if it kills you.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "\"Stop its legs\" read as pinning the enemy in place; addressee not named, so \"you\"."
+  },
+  {
+   "id": "vpf_she_604",
+   "en": "W-what on earth!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_605",
+   "en": "Remember the lesson. It's okay. I can do this. I... I'm Sheryl.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Subject of \"yareru wa\" not stated; read as self-talk (she names herself right after)."
+  },
+  {
+   "id": "vpf_she_607",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_608",
+   "en": "Alto!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Faruto\"; her cry of Alto."
+  },
+  {
+   "id": "vpf_she_609",
+   "en": "Yes, I nearly got thrown off, but I managed somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_610",
+   "en": "I'm sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_611",
+   "en": "This is enough. I have nothing left to regret. All that's left is to burn out. All there is now is music, and me. So listen to my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_612",
+   "en": "Alto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_613",
+   "en": "Alto!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Furuto\"; her cry of Alto."
+  },
+  {
+   "id": "vpf_she_614",
+   "en": "With a song...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Cut short; continues into the next clip."
+  },
+  {
+   "id": "vpf_she_615",
+   "en": "Alto, let's go, everyone!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Haruto\"; probably Alto again, but could be a different word."
+  },
+  {
+   "id": "vpf_she_700",
+   "en": "Me, minding the shop? I almost never give service like this, you know!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"mise-ban\" with odd kanji (show-turn); read as \"mise-ban\" (minding the shop), as in the later clips."
+  },
+  {
+   "id": "vpf_she_701",
+   "en": "From here on it's a pro's job. I'll show you how a pro minds a shop.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same \"mise-ban\" kanji slip."
+  },
+  {
+   "id": "vpf_she_702",
+   "en": "I can sell it, and I will!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_703",
+   "en": "Staring that hard won't make it cheaper.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_704",
+   "en": "If you like that item, hurry up and buy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_705",
+   "en": "How pitiful, agonizing over that because you're short on Nyan-Nyan Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_706",
+   "en": "Hurry up! I'm not exactly free either!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_707",
+   "en": "Stop agonizing and just buy it already.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_708",
+   "en": "Just pick one and buy it. Can't you even do that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_709",
+   "en": "Be honest with yourself and buy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_710",
+   "en": "If you don't buy it, I'll kill you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_711",
+   "en": "Buy it! That's an order!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_712",
+   "en": "Not buying this? What a fool.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_713",
+   "en": "I absolutely hate it when someone can buy something and doesn't!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_714",
+   "en": "You came all this way and still don't buy? Are you making a fool of me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_715",
+   "en": "That's the natural result when I handle it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_716",
+   "en": "Of course, with me minding the shop.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"mise-ban\" with odd kanji; read as minding the shop."
+  },
+  {
+   "id": "vpf_she_717",
+   "en": "I'll praise you for actually buying the item.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_718",
+   "en": "Minding a shop is easy. I'm Sheryl, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_719",
+   "en": "Go earn Nyan-Nyan Points, even if it kills you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_720",
+   "en": "Buy again next time, no matter what. You know what happens if you don't, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_721",
+   "en": "Buying nothing? You've got to be joking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_722",
+   "en": "Making Sheryl mind the shop and then buying nothing...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off in anger."
+  },
+  {
+   "id": "vpf_she_723",
+   "en": "Just browsing? I'll exterminate you, socially and biologically!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_730",
+   "en": "Everybody! Shopping? Oh, it's only you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_731",
+   "en": "Don't flatter yourself! It's not like I'm happy to see you or anything!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_732",
+   "en": "Sheryl Nome herself is minding the shop. Be grateful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_733",
+   "en": "H-hey, don't stare so much, you're embarrassing me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_734",
+   "en": "You want it that badly? I'm still not making it cheaper.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_735",
+   "en": "Buy that. I'm sure you'll like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_736",
+   "en": "Do you really want to be with me that much?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_737",
+   "en": "Hey! Buy it already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_738",
+   "en": "Making me wait? You've got some nerve.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_739",
+   "en": "I-it's not like I'd be in trouble if you didn't buy it, you know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_740",
+   "en": "You'll buy it, right? I'm the one who recommended it, so buy it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"kaette itta\" (went home); read as \"susumeta\" (recommended)."
+  },
+  {
+   "id": "vpf_she_741",
+   "en": "No need to hesitate. Buy it. That's an order.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_742",
+   "en": "Guess I was a fool to believe in you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_743",
+   "en": "I have no idea why you wouldn't buy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_744",
+   "en": "Is it my fault!? That you didn't buy!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_745",
+   "en": "I suppose I should thank you for buying. Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_746",
+   "en": "As expected of my customer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"sasuga watashi no torii\" (my torii gate); probably \"okyaku\" (customer); low confidence, the clip is 5.4 s so more may have been said."
+  },
+  {
+   "id": "vpf_she_747",
+   "en": "I would never say \"Thank you for your purchase.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_748",
+   "en": "Make sure you come back safe, and come to the shop again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_749",
+   "en": "It's fine if you come again. Don't get the wrong idea. It's not like I want to see you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_750",
+   "en": "Buy more next time. I'll give you special service.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_751",
+   "en": "If you just wanted to see me, just say so honestly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_752",
+   "en": "Buying nothing? Pretty cheeky for a customer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_753",
+   "en": "You're kidding. Just browsing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_800",
+   "en": "Welcome. I, Sheryl Nome, will explain the basic Battroid controls, so be grateful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_801",
+   "en": "During training, the controller settings are set to default. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_802",
+   "en": "Up, down, left and right on the D-pad move you forward, back, left and right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_803",
+   "en": "Press the D-pad twice quickly in the same direction to step that way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_804",
+   "en": "Keep holding the D-pad at the end of a step to dash.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "vpf_she_603: \"Stop its legs\" read as pinning the enemy in place; addressee not named, so \"you\"."
+  ],
+  "whisper_doubt": [
+   "vpf_she_608: Heard \"Faruto\"; her cry of Alto.",
+   "vpf_she_613: Heard \"Furuto\"; her cry of Alto.",
+   "vpf_she_615: Heard \"Haruto\"; probably Alto again, but could be a different word.",
+   "vpf_she_700: Heard \"mise-ban\" with odd kanji (show-turn); read as \"mise-ban\" (minding the shop), as in the later clips.",
+   "vpf_she_701: Same \"mise-ban\" kanji slip.",
+   "vpf_she_716: Heard \"mise-ban\" with odd kanji; read as minding the shop.",
+   "vpf_she_740: Heard \"kaette itta\" (went home); read as \"susumeta\" (recommended).",
+   "vpf_she_746: Heard \"sasuga watashi no torii\" (my torii gate); probably \"okyaku\" (customer); low confidence, the clip is 5.4 s so more may have been said."
+  ],
+  "kept_omission": [
+   "vpf_she_605: Subject of \"yareru wa\" not stated; read as self-talk (she names herself right after)."
+  ],
+  "missing_glossary": [],
+  "unfinished": [
+   "vpf_she_614: Cut short; continues into the next clip.",
+   "vpf_she_722: Trails off in anger."
+  ]
+ }
+}

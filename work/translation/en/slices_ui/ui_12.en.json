@@ -1,0 +1,821 @@
+{
+ "slice": 12,
+ "rows_in_slice": 125,
+ "rows_examined": 125,
+ "rows": [
+  {
+   "id": "u3083",
+   "en": "TRY AGAIN\nSeries: Macross 7\nVocals: FIRE BOMBER\nLyrics: K.Inojo, Kyoko Fukuyama  Music: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3084",
+   "en": "TRY AGAIN\nSeries: Macross 7\nMusic: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3085",
+   "en": "Lion (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3086",
+   "en": "Lion  Series: Macross Frontier\nVocals: Sheryl Nome starring May'n\n        & Ranka Lee=Megumi Nakajima\nLyrics: Gabriela Robin  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3087",
+   "en": "Lion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3088",
+   "en": "Lion\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3089",
+   "en": "Aimo\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3090",
+   "en": "Sheryl (Skill: Galactic Fairy 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3091",
+   "en": "Sagittarius ☆ 9 PM Don't be late (Skill: Galactic Fairy 1)\nSeries: Macross Frontier  Vocals: Sheryl Nome starring May'n\nLyrics: Dai Sato, hal, Mike Sugiyama, Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3092",
+   "en": "Sagittarius ☆ 9 PM Don't be late (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3093",
+   "en": "Sagittarius ☆ 9 PM Don't be late  Series: Macross Frontier\nVocals: Sheryl Nome starring May'n\nLyrics: Dai Sato, hal, Mike Sugiyama, Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3094",
+   "en": "Sagittarius ☆ 9 PM Don't be late",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3095",
+   "en": "Sagittarius ☆ 9 PM Don't be late\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3096",
+   "en": "The Target\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3097",
+   "en": "Prologue (Zero)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3098",
+   "en": "Prologue (Zero)\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3099",
+   "en": "Sheryl (Skill: Galactic Fairy 3)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3100",
+   "en": "Northern Cross (Skill: Galactic Fairy 3)\nSeries: Macross Frontier\nVocals: Sheryl Nome starring May'n\nLyrics: Yuho Iwasato, Gabriela Robin  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3101",
+   "en": "Blitzkrieg",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Katakana title read as 'Blitzkrieg' (could be 'Blitz Creek')."
+  },
+  {
+   "id": "u3102",
+   "en": "Blitzkrieg\nGame Original",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same reading as u3101."
+  },
+  {
+   "id": "u3103",
+   "en": "root 2045\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3104",
+   "en": "Stratosphere Diver\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3105",
+   "en": "GERWALK Strikes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3106",
+   "en": "GERWALK Strikes\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3107",
+   "en": "Central Paranoia Unit\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3108",
+   "en": "Bowels of War",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3109",
+   "en": "Bowels of War\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3110",
+   "en": "Roar of the Giants",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3111",
+   "en": "Roar of the Giants\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3112",
+   "en": "Formation Takeoff",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3113",
+   "en": "Formation Takeoff\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3114",
+   "en": "Minmay (Skill: Do You Remember Love?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3115",
+   "en": "Do You Remember Love? (Skill: Do You Remember Love?)\nSeries: Macross: Do You Remember Love?\nVocals: Mari Iijima\nLyrics: Kazumi Yasui  Music: Kazuhiko Kato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3116",
+   "en": "Mission Continues (SDF Macross)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "BGM label; 'Mission Continues' read as the mission-resume track per era."
+  },
+  {
+   "id": "u3117",
+   "en": "VS Mode Victory Jingle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3118",
+   "en": "VS Mode Draw Jingle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3119",
+   "en": "VS Mode Defeat Jingle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3120",
+   "en": "Fire Valkyrie (Song SPA)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Song-SPA label coined as 'Song SPA'."
+  },
+  {
+   "id": "u3121",
+   "en": "TRY AGAIN (Fire Valkyrie: Song SPA)\nSeries: Macross 7\nVocals: FIRE BOMBER\nLyrics: K.Inojo, Kyoko Fukuyama  Music: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3122",
+   "en": "Little Wonder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3123",
+   "en": "Little Wonder\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3124",
+   "en": "Copy of Little Wonder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3125",
+   "en": "Briefing (Temp)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3126",
+   "en": "Empty Mid-Event (Temp)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3127",
+   "en": "Fire Valkyrie (Song Weapon 1)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Song-weapon label coined as 'Song Weapon 1'."
+  },
+  {
+   "id": "u3128",
+   "en": "Totsugeki Love Heart (Fire Valkyrie: Song Weapon 1)\nSeries: Macross 7\nVocals: FIRE BOMBER\nLyrics: K.Inojo  Music: Atsutaka Kawauchi",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Composer reading Junki Kawachi not verified. | review: harmonized"
+  },
+  {
+   "id": "u3129",
+   "en": "Sheryl (Skill: Galactic Fairy 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3130",
+   "en": "Infinity #7 (Skill: Galactic Fairy 2)  Series: Macross Frontier\nVocals: Sheryl Nome starring May'n\n        & Ranka Lee=Megumi Nakajima\nLyrics: Yuho Iwasato  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3131",
+   "en": "Mission Continues (Macross Plus)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3132",
+   "en": "Mission Continues (Macross 7)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3133",
+   "en": "Mission Continues (Macross Frontier)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3134",
+   "en": "Seikan Hikou (Vocal)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary has Seikan Hiko with a macron, not Shift-JIS; used 'Seikan Hikou'."
+  },
+  {
+   "id": "u3135",
+   "en": "Seikan Hikou\nSeries: Macross Frontier\nVocals: Ranka Lee=Megumi Nakajima\nLyrics: Takashi Matsumoto  Music: Yoko Kanno",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Seikan Hikou spelling, see u3134."
+  },
+  {
+   "id": "u3136",
+   "en": "Northern Cross (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3137",
+   "en": "Northern Cross\nSeries: Macross Frontier\nVocals: Sheryl Nome starring May'n\nLyrics: Yuho Iwasato, Gabriela Robin  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3138",
+   "en": "Remember Queadluun",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3139",
+   "en": "Remember Queadluun\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3140",
+   "en": "Air Beat",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3141",
+   "en": "Air Beat\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3142",
+   "en": "DYNAMITE EXPLOSION (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3143",
+   "en": "DYNAMITE EXPLOSION\nSeries: Macross Dynamite 7\nVocals: FIRE BOMBER\nLyrics: Toshiyuki Furuya  Music: Yoshiki Fukuyama",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Lyricist reading Toshiyuki Furuya not verified."
+  },
+  {
+   "id": "u3144",
+   "en": "Encounter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3145",
+   "en": "Encounter\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3146",
+   "en": "Infinity #7 (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3147",
+   "en": "Infinity #7  Series: Macross Frontier\nVocals: Sheryl Nome starring May'n\n        & Ranka Lee=Megumi Nakajima\nLyrics: Yuho Iwasato  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3148",
+   "en": "Saturn Conflict",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3149",
+   "en": "Saturn Conflict\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3150",
+   "en": "VF-19P (Song Weapon 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3151",
+   "en": "DYNAMITE EXPLOSION (VF-19P: Song Weapon 1)\nSeries: Macross Dynamite 7\nVocals: FIRE BOMBER\nLyrics: Toshiyuki Furuya  Music: Yoshiki Fukuyama",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Lyricist reading Toshiyuki Furuya not verified."
+  },
+  {
+   "id": "u3152",
+   "en": "Mission Continues (Do You Remember Love?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3153",
+   "en": "Nyan-Nyan Shop",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3154",
+   "en": "Nyan-Nyan Shop\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3155",
+   "en": "Mission Continues (Macross Zero)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3156",
+   "en": "Mission Continues (Macross Dynamite 7)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3157",
+   "en": "Hacking Deathtrap Device\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3158",
+   "en": "Song Skill; VOICES-like",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3159",
+   "en": "The Power to Reject",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3160",
+   "en": "The Power to Reject\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3161",
+   "en": "Battle Frontier (Part 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3162",
+   "en": "Battle Frontier (Part 2)\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3163",
+   "en": "Flashing \"Fire-V\"\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3164",
+   "en": "Sara (Skill: Song of Destruction)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Sara's skill coined as 'Song of Destruction'."
+  },
+  {
+   "id": "u3165",
+   "en": "Sara (Skill: Song of Destruction)\nGame Original",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Sara's skill coined as 'Song of Destruction'."
+  },
+  {
+   "id": "u3166",
+   "en": "Ishtar (Skill: Emulator)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Ishtar's skill rendered 'Emulator' (Macross II term)."
+  },
+  {
+   "id": "u3167",
+   "en": "Ishtar (Skill: Emulator)\nGame Original",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Ishtar's skill rendered 'Emulator' (Macross II term)."
+  },
+  {
+   "id": "u3168",
+   "en": "Myung (Skill: VOICES)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3169",
+   "en": "Myung (Skill: VOICES)\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3170",
+   "en": "Fold Speaker (Song Weapon 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3171",
+   "en": "Seikan Hikou (Fold Speaker: Song Weapon 1)\nSeries: Macross Frontier\nVocals: Ranka Lee=Megumi Nakajima\nLyrics: Takashi Matsumoto  Music: Yoko Kanno",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Seikan Hikou spelling, see u3134."
+  },
+  {
+   "id": "u3172",
+   "en": "Fold Speaker (Song Weapon 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3173",
+   "en": "Lion (Fold Speaker: Song Weapon 2)  Series: Macross Frontier\nVocals: Sheryl Nome starring May'n\n        & Ranka Lee=Megumi Nakajima\nLyrics: Gabriela Robin  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3174",
+   "en": "Epilogue (Zero)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3175",
+   "en": "Epilogue (Zero)\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3176",
+   "en": "Storm Valkyrie (Song Weapon 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3177",
+   "en": "Totsugeki Love Heart (Storm Valkyrie: Song Weapon 1)\nSeries: Macross 7\nMusic: Atsutaka Kawauchi",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Composer reading Junki Kawachi not verified. | review: harmonized"
+  },
+  {
+   "id": "u3178",
+   "en": "MY FRIENDS (Drums)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3179",
+   "en": "Storm Valkyrie (Song SPA)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3180",
+   "en": "TRY AGAIN (Storm Valkyrie: Song SPA)\nSeries: Macross 7\nMusic: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3181",
+   "en": "Quiet, Like 200 Million Years Ago",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3182",
+   "en": "Quiet, Like 200 Million Years Ago\nSeries: Macross II: Lovers Again\nMusic: Nobuhiko Kashihara",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3183",
+   "en": "Burning Fire (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3184",
+   "en": "Burning Fire\nMacross Ultimate Frontier Opening Theme\nVocals: FIRE BOMBER  Lyrics: Yuna Katsuki  Music: indy\nArrangement: Son Rui, Yuna Katsuki, Keisuke Iizuka",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Katakana stage names read as Yuna Katsuki and Son Rui; not verified."
+  },
+  {
+   "id": "u3185",
+   "en": "TYPE-14\\nA U.N. Forces fighter developed as the TYPE-4's successor.\\nIt specializes in fleet air defense.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3186",
+   "en": "ADR-03-Mk III Cheyenne\\nAn early Destroid fixed on the carrier Asuka as an AA battery.\\nIt fought hard against SV-51s to defend the Asuka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3187",
+   "en": "VF-0D Phoenix\\nThe two-seat VF-0 of Shin and Edgar. Its two seats suggest a\\ntrainer, but it outmaneuvers the A type in air combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3188",
+   "en": "VF-0A Phoenix\\nThe standard VF-0, flown mostly by rank-and-file pilots. It\\nfought fierce variable fighter battles with the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3189",
+   "en": "VF-0S Phoenix (Roy)\\nFlown by Roy Focker in a new kind of transforming dogfight\\nagainst Ivanov, an Anti-U.N. pilot and his former superior.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pilot suffix uses 'Roy' per mecha.json convention; source writes the surname."
+  },
+  {
+   "id": "u3190",
+   "en": "HWR-00-Mk I Prototype Monster\\nPrototype of the super-heavy Monster. The U.N. Forces' trump\\ncard, it fired reaction weapons at the Bird Human.",
+   "flags": [],
+   "notes": "Second line shortened 'Monster Destroid' to 'Monster' to fit the width."
+  },
+  {
+   "id": "u3191",
+   "en": "TYPE-29\\nAn Anti-U.N. Forces fighter, developed to counter the TYPE-14.\\nIt excels in local-theater combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3192",
+   "en": "SV-51α (Standard)\\nAn Anti-U.N. Forces variable fighter. Its original swing-wing\\ndesign makes it agile despite its size. Fought on Mayan Island.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Generic-unit suffix coined as '(Standard)'."
+  },
+  {
+   "id": "u3193",
+   "en": "SV-51γ (Nora)\\nAn upgraded SV-51α. It gave the U.N.'s Shin Kudo a hard fight.\\nIt took Sara, the priestess who knows the Bird Human's secret.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says 'Mayan Island priestess'; 'Mayan Island' dropped to fit the 434 px description width."
+  },
+  {
+   "id": "u3194",
+   "en": "SV-51γ (Ivanov)\\nFlown by Ivanov, Focker's former CO. It fought Focker's VF-0S\\nin a duel to the death. It bears a red skull as its personal mark.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3195",
+   "en": "Octos\\nAn amphibious Anti-U.N. Destroid. Deployed en masse for the\\nMayan Island landing, it made full use of being amphibious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3196",
+   "en": "Bird Human (AFOS)\\nA god from Mayan Island legend. The U.N. and Anti-U.N. Forces\\nfought over its power, said to be enough to destroy the world.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Display name rendered 'Bird Human (AFOS)'."
+  },
+  {
+   "id": "u3197",
+   "en": "ADR-04-Mk X Defender\\nTwin AA guns on both arms and a big radar for very long-range\\nspace combat. Defended the Macross in place of gun batteries.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3198",
+   "en": "MBR-07-Mk II Spartan\\nBuilt for melee with giant aliens. After the war, it also put\\ndown riots by aliens who could not adjust to life on Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3199",
+   "en": "SDR-04-Mk XII Phalanx\\nMissiles packed on both arms. With too few batteries after the\\nZentradi raid, it served as the Macross's anti-air fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3200",
+   "en": "MBR-04-Mk IV Tomahawk\\nBig beam cannons on both arms, plus missiles, MGs and more.\\nReady for any front: ship assaults, city defense, interception.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3201",
+   "en": "HWR-00-Mk II Monster\\nFour big cannons on its head, missile launchers on its arms.\\nThe U.N. Forces' top firepower, but heavy arms make it slow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3202",
+   "en": "VF-1D Valkyrie\\nThe two-seat VF-1A, used mainly for training. Caught up in the\\nZentradi raid, Hikaru Ichijyo flew it and saved Minmay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3203",
+   "en": "VF-1A Valkyrie (Standard)\\nThe Macross's most common variable fighter, flown by regular\\npilots. It can handle any battlefield, from the ground to space.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Generic-unit suffix coined as '(Standard)'."
+  },
+  {
+   "id": "u3204",
+   "en": "VF-1A Valkyrie (Max)\\nMax's personal unit, painted blue. Same specs as the standard\\nmodel, but its genius pilot drew the eyes of friend and foe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3205",
+   "en": "VF-1J Valkyrie (Hikaru)\\nHikaru Ichijyo's unit after he became a U.N. Forces pilot.\\nIt beats the A type, and twin head lasers add firepower.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3206",
+   "en": "VF-1J Valkyrie (Max)\\nIssued to Max after he married Milia. It too is painted blue.\\nFlying with Milia's red unit, he racked up even more victories.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3207",
+   "en": "VF-1J Valkyrie (Milia)\\nIssued to Milia after she married Max. It too is painted red.\\nFlying with Max's blue unit, she racked up even more victories.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3101/u3102: game-original BGM title read as 'Blitzkrieg'.",
+   "u3116 and siblings: 'Mission Continues (<series>)' for the per-era mission-resume BGM.",
+   "Credit readings not verified: Junki Kawachi (Totsugeki Love Heart composer), Toshiyuki Furuya (DYNAMITE EXPLOSION lyricist), Yuna Katsuki and Son Rui (Burning Fire), Keisuke Iizuka.",
+   "Seikan Hikou: glossary spelling has a macron that Shift-JIS cannot encode; prefilled row u2945 (slice 11) has the same problem.",
+   "u3189: VF-0S personal unit suffix '(Roy)' per mecha.json convention although the source writes the surname.",
+   "u3203/u3192: generic unit suffix coined '(Standard)'."
+  ],
+  "missing_glossary": [
+   "Sara's skill (horobi no uta): 'Song of Destruction'",
+   "Ishtar's skill (imyureetaa): 'Emulator'",
+   "uta busou: 'Song Weapon'",
+   "uta SPA: 'Song SPA'",
+   "generic unit suffix (ippanki): '(Standard)'",
+   "(uta) suffix on BGM names: '(Vocal)'",
+   "game original: 'Game Original'"
+  ],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "fixes": [
+  {
+   "id": "u3218",
+   "en": "Nousjadeul-Ger (TV)\\nA humanoid combat powered suit. More mobile and more comfortable to ride than\\nthe Regult, and heavily armed with shoulder cannons and handheld weapons.",
+   "why": "Same version qualifier is \"(TV)\" in the shop name of this unit (u3306) and in the VF-1 Super Pack rows (u3305, u3349); align the display name."
+  },
+  {
+   "id": "u3219",
+   "en": "Nousjadeul-Ger (Movie)\\nA humanoid combat powered suit. More mobile and more comfortable to ride than\\nthe Regult. Its design differs between the TV series and the movie.",
+   "why": "Same version qualifier is \"(Movie)\" in the shop name of this unit (u3311) and in the Super Pack rows (u3310, u3350); align the display name."
+  },
+  {
+   "id": "u3386",
+   "en": "Supreme Commander of the Zentradi Main Fleet and the central bio-unit\\nof his flagship. He understands Culture, if only a little, and is ruthless\\nenough to use any means necessary to seize victory. (CV: Osamu Ichikawa)",
+   "why": "\"Boddole\" alone is not a glossary form (Boddole Zer); the same source phrase is rendered as Boddole Zer's flagship in u0752, and since this profile is Boddole Zer himself, \"his flagship\" is accurate."
+  },
+  {
+   "id": "u3452",
+   "en": "Irina Squad",
+   "why": "Glossary organizations.json fixes this unit name as \"Irina Squad\"."
+  }
+ ]
+}

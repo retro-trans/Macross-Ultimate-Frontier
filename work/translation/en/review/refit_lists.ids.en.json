@@ -1,0 +1,619 @@
+{
+ "fixes": [
+  {
+   "id": "u2636",
+   "en": "I like the sky better than the sea.",
+   "why": "refit: UI copy of title row 1012, changed identically"
+  },
+  {
+   "id": "u2644",
+   "en": "Like I'd fight a war scared o' booze!",
+   "why": "refit: UI copy of title row 1016, changed identically"
+  },
+  {
+   "id": "u2652",
+   "en": "Stupid... way too damn stupid!",
+   "why": "refit: UI copy of title row 1020, changed identically"
+  },
+  {
+   "id": "u2656",
+   "en": "Where's the Bird Human's head?",
+   "why": "refit: UI copy of title row 1022, changed identically"
+  },
+  {
+   "id": "u2664",
+   "en": "I don't wanna hear your weird song.",
+   "why": "refit: UI copy of title row 1026, changed identically"
+  },
+  {
+   "id": "u2666",
+   "en": "Still playing the noble knight, huh?",
+   "why": "refit: UI copy of title row 1027, changed identically"
+  },
+  {
+   "id": "u2674",
+   "en": "A toast to our reunion after 7 years!",
+   "why": "refit: UI copy of title row 1031, changed identically"
+  },
+  {
+   "id": "u2692",
+   "en": "Don't mouth off on a whim, brat!",
+   "why": "refit: UI copy of title row 1040, changed identically"
+  },
+  {
+   "id": "u2696",
+   "en": "You're really still just a kid after all.",
+   "why": "refit: UI copy of title row 1042, changed identically"
+  },
+  {
+   "id": "u2698",
+   "en": "What do you have wings for?!",
+   "why": "refit: UI copy of title row 1043, changed identically"
+  },
+  {
+   "id": "u2702",
+   "en": "Got a gripe? Take the top next time.",
+   "why": "refit: UI copy of title row 1045, changed identically"
+  },
+  {
+   "id": "u2704",
+   "en": "An amateur? You're good for one.",
+   "why": "refit: UI copy of title row 1046, changed identically | review: subject restored"
+  },
+  {
+   "id": "u2706",
+   "en": "I only did my duty, Commander.",
+   "why": "refit: UI copy of title row 1047, changed identically"
+  },
+  {
+   "id": "u2714",
+   "en": "A reckless idiot, but good instincts.",
+   "why": "refit: UI copy of title row 1051, changed identically"
+  },
+  {
+   "id": "u2716",
+   "en": "Take that! Take that! Take that!",
+   "why": "refit: UI copy of title row 1052, changed identically"
+  },
+  {
+   "id": "u2718",
+   "en": "Who can love if they fear dying?!",
+   "why": "refit: UI copy of title row 1053, changed identically"
+  },
+  {
+   "id": "u2722",
+   "en": "All hands, sadly, this is not a drill.",
+   "why": "refit: UI copy of title row 1055, changed identically"
+  },
+  {
+   "id": "u2726",
+   "en": "Perish! Scatter to the galaxy's end!!",
+   "why": "refit: UI copy of title row 1057, changed identically"
+  },
+  {
+   "id": "u2734",
+   "en": "Don't regret--go all in and shatter!",
+   "why": "refit: UI copy of title row 1061, changed identically"
+  },
+  {
+   "id": "u2736",
+   "en": "Hold me tight! To the galaxy's end!!",
+   "why": "refit: UI copy of title row 1062, changed identically"
+  },
+  {
+   "id": "u2742",
+   "en": "Oh my, you don't want me along?",
+   "why": "refit: UI copy of title row 1065, changed identically"
+  },
+  {
+   "id": "u2746",
+   "en": "I rarely offer this service, y'know!",
+   "why": "refit: UI copy of title row 1067, changed identically"
+  },
+  {
+   "id": "u2752",
+   "en": "Missions! Is that all you think of?!",
+   "why": "refit: UI copy of title row 1070, changed identically"
+  },
+  {
+   "id": "u2758",
+   "en": "I'll never again say I'll quit singing.",
+   "why": "refit: UI copy of title row 1073, changed identically"
+  },
+  {
+   "id": "u2762",
+   "en": "*pant pant*... Ah... how beautiful.",
+   "why": "refit: UI copy of title row 1075, changed identically"
+  },
+  {
+   "id": "u2768",
+   "en": "No good! I won't make it! Waaagh!",
+   "why": "refit: UI copy of title row 1078, changed identically"
+  },
+  {
+   "id": "u2772",
+   "en": "I hate you for the shame of defeat!",
+   "why": "refit: UI copy of title row 1080, changed identically"
+  },
+  {
+   "id": "u2774",
+   "en": "As a warrior, learn some shame.",
+   "why": "refit: UI copy of title row 1081, changed identically"
+  },
+  {
+   "id": "u2776",
+   "en": "Me... the one hailed as Ace of Aces...",
+   "why": "refit: UI copy of title row 1082, changed identically"
+  },
+  {
+   "id": "u2778",
+   "en": "We will now cover your ship.",
+   "why": "refit: UI copy of title row 1083, changed identically"
+  },
+  {
+   "id": "u2780",
+   "en": "Show me this thing called 'kiiss'...",
+   "why": "refit: UI copy of title row 1084, changed identically"
+  },
+  {
+   "id": "u2782",
+   "en": "What was that mountain called...?",
+   "why": "refit: UI copy of title row 1085, changed identically"
+  },
+  {
+   "id": "u2784",
+   "en": "I'll make it ring to the galaxy's end!",
+   "why": "refit: UI copy of title row 1086, changed identically"
+  },
+  {
+   "id": "u2786",
+   "en": "I'll make the universe ring with it!!",
+   "why": "refit: UI copy of title row 1087, changed identically"
+  },
+  {
+   "id": "u2788",
+   "en": "Hurl a burning heart--that's a song!",
+   "why": "refit: UI copy of title row 1088, changed identically"
+  },
+  {
+   "id": "u2790",
+   "en": "All right, I'll play my heart out!",
+   "why": "refit: UI copy of title row 1089, changed identically"
+  },
+  {
+   "id": "u2792",
+   "en": "Special live show time! Let's start!",
+   "why": "refit: UI copy of title row 1090, changed identically"
+  },
+  {
+   "id": "u2796",
+   "en": "You're no match for me in my day.",
+   "why": "refit: UI copy of title row 1092, changed identically"
+  },
+  {
+   "id": "u0352",
+   "en": "Eyes on the monitor!",
+   "why": "refit: UI copy of title row 1093, changed identically"
+  },
+  {
+   "id": "u2803",
+   "en": "I'll give you a full taste of fear.",
+   "why": "refit: UI copy of title row 1096, changed identically"
+  },
+  {
+   "id": "u2807",
+   "en": "I'll wreck you! Suppression Beauty!",
+   "why": "refit: UI copy of title row 1098, changed identically"
+  },
+  {
+   "id": "u2809",
+   "en": "Heh, you came. Annihilation Beauty.",
+   "why": "refit: UI copy of title row 1099, changed identically"
+  },
+  {
+   "id": "u2823",
+   "en": "We now have the whole universe!",
+   "why": "refit: UI copy of title row 1106, changed identically"
+  },
+  {
+   "id": "u0133",
+   "en": "Keep Ally Units Alive",
+   "why": "refit: 'Allied' -> 'Ally'"
+  },
+  {
+   "id": "u0134",
+   "en": "Defeat Ace Fast",
+   "why": "refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0143",
+   "en": "Stop Ace's Escape",
+   "why": "refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0168",
+   "en": "Keep Destroids Safe",
+   "why": "refit: 'Destroid Squad Alive' -> 'Destroids Safe'"
+  },
+  {
+   "id": "u0177",
+   "en": "Defeat Queadluun",
+   "why": "refit: source says only the base name, no '-Rau'"
+  },
+  {
+   "id": "u0186",
+   "en": "Spare Enemy Squad",
+   "why": "refit: 'Keep ... Members Alive' -> 'Spare'"
+  },
+  {
+   "id": "u0187",
+   "en": "Spare Enemy Leader",
+   "why": "refit: 'Keep Enemy Squad Leader Alive' -> 'Spare Enemy Leader'"
+  },
+  {
+   "id": "u0198",
+   "en": "Defend the Engine",
+   "why": "refit: 'Reaction Engine' -> 'the Engine'"
+  },
+  {
+   "id": "u0207",
+   "en": "Warera, Loli, Conda",
+   "why": "refit: '&' -> comma"
+  },
+  {
+   "id": "u0210",
+   "en": "Capture Success",
+   "why": "refit: 'Capture Successfully' -> 'Capture Success'"
+  },
+  {
+   "id": "u0218",
+   "en": "Beat All Reinf. (1st)",
+   "why": "refit: abbreviated Reinforcements/Half; Defeat -> Beat"
+  },
+  {
+   "id": "u0219",
+   "en": "Beat All Reinf. (2nd)",
+   "why": "refit: abbreviated Reinforcements/Half; Defeat -> Beat"
+  },
+  {
+   "id": "u0227",
+   "en": "Half Special Targets",
+   "why": "refit: dropped verb 'Destroy' (no abbreviation fits with it)"
+  },
+  {
+   "id": "u0228",
+   "en": "Destroy All Sp. Tgts",
+   "why": "refit: abbreviated Special Targets"
+  },
+  {
+   "id": "u0232",
+   "en": "Defeat All Reinf.",
+   "why": "refit: abbreviated Reinforcements, dropped 'Enemy'"
+  },
+  {
+   "id": "u0241",
+   "en": "Defeat 2 Aces",
+   "why": "refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0246",
+   "en": "Keep Guest Alive",
+   "why": "refit: dropped 'Unit'"
+  },
+  {
+   "id": "u0254",
+   "en": "Repel Protodeviln",
+   "why": "refit: dropped 'the'"
+  },
+  {
+   "id": "u0256",
+   "en": "Defeat Flagship Fast",
+   "why": "refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0273",
+   "en": "Defend Gepelnitchi",
+   "why": "refit: dropped honorific 'Lord'"
+  },
+  {
+   "id": "u0276",
+   "en": "End Whale Poaching",
+   "why": "refit: 'Stop Galaxy Whale' -> 'End Whale'"
+  },
+  {
+   "id": "u0281",
+   "en": "Ally Escapes Safely",
+   "why": "refit: restructured"
+  },
+  {
+   "id": "u0283",
+   "en": "All Whales Survive",
+   "why": "refit: 'Keep All Galaxy Whales Alive' -> 'All Whales Survive'"
+  },
+  {
+   "id": "u0285",
+   "en": "Sing All Whales Off",
+   "why": "refit: dropped 'Galaxy'; 'Away' -> 'Off'"
+  },
+  {
+   "id": "u0289",
+   "en": "Defeat All Aces",
+   "why": "refit: dropped 'Enemy'"
+  },
+  {
+   "id": "u0291",
+   "en": "Raze Enemy Base",
+   "why": "refit: 'Destroy' -> 'Raze'"
+  },
+  {
+   "id": "u0296",
+   "en": "Keep Ally 1 Alive",
+   "why": "refit: 'Allied Unit' -> 'Ally'"
+  },
+  {
+   "id": "u0297",
+   "en": "Keep Ally 2 Alive",
+   "why": "refit: 'Allied Unit' -> 'Ally'"
+  },
+  {
+   "id": "u0304",
+   "en": "Destroy All Cocoons",
+   "why": "refit: dropped 'Vajra'"
+  },
+  {
+   "id": "u0338",
+   "en": "The Fool Risking His Life for a Woman",
+   "why": "refit: 'Who Risks' -> 'Risking'"
+  },
+  {
+   "id": "u0430",
+   "en": "Defeat Ace Fast",
+   "why": "refit: dropped 'Enemy' (same as u0134)"
+  },
+  {
+   "id": "u0748",
+   "en": "Monster (Quamzin)",
+   "why": "refit: mecha.json personal-unit convention 'Unit (Pilot)'"
+  },
+  {
+   "id": "u0875",
+   "en": "Zola Patrol",
+   "why": "refit: glossary alias of Zolan Star Patrol"
+  },
+  {
+   "id": "u0880",
+   "en": "Not enough free space on the Memory Stick⑳,\nso the folder could not be created.\nDelete save data?",
+   "why": "refit: dropped 'There is'"
+  },
+  {
+   "id": "u0885",
+   "en": "Returning to Top Menu.\nProceed?",
+   "why": "refit: dropped 'the'"
+  },
+  {
+   "id": "u1006",
+   "en": "Add-on Equip. unusable in this mission is selected.\nIt will be auto-removed on sortie.",
+   "why": "refit: abbreviated Equipment; 'removed automatically after you sortie' -> 'auto-removed on sortie'"
+  },
+  {
+   "id": "u1007",
+   "en": "A rookie operator who makes up for inexperience with natural\ncheer and hard work. Her looks and manner make people think\nshe's younger, which bothers her a lot. (CV: Kimiko Koyama)",
+   "why": "refit: reflowed; 'tend to make' -> 'make', 'a great deal' -> 'a lot'"
+  },
+  {
+   "id": "u1008",
+   "en": "A big-sister operator whose precise orders can be gentle or\nstrict. A bit pushy at times, but she looks after others, and\nthe crew adore her as a big sister. (CV: Tomo Adachi)",
+   "why": "refit: 'sometimes gentle, sometimes strict' -> 'can be gentle or strict'; reflowed"
+  },
+  {
+   "id": "u1009",
+   "en": "A prodigy operator whose talent was recognized while young.\nShe hates being treated like a child and always strives to be\nan equal. A bit foul-mouthed, but endearing. (CV: Ai Nonaka)",
+   "why": "refit: reflowed; 'that's part of her charm' -> 'endearing'"
+  },
+  {
+   "id": "u1010",
+   "en": "A skilled operator who judges calmly. His harsh words get him\nmisunderstood; he's just bad at showing emotion and is warm\nat heart. Glasses are his trademark. (CV: Kiyotaka Furushima)",
+   "why": "refit: reflowed; 'with calm judgment' -> 'who judges calmly'"
+  },
+  {
+   "id": "u1011",
+   "en": "An elite U.N. Forces officer, chief combat controller of the\nMacross air wing. A by-the-book stickler whom Hikaru treated\nas an \"old lady\", she gradually falls for him. (CV: Mika Doi)",
+   "why": "refit: dropped 'serving as'; 'comes to love him' -> 'falls for him'; reflowed"
+  },
+  {
+   "id": "u2247",
+   "en": "5min",
+   "why": "refit: consistency with 10min/15min/20min (not in work list; fits either way)"
+  },
+  {
+   "id": "u2248",
+   "en": "10min",
+   "why": "refit: dropped space"
+  },
+  {
+   "id": "u2249",
+   "en": "15min",
+   "why": "refit: dropped space"
+  },
+  {
+   "id": "u2250",
+   "en": "20min",
+   "why": "refit: dropped space"
+  },
+  {
+   "id": "u2251",
+   "en": "0 Respawns",
+   "why": "refit: matches '1 Respawn' ... '8 Respawns'"
+  },
+  {
+   "id": "u2260",
+   "en": "Unlimited",
+   "why": "refit: dropped 'Respawns' (list context)"
+  },
+  {
+   "id": "u2320",
+   "en": "Cpl.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2321",
+   "en": "Sgt.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2322",
+   "en": "Sgt. Maj.",
+   "why": "refit: standard abbreviation; box_unmeasured"
+  },
+  {
+   "id": "u2323",
+   "en": "WO",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2324",
+   "en": "2nd Lt.",
+   "why": "refit: standard abbreviation; box_unmeasured"
+  },
+  {
+   "id": "u2325",
+   "en": "Lt.",
+   "why": "refit: glossary: the game uses army-style ranks, this rank = 'Lieutenant'"
+  },
+  {
+   "id": "u2326",
+   "en": "Capt.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2328",
+   "en": "Lt. Col.",
+   "why": "refit: standard abbreviation; box_unmeasured"
+  },
+  {
+   "id": "u2329",
+   "en": "Col.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2331",
+   "en": "Div. Cmdr.",
+   "why": "refit: abbreviated; box_unmeasured"
+  },
+  {
+   "id": "u2332",
+   "en": "Ldg. Airman",
+   "why": "refit: abbreviated; box_unmeasured"
+  },
+  {
+   "id": "u2333",
+   "en": "Cmdr.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2334",
+   "en": "C-in-C",
+   "why": "refit: standard abbreviation for the top commander; box_unmeasured"
+  },
+  {
+   "id": "u2335",
+   "en": "Chief",
+   "why": "refit: 'Chief Developer' -> 'Chief' (source is just 'chief')"
+  },
+  {
+   "id": "u2336",
+   "en": "Capt.",
+   "why": "refit: standard abbreviation"
+  },
+  {
+   "id": "u2430",
+   "en": "Raises the weapon's attack power.",
+   "why": "refit: 'Increases' -> 'Raises'"
+  },
+  {
+   "id": "u2432",
+   "en": "Raises the weapon's rate of fire.",
+   "why": "refit: 'Increases ... rapid-fire count' -> 'Raises ... rate of fire'"
+  },
+  {
+   "id": "u2434",
+   "en": "Raises the weapon's bullet speed.",
+   "why": "refit: 'Increases' -> 'Raises'"
+  },
+  {
+   "id": "u2443",
+   "en": "Raises defense vs. shooting attacks.",
+   "why": "refit: 'Increases ... against' -> 'Raises ... vs.'"
+  },
+  {
+   "id": "u2444",
+   "en": "Raises defense vs. melee attacks.",
+   "why": "refit: 'Increases ... against' -> 'Raises ... vs.'"
+  },
+  {
+   "id": "u2445",
+   "en": "Raises the unit's movement speed.",
+   "why": "refit: 'Increases' -> 'Raises'"
+  },
+  {
+   "id": "u2261",
+   "en": "Force 100",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2262",
+   "en": "Force 200",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2263",
+   "en": "Force 300",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2264",
+   "en": "Force 400",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2265",
+   "en": "Force 500",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2266",
+   "en": "Force 600",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2267",
+   "en": "Force 700",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2268",
+   "en": "Force 800",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2269",
+   "en": "Force 900",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2270",
+   "en": "Force 1000",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2271",
+   "en": "Force 2000",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  },
+  {
+   "id": "u2272",
+   "en": "Force 3000",
+   "why": "refit: 'Force Gauge' -> 'Force' (the mode is 'Force Battle')"
+  }
+ ]
+}

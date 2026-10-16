@@ -1,0 +1,575 @@
+{
+ "slice": 113,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_ray_349",
+   "en": "It's okay! Don't worry! We'll come back together, I promise!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_350",
+   "en": "All right, let's go! Let's fire it up like never before!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_351",
+   "en": "I can trust you with my life. No joke.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_360",
+   "en": "You don't see a show this bad very often.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_361",
+   "en": "I'd rather not think about teaming up again next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_362",
+   "en": "I seem to have pushed you too hard. Let's end our duo here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_363",
+   "en": "Good skills. Keep it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_364",
+   "en": "Well, that's about what I expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_365",
+   "en": "Well done. Do the same next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_366",
+   "en": "Amazing skill! I'm counting on you from now on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_367",
+   "en": "Oh, nice! Pleasant surprise that you can do this much!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'ureshii gosan'; read as ureshii gosan (welcome miscalculation)."
+  },
+  {
+   "id": "vp7_ray_368",
+   "en": "Not bad at all. We succeeded thanks to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_369",
+   "en": "Come see our live show! You won't regret it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_370",
+   "en": "Want to join one of our shows? It'll be a blast, guaranteed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_371",
+   "en": "Ha ha, with you along, I got carried away like a kid!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'toshigae mo naku'; read as toshigai mo naku (at my age)."
+  },
+  {
+   "id": "vp7_ray_600",
+   "en": "Speaker Pod, deploy!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper 'speaker pod gama da'; the last word is unclear, line is a guess."
+  },
+  {
+   "id": "vp7_ray_601",
+   "en": "We can get our song through to this Gepelnitchi!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_602",
+   "en": "Don't tell me a Protodeviln has taken hold of them.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Possessed person not named in the clip; kept gender-neutral."
+  },
+  {
+   "id": "vp7_ray_603",
+   "en": "That's enough, you monsters! I won't let you hurt any more of our precious members!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_604",
+   "en": "Basara, getting shot down before me is cheating!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_605",
+   "en": "Formation E minor, eight beat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_606",
+   "en": "All right, let's go! Formation Major Seventh!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_607",
+   "en": "Mylene, Basara, Formation Medley!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_ray_608",
+   "en": "Veffidas! Ready? Let's go!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'bihii'; read as Veffidas."
+  },
+  {
+   "id": "vp7_ray_609",
+   "en": "Let's enjoy it to the fullest! Go, Veffidas!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'bihiida'; read as Veffidas."
+  },
+  {
+   "id": "vp7_ray_610",
+   "en": "Do it, Veffidas! Show them our power!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'bihiida'; read as Veffidas."
+  },
+  {
+   "id": "vp7_ray_611",
+   "en": "Veffidas, we might have overdone it a little.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'biida'; read as Veffidas."
+  },
+  {
+   "id": "vp7_ray_612",
+   "en": "You can still go on, right, Veffidas?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'biida'; read as Veffidas."
+  },
+  {
+   "id": "vp7_ray_613",
+   "en": "As expected, Veffidas.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'bifiida'; read as Veffidas."
+  },
+  {
+   "id": "vpd_svl_000",
+   "en": "Ghost.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whisper gives 'ghost' on a launch clip; meaning in context unknown."
+  },
+  {
+   "id": "vpd_svl_001",
+   "en": "Anima Spiritia... where?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_002",
+   "en": "Spiritia.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_100",
+   "en": "Want Spiritia. Want Spiritia.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_101",
+   "en": "That thrill... I'll make sure.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'zokuzoku' read as zokuzoku (thrill/shiver), a recurring Sivil word."
+  },
+  {
+   "id": "vpd_svl_102",
+   "en": "Spiritia paradise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_106",
+   "en": "Go!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper 'koopu'; read as go."
+  },
+  {
+   "id": "vpd_svl_107",
+   "en": "Erase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_108",
+   "en": "More Spiritia.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'betto'; read as motto (more), as in clip 323."
+  },
+  {
+   "id": "vpd_svl_139",
+   "en": "You... Spiritia level low.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_140",
+   "en": "In the way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_141",
+   "en": "You... not enough power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_142",
+   "en": "No good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_143",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Tsk."
+  },
+  {
+   "id": "vpd_svl_144",
+   "en": "Friend... dead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_148",
+   "en": "Don't need allies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_149",
+   "en": "On this stage... friends.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript 'ano butai nakama' is fragmentary."
+  },
+  {
+   "id": "vpd_svl_150",
+   "en": "Don't need you. Go home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_154",
+   "en": "Success! Yeah!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'seikou koo'; 'koo/goo' is a recurring Sivil cry."
+  },
+  {
+   "id": "vpd_svl_155",
+   "en": "Not enough Spiritia.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_156",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle"
+   ],
+   "notes": "Whisper nospeech; probably only breathing or a murmur."
+  },
+  {
+   "id": "vpd_svl_176",
+   "en": "Ecstasy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_177",
+   "en": "Anima Spiritia!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_180",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_181",
+   "en": "Captain, in the way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_182",
+   "en": "Captain, not enough Spiritia.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_183",
+   "en": "Don't need you! Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_184",
+   "en": "Sad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_185",
+   "en": "Go, Captain... go.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ambiguous: 'go' as in go on, or as in depart."
+  },
+  {
+   "id": "vpd_svl_186",
+   "en": "Captain dead. Ghost.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Meaning of 'ghost' here is unclear."
+  },
+  {
+   "id": "vpd_svl_190",
+   "en": "Captain... Spiritia level high.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_191",
+   "en": "Captain strong.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_192",
+   "en": "Basara amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_193",
+   "en": "Gigile!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'gigiru'; read as Gigile."
+  },
+  {
+   "id": "vpd_svl_320",
+   "en": "You... don't need you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_321",
+   "en": "Give me Spiritia.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_322",
+   "en": "In the way. Vanish.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_323",
+   "en": "Spiritia... more Spiritia... go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_324",
+   "en": "You... friend.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_325",
+   "en": "Well done! Yeah!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'yoku yatta koo'; 'koo' is a recurring cry."
+  },
+  {
+   "id": "vpd_svl_326",
+   "en": "Thrill... you thrill me.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'zokuzoku'; read as thrill."
+  },
+  {
+   "id": "vpd_svl_327",
+   "en": "Don't need. Your Spiritia, don't need.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_329",
+   "en": "I like you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_330",
+   "en": "Anima Spiritia... you... Anima Spiritia.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_331",
+   "en": "Let me hear song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_360",
+   "en": "Don't need! Don't need you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_361",
+   "en": "You... irrelevant.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_362",
+   "en": "I'll take your Spiritia.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_363",
+   "en": "Spiritia. More, more.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpd_svl_364",
+   "en": "Yeah! Success! Yeah!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'koo seikou koo'."
+  },
+  {
+   "id": "vpd_svl_365",
+   "en": "Not enough thrill.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper 'zokuzoku'; read as thrill."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8976 (vp7_ray_600): Whisper 'speaker pod gama da'; the last word is unclear, line is a guess.",
+   "row 8978 (vp7_ray_602): Possessed person not named in the clip; kept gender-neutral.",
+   "row 8990 (vpd_svl_000): Whisper gives 'ghost' on a launch clip; meaning in context unknown.",
+   "row 8996 (vpd_svl_106): Whisper 'koopu'; read as go.",
+   "row 9006 (vpd_svl_149): Transcript 'ano butai nakama' is fragmentary.",
+   "row 9018 (vpd_svl_185): Ambiguous: 'go' as in go on, or as in depart.",
+   "row 9019 (vpd_svl_186): Meaning of 'ghost' here is unclear."
+  ],
+  "whisper_doubt": [
+   "row 8971 (vp7_ray_367): Whisper 'ureshii gosan'; read as ureshii gosan (welcome miscalculation).",
+   "row 8975 (vp7_ray_371): Whisper 'toshigae mo naku'; read as toshigai mo naku (at my age).",
+   "row 8976 (vp7_ray_600): Whisper 'speaker pod gama da'; the last word is unclear, line is a guess.",
+   "row 8984 (vp7_ray_608): Whisper 'bihii'; read as Veffidas.",
+   "row 8985 (vp7_ray_609): Whisper 'bihiida'; read as Veffidas.",
+   "row 8986 (vp7_ray_610): Whisper 'bihiida'; read as Veffidas.",
+   "row 8987 (vp7_ray_611): Whisper 'biida'; read as Veffidas.",
+   "row 8988 (vp7_ray_612): Whisper 'biida'; read as Veffidas.",
+   "row 8989 (vp7_ray_613): Whisper 'bifiida'; read as Veffidas.",
+   "row 8994 (vpd_svl_101): Whisper 'zokuzoku' read as zokuzoku (thrill/shiver), a recurring Sivil word.",
+   "row 8996 (vpd_svl_106): Whisper 'koopu'; read as go.",
+   "row 8998 (vpd_svl_108): Whisper 'betto'; read as motto (more), as in clip 323.",
+   "row 9008 (vpd_svl_154): Whisper 'seikou koo'; 'koo/goo' is a recurring Sivil cry.",
+   "row 9010 (vpd_svl_156): Whisper nospeech; probably only breathing or a murmur.",
+   "row 9023 (vpd_svl_193): Whisper 'gigiru'; read as Gigile.",
+   "row 9029 (vpd_svl_325): Whisper 'yoku yatta koo'; 'koo' is a recurring cry.",
+   "row 9030 (vpd_svl_326): Whisper 'zokuzoku'; read as thrill.",
+   "row 9039 (vpd_svl_364): Whisper 'koo seikou koo'.",
+   "row 9040 (vpd_svl_365): Whisper 'zokuzoku'; read as thrill."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

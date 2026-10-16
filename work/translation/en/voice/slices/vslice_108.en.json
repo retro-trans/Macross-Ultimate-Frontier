@@ -1,0 +1,514 @@
+{
+ "slice": 108,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vp7_mil_130",
+   "en": "I refuse to be shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_131",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunts of pain."
+  },
+  {
+   "id": "vp7_mil_132",
+   "en": "Ugh, me of all people!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_133",
+   "en": "I may not make it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_135",
+   "en": "The aircraft won't hold!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_136",
+   "en": "I hate getting old.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_137",
+   "en": "Max!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_138",
+   "en": "Unbelievable!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_139",
+   "en": "Don't give me any more to worry about!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_140",
+   "en": "Just don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_141",
+   "en": "Get a grip!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_142",
+   "en": "What are you doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_143",
+   "en": "Geez! Bail out, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_144",
+   "en": "Relearn the piloting basics!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_148",
+   "en": "Seems my insurance arrived in time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_149",
+   "en": "I'd have shot all of them down myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_150",
+   "en": "You're late! What have you been doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_151",
+   "en": "This is the worst.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_152",
+   "en": "Ugh, got me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_153",
+   "en": "Shot down, so...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Trails off after 'node' in the original."
+  },
+  {
+   "id": "vp7_mil_154",
+   "en": "Protecting the citizens is my duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_155",
+   "en": "Mission complete. Returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_156",
+   "en": "It succeeded thanks to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_157",
+   "en": "Damn, I was too distracted by the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_158",
+   "en": "I can't believe we were too late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_159",
+   "en": "Time's up! Unbelievable!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_160",
+   "en": "I won't accept an ending like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_161",
+   "en": "Even ace Milia ends here, it seems.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Miiya' read as 'Miria' (Milia)."
+  },
+  {
+   "id": "vp7_mil_162",
+   "en": "I can't believe I failed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_163",
+   "en": "Give me covering fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_164",
+   "en": "Back me up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_165",
+   "en": "You're on support duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_166",
+   "en": "Charge right in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_167",
+   "en": "Close combat is yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_168",
+   "en": "Can you get in close?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_169",
+   "en": "No reckless moves!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_170",
+   "en": "Learn when to fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_171",
+   "en": "Focus on defense!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_172",
+   "en": "Only you can do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_173",
+   "en": "Now's our chance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_174",
+   "en": "Show some grit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_175",
+   "en": "I'll take the glory!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'hana wo motasete morau' is ambiguous (taking the glory vs. letting someone have it)."
+  },
+  {
+   "id": "vp7_mil_176",
+   "en": "Take responsibility for this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_177",
+   "en": "That's an ace for you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_178",
+   "en": "I see. All right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_179",
+   "en": "I understand.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_180",
+   "en": "Yeah, yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_181",
+   "en": "I'd make a better leader.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_182",
+   "en": "Leader, what a disgrace you are.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'don-da-haji-sarashi' read as 'tonda haji-sarashi'."
+  },
+  {
+   "id": "vp7_mil_183",
+   "en": "Is the leader OK?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'taichou' (physical condition) read as 'taichou' (leader), 'taichou wa buji nano'."
+  },
+  {
+   "id": "vp7_mil_184",
+   "en": "What a sloppy leader.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_185",
+   "en": "What use is a leader who goes down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_186",
+   "en": "Were you shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_187",
+   "en": "What is this feeling? I'm pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_188",
+   "en": "Ah, I think that added years to my life.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_189",
+   "en": "Deculture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_190",
+   "en": "You're quite good, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_191",
+   "en": "I'm counting on your skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_300",
+   "en": "Flying with you was a mistake.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_301",
+   "en": "I'm going too. I won't let you fight on your own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_302",
+   "en": "Nothing a pilot like you does matters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_303",
+   "en": "Don't worry about me. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_304",
+   "en": "No carelessness. Keep your focus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_305",
+   "en": "Got it? Handle this calmly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_306",
+   "en": "I'm the one going out. You don't need to worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_307",
+   "en": "Follow me. I'll teach you a real dogfight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_308",
+   "en": "Be grateful you get my support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_309",
+   "en": "If things get dangerous, rely on me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_310",
+   "en": "Don't let me down. I'm watching you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_311",
+   "en": "Let's go. You and I can do this with ease.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_320",
+   "en": "You haven't a shred of talent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_321",
+   "en": "Right, you fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_322",
+   "en": "You're hopeless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_323",
+   "en": "Well, I'll be going ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_324",
+   "en": "Glad you're safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_325",
+   "en": "Come on, let's go home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_327",
+   "en": "Did you like my support?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_328",
+   "en": "I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_329",
+   "en": "You're a truly dependable pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_mil_330",
+   "en": "I'm glad you're safe.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 8602 (vp7_mil_175): 'hana wo motasete morau' is ambiguous (taking the glory vs. letting someone have it)."
+  ],
+  "whisper_doubt": [
+   "row 8588 (vp7_mil_161): 'Miiya' read as 'Miria' (Milia).",
+   "row 8609 (vp7_mil_182): 'don-da-haji-sarashi' read as 'tonda haji-sarashi'.",
+   "row 8610 (vp7_mil_183): 'taichou' (physical condition) read as 'taichou' (leader), 'taichou wa buji nano'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "row 8580 (vp7_mil_153): Trails off after 'node' in the original."
+  ]
+ }
+}

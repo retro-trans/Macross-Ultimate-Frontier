@@ -1,0 +1,576 @@
+{
+ "slice": 83,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpz_mil_174",
+   "en": "Annihilate the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_175",
+   "en": "This is my power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_176",
+   "en": "I am not permitted to lose.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper dropped the final negative (yurusarenai); the sibling clip and the sense need it."
+  },
+  {
+   "id": "vpz_mil_177",
+   "en": "This is the mark of an ace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_179",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_180",
+   "en": "Acknowledged.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a garbled string (shochocho...); read as 'shouchi' from the sibling clip."
+  },
+  {
+   "id": "vpz_mil_181",
+   "en": "Captain, you're taking hits!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_182",
+   "en": "Are you okay? Okay.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote 'taisen taisen'; read from the sibling clip, which repeats 'daijoubu'. Kept literal."
+  },
+  {
+   "id": "vpz_mil_183",
+   "en": "Captain, are you all right?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'bujika taichou'; read as 'buji ka, taichou'."
+  },
+  {
+   "id": "vpz_mil_184",
+   "en": "Captain!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'taisen'; read as 'taichou' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_185",
+   "en": "How dare you hit the Captain!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'yokubou taechaou'; read as 'yoku mo taichou o' from the sibling clip."
+  },
+  {
+   "id": "vpz_mil_186",
+   "en": "Captain, eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_187",
+   "en": "This feeling is nice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_188",
+   "en": "How can this be?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper wrote 'nan to mo ienai' (can't put it into words); sibling clip says 'nan to iu koto da'. Chose the sibling."
+  },
+  {
+   "id": "vpz_mil_189",
+   "en": "Protoculture.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_190",
+   "en": "You're quite skilled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_191",
+   "en": "Not bad. You've got skill.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'jouzen' (wrong kanji); read as 'udemae' (skill)."
+  },
+  {
+   "id": "vpz_mil_198",
+   "en": "Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_300",
+   "en": "Don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_301",
+   "en": "Dead weight.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'ashitematomi'; read as 'ashidematoi me' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_302",
+   "en": "You're slow! Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_303",
+   "en": "Don't let your guard down! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_304",
+   "en": "First to the prey wins.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'hayai mono ga chigau'; read as 'hayai mono gachi' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_305",
+   "en": "I won't lose to a man.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'otoko ni wa masking'; read as 'otoko ni wa makenn' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_306",
+   "en": "I'm counting on you for support.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'spot'; read as 'support' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_307",
+   "en": "Let me see what you can do.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'kisama no tame ni'; read as 'kisama no udemae' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_308",
+   "en": "Follow me! I'll show you how an ace fights!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_309",
+   "en": "I'm counting on your skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_310",
+   "en": "Leave the support to me. Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_311",
+   "en": "Paired with me, you can do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_320",
+   "en": "You're in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_321",
+   "en": "Enough already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_322",
+   "en": "Too slow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_323",
+   "en": "We got through it.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'buji owatta yo dama'; read as 'buji owatta you da na'."
+  },
+  {
+   "id": "vpz_mil_324",
+   "en": "Let's head back.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'kaaten' (curtain); read as 'kaeru zo' (sibling clip)."
+  },
+  {
+   "id": "vpz_mil_327",
+   "en": "Your support wasn't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_328",
+   "en": "Next time, I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_329",
+   "en": "As skilled as I expected.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'demae'; read as 'udemae'."
+  },
+  {
+   "id": "vpz_mil_330",
+   "en": "We worked well together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_331",
+   "en": "I've taken a liking to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_340",
+   "en": "I'm enough on my own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_341",
+   "en": "I'll do as I please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_342",
+   "en": "Pointless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_343",
+   "en": "Move out. Keep up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_344",
+   "en": "I'll show you an ace's strength.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'shuuryoku' (output); read as 'jitsuryoku' (strength)."
+  },
+  {
+   "id": "vpz_mil_345",
+   "en": "Can you keep up with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_346",
+   "en": "Watch my back. Follow me!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a garbled katakana string; sibling clip is 'ushiro wa makaseta, tsuite koi'."
+  },
+  {
+   "id": "vpz_mil_347",
+   "en": "Let me test what you can do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_348",
+   "en": "Can you surpass me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_349",
+   "en": "Move out! I'll show you a woman's power!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_350",
+   "en": "I'm taking the lead. Cover my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_351",
+   "en": "I've never felt such a rush.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'kouyouka'; read as 'kouyoukan'."
+  },
+  {
+   "id": "vpz_mil_360",
+   "en": "Next time, I'm going out alone.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'tasshite' (accomplish); read as 'dasasete' (let me sortie)."
+  },
+  {
+   "id": "vpz_mil_361",
+   "en": "Were you even on the battlefield?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_362",
+   "en": "A complete waste of ammo.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'tema' (effort); read as 'tama' (bullets) from the sibling clip."
+  },
+  {
+   "id": "vpz_mil_363",
+   "en": "Good. Returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_364",
+   "en": "Did you see my strength?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'shuuryoku' (output); read as 'jitsuryoku' (strength)."
+  },
+  {
+   "id": "vpz_mil_365",
+   "en": "You weren't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_366",
+   "en": "Come, prepare for the next battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_367",
+   "en": "I'll rely on you next time, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_369",
+   "en": "Today's operation was excellent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_370",
+   "en": "Nice skills. Next time, it's you against me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_371",
+   "en": "Two aces, huh? Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_600",
+   "en": "You're violating orders!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote a garbled opening (kabuchi mereihanuzo); read from the sibling clip, which has 'meirei ihan da zo'."
+  },
+  {
+   "id": "vpz_mil_601",
+   "en": "So which one is the hotshot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_602",
+   "en": "That's the one?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_604",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'table'; probably the same Zentradi-style word as in the sibling clip (debura). Not understood."
+  },
+  {
+   "id": "vpz_mil_605",
+   "en": "Deculture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_609",
+   "en": "Oh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_615",
+   "en": "That enemy is strong!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_616",
+   "en": "Me, lose? Impossible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_617",
+   "en": "I am Milia, the ace!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_000",
+   "en": "I'm the one supporting you, so I won't tolerate failure.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_001",
+   "en": "If I can be of use, I'll support you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_002",
+   "en": "Sortie at once... oh, I'm not the operator this time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_100",
+   "en": "Get it together. If you fail, you'll get a lecture.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_101",
+   "en": "Not being the operator feels oddly unsettling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mis_102",
+   "en": "Don't overdo it. Do you understand?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'mujasha' (nonsense); read as 'muchasha chaa dame yo' (do not be reckless)."
+  },
+  {
+   "id": "vps_mis_106",
+   "en": "Show them exactly what you can do.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6569 vpz_mil_182: Are you okay? Okay. - Whisper wrote 'taisen taisen'; read from the sibling clip, which repeats 'daijoubu'. Kept literal.",
+   "row 6575 vpz_mil_188: How can this be? - Whisper wrote 'nan to mo ienai' (can't put it into words); sibling clip says 'nan to iu koto da'. Chose the sibling."
+  ],
+  "whisper_doubt": [
+   "row 6563 vpz_mil_176: Whisper dropped the final negative (yurusarenai); the sibling clip and the sense need it.",
+   "row 6567 vpz_mil_180: Whisper wrote a garbled string (shochocho...); read as 'shouchi' from the sibling clip.",
+   "row 6569 vpz_mil_182: Whisper wrote 'taisen taisen'; read from the sibling clip, which repeats 'daijoubu'. Kept literal.",
+   "row 6570 vpz_mil_183: Whisper wrote 'bujika taichou'; read as 'buji ka, taichou'.",
+   "row 6571 vpz_mil_184: Whisper wrote 'taisen'; read as 'taichou' (sibling clip).",
+   "row 6572 vpz_mil_185: Whisper wrote 'yokubou taechaou'; read as 'yoku mo taichou o' from the sibling clip.",
+   "row 6575 vpz_mil_188: Whisper wrote 'nan to mo ienai' (can't put it into words); sibling clip says 'nan to iu koto da'. Chose the sibling.",
+   "row 6578 vpz_mil_191: Whisper wrote 'jouzen' (wrong kanji); read as 'udemae' (skill).",
+   "row 6581 vpz_mil_301: Whisper wrote 'ashitematomi'; read as 'ashidematoi me' (sibling clip).",
+   "row 6584 vpz_mil_304: Whisper wrote 'hayai mono ga chigau'; read as 'hayai mono gachi' (sibling clip).",
+   "row 6585 vpz_mil_305: Whisper wrote 'otoko ni wa masking'; read as 'otoko ni wa makenn' (sibling clip).",
+   "row 6586 vpz_mil_306: Whisper wrote 'spot'; read as 'support' (sibling clip).",
+   "row 6587 vpz_mil_307: Whisper wrote 'kisama no tame ni'; read as 'kisama no udemae' (sibling clip).",
+   "row 6595 vpz_mil_323: Whisper wrote 'buji owatta yo dama'; read as 'buji owatta you da na'.",
+   "row 6596 vpz_mil_324: Whisper wrote 'kaaten' (curtain); read as 'kaeru zo' (sibling clip).",
+   "row 6599 vpz_mil_329: Whisper wrote 'demae'; read as 'udemae'.",
+   "row 6606 vpz_mil_344: Whisper wrote 'shuuryoku' (output); read as 'jitsuryoku' (strength).",
+   "row 6608 vpz_mil_346: Whisper wrote a garbled katakana string; sibling clip is 'ushiro wa makaseta, tsuite koi'.",
+   "row 6613 vpz_mil_351: Whisper wrote 'kouyouka'; read as 'kouyoukan'.",
+   "row 6614 vpz_mil_360: Whisper wrote 'tasshite' (accomplish); read as 'dasasete' (let me sortie).",
+   "row 6616 vpz_mil_362: Whisper wrote 'tema' (effort); read as 'tama' (bullets) from the sibling clip.",
+   "row 6618 vpz_mil_364: Whisper wrote 'shuuryoku' (output); read as 'jitsuryoku' (strength).",
+   "row 6625 vpz_mil_600: Whisper wrote a garbled opening (kabuchi mereihanuzo); read from the sibling clip, which has 'meirei ihan da zo'.",
+   "row 6628 vpz_mil_604: Whisper wrote 'table'; probably the same Zentradi-style word as in the sibling clip (debura). Not understood.",
+   "row 6639 vps_mis_102: Whisper wrote 'mujasha' (nonsense); read as 'muchasha chaa dame yo' (do not be reckless)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

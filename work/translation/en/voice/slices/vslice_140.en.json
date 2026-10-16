@@ -1,0 +1,518 @@
+{
+ "slice": 140,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_rnk_877",
+   "en": "So I can support big brother too!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "\"Onii-chan\": Ozma or Brera, left as \"big brother\"; the speaker is Ranka explaining support characters."
+  },
+  {
+   "id": "vpf_rnk_878",
+   "en": "Huh? Oh, I'll support Alto too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_879",
+   "en": "Press up on the D-pad while locking on to switch the lock to an enemy ace or the two downed units.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "\"Both units\" (ryouki) of the downed allies; same reading as in she_884."
+  },
+  {
+   "id": "vpf_rnk_880",
+   "en": "Press the Circle, Triangle, Square and Cross buttons together to purge your option parts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_881",
+   "en": "Be sure to check the controls that have changed from before!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_883",
+   "en": "The last explanation is about the Anti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_884",
+   "en": "Sheryl, it's thanks to you that I could explain. Sheryl gave me strength. So let's explain once more, Sheryl.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Odd gag line; read as a parody of Sheryl's catchphrase (see rnk_885/886), taken as heard. Possibly partly garbled."
+  },
+  {
+   "id": "vpf_rnk_885",
+   "en": "Listen to our...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Continues in rnk_886 (\"explanation!\"); parody of \"Listen to my song!\"."
+  },
+  {
+   "id": "vpf_rnk_886",
+   "en": "...explanation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_887",
+   "en": "Press the Cross and Square buttons together to shoot down enemy missiles. This is the Anti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_888",
+   "en": "A yellow missile marker is an enemy missile outside the Anti-Missile Action's range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_889",
+   "en": "Shooting them down works in Battroid and GERWALK modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_890",
+   "en": "That's the explanation of the Anti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_rnk_892",
+   "en": "Press the L and Triangle buttons together to level your aircraft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_000",
+   "en": "I absolutely hate it when I can do something and don't.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_001",
+   "en": "I'm telling you I'll support you. Be grateful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_002",
+   "en": "I can manage a little support. I'm Sheryl, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_100",
+   "en": "If a pilot's job is fighting, my job is supporting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_101",
+   "en": "Don't worry. I can do it. I'll show you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_102",
+   "en": "Charge ahead at Macross speed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_106",
+   "en": "Fly away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_107",
+   "en": "Fate is something you seize with your own power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_108",
+   "en": "I'll let you have the spotlight for a moment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_124",
+   "en": "It's nothing. This much is nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_125",
+   "en": "You've got guts, defying me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_126",
+   "en": "Hmm, how interesting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_127",
+   "en": "I won't be scared by a cheap threat like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_128",
+   "en": "This is nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_129",
+   "en": "You do know what happens when you do this, don't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_130",
+   "en": "It's fine. I'm Sheryl Nome, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_131",
+   "en": "My stage is just getting started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_132",
+   "en": "There's no way I'd lose, not me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_133",
+   "en": "I'm definitely going to survive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_134",
+   "en": "I won't give up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_135",
+   "en": "I'll fight even in despair.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_136",
+   "en": "No... me? Sheryl Nome...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_137",
+   "en": "Is this as far as I go...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_138",
+   "en": "No! My power isn't just this much! My power is...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_139",
+   "en": "Worn out already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_140",
+   "en": "Don't give up so easily.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_141",
+   "en": "Hey! Take this seriously!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_142",
+   "en": "How sloppy of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_143",
+   "en": "Looks like you need to be punished.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_144",
+   "en": "Answer me! If you don't, I won't forgive you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_148",
+   "en": "Aren't you thoughtful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_149",
+   "en": "Oh, are you a fan of mine?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_150",
+   "en": "Keep up the cheering like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_154",
+   "en": "Of course it'll succeed. Sheryl herself is backing you up.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Shiriru\" for \"Sheryl\", the speaker's own name."
+  },
+  {
+   "id": "vpf_she_155",
+   "en": "For the record, it succeeded thanks to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_156",
+   "en": "That was quite a good stage. Not as good as mine, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_175",
+   "en": "I rarely give service like this, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_176",
+   "en": "How dare you make me, Sheryl, go this far!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"Shiriru\" for \"Sheryl\", the speaker's own name."
+  },
+  {
+   "id": "vpf_she_177",
+   "en": "I'll charge ahead at Macross speed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_178",
+   "en": "Fine, I get it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_179",
+   "en": "Yes, yes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_180",
+   "en": "I just have to do it, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_181",
+   "en": "Are you really the captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_182",
+   "en": "Pull yourself together. You're the captain, aren't you?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"taishou\" (target); read as \"taichou\" (captain) per neighbouring clips."
+  },
+  {
+   "id": "vpf_she_183",
+   "en": "What an unreliable captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_184",
+   "en": "I never thought the captain would be shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_185",
+   "en": "A captain getting shot down is pathetic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_186",
+   "en": "Don't you dare be dead! Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_190",
+   "en": "Not bad! I'll give you some praise!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_191",
+   "en": "You're the captain. This much is only natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_192",
+   "en": "Pretty good effort, for Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_194",
+   "en": "Listen to my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_195",
+   "en": "Here I go! Everyone, listen to my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_196",
+   "en": "All there is now is music, and me. Listen to my song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_320",
+   "en": "Don't give me that leering look, pervert.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_321",
+   "en": "Quiet! I just thought of a good phrase!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_322",
+   "en": "Sorry, weak men aren't my type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_323",
+   "en": "You tried hard, huh? I'll praise you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_324",
+   "en": "You're my slave, so obeying me is only natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_325",
+   "en": "Well, as my slave, you pass.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_326",
+   "en": "Hurry back! My concert is about to start!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_327",
+   "en": "Be grateful. I supported you, no less.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_328",
+   "en": "Well? How was my stage from the best seat in the house?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_329",
+   "en": "Remember this. A woman this good is rare.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_330",
+   "en": "Don't get the wrong idea! It's the machine I'm worried about!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_331",
+   "en": "I almost never worry, so be grateful.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "vpf_rnk_877: \"Onii-chan\": Ozma or Brera, left as \"big brother\"; the speaker is Ranka explaining support characters.",
+   "vpf_rnk_879: \"Both units\" (ryouki) of the downed allies; same reading as in she_884.",
+   "vpf_rnk_884: Odd gag line; read as a parody of Sheryl's catchphrase (see rnk_885/886), taken as heard. Possibly partly garbled."
+  ],
+  "whisper_doubt": [
+   "vpf_she_154: Heard \"Shiriru\" for \"Sheryl\", the speaker's own name.",
+   "vpf_she_176: Heard \"Shiriru\" for \"Sheryl\", the speaker's own name.",
+   "vpf_she_182: Heard \"taishou\" (target); read as \"taichou\" (captain) per neighbouring clips."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "vpf_rnk_885: Continues in rnk_886 (\"explanation!\"); parody of \"Listen to my song!\"."
+  ]
+ }
+}

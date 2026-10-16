@@ -1,0 +1,1173 @@
+{
+ "slice": 3,
+ "rows_in_slice": 189,
+ "rows_examined": 189,
+ "rows": [
+  {
+   "id": "u0551",
+   "en": "12.7mm Twin Beam Machine Gun\nBeam machine gun mounted atop the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0552",
+   "en": "78mm Liquid-Cooled High-Speed Autocannon (Machine Gun)\nHigh-speed autocannons mounted on both arms",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0553",
+   "en": "Missile Jamming\nJams incoming missiles",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0554",
+   "en": "78mm Liquid-Cooled High-Speed Autocannon (Laser)\nHigh-speed autocannons mounted on both arms",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0555",
+   "en": "Call Allies\nCalls in Defender units",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0556",
+   "en": "Anti-Air Laser Machine Gun\nMachine gun mounted atop the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0557",
+   "en": "12-Round Close-Range Homing Rocket Launcher\nRockets fired in rapid succession at one enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0558",
+   "en": "Gun Cluster (Laser)\nAttacks with the Gun Cluster's laser cannon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0559",
+   "en": "Gun Cluster (Flamethrower)\nAttacks with the Gun Cluster's flamethrower",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0560",
+   "en": "Call Allies\nCalls in Phalanx units",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0561",
+   "en": "Short-Range High-Mobility Homing Missile (Blast)\nMissiles with tremendous destructive power",
+   "flags": [],
+   "notes": "review: Same description line as 2 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0562",
+   "en": "Short-Range High-Mobility Homing Missile (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0563",
+   "en": "Short-Range High-Mobility Homing Missile (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0564",
+   "en": "Liquid-Cooled Charged Particle Beam Cannon\nBeam cannons mounted on both arms",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0565",
+   "en": "12-Round Close-Range Homing Rocket Launcher\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "review: Same description line as 9 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0566",
+   "en": "Gun Cluster (180mm Grenade)\nAttacks with the Gun Cluster's 180mm grenades",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0567",
+   "en": "Liquid-Cooled 40cm Liquid-Propellant Cannon\nPowerful cannons mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0568",
+   "en": "Laser Cannon\nLaser cannon mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0569",
+   "en": "Power Charge\n",
+   "flags": [],
+   "notes": "Second line is empty in the source; kept the empty line."
+  },
+  {
+   "id": "u0570",
+   "en": "Macross Cannon\nFires the Macross Cannon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0571",
+   "en": "Guided Focused Beam Cannon System\nFires beams from its entire body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0572",
+   "en": "OT Hypervelocity Electromagnetic Railcannon\nLaser cannons mounted on both shoulders",
+   "flags": [],
+   "notes": "Source description says laser cannons although the name is a railcannon; kept as written. OT = OverTechnology."
+  },
+  {
+   "id": "u0573",
+   "en": "Large Homing Anti-Ship Missile Launcher\nFires missiles mounted all over its body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0574",
+   "en": "Harpoon Launcher\nFires harpoons made for catching whales",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0575",
+   "en": "Harpoon Throw\nCan throw harpoons at several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0576",
+   "en": "Burning Passion for Whales\nA burning passion for whales raises attack power",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0577",
+   "en": "30mm 6-Barrel Gatling Gun\nGatling guns mounted on both arms",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0578",
+   "en": "Close-Range Anti-Air Quad Missile Launcher\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "review: Same description line as 9 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0579",
+   "en": "Charged Particle Beam Cannon\nBeam cannons mounted on both arms",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0580",
+   "en": "Call Allies\nCalls in Cheyenne II units",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0581",
+   "en": "Anti-Air/Anti-Ground Machine Gun\nMachine guns mounted on the chest and both arms",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0582",
+   "en": "Triple Anti-Ground/Anti-Ship Heavy Missile\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0583",
+   "en": "320mm Quad Railgun\nPowerful railgun mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0584",
+   "en": "Feelings for Michel\nFeelings for Michel raise attack power",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0585",
+   "en": "Klan Voice\nKlan fires you up with a rallying cry",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0586",
+   "en": "Twin Guided Anti-Ship Heavy Beam Cannon\nFires beams from its entire body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0587",
+   "en": "Close-In Defense Micro-Missile Phalanx\nFires missiles mounted all over its body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0588",
+   "en": "Anti-Ship Reaction Weapon\nAttacks with reaction weapons",
+   "flags": [],
+   "notes": "Name uses the glossary alias 'reaction warhead'; description uses 'reaction weapons'. | review: terms.json: this term = reaction weapon."
+  },
+  {
+   "id": "u0589",
+   "en": "Heavy Quantum Reaction Cannon\nFires the Heavy Quantum Reaction Cannon",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Battle Frontier / Battle Galaxy main gun; not in glossary."
+  },
+  {
+   "id": "u0590",
+   "en": "Jeffrey Voice\nJeffrey spurs you on",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0591",
+   "en": "Ghost Kamikaze\nCan send Ghosts on suicide runs at several enemies at once",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Tokkou rendered 'Kamikaze' / 'suicide runs'."
+  },
+  {
+   "id": "u0592",
+   "en": "Kira☆\nStops time for an instant with a \"Kira☆\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0593",
+   "en": "Beam\nFires a gigantic beam",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0594",
+   "en": "Guided Multi-Laser\nFires lasers from its entire body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0595",
+   "en": "Scatter Laser Machine Gun\nFires a scattering laser machine gun from its head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0596",
+   "en": "Warp\nWarps with power beyond human understanding",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0597",
+   "en": "Medium-Caliber Charged Particle Beam Cannon\nBeam cannon mounted atop the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0598",
+   "en": "Close-Combat Small Homing Missile\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "review: Same description line as 9 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0599",
+   "en": "Close-Combat Large Multi-Warhead Missile\nMissiles that cause a huge blast on impact",
+   "flags": [],
+   "notes": "review: Same description line as 3 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0600",
+   "en": "Small-Caliber Anti-Air Laser Machine Gun\nAnti-air machine gun mounted on the back of the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0601",
+   "en": "Large-Caliber Impact Cannon\nImpact cannons mounted on both hands",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0602",
+   "en": "Long-Range Charged Particle Beam Cannon\nBeam cannon mounted atop the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0603",
+   "en": "Close-Combat Homing Missile\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0604",
+   "en": "Small-Caliber Anti-Personnel Laser Machine Gun\nAnti-personnel machine gun mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0605",
+   "en": "Small Laser Machine Pistol\nPistol used by the Zentradi forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0606",
+   "en": "Large-Caliber Mid-Range Fluid Plasma Cannon\nPlasma cannon mounted on the right shoulder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0607",
+   "en": "Medium-Caliber Rapid-Fire Impact Cannon\nCannon mounted on the chest",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0608",
+   "en": "Hand Grenade\nThrows a hand grenade",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0609",
+   "en": "Call Allies\nCalls in Nousjadeul-Ger units",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0610",
+   "en": "High-Speed Rotary 3-Barrel Laser Pulse Gun\nLaser gun mounted on the arm",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0611",
+   "en": "Close-Range Small High-Mobility Missile (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "review: Same description line as 9 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0612",
+   "en": "Close-Range Small High-Mobility Missile (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0613",
+   "en": "Laser Machine Pistol (Machine Gun)\nPistol used by the Zentradi forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0614",
+   "en": "Laser Machine Pistol (Laser)\nPistol used by the Zentradi forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0615",
+   "en": "Net Gun\nCaptures the target with a net gun",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0616",
+   "en": "Call Allies\nCalls in Zentradi soldiers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0617",
+   "en": "Quamzin Magic\nCalls in underlings of the Quamzin family",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0618",
+   "en": "Soldier Charge\nCan send Zentradi soldiers charging at several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0619",
+   "en": "Pipe Throw\nThrows a pipe",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0620",
+   "en": "Soldier Charge\nCan send soldiers charging at several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0621",
+   "en": "Tentacle Attack\nExtends tentacles to attack the enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0622",
+   "en": "Multi-Tentacle Attack\nTentacles that can attack several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0623",
+   "en": "Omnidirectional Tentacle Attack\nTentacles that attack in every direction",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0624",
+   "en": "Melee\nPerforms a melee attack with tentacles",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0625",
+   "en": "Gun Pod\nStandard main armament",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0626",
+   "en": "Spiritia Absorption Device\nAbsorbs the target's Spiritia (life force)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0627",
+   "en": "Flash Grenade\nA flash grenade that blinds the target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0628",
+   "en": "Laser Gun\nLaser guns mounted on both shoulders",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0629",
+   "en": "Flamethrower\nAttacks with a flamethrower",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0630",
+   "en": "Twin Swivel Heavy Autocannon\nAutocannons mounted on both shoulders",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0631",
+   "en": "Built-In Pulse Beam Cannon\nBeam cannons mounted on both hands",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0632",
+   "en": "Anti-Air Beam Cannon\nBeam cannons mounted on both shoulders",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0633",
+   "en": "Spiritia Spark Cannon\nAbsorbs the target's Spiritia (life force)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0634",
+   "en": "Pentacle Beam\nA powerful beam fired from a pentagram",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0635",
+   "en": "Head Beam\nA beam fired from the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0636",
+   "en": "Pulse Wave\nA shockwave released from its entire body",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hadou rendered 'Pulse Wave'."
+  },
+  {
+   "id": "u0637",
+   "en": "Spiritia Absorption Beam (Large)\nA beam that absorbs a large amount of Spiritia",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0638",
+   "en": "Spiritia Absorption Beam (Multi)\nFires Spiritia absorption beams from its entire body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0639",
+   "en": "Black Hole\nA black hole that swallows everything",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0640",
+   "en": "Spiritia Absorption\nAbsorbs the target's Spiritia (life force)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0641",
+   "en": "Large-Caliber Beam Cannon\nBeam cannon mounted on the left shoulder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0642",
+   "en": "Medium-Caliber Rapid-Fire Impact Cannon\nCannon mounted on the chest",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0643",
+   "en": "Machine Gun\nMachine gun built into the body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0644",
+   "en": "Missile Vajra\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0645",
+   "en": "Impact Ram\nA powerful laser fired from the top of the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0646",
+   "en": "Call Allies\nCalls in Vajra (S)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0647",
+   "en": "Body Slam\nRams into the target with its body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0648",
+   "en": "Glue Trap\nCaptures the target with sticky glue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Torimochi (birdlime) rendered as a glue trap."
+  },
+  {
+   "id": "u0649",
+   "en": "Close-In Defense Micro-Missile Phalanx\nRapid-fire missiles that create a huge blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0650",
+   "en": "Claw\nAttacks with the claws on both hands",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0651",
+   "en": "Small Missile (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "review: Same description line as 9 other weapon rows; unified to the majority wording."
+  },
+  {
+   "id": "u0652",
+   "en": "Small Missile (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0653",
+   "en": "Call Allies\nCalls in Gigamesh units",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0654",
+   "en": "Feelings for Mardook\nFeelings for Mardook raise attack power",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0655",
+   "en": "20mm Gatling Gun\nGatling gun mounted on the TYPE-14",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0656",
+   "en": "Air-to-Air Missile\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0657",
+   "en": "30mm Autocannon\nAutocannon mounted on the TYPE-29",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0658",
+   "en": "V Formation\nCalls allies to fly in a V formation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0659",
+   "en": "Laser Cannon\nLaser cannon mounted on the front",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0660",
+   "en": "Long-Range High-Maneuver Missile (Rapid/Blast)\nRapid-fire missiles that create a huge blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0661",
+   "en": "Long-Range High-Maneuver Missile (Multi/Blast)\nMulti-lock. Missiles that cause a huge blast on impact",
+   "flags": [],
+   "notes": "review: Same description line as u0475 (and the Multi-lock pattern used in 6 rows); unified."
+  },
+  {
+   "id": "u0662",
+   "en": "Hyper Speed Move\nMoves faster than the eye can follow",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0663",
+   "en": "The U.N. Forces' main fighter\nSpecialized for air defense",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0664",
+   "en": "Full Salvo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0665",
+   "en": "Cheyenne",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0666",
+   "en": "Prototype Destroid of the MDR-04\nUsed as anti-air weaponry on the carrier Asuka",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Source says MDR-04 (likely a slip for ADR-04 Defender); kept as written. Carrier Asuka not in glossary (only Asuka II)."
+  },
+  {
+   "id": "u0667",
+   "en": "Two-seat VF-1 prototype variable fighter\nUpgraded attack and electronic warfare abilities",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0668",
+   "en": "Standard VF-1 prototype variable fighter\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0669",
+   "en": "Melee Combo (Transform)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0670",
+   "en": "VF-0S (Roy)",
+   "flags": [],
+   "notes": "Pilot suffix convention: (Roy) for Focker's personal unit."
+  },
+  {
+   "id": "u0671",
+   "en": "Commander's VF-1 prototype variable fighter\nRoy Focker's unit, marked with his skull trademark",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0672",
+   "en": "Full Salvo (Transform)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0673",
+   "en": "Prototype Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0674",
+   "en": "Prototype Destroid of the Monster\nHas four cannons that can load reaction weapons",
+   "flags": [],
+   "notes": "review: terms.json: this term = reaction weapon."
+  },
+  {
+   "id": "u0675",
+   "en": "Reaction Weapon Launch",
+   "flags": [],
+   "notes": "review: terms.json: this term = reaction weapon."
+  },
+  {
+   "id": "u0676",
+   "en": "The Anti-U.N. Forces' main fighter\nExcels in local combat",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0677",
+   "en": "Variable fighter developed by the Anti-U.N. Forces\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0678",
+   "en": "SV-51γ (Nora)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0679",
+   "en": "Variable fighter developed by the Anti-U.N. Forces\nNora's unit, with magenta as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0680",
+   "en": "Fuel-Air Bomb Drop",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0681",
+   "en": "SV-51γ (Ivanov)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0682",
+   "en": "Variable fighter developed by the Anti-U.N. Forces\nIvanov's unit, with black as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0683",
+   "en": "Melee + Full Salvo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0684",
+   "en": "Octos",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0685",
+   "en": "Amphibious Destroid developed by the Anti-U.N. Forces\nBeing amphibious, it can be deployed in many roles",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0686",
+   "en": "A god of legend on Mayan Island\nSaid to make the song of destruction roar across the world",
+   "flags": [],
+   "notes": "Bird Human description. 'song of ruin' = horobi no uta; no glossary term. | review: Same term as mission title u0156 and skill u3164 (Song of Destruction); was song of ruin."
+  },
+  {
+   "id": "u0687",
+   "en": "Super Shot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0688",
+   "en": "Defender",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0689",
+   "en": "Anti-air interceptor Destroid\nUsed as the Macross's anti-air weaponry",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0690",
+   "en": "Spinning Super Shot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0691",
+   "en": "Spartan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0692",
+   "en": "Close-combat Destroid\nHeavily armored and highly mobile",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0693",
+   "en": "Spartan DX",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0694",
+   "en": "Phalanx",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0695",
+   "en": "Close-in air defense Destroid for space\nExcels at short-range attacks",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0696",
+   "en": "Tomahawk",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0697",
+   "en": "Heavy artillery Destroid\nFront-mounted weapons excel at focused fire",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0698",
+   "en": "Super Flamethrower",
+   "flags": [],
+   "notes": "Source has a trailing full-width space; dropped."
+  },
+  {
+   "id": "u0699",
+   "en": "Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0700",
+   "en": "Ultra-long-range artillery Destroid\nPoor mobility, but tremendous firepower",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0701",
+   "en": "Two-seat Valkyrie built for training\nA trainer, but also capable of real combat",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0702",
+   "en": "Melee Combo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0703",
+   "en": "Standard mass-produced Valkyrie of the VF-1 series\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0704",
+   "en": "VF-1A (Max)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0705",
+   "en": "Standard mass-produced Valkyrie of the VF-1 series\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0706",
+   "en": "Triple Clone",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0707",
+   "en": "VF-1J (Hikaru)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0708",
+   "en": "Valkyrie with upgraded weapons over the VF-1A\nHikaru's unit, the hero mecha of Macross",
+   "flags": [],
+   "notes": "Literally 'Hikaru's unit, which is practically the hero mecha of Macross'."
+  },
+  {
+   "id": "u0709",
+   "en": "VF-1J (Max)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0710",
+   "en": "Valkyrie with upgraded weapons over the VF-1A\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0711",
+   "en": "Hyper Speed",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0712",
+   "en": "VF-1J (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0713",
+   "en": "Valkyrie with upgraded weapons over the VF-1A\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0714",
+   "en": "Double Full Salvo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0715",
+   "en": "VF-1S Roy Focker Special",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source abbreviates to 'RF Special'; expanded per mecha.json. Fallback if too wide: 'VF-1S RF Special'."
+  },
+  {
+   "id": "u0716",
+   "en": "High-performance commander's Valkyrie\nThe Skull Leader's unit, marked with a skull trademark",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0717",
+   "en": "Macross Daedalus Type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0718",
+   "en": "Super Dimension Fortress rebuilt from a giant space battleship\nThe Daedalus and Prometheus are attached as its arms",
+   "flags": [],
+   "notes": "Daedalus and Prometheus are ships attached as the arms."
+  },
+  {
+   "id": "u0719",
+   "en": "Macross Cannon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0720",
+   "en": "Two-seat Valkyrie built for training\nEquipped with a FAST Pack made for the VT-1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0721",
+   "en": "Minmay Date",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0722",
+   "en": "VF-1A (Hikaru)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0723",
+   "en": "Standard mass-produced Valkyrie of the VF-1 series\nHikaru's unit, with red as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0724",
+   "en": "Squadron Full Salvo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0725",
+   "en": "VF-1S (Hikaru)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0726",
+   "en": "High-performance commander's Valkyrie\nHikaru's unit, with red as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0727",
+   "en": "VF-1S (Max)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0728",
+   "en": "High-performance commander's Valkyrie\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0729",
+   "en": "Variable fighter that fixed the VF-1's flaws\nHikaru flew it as a VF-4 squadron leader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0730",
+   "en": "Macross Armored Type",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "mecha.json entry is needs_check."
+  },
+  {
+   "id": "u0731",
+   "en": "Super Dimension Fortress rebuilt from a giant space battleship\nARMD-01 and ARMD-02 are attached as its arms",
+   "flags": [],
+   "notes": "ARMD per the glossary alias for the ARMD-class carriers."
+  },
+  {
+   "id": "u0732",
+   "en": "Regult",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0733",
+   "en": "The Zentradi forces' main battle pod\nSimple in design and easy to field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0734",
+   "en": "Glaug",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0735",
+   "en": "Battle pod developed from collected combat data\nHigh-performance unit that excels in melee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0736",
+   "en": "Nousjadeul-Ger",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0737",
+   "en": "Zentradi forces powered suit (TV version)\nExcellent firepower, agility and mobility",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0738",
+   "en": "Zentradi forces powered suit (movie version)\nExcellent firepower, agility and mobility",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0739",
+   "en": "Queadluun-Rau",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0589: Heavy Quantum Reaction Cannon (not in glossary).",
+   "u0666: source MDR-04 kept as written; carrier Asuka not in glossary.",
+   "u0715: RF Special expanded to Roy Focker Special.",
+   "u0730: Macross Armored Type follows a needs_check glossary entry.",
+   "u0591, u0636, u0648: coined skill names (Ghost Kamikaze, Pulse Wave, Glue Trap)."
+  ],
+  "missing_glossary": [
+   "Heavy Quantum Reaction Cannon (juuryoushi hannouhou)",
+   "carrier Asuka (Macross Zero)",
+   "Gun Cluster, Pentacle Beam, Impact Ram, Missile Vajra, Spiritia Spark Cannon",
+   "Quamzin Magic (Quamzin family per dialogue)"
+  ],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,541 @@
+{
+ "slice": 128,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_klm_360",
+   "en": "You're not cut out to be a pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_361",
+   "en": "You need to try a lot harder.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_362",
+   "en": "Looks like it ended by some miracle. Good grief.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_363",
+   "en": "Good work. Let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_364",
+   "en": "Glad it ended without trouble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_365",
+   "en": "You weren't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_366",
+   "en": "Pretty good for a Micronian woman!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Line names the partner as a woman; kept literal (partner gender varies in game)"
+  },
+  {
+   "id": "vpf_klm_367",
+   "en": "I'm counting on you next time, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_368",
+   "en": "You're in good form. I'm impressed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_369",
+   "en": "Come on, back home quick, then shopping!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_370",
+   "en": "To think a Micronian worthy of being my partner exists.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_371",
+   "en": "You're quite a dependable pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_600",
+   "en": "Respond if you can hear me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_601",
+   "en": "Here, take it, Alto! Your fighter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_602",
+   "en": "Michel, give me strength!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_klm_603",
+   "en": "For our future!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Verb dropped in source; likely protect/open our future"
+  },
+  {
+   "id": "vpf_klm_604",
+   "en": "Alto! I'm entrusting it to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_000",
+   "en": "Klan Klang, launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_001",
+   "en": "Preparations are done. I can launch anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_002",
+   "en": "Well, time to head out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_003",
+   "en": "Futile!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_004",
+   "en": "How dull.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_005",
+   "en": "Can't hit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_006",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle"
+   ],
+   "notes": "Heard deburamu; unintelligible damage shout"
+  },
+  {
+   "id": "vpf_kln_007",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle"
+   ],
+   "notes": "Low-confidence short phrase, maybe kore de wa; too short to subtitle"
+  },
+  {
+   "id": "vpf_kln_008",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt"
+  },
+  {
+   "id": "vpf_kln_010",
+   "en": "Go!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard gousuto (ghost); likely a short attack shout such as go"
+  },
+  {
+   "id": "vpf_kln_011",
+   "en": "One more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_012",
+   "en": "What a piece of work!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Context M7_440 unclear"
+  },
+  {
+   "id": "vpf_kln_013",
+   "en": "Direct hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_014",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_015",
+   "en": "",
+   "flags": [
+    "whisper_doubt",
+    "no_subtitle"
+   ],
+   "notes": "Heard shin; low confidence, possibly shine (die) or a name; too short to be sure"
+  },
+  {
+   "id": "vpf_kln_016",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_017",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_018",
+   "en": "Got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_019",
+   "en": "This one too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_020",
+   "en": "One more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_100",
+   "en": "Beginning the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_101",
+   "en": "I'm going ahead!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_102",
+   "en": "Well, let's begin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_103",
+   "en": "I've got the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_104",
+   "en": "Bad luck, getting singled out by me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_105",
+   "en": "Wide open.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_106",
+   "en": "This is gonna hurt!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_107",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Battle yell only"
+  },
+  {
+   "id": "vpf_kln_108",
+   "en": "Get blown away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_109",
+   "en": "A fine target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_110",
+   "en": "You won't escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_111",
+   "en": "I'll shoot you down right here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_112",
+   "en": "You picked a fight with me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_113",
+   "en": "Weak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_114",
+   "en": "Of course I'd win.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_116",
+   "en": "I'll shoot that one down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_117",
+   "en": "That's it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_118",
+   "en": "Got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_119",
+   "en": "Yes! Target destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_120",
+   "en": "That'll do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_121",
+   "en": "To think the shield got destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_122",
+   "en": "Tch! The shield's gone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_123",
+   "en": "You can have the shield, then!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has katakana kurai (as much as) for kurai; sense read as: you can have the shield"
+  },
+  {
+   "id": "vpf_kln_124",
+   "en": "I'm built tough. No problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_126",
+   "en": "Still plenty left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_127",
+   "en": "Took too much damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_128",
+   "en": "The fight isn't over yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_129",
+   "en": "Not bad at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_132",
+   "en": "Too big a handicap?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_133",
+   "en": "It should still move! Then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_134",
+   "en": "What a state... How pathetic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_135",
+   "en": "Getting cocky, are you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_136",
+   "en": "Monster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_138",
+   "en": "Michel!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard misairu (missile); slot is calling a loved one when shot down, so read as Michel"
+  },
+  {
+   "id": "vpf_kln_140",
+   "en": "Calm down, you fool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_143",
+   "en": "That idiot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_144",
+   "en": "More training is clearly needed.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Subject (the downed ally) not stated"
+  },
+  {
+   "id": "vpf_kln_148",
+   "en": "Reinforcements? Thanks!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_149",
+   "en": "You're late, but thanks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_150",
+   "en": "I'll ride this momentum!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_151",
+   "en": "How frustrating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_152",
+   "en": "To think we let it happen so easily.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_kln_153",
+   "en": "It's been destroyed...",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Subject not stated"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 10167: Line names the partner as a woman; kept literal (partner gender varies in game)",
+   "row 10176: Verb dropped in source; likely protect/open our future",
+   "row 10187: Heard gousuto (ghost); likely a short attack shout such as go",
+   "row 10189: Context M7_440 unclear",
+   "row 10231: Heard misairu (missile); slot is calling a loved one when shot down, so read as Michel"
+  ],
+  "whisper_doubt": [
+   "row 10184: Heard deburamu; unintelligible damage shout",
+   "row 10185: Low-confidence short phrase, maybe kore de wa; too short to subtitle",
+   "row 10187: Heard gousuto (ghost); likely a short attack shout such as go",
+   "row 10192: Heard shin; low confidence, possibly shine (die) or a name; too short to be sure",
+   "row 10220: Transcript has katakana kurai (as much as) for kurai; sense read as: you can have the shield",
+   "row 10231: Heard misairu (missile); slot is calling a loved one when shot down, so read as Michel"
+  ],
+  "kept_omission": [
+   "row 10234: Subject (the downed ally) not stated",
+   "row 10240: Subject not stated"
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

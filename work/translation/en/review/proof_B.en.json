@@ -1,0 +1,34 @@
+{
+ "fixes": [
+  {
+   "row": 401,
+   "en": "A vanguard craft has reported to Battle 7 that it is under surprise attack by an unidentified force.\\nAnnihilate the unidentified craft to keep them from getting any closer to the Macross 7 fleet.",
+   "why": "Referent: in the old wording 'it' could be read as Battle 7; the source says the vanguard craft is the one under attack."
+  },
+  {
+   "row": 403,
+   "en": "A vanguard craft has reported to Battle 7 that it is under surprise attack by an unidentified force.\\nAnnihilate the unidentified craft to keep them from getting any closer to the Macross 7 fleet.",
+   "why": "Referent: in the old wording 'it' could be read as Battle 7; the source says the vanguard craft is the one under attack."
+  },
+  {
+   "row": 567,
+   "en": "Basara: \"From here on, it's time for a red-hot live show. We're gonna slam our hearts right into you!\\n         So let's go big and flashy! Get wild and FIRE!\"",
+   "why": "'Go out with a bang' means to finish spectacularly; the source line opens the show (let's go flashy), it does not end anything."
+  },
+  {
+   "row": 571,
+   "en": "The enemy is trying to overwhelm us with sheer numbers. Teach them that in battle, \"quality\" beats\\n\"quantity\": sweep away the horde of small fry that has appeared in the wasteland at once.",
+   "why": "Source describes a brute-numbers strategy; 'war of attrition' (a long wearing-down fight) is added meaning not in the source."
+  },
+  {
+   "row": 573,
+   "en": "The enemy is trying to overwhelm us with sheer numbers. Teach them that in battle, \"quality\" beats\\n\"quantity\": sweep away the horde of small fry that has appeared in the wasteland at once.",
+   "why": "Source describes a brute-numbers strategy; 'war of attrition' (a long wearing-down fight) is added meaning not in the source."
+  },
+  {
+   "row": 641,
+   "en": "Ranka: \"Sheryl and I are going to show you how to fly in Real Flight Mode!\"\\nSheryl: \"You don't get service like this very often, so be grateful.\"",
+   "why": "Glossary term is 'Real Flight Mode' (also used in objective row 640)."
+  }
+ ]
+}

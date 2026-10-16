@@ -1,0 +1,24 @@
+{
+ "fixes": [
+  {
+   "id": "u0746",
+   "en": "All-Forces Charge",
+   "why": "Mistranslation: the name means the whole army charges, not an 'all-out' charge; also aligns with the sister SP attack u0747 'All-Forces Full Salvo' (same term)."
+  },
+  {
+   "id": "u1011",
+   "en": "An elite U.N. Forces officer serving as chief combat controller of the\nMacross air wing. A by-the-book stickler whom Hikaru treated as an\n\"old lady\", she gradually comes to love him. (CV: Mika Doi)",
+   "why": "Wrong referent: the dangling modifier made Hikaru the by-the-book stickler; the source describes Misa."
+  },
+  {
+   "id": "u2282",
+   "en": "\nStart wireless play with this many players.\nAre you sure?",
+   "why": "Consistency: the same term is rendered 'wireless play' in all 7 other scope rows (u0992, u1075, u1084, u1151-u1155) and in u3038 outside the scope."
+  },
+  {
+   "id": "u2298",
+   "en": "Player %d has left, so\nwireless play will now end.",
+   "why": "Consistency: same term as above, majority form 'wireless play'."
+  }
+ ]
+}

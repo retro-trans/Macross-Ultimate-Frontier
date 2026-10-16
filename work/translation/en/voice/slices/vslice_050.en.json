@@ -1,0 +1,532 @@
+{
+ "slice": 50,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of2_3327",
+   "en": "VF-2SS Valkyrie II, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3327",
+   "en": "VF-2SS Valkyrie II, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3327",
+   "en": "VF-2SS Valkyrie II, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3328",
+   "en": "Gigamesh, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3328",
+   "en": "Gigamesh, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3328",
+   "en": "Gigamesh, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3328",
+   "en": "Gigamesh, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3328",
+   "en": "Gigamesh, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3329",
+   "en": "VF-9 Cutlass, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3329",
+   "en": "VF-9 Cutlass, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3329",
+   "en": "VF-9 Cutlass, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3329",
+   "en": "VF-9 Cutlass, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3329",
+   "en": "VF-9 Cutlass, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3330",
+   "en": "All units, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_3330",
+   "en": "All units, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_3330",
+   "en": "All units, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_3330",
+   "en": "All units, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_3330",
+   "en": "All units, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_3331",
+   "en": "VT-1 Valkyrie, please stand by for launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Audio says Valkyrie after VT-1; glossary calls the unit Super Ostrich."
+  },
+  {
+   "id": "vo0_of1_3331",
+   "en": "VT-1 Valkyrie, prepare to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Audio says Valkyrie after VT-1; glossary calls the unit Super Ostrich."
+  },
+  {
+   "id": "vo0_of2_3331",
+   "en": "VT-1 Valkyrie, get ready to launch!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Audio says Valkyrie after VT-1; glossary calls the unit Super Ostrich."
+  },
+  {
+   "id": "vo0_om0_3331",
+   "en": "VT-1 Valkyrie, stand by to launch!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Audio says Valkyrie after VT-1; glossary calls the unit Super Ostrich."
+  },
+  {
+   "id": "vos_mis_3331",
+   "en": "VT-1 Valkyrie, stand by for launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Audio says Valkyrie after VT-1; glossary calls the unit Super Ostrich."
+  },
+  {
+   "id": "vp0_om0_000",
+   "en": "Launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_000",
+   "en": "Heading out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_000",
+   "en": "Looks like today's mission will push us past the line!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'ichi-sen wo koe' (one battle); probably 'ichi-sen' as in crossing the line."
+  },
+  {
+   "id": "vp0_of0_000",
+   "en": "Launching now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_000",
+   "en": "I'm off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_000",
+   "en": "All right! Let's get out there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_001",
+   "en": "Launch prep complete. Heading out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_001",
+   "en": "All set! Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_001",
+   "en": "It's not just the machine. I'm in top condition too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_001",
+   "en": "Launch prep complete. Heading out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_001",
+   "en": "Launch prep complete. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_001",
+   "en": "Me and my machine are all set! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_002",
+   "en": "I should be able to do this too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_002",
+   "en": "Just leave it to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_002",
+   "en": "My tension's through the roof! This is fun, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_002",
+   "en": "I should be able to do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_002",
+   "en": "Same as always.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_002",
+   "en": "All right! Gonna give it my all today too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_003",
+   "en": "I won't let you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_003",
+   "en": "Like hell it'll hit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_003",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Short grunt."
+  },
+  {
+   "id": "vp0_of0_003",
+   "en": "I won't allow it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_003",
+   "en": "Not good enough!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_003",
+   "en": "Hup!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_004",
+   "en": "Close one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_004",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_004",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vp0_of0_004",
+   "en": "Can't hit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_004",
+   "en": "Don't mock me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_004",
+   "en": "I see you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_005",
+   "en": "Take that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_005",
+   "en": "Too easy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_005",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Blowing breath; Whisper repeated a syllable."
+  },
+  {
+   "id": "vp0_of0_005",
+   "en": "Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_005",
+   "en": "Laughable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_005",
+   "en": "Yep!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_006",
+   "en": "D-damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_006",
+   "en": "My bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_006",
+   "en": "Now I'm fired up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vp0_of1_006",
+   "en": "Nice attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_006",
+   "en": "Yikes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_007",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Effort shout."
+  },
+  {
+   "id": "vp0_om1_007",
+   "en": "Damn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_007",
+   "en": "My switch just flipped!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_007",
+   "en": "Geez!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of1_007",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Light giggle."
+  },
+  {
+   "id": "vp0_of2_007",
+   "en": "Ah, incoming fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_008",
+   "en": "What!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om1_008",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_008",
+   "en": "That's a really nasty attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of0_008",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper produced a string of glossary words (hallucination); the clip is a short exclamation."
+  },
+  {
+   "id": "vp0_of1_008",
+   "en": "How could I...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_of2_008",
+   "en": "I let my guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om0_009",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Shouting; Whisper repeated a vowel."
+  },
+  {
+   "id": "vp0_om1_009",
+   "en": "Finish it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp0_om2_009",
+   "en": "Save it for your dreams!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3939: Audio says Valkyrie after VT-1; glossary calls the unit Super Ostrich.",
+   "row 3940: Audio says Valkyrie after VT-1; glossary calls the unit Super Ostrich.",
+   "row 3941: Audio says Valkyrie after VT-1; glossary calls the unit Super Ostrich.",
+   "row 3942: Audio says Valkyrie after VT-1; glossary calls the unit Super Ostrich.",
+   "row 3943: Audio says Valkyrie after VT-1; glossary calls the unit Super Ostrich."
+  ],
+  "whisper_doubt": [
+   "row 3946: Heard 'ichi-sen wo koe' (one battle); probably 'ichi-sen' as in crossing the line.",
+   "row 3995: Whisper produced a string of glossary words (hallucination); the clip is a short exclamation."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,524 @@
+{
+ "slice": 142,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_she_805",
+   "en": "Press the Cross button to jump.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_806",
+   "en": "Press the Cross button twice quickly and keep holding it to boost downward and lose altitude.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"kakou boost\" (processing boost); read as \"kakou boost\" (descent boost), as in rnk_822."
+  },
+  {
+   "id": "vpf_she_807",
+   "en": "And you can dash even while jumping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_808",
+   "en": "Press down on the analog stick to transform into Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_809",
+   "en": "That's the basic Battroid controls. You can't transform out of Battroid mode here, so be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_810",
+   "en": "I went out of my way to explain this, so make good use of it. Now train in Battroid mode however you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_811",
+   "en": "Training ends when you reach the target area or time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_812",
+   "en": "You reached the target area. That's the end of Battroid control training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_813",
+   "en": "Time's up. That's the end of Battroid control training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_814",
+   "en": "I'll explain the basics of shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_815",
+   "en": "And as always, the controller settings are reset to default during training. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_816",
+   "en": "Quickly press and release the R button to lock on to an enemy. First, choose your target.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard the kanji for \"talk\" (hanasu) for \"release\" (hanasu)."
+  },
+  {
+   "id": "vpf_she_817",
+   "en": "While locked on, quickly press and release the R button again to switch the lock to another enemy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same \"hanasu\" kanji slip as she_816."
+  },
+  {
+   "id": "vpf_she_818",
+   "en": "Lock on while pressing up on the D-pad to switch the lock to enemy warships or enemy aces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_819",
+   "en": "Lock on while pressing down on the D-pad to switch the lock to containers or switches.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_820",
+   "en": "Press the L and R buttons together to release the lock-on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_821",
+   "en": "The Square button attacks the locked-on enemy with your main weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_822",
+   "en": "The Circle button attacks the locked-on enemy with your special weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_823",
+   "en": "If your machine has several special weapons, hold the L button and press Square to switch between them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_824",
+   "en": "Some special weapons are capable of multi-lock-on, locking on to several enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_825",
+   "en": "For multi-lock-on, hold the Circle button to lock on to several enemies within range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_826",
+   "en": "If you release the Circle button during multi-lock-on, you attack every enemy locked at that moment with your special weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_827",
+   "en": "While the locked-on enemy is in front of you, your lock-on level rises.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_828",
+   "en": "Shooting with a raised lock-on level gives bonuses to attack power and accuracy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_829",
+   "en": "The shooting attacks I just explained use the same controls in Fighter, Battroid and GERWALK modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_830",
+   "en": "That's the basics of shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_831",
+   "en": "Training ends when you reach the target area or time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_832",
+   "en": "You reached the target area. That's the end of shooting training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_833",
+   "en": "Time's up. That's the end of shooting training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_834",
+   "en": "I'll explain Special Maneuvers 1.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_835",
+   "en": "This line again? Anyway, as always, the controller settings reset to default.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_836",
+   "en": "In Fighter mode, hold the R button while locked on to turn so the enemy is in front of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_837",
+   "en": "In Battroid mode, hold the L button to guard. Guarding reduces damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_838",
+   "en": "Guarding resets the camera angle to face forward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_839",
+   "en": "While guarding, press up, left or right on the D-pad to move as you guard.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a typo kanji (\"houkou ki\" for \"houkou kii\", D-pad); meaning clear."
+  },
+  {
+   "id": "vpf_she_840",
+   "en": "You can step and dash while moving in guard too. Your guard drops during that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_841",
+   "en": "In GERWALK mode, hold the L button to hover and stay in place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_842",
+   "en": "While hovering, press left or right on the D-pad to move sideways while still facing forward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_843",
+   "en": "Of course, you can step and dash while moving sideways too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_844",
+   "en": "In Battroid and GERWALK modes, press the Cross button right after taking a down attack to avoid going down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_845",
+   "en": "Even if you go down, mash the Cross button to recover from the down state faster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_846",
+   "en": "When both units are present, you can use tactical commands with the Select button and D-pad combinations.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "\"Both units\" (ryouki) read as both allied units; not confirmed."
+  },
+  {
+   "id": "vpf_she_847",
+   "en": "The tactical command on the D-pad's left orders both units to focus on melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_848",
+   "en": "The tactical command on the D-pad's right orders both units to focus on shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_849",
+   "en": "The tactical command on the D-pad's up orders both units to focus on defense.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_850",
+   "en": "The tactical command on the D-pad's down orders both units to perform Special Attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_851",
+   "en": "That's the basic Special Maneuvers 1 controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_853",
+   "en": "You reached the target area. That's the end of Special Maneuvers 1 training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_854",
+   "en": "Time's up. That's the end of Special Maneuvers 1 training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_855",
+   "en": "I'll explain container transport.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_856",
+   "en": "Well, as always, the controller settings reset to default.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_857",
+   "en": "Lock on to a container and approach it to pick it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_858",
+   "en": "You can only carry containers in GERWALK or Battroid mode, so be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_859",
+   "en": "Press the Square button to put the container down where you are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_860",
+   "en": "And you can't attack while carrying a container, so be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_861",
+   "en": "Pick up a container and you might get a special bonus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_862",
+   "en": "That's the explanation of container transport.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_863",
+   "en": "Training ends when you bring containers to the designated spot, reach the target area, or time runs out.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"kontana\" (typo) for \"kontena\" (container)."
+  },
+  {
+   "id": "vpf_she_864",
+   "en": "All containers have been collected. That's the end of container transport training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_865",
+   "en": "You reached the target area. That's the end of container transport training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_866",
+   "en": "Time's up. That's the end of container transport training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_867",
+   "en": "I'm Sheryl Nome, and...",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Cut short."
+  },
+  {
+   "id": "vpf_she_868",
+   "en": "First, the Real Flight controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_869",
+   "en": "That's right. It's a bit hard, but master it and you'll fly cooler than ever.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_870",
+   "en": "Up on the D-pad pitches down, down on the D-pad pitches up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_871",
+   "en": "Hold the L button and press left or right on the D-pad to yaw.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_872",
+   "en": "Press the D-pad up, left or right twice quickly in the same direction to roll that way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_873",
+   "en": "Hold the Triangle button to brake and slow down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_874",
+   "en": "That's the basic Real Flight controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_875",
+   "en": "In that case, switch to another mode and rest for a bit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard \"keitai\" (mobile phone); read as \"keitai\" (form/mode, other kanji)."
+  },
+  {
+   "id": "vpf_she_877",
+   "en": "Ranka, what's the next explanation?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_878",
+   "en": "Then listen to our explanation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_879",
+   "en": "In Normal Flight Fighter mode, hold the R button while locked on to an enemy to turn so the enemy is in front of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_880",
+   "en": "Press the Circle and Cross buttons together to spend a set number of blocks and use a Support Skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_881",
+   "en": "Press the Circle and Cross buttons together to spend a set number of blocks and use a Command Skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_882",
+   "en": "That's right. You can set me or Ranka as support too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_883",
+   "en": "Then I'll support Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_884",
+   "en": "Lock on to both downed units and approach to revive them both.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "\"Both units\" (ryouki) of the downed allies; same reading as rnk_879."
+  },
+  {
+   "id": "vpf_she_885",
+   "en": "That's the new Special Maneuvers and the changed controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_she_886",
+   "en": "Pay attention to the new Special Maneuvers too. Being able to lock on to enemy aces right away is a nice feature.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "vpf_she_846: \"Both units\" (ryouki) read as both allied units; not confirmed.",
+   "vpf_she_884: \"Both units\" (ryouki) of the downed allies; same reading as rnk_879."
+  ],
+  "whisper_doubt": [
+   "vpf_she_806: Heard \"kakou boost\" (processing boost); read as \"kakou boost\" (descent boost), as in rnk_822.",
+   "vpf_she_816: Heard the kanji for \"talk\" (hanasu) for \"release\" (hanasu).",
+   "vpf_she_817: Same \"hanasu\" kanji slip as she_816.",
+   "vpf_she_839: Transcript has a typo kanji (\"houkou ki\" for \"houkou kii\", D-pad); meaning clear.",
+   "vpf_she_863: Heard \"kontana\" (typo) for \"kontena\" (container).",
+   "vpf_she_875: Heard \"keitai\" (mobile phone); read as \"keitai\" (form/mode, other kanji)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": [
+   "vpf_she_867: Cut short."
+  ]
+ }
+}

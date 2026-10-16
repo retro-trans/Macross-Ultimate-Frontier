@@ -1,0 +1,518 @@
+{
+ "slice": 3,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "eboot:391AF8",
+   "en": "Recognized by the Vajra through Ranka, Sheryl",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391B2C",
+   "en": "was at last freed from the grip of the V-type virus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391B54",
+   "en": "Sheryl and Ranka sang, each striving to outdo the other.",
+   "flags": [],
+   "notes": "Source is present tense; narration put in past tense per brief."
+  },
+  {
+   "id": "eboot:391B78",
+   "en": "Their song gave strength to a renewed counterattack against Grace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391BA8",
+   "en": "What's more, the power of Ranka and Sheryl's songs",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391BCC",
+   "en": "even freed the Vajra that Grace had held under her control.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391BFC",
+   "en": "The Vajra and humanity formed a united front and stood against Grace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391C34",
+   "en": "Faced with that power, Grace was no longer any match for them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391C64",
+   "en": "Grace's ambition to rule the galaxy by exploiting both the Vajra and humanity",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391CA4",
+   "en": "was thus shattered.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391CBC",
+   "en": "Their battle over, the Frontier fleet set down on the Vajra homeworld.",
+   "flags": [],
+   "notes": "Home planet rendered with glossary term 'Vajra homeworld'."
+  },
+  {
+   "id": "eboot:391CFC",
+   "en": "Humanity and the Vajra: utterly different life-forms that never got along.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source is a verbless noun-phrase sentence (utterly different ecologies, never compatible); kept as a fragment in narration style. | review: Tense/meaning: source is past ('had never been compatible'); timeless 'never able to coexist' contradicts row 174, where they coexist. | review: refit: 'had never been able to get along' -> 'never got along'"
+  },
+  {
+   "id": "eboot:391D40",
+   "en": "And yet it turned out they could understand one another.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391D6C",
+   "en": "And so a new world was born, where the Vajra and humanity live side by side...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391DFC",
+   "en": "Revived after absorbing Sara, the Bird Human used its overwhelming might",
+   "flags": [],
+   "notes": "review: rebalance: takes 'overwhelming might' from row 176"
+  },
+  {
+   "id": "eboot:391E24",
+   "en": "to wreak utter destruction, bent on wiping out a humanity that kept fighting.",
+   "flags": [],
+   "notes": "review: rebalance/refit: restructured after moving the might clause to row 175"
+  },
+  {
+   "id": "eboot:391E64",
+   "en": "In that hopeless situation, Shin's voice managed to awaken Sara's heart.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391EA8",
+   "en": "But Operation Iconoclasm had already been set in motion.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:391EE8",
+   "en": "Reaction weapons flew to destroy the Bird Human, deemed uncontrollable.",
+   "flags": [],
+   "notes": "review: refit: 'now judged to be beyond control' -> 'out-of-control' (the 'judged' nuance is lost) | review: keep \"deemed uncontrollable\""
+  },
+  {
+   "id": "eboot:391F30",
+   "en": "To protect Earth, Mayan Island, and above all Shin, Sara flew off into space,",
+   "flags": [],
+   "notes": "Sara is the subject of row 180 in the source; kept her name in this row. | review: rebalance: takes 'flew off into space' from row 181"
+  },
+  {
+   "id": "eboot:391F70",
+   "en": "taking with her the reaction weapons she had sealed away with her own power.",
+   "flags": [],
+   "notes": "review: rebalance: 'flew off into space' moved to row 180"
+  },
+  {
+   "id": "eboot:391FAC",
+   "en": "Thus both ruin by the Bird Human and reaction-weapon fallout were averted.",
+   "flags": [],
+   "notes": "review: refit: 'annihilation' -> 'ruin'; 'contamination by the reaction weapons' -> 'reaction-weapon fallout'"
+  },
+  {
+   "id": "eboot:391FE8",
+   "en": "But Shin's fighter had lost all control and was simply plummeting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392024",
+   "en": "His ejection system had failed too, leaving him no way to escape.",
+   "flags": [],
+   "notes": "Shin is male per glossary."
+  },
+  {
+   "id": "eboot:392054",
+   "en": "Shin's fighter, which seemed certain to crash,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:39207C",
+   "en": "began to climb, wrapped in a mysterious light,",
+   "flags": [],
+   "notes": "review: rebalance: period -> comma so row 187 continues the sentence (one sentence in the source)"
+  },
+  {
+   "id": "eboot:3920A0",
+   "en": "watched by %s, %s and the islanders,",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rows 187-188 are an inverted trailing clause after the sentence ending in 186; restored the verb 'It rose' so the row reads as a sentence. Placeholders kept gender-neutral. | review: refit: 'It rose as ... looked on' -> 'watched by'; 'the people of Mayan Island' -> 'the islanders' (Mayan Island named in row 180)"
+  },
+  {
+   "id": "eboot:3920CC",
+   "en": "as if chasing after Sara, who had vanished into space...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392160",
+   "en": "Before the enemy's overwhelming strength, the Macross seemed helpless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392198",
+   "en": "But then, an unexpected ally appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3921C4",
+   "en": "Moved by Minmay's song, Vrlitwhai and a faction of the Zentradi forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392200",
+   "en": "had risen in revolt against Boddole Zer.",
+   "flags": [],
+   "notes": "Short form of Golg Boddole Zer, as the source uses the short form."
+  },
+  {
+   "id": "eboot:392220",
+   "en": "Refusing to let humanity be wiped out and its culture lost,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392250",
+   "en": "Vrlitwhai's forces covered the Macross as it drove on through space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392288",
+   "en": "Along the way, it cut down Zentradi soldiers left bewildered by Minmay's song.",
+   "flags": [],
+   "notes": "Source is a trailing fragment after 194; restored subject and verb."
+  },
+  {
+   "id": "eboot:3922C0",
+   "en": "At last, the Macross closed in on the heart of the Main Fleet,",
+   "flags": [],
+   "notes": "Verb 'closed in' placed in 196 for English word order; 197 keeps the fortress name, matching the source cut."
+  },
+  {
+   "id": "eboot:3922E0",
+   "en": "Boddole Zer's mobile fortress.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392304",
+   "en": "The only way for humanity to survive was to destroy the enemy's nerve center.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392340",
+   "en": "As the Macross launched its attack,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392360",
+   "en": "the Valkyries stormed into the mobile fortress.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:39238C",
+   "en": "The Main Fleet's commander and core unit of Boddole Zer's mobile fortress,",
+   "flags": [],
+   "notes": "review: refit: possessive; second 'the' dropped"
+  },
+  {
+   "id": "eboot:3923C8",
+   "en": "Golg Boddole Zer, was destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3923E8",
+   "en": "With its chain of command gone, the Main Fleet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392408",
+   "en": "no longer had the strength to attack the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392440",
+   "en": "And so the Space War, fierce beyond measure, came to an end.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says 'the interstellar war' with no ordinal; rendered 'the Space War' (glossary only has 'Space War I')."
+  },
+  {
+   "id": "eboot:39246C",
+   "en": "Leaving behind the legend of Minmay's song...",
+   "flags": [],
+   "notes": "Literally 'together with the legend of Minmay's song'."
+  },
+  {
+   "id": "eboot:3924F4",
+   "en": "The Galaxy Whale was struck by the poachers' reaction weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392520",
+   "en": "But the whale shrugged off the reaction weapon as if it were nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392550",
+   "en": "Seeing this, Basara began singing to the whale.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392578",
+   "en": "And then something unexpected happened.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392598",
+   "en": "The Galaxy Whale responded to Basara's song and let out a cry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3925CC",
+   "en": "Or rather, it began singing along with Basara's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392600",
+   "en": "Singing together with Basara, the Galaxy Whale",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392624",
+   "en": "absorbed tremendous energy and shook the ground of Zola.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:39265C",
+   "en": "It held a power that overwhelmed all who witnessed it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392690",
+   "en": "Eventually the whales vanished into the far reaches of the galaxy, still singing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3926CC",
+   "en": "And so the session that seemed like it might never end",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3926F0",
+   "en": "between Basara and the whales came to a close.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source noun for whale is unmarked for number; used plural to match row 216."
+  },
+  {
+   "id": "eboot:392724",
+   "en": "Thanks to the efforts of the Zolan Star Patrol, the poachers were swept away.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source just says 'the patrol unit'; mapped to glossary 'Zolan Star Patrol' (its ja form is marked unconfirmed)."
+  },
+  {
+   "id": "eboot:392750",
+   "en": "Satisfied after singing his heart out with the whales, Basara",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:392774",
+   "en": "left Zola behind and flew off to the far reaches of space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "eboot:3927A0",
+   "en": "Ahead of %s and %s, who had also left Zola,",
+   "flags": [],
+   "notes": "review: refit: leading 'And' dropped"
+  },
+  {
+   "id": "eboot:3927C8",
+   "en": "lay a certain space fleet bound for the center of the galaxy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MA_010:strMission",
+   "en": "Annihilate the enemy of the U.N. Forces:\\nthe Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MA_010:strStory",
+   "en": "Commencing the operation to wipe out the U.N.'s foe: the \"Anti-U.N. Forces.\"\\nAnnihilate the Anti-U.N. TYPE-29 fighter formation.",
+   "flags": [],
+   "notes": "Source sets the organization name in brackets; kept as quotation marks. | review: refit: \"U.N. Forces\" to \"U.N.'s\", \"enemy\" to \"foe\"; L2 drops repeated \"Forces'\""
+  },
+  {
+   "id": "mission_ext:MA_015:strMission",
+   "en": "Annihilate the enemy of the U.N. Forces:\\nthe Anti-U.N. Forces.",
+   "flags": [],
+   "notes": "Same text as row 224."
+  },
+  {
+   "id": "mission_ext:MA_015:strStory",
+   "en": "Commencing the operation to wipe out the U.N.'s foe: the \"Anti-U.N. Forces.\"\\nAnnihilate the Anti-U.N. TYPE-29 fighter formation.",
+   "flags": [],
+   "notes": "Same text as row 225. | review: refit: \"U.N. Forces\" to \"U.N.'s\", \"enemy\" to \"foe\"; L2 drops repeated \"Forces'\""
+  },
+  {
+   "id": "mission_ext:MA_020:strMission",
+   "en": "As part of conversion training for the VF-0,\\nengage in a mock battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MA_020:strStory",
+   "en": "The \"VF-0\": a variable fighter developed with the ASS-1's OverTechnology.\\nTo survive the battles ahead, you'll now undergo VF-0 conversion training.",
+   "flags": [],
+   "notes": "ASS-1 is not a glossary entry (only mentioned in notes); bare 'VF-0' not an entry either (only VF-0S/D/A). Kept as written. | review: term added to glossary | review: refit: tighter wording"
+  },
+  {
+   "id": "mission_ext:MA_030:strMission",
+   "en": "Annihilate the Anti-U.N. Forces'\\nnew variable fighter unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MA_030:strStory",
+   "en": "The Anti-U.N. Forces made a surprise attack with VFs built using our tech.\\nSortie at once and annihilate the Anti-U.N. variable fighters.",
+   "flags": [],
+   "notes": "review: refit: \"variable fighters\" abbreviated to \"VFs\" in L1, \"technology\" to \"tech\"; second Anti-U.N. mention shortened"
+  },
+  {
+   "id": "mission_ext:MA_040:strMission",
+   "en": "As part of your training,\\nfight a mock battle against Major Focker.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source rank is shosa = Major; glossary lists Roy as Lieutenant in the Zero era, but this briefing says Major, so the source is followed."
+  },
+  {
+   "id": "mission_ext:MA_040:strStory",
+   "en": "To prepare for the escalating Anti-U.N. war, we'll hold a mock battle drill.\\nWin the mock battle against U.N. Forces ace Major Roy Focker.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same rank issue as row 232. | review: refit: \"mock battle as training\" to \"mock battle drill\"; L2 aligned with row 265 (same source line)"
+  },
+  {
+   "id": "mission_ext:MA_050:strMission",
+   "en": "To stop the theft of the AFOS fragment,\\nannihilate the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": "review: refit: 'from being seized' -> 'the theft of'"
+  },
+  {
+   "id": "mission_ext:MA_050:strStory",
+   "en": "The Anti-U.N. Forces are trying to seize the AFOS fragment on Mayan Island.\\nExpect unfamiliar underwater combat, but wipe out the Anti-U.N. at all costs.",
+   "flags": [],
+   "notes": "review: refit: tighter wording, second mention \"Anti-U.N.\""
+  },
+  {
+   "id": "mission_ext:MA_060:strMission",
+   "en": "To defend the AFOS fragment,\\nannihilate the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "mission_ext:MA_060:strStory",
+   "en": "The Anti-U.N. Forces attack the Asuka to seize the AFOS fragment under study.\\nDefend the carrier Asuka and annihilate the Anti-U.N. at all costs.",
+   "flags": [],
+   "notes": "review: refit: restructured so the Asuka is named as the target in L1; second mention \"Anti-U.N.\""
+  },
+  {
+   "id": "mission_ext:MA_065:strMission",
+   "en": "To defend the AFOS fragment,\\nannihilate the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": "Same text as row 236."
+  },
+  {
+   "id": "mission_ext:MA_065:strStory",
+   "en": "The Anti-U.N. Forces attack the Asuka to seize the AFOS fragment under study.\\nDefend the carrier Asuka and annihilate the Anti-U.N. at all costs.",
+   "flags": [],
+   "notes": "Same text as row 237. | review: refit: restructured so the Asuka is named as the target in L1; second mention \"Anti-U.N.\""
+  },
+  {
+   "id": "mission_ext:MA_070:strMission",
+   "en": "Find the Bird Human's head and\\nretrieve it to the target area.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 172: verbless source sentence kept as a narration fragment",
+   "row 187: restored verb 'It rose' for the inverted trailing clause in rows 187-188",
+   "rows 196-197, 201-202: sentence cuts adjusted for English word order (verb in 196; apposition across 201-202)",
+   "row 205: 'the Space War' for the interstellar war (no ordinal in source)",
+   "row 218: whales plural (source unmarked)",
+   "row 219: patrol unit mapped to 'Zolan Star Patrol' (glossary ja form unconfirmed)",
+   "rows 232-233: Roy Focker's rank given as Major per source; glossary says Lieutenant for the Zero era"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "ASS-1 (the alien ship, row 229): used as 'ASS-1'; only mentioned in glossary notes",
+   "VF-0 (bare model name, rows 228-229): glossary only has VF-0S/D/A Phoenix; used 'VF-0'"
+  ],
+  "unfinished": []
+ }
+}

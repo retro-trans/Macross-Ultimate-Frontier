@@ -1,0 +1,866 @@
+{
+ "MA_010": {
+  "objective": "Annihilate the enemy of the U.N. Forces: the Anti-U.N. Forces.",
+  "briefing": "Commencing the operation to wipe out the U.N.'s foe: the \"Anti-U.N. Forces.\" Annihilate the Anti-U.N. TYPE-29 fighter formation."
+ },
+ "MA_015": {
+  "objective": "Annihilate the enemy of the U.N. Forces: the Anti-U.N. Forces.",
+  "briefing": "Commencing the operation to wipe out the U.N.'s foe: the \"Anti-U.N. Forces.\" Annihilate the Anti-U.N. TYPE-29 fighter formation."
+ },
+ "MA_020": {
+  "objective": "As part of conversion training for the VF-0, engage in a mock battle.",
+  "briefing": "The \"VF-0\": a variable fighter developed with the ASS-1's OverTechnology. To survive the battles ahead, you'll now undergo VF-0 conversion training."
+ },
+ "MA_030": {
+  "objective": "Annihilate the Anti-U.N. Forces' new variable fighter unit.",
+  "briefing": "The Anti-U.N. Forces made a surprise attack with VFs built using our tech. Sortie at once and annihilate the Anti-U.N. variable fighters."
+ },
+ "MA_040": {
+  "objective": "As part of your training, fight a mock battle against Major Focker.",
+  "briefing": "To prepare for the escalating Anti-U.N. war, we'll hold a mock battle drill. Win the mock battle against U.N. Forces ace Major Roy Focker."
+ },
+ "MA_050": {
+  "objective": "To stop the theft of the AFOS fragment, annihilate the Anti-U.N. Forces.",
+  "briefing": "The Anti-U.N. Forces are trying to seize the AFOS fragment on Mayan Island. Expect unfamiliar underwater combat, but wipe out the Anti-U.N. at all costs."
+ },
+ "MA_060": {
+  "objective": "To defend the AFOS fragment, annihilate the Anti-U.N. Forces.",
+  "briefing": "The Anti-U.N. Forces attack the Asuka to seize the AFOS fragment under study. Defend the carrier Asuka and annihilate the Anti-U.N. at all costs."
+ },
+ "MA_065": {
+  "objective": "To defend the AFOS fragment, annihilate the Anti-U.N. Forces.",
+  "briefing": "The Anti-U.N. Forces attack the Asuka to seize the AFOS fragment under study. Defend the carrier Asuka and annihilate the Anti-U.N. at all costs."
+ },
+ "MA_070": {
+  "objective": "Find the Bird Human's head and retrieve it to the target area.",
+  "briefing": "The Bird Human's head: another AFOS fragment, newly found on Mayan Island. Find it before the Anti-U.N. Forces do and bring it to the target area."
+ },
+ "MA_080": {
+  "objective": "Wipe out the Anti-U.N. Forces so they can't recover the Bird Human's head.",
+  "briefing": "We lost the Bird Human's head in a fierce battle with the Anti-U.N. Forces. We can't let them recover it. Wipe out the Anti-U.N. Forces searching for it."
+ },
+ "MA_090": {
+  "objective": "To seize the immense power of AFOS, wipe out the Anti-U.N. Forces.",
+  "briefing": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments. Wipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces."
+ },
+ "MA_091": {
+  "objective": "To seize the immense power of AFOS, wipe out the Anti-U.N. Forces.",
+  "briefing": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments. Wipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces."
+ },
+ "MA_095": {
+  "objective": "To seize the immense power of AFOS, wipe out the Anti-U.N. Forces.",
+  "briefing": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments. Wipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces."
+ },
+ "MA_096": {
+  "objective": "To seize the immense power of AFOS, wipe out the Anti-U.N. Forces.",
+  "briefing": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments. Wipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces."
+ },
+ "MH_010": {
+  "objective": "To seize the AFOS fragment, wipe out the U.N. Forces.",
+  "briefing": "To seize the AFOS fragment being studied by the U.N. Forces, we will now raid the carrier Asuka. Wipe out the U.N. escorts and seize the AFOS fragment."
+ },
+ "MH_020": {
+  "objective": "To seize the immense power of AFOS, wipe out the U.N. Forces.",
+  "briefing": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments. Wipe out the U.N. to claim the AFOS fragments for our Anti-U.N. Forces."
+ },
+ "MS_310": {
+  "objective": "Wipe out the giant aliens who struck back after the Macross's attack.",
+  "briefing": "During its launch ceremony, the Macross fired its main gun at an unknown fleet. Battle with the aliens looks unavoidable. Get into intercept position at once."
+ },
+ "MS_315": {
+  "objective": "Wipe out the giant aliens who struck back after the Macross's attack.",
+  "briefing": "During its launch ceremony, the Macross fired its main gun at an unknown fleet. Battle with the aliens looks unavoidable. Get into intercept position at once."
+ },
+ "MS_320": {
+  "objective": "Wipe out the giant alien ground forces attacking the Macross.",
+  "briefing": "To escape the giant aliens' attack, the Macross now attempts a space launch. Escort the blundering VF-1D while wiping out the giant alien ground forces."
+ },
+ "MS_330": {
+  "objective": "Defend the Macross during the Transformation.",
+  "briefing": "Beginning the Transformation to fire the main gun at the giant alien fleet. Defend the Macross at all costs while the Transformation is under way."
+ },
+ "MS_340": {
+  "objective": "As part of your training, fight a mock battle against Major Focker.",
+  "briefing": "Our rookies lack experience, so we'll now hold a mock battle as training. Win the mock battle against U.N. Forces ace Major Roy Focker."
+ },
+ "MS_350": {
+  "objective": "Defend the Macross until its main gun fires.",
+  "briefing": "To break out of this defensive fight, we'll surprise-attack the giant aliens. Defend the Macross until its main gun fires."
+ },
+ "MS_355": {
+  "objective": "Defend the Macross until its main gun fires.",
+  "briefing": "To break out of this defensive fight, we'll surprise-attack the giant aliens. Defend the Macross until its main gun fires."
+ },
+ "MS_360": {
+  "objective": "To resupply, carry the containers to the designated point.",
+  "briefing": "With supplies drained by repeated battles, we'll restock at Sara Base on Mars. Recover the supply containers. If enemies appear, switch to wiping them out."
+ },
+ "MS_370": {
+  "objective": "Destroy the enemies nearing the Macross.",
+  "briefing": "Enemy units spotted approaching the Macross. A scramble has been ordered. Miss Macross may be on your mind, but go at once and wipe out the enemy."
+ },
+ "MS_380": {
+  "objective": "Escort the Cat's Eye until the survey of the giant aliens is complete.",
+  "briefing": "Just short of Earth, the giant aliens have demanded the Macross surrender. We'll recon to learn their aims. Escort the Cat's Eye and wipe out the enemy."
+ },
+ "MS_381": {
+  "objective": "Escort the Cat's Eye until the survey of the giant aliens is complete.",
+  "briefing": "Just short of Earth, the giant aliens have demanded the Macross surrender. We'll recon to learn their aims. Escort the Cat's Eye and wipe out the enemy."
+ },
+ "MS_390": {
+  "objective": "To escape from the enemy ship, head for the target area.",
+  "briefing": "We've rescued Lt. Hayase and the others held captive on a Zentradi battleship, but we haven't escaped the enemy ship yet. Get out of it at all costs."
+ },
+ "MS_400": {
+  "objective": "To make it back to Earth no matter what, wipe out the Zentradi forces.",
+  "briefing": "The Zentradi have surrounded the Macross to stop it from returning to Earth. It's a hard-line move, but destroy the Zentradi to break their encirclement."
+ },
+ "MS_410": {
+  "objective": "Wipe out the Zentradi forces that have attacked the Macross.",
+  "briefing": "The Zentradi have attacked the Macross, back on Earth after a year away. Wipe out the Zentradi forces trying to smoke the Macross out into space."
+ },
+ "MS_420": {
+  "objective": "To keep the enemy off the Macross, wipe out the Zentradi forces.",
+  "briefing": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea. We can't let the Macross's resupply be interrupted. Wipe out the Zentradi."
+ },
+ "MS_421": {
+  "objective": "To keep the enemy off the Macross, wipe out the Zentradi forces.",
+  "briefing": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea. We can't let the Macross's resupply be interrupted. Wipe out the Zentradi."
+ },
+ "MS_425": {
+  "objective": "To keep the enemy off the Macross, wipe out the Zentradi forces.",
+  "briefing": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea. We can't let the Macross's resupply be interrupted. Wipe out the Zentradi."
+ },
+ "MS_426": {
+  "objective": "To keep the enemy off the Macross, wipe out the Zentradi forces.",
+  "briefing": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea. We can't let the Macross's resupply be interrupted. Wipe out the Zentradi."
+ },
+ "MS_430": {
+  "objective": "To get the civilians safely onto Earth, wipe out the Zentradi forces.",
+  "briefing": "The Ontario Autonomous Zone has agreed to take in the Macross's civilians, but the Zentradi have appeared. Wipe them out so the civilians can be taken in."
+ },
+ "MS_440": {
+  "objective": "Escort the liaison shuttle headed for U.N. Forces HQ on Earth.",
+  "briefing": "You'll now escort the liaison shuttle taking Capt. Hayase to U.N. HQ on Earth. Escort it until it reaches a safe zone, then switch to wiping out the enemy."
+ },
+ "MS_450": {
+  "objective": "Beat the expert gamers at the smash-hit game \"Battroid Attack\".",
+  "briefing": "  Head-to-Head Valkyrie Simulation  ~BATTROID ATTACK!!~                                   PLEASE INSERT COIN(S)"
+ },
+ "MS_460": {
+  "objective": "Wipe out the Zentradi forces launching an all-out attack.",
+  "briefing": "At humanity's first interstellar wedding, the Zentradi hit the Macross all-out. We've taken our first step to peace and can't stop here. Wipe out the enemy."
+ },
+ "MS_470": {
+  "objective": "To end the interstellar war, destroy Golg Boddole Zer.",
+  "briefing": "Fearing the power of Earth's culture, Boddole Zer attacks the Macross all-out. We'll use the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer."
+ },
+ "MS_475": {
+  "objective": "To end the interstellar war, destroy Golg Boddole Zer.",
+  "briefing": "Fearing the power of Earth's culture, Boddole Zer attacks the Macross all-out. We'll use the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer."
+ },
+ "MS_200": {
+  "objective": "Put down the rioting Zentradi at once.",
+  "briefing": "Zentradi who can't fit in on Earth stole arms and are attacking civilian areas. We cannot let civilians come to harm. Put down the rampaging Zentradi."
+ },
+ "MS_210": {
+  "objective": "To capture the automated spaceship factory, seize control of the facility.",
+  "briefing": "To build up our forces, we'll capture the Zentradi automated spaceship factory. Wipe out the Zentradi forces defending the factory and take the factory."
+ },
+ "MS_211": {
+  "objective": "To capture the automated spaceship factory, seize control of the facility.",
+  "briefing": "To build up our forces, we'll capture the Zentradi automated spaceship factory. Wipe out the Zentradi forces defending the factory and take the factory."
+ },
+ "MS_220": {
+  "objective": "Wipe out Quamzin's faction, which is trying to steal the micronization device.",
+  "briefing": "Quamzin, who won't coexist with Earthlings, is raiding the factory to steal the micronization device. We can't allow that. Wipe out Quamzin's faction."
+ },
+ "MS_230": {
+  "objective": "To rescue the hostages, wipe out Quamzin's faction.",
+  "briefing": "Quamzin has taken civilians hostage and is demanding a battleship as ransom. Rescuing the hostages safely comes first. Wipe out Quamzin's faction."
+ },
+ "MS_240": {
+  "objective": "Wipe out Quamzin's faction, which is trying to steal the reaction engine.",
+  "briefing": "Quamzin's faction is raiding the industrial zone to steal the reaction engine. Wipe them out to protect the reaction engine in the industrial complex block."
+ },
+ "MS_250": {
+  "objective": "To protect the Macross and Macross City, wipe out Quamzin's faction.",
+  "briefing": "Out to destroy the Macross, Quamzin's faction has suddenly hit Macross City. Wipe them out at once to protect the Macross and the people of Macross City."
+ },
+ "MS_251": {
+  "objective": "To protect the Macross and Macross City, wipe out Quamzin's faction.",
+  "briefing": "Out to destroy the Macross, Quamzin's faction has suddenly hit Macross City. Wipe them out at once to protect the Macross and the people of Macross City."
+ },
+ "MZ_310": {
+  "objective": "Using melee attacks only, defeat Fleet Commander Vrlitwhai.",
+  "briefing": "As special training, we will now hold a mock battle using melee attacks only. Fleet Commander Vrlitwhai himself joins this mock battle. Defeat Vrlitwhai."
+ },
+ "MZ_320": {
+  "objective": "Annihilate the Micronian mobile weapons that have infiltrated the ship.",
+  "briefing": "We captured Micronians, but enemy mobile weapons have broken into the ship. To stop them retaking the captives, annihilate the Micronian intruders."
+ },
+ "MZ_330": {
+  "objective": "Annihilate the Micronian mobile weapons.",
+  "briefing": "Ignoring the order to halt attacks on Micronians, Quamzin attacked their ship. We can't let Quamzin get ahead of us. We're launching our own attack too."
+ },
+ "MZ_340": {
+  "objective": "To stop the contamination by Culture, erase the Micronian vermin.",
+  "briefing": "Fleet Cmdr. Vrlitwhai, contaminated by Culture, made his own Micronian truce. We cannot allow Culture to contaminate anyone else. Erase the Micronians."
+ },
+ "MI_010": {
+  "objective": "To make it home to Earth, annihilate the Zentradi forces.",
+  "briefing": "As the Macross heads home from beyond the solar system, the Zentradi appear. First break their formation with reaction weapons, then annihilate them."
+ },
+ "MI_011": {
+  "objective": "To make it home to Earth, annihilate the Zentradi forces.",
+  "briefing": "As the Macross heads home from beyond the solar system, the Zentradi appear. First break their formation with reaction weapons, then annihilate them."
+ },
+ "MI_015": {
+  "objective": "To make it home to Earth, annihilate the Zentradi forces.",
+  "briefing": "As the Macross heads home from beyond the solar system, the Zentradi appear. First break their formation with reaction weapons, then annihilate them."
+ },
+ "MI_016": {
+  "objective": "To make it home to Earth, annihilate the Zentradi forces.",
+  "briefing": "As the Macross heads home from beyond the solar system, the Zentradi appear. First break their formation with reaction weapons, then annihilate them."
+ },
+ "MI_020": {
+  "objective": "Capture the U.N. Forces pilot who is flying a Valkyrie without authorization.",
+  "briefing": "We've spotted a pilot flying a Valkyrie around Saturn without permission. Unauthorized use of a Valkyrie won't be tolerated. Capture the pilot at once."
+ },
+ "MI_030": {
+  "objective": "To rescue the hostages, head to the target area immediately.",
+  "briefing": "The Zentradi have taken Macross crew members captive. To rescue the hostages, infiltrate the enemy ship and go at once to where they're thought to be held."
+ },
+ "MI_040": {
+  "objective": "As part of your training, fight a mock battle against Max.",
+  "briefing": "To prepare for relentless Zentradi raids, we'll now conduct special training. Win a mock battle against the rumored genius pilot, Maximilian Jenius."
+ },
+ "MI_050": {
+  "objective": "Annihilate the Meltrandi forces closing in on the Macross at once.",
+  "briefing": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross. To keep them from getting any closer, annihilate the Meltrandi at once."
+ },
+ "MI_051": {
+  "objective": "Annihilate the Meltrandi forces closing in on the Macross at once.",
+  "briefing": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross. To keep them from getting any closer, annihilate the Meltrandi at once."
+ },
+ "MI_055": {
+  "objective": "Annihilate the Meltrandi forces closing in on the Macross at once.",
+  "briefing": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross. To keep them from getting any closer, annihilate the Meltrandi at once."
+ },
+ "MI_056": {
+  "objective": "Annihilate the Meltrandi forces closing in on the Macross at once.",
+  "briefing": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross. To keep them from getting any closer, annihilate the Meltrandi at once."
+ },
+ "MI_060": {
+  "objective": "To end the interstellar war, defeat Golg Boddole Zer.",
+  "briefing": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out. We'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer."
+ },
+ "MI_061": {
+  "objective": "To end the interstellar war, defeat Golg Boddole Zer.",
+  "briefing": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out. We'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer."
+ },
+ "MI_065": {
+  "objective": "To end the interstellar war, defeat Golg Boddole Zer.",
+  "briefing": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out. We'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer."
+ },
+ "MI_066": {
+  "objective": "To end the interstellar war, defeat Golg Boddole Zer.",
+  "briefing": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out. We'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer."
+ },
+ "MP_310": {
+  "objective": "As part of your training, fight mock battles with the Destroid squads.",
+  "briefing": "To prepare for emergencies like a Zentradi remnant revolt or unseen threats, regular U.N. Forces training begins. Beat each Destroid squad in mock battle."
+ },
+ "MP_320": {
+  "objective": "Annihilate the rioting Zentradi remnants.",
+  "briefing": "Rioting Zentradi remnants have ignored a call to surrender and still run wild. To put down the riot at once, annihilate the Zentradi remnants."
+ },
+ "MP_330": {
+  "objective": "To assess your aptitude as a test pilot, fight the Valkyrie squad in a mock battle.",
+  "briefing": "This test assesses your aptitude as a test pilot for Project Super Nova, the next main VF contest. Win the mock battle against the Valkyrie squad."
+ },
+ "MP_340": {
+  "objective": "Pass each waypoint as it is designated, as quickly as you can.",
+  "briefing": "A flight test now begins to measure the prototype's thrust, agility and more. Run a time trial to measure how long you take to clear all the waypoints."
+ },
+ "MP_350": {
+  "objective": "Destroy the targets as you head for the target area at speed.",
+  "briefing": "To test the prototype's agility, we'll fly it in a confined space like a base. Run a time trial: destroy all targets and reach the target area."
+ },
+ "MP_360": {
+  "objective": "Destroy as many enemies as you can within the 5-minute time limit.",
+  "briefing": "To gauge the prototype's combat ability, we'll now stage an arena mock battle. Battle a large number of targets, simulating combat against multiple enemies."
+ },
+ "MP_370": {
+  "objective": "As a live combat test of the prototype, annihilate the Zentradi remnants.",
+  "briefing": "We've had reports of Zentradi remnants appearing from a planet near Eden. We'll now annihilate them, also as a live combat test of the prototype."
+ },
+ "MP_380": {
+  "objective": "Stop the bombers escorted by VF-11s from reaching the target area.",
+  "briefing": "For prototype combat data in varied settings, a mock air battle now begins. Destroy the VF-11 and drone-escorted bombers short of the target area."
+ },
+ "MP_390": {
+  "objective": "Destroy the carrier escorted by VF-11s.",
+  "briefing": "For prototype combat data in varied settings, a mock sea battle now begins. Sink the multipurpose carrier escorted by VF-11s, Destroids and an Aegis ship."
+ },
+ "MP_400": {
+  "objective": "Destroy the base defended by VF-11s.",
+  "briefing": "For prototype combat data in varied settings, a mock ground battle now begins. Destroy the base defended by VF-11s and Destroid squads."
+ },
+ "MP_410": {
+  "objective": "Defeat the rival aircraft in the competition.",
+  "briefing": "For head-to-head prototype data, we now hold a mock battle against the rival. Needless to say, it's the most crucial test for selection. Win at any cost."
+ },
+ "MP_420": {
+  "objective": "Subdue the U.N. Forces soldiers who have run amok at the anniversary ceremony.",
+  "briefing": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth. To end this crisis of unknown cause, subdue the rampaging soldiers at once."
+ },
+ "MP_421": {
+  "objective": "Subdue the U.N. Forces soldiers who have run amok at the anniversary ceremony.",
+  "briefing": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth. To end this crisis of unknown cause, subdue the rampaging soldiers at once."
+ },
+ "MP_425": {
+  "objective": "Subdue the U.N. Forces soldiers who have run amok at the anniversary ceremony.",
+  "briefing": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth. To end this crisis of unknown cause, subdue the rampaging soldiers at once."
+ },
+ "MP_426": {
+  "objective": "Subdue the U.N. Forces soldiers who have run amok at the anniversary ceremony.",
+  "briefing": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth. To end this crisis of unknown cause, subdue the rampaging soldiers at once."
+ },
+ "MP_430": {
+  "objective": "To stop Sharon's rampage, destroy Sharon immediately.",
+  "briefing": "Sharon Apple has run out of control and seized U.N. Forces central command. To free the people her song is manipulating, destroy Sharon immediately."
+ },
+ "MP_431": {
+  "objective": "To stop Sharon's rampage, destroy Sharon immediately.",
+  "briefing": "Sharon Apple has run out of control and seized U.N. Forces central command. To free the people her song is manipulating, destroy Sharon immediately."
+ },
+ "MP_435": {
+  "objective": "To stop Sharon's rampage, destroy Sharon immediately.",
+  "briefing": "Sharon Apple has run out of control and seized U.N. Forces central command. To free the people her song is manipulating, destroy Sharon immediately."
+ },
+ "MP_436": {
+  "objective": "To stop Sharon's rampage, destroy Sharon immediately.",
+  "briefing": "Sharon Apple has run out of control and seized U.N. Forces central command. To free the people her song is manipulating, destroy Sharon immediately."
+ },
+ "MX_010": {
+  "objective": "Defeat Guld, who is standing in the way of meeting Isamu.",
+  "briefing": "I want to see him. I want to see him smile. He... Isamu will be here soon. I've waited for you, Isamu. Only you. Nothing stands between us anymore..."
+ },
+ "MX_011": {
+  "objective": "Defeat Guld, who is standing in the way of meeting Isamu.",
+  "briefing": "I want to see him. I want to see him smile. He... Isamu will be here soon. I've waited for you, Isamu. Only you. Nothing stands between us anymore..."
+ },
+ "M7_310": {
+  "objective": "Wipe out the unknowns that just appeared.",
+  "briefing": "A vanguard craft reports to Battle 7 that an unknown force has ambushed it. Annihilate the unknown craft to keep them away from the Macross 7 fleet."
+ },
+ "M7_315": {
+  "objective": "Wipe out the unknowns that just appeared.",
+  "briefing": "A vanguard craft reports to Battle 7 that an unknown force has ambushed it. Annihilate the unknown craft to keep them away from the Macross 7 fleet."
+ },
+ "M7_320": {
+  "objective": "As part of training, fight a mock battle against Gamlin.",
+  "briefing": "Danger always lurks on a journey through vast space. To prepare for the worst, beat Diamond Force member Lt. Gamlin Kizaki in a training mock battle."
+ },
+ "M7_330": {
+  "objective": "Recover the containers holding citizens and annihilate the Varauta Army.",
+  "briefing": "Citizens kidnapped by the Varauta Army are being carried off in containers. Annihilate the Varauta escort and bring the containers to the designated area."
+ },
+ "M7_340": {
+  "objective": "Retake the fold generator, then defend it and annihilate the Varauta Army.",
+  "briefing": "The Varauta Army is trying to re-fold City 7, now cut off from Battle 7. Retake the generator, annihilate the Varauta Army and stop the re-fold."
+ },
+ "M7_350": {
+  "objective": "Protect as many civilian craft as possible while annihilating the Varauta Army.",
+  "briefing": "The Varauta Army suddenly appeared during the crowded Battroid Carnival. Keep citizens safe: guard the Monsters while annihilating the Varauta Army."
+ },
+ "M7_360": {
+  "objective": "To protect the citizens of City 7, annihilate the Varauta Army.",
+  "briefing": "Battle 7's relief escorts were wiped out instantly by a mysterious Varauta foe. Annihilate the Varauta Army to protect the citizens of City 7."
+ },
+ "M7_370": {
+  "objective": "Annihilate the Varauta Army that's blocking the escape from the blazing star.",
+  "briefing": "Just as City 7 is dragged toward a blazing star, the Varauta Army attacks. Annihilate the Varauta Army at once and escape from the star."
+ },
+ "M7_375": {
+  "objective": "Annihilate the Varauta Army that's blocking the escape from the blazing star.",
+  "briefing": "Just as City 7 is dragged toward a blazing star, the Varauta Army attacks. Annihilate the Varauta Army at once and escape from the star."
+ },
+ "M7_380": {
+  "objective": "Annihilate the Varauta Army, which has launched a large-scale attack.",
+  "briefing": "Varauta forces struck suddenly near Lux. Macross 7 faces its worst crisis yet. Sink the Varauta flagship to break their chain of command and end this crisis."
+ },
+ "M7_385": {
+  "objective": "Annihilate the Varauta Army, which has launched a large-scale attack.",
+  "briefing": "Varauta forces struck suddenly near Lux. Macross 7 faces its worst crisis yet. Sink the Varauta flagship to break their chain of command and end this crisis."
+ },
+ "M7_390": {
+  "objective": "Destroy the Protodeviln, or survive for 5 minutes.",
+  "briefing": "We've spotted a likely Protodeviln, approx. 300 m long, unlike any foe so far. Make survival your top priority, and destroy the Protodeviln if possible."
+ },
+ "M7_400": {
+  "objective": "Stop the Protodeviln coming to save their comrade from reaching the target area.",
+  "briefing": "We captured a Protodeviln, but let its would-be rescuers break into Battle 7. Annihilate the intruders and stop them from seizing the Protodeviln."
+ },
+ "M7_410": {
+  "objective": "Annihilate the Varauta Army.",
+  "briefing": "The Protodeviln have gotten serious and are attacking the Macross 7 fleet. We can't let the Protodeviln beat us here. Annihilate the Varauta Army."
+ },
+ "M7_420": {
+  "objective": "As part of training, fight a mock battle with the legendary duo.",
+  "briefing": "Ahead of the escalating Protodeviln war, a mock battle will now be held. Beat the married duo: a genius pilot of old in the latest model, and an ex-ace."
+ },
+ "M7_430": {
+  "objective": "Annihilate the Varauta Army to carry out Operation Stargazer.",
+  "briefing": "We now launch Operation Stargazer, a surprise assault by a small elite force. Wipe out the Varauta Army at all costs to fire reaction weapons into the cave."
+ },
+ "M7_440": {
+  "objective": "Shoot down Gamlin, who is being controlled by the Protodeviln.",
+  "briefing": "Capt. Gamlin, possessed by the Protodeviln, is on a rampage, wrecking bases. We can't allow more damage. You're authorized to shoot down Capt. Gamlin."
+ },
+ "M7_450": {
+  "objective": "To protect the peace of the galaxy, destroy Gepelnitchi.",
+  "briefing": "To thwart Gepelnitchi's ambition, the \"Spiritia Farm Project,\" and to protect galactic peace, destroy Varauta Army commander Gepelnitchi."
+ },
+ "M7_451": {
+  "objective": "To protect the peace of the galaxy, destroy Gepelnitchi.",
+  "briefing": "To thwart Gepelnitchi's ambition, the \"Spiritia Farm Project,\" and to protect galactic peace, destroy Varauta Army commander Gepelnitchi."
+ },
+ "M7_455": {
+  "objective": "To protect the peace of the galaxy, destroy Gepelnitchi.",
+  "briefing": "To thwart Gepelnitchi's ambition, the \"Spiritia Farm Project,\" and to protect galactic peace, destroy Varauta Army commander Gepelnitchi."
+ },
+ "M7_456": {
+  "objective": "To protect the peace of the galaxy, destroy Gepelnitchi.",
+  "briefing": "To thwart Gepelnitchi's ambition, the \"Spiritia Farm Project,\" and to protect galactic peace, destroy Varauta Army commander Gepelnitchi."
+ },
+ "M7_460": {
+  "objective": "Annihilate the rogue Meltrandi fleet that has launched an attack.",
+  "briefing": "A vanguard ship has been wiped out by a large rogue Meltrandi fleet. They mustn't get any closer to the Macross 7 fleet. Annihilate the rogue fleet."
+ },
+ "MD_310": {
+  "objective": "Harvest Spiritia from the fleet where a Spiritia reaction was detected.",
+  "briefing": "Reviving our master, Lord Gepelnitchi, requires a vast amount of Spiritia. Attack the fleet showing a massive Spiritia reaction and harvest its Spiritia."
+ },
+ "MD_320": {
+  "objective": "For Lord Gepelnitchi's plan, annihilate the wretched samples.",
+  "briefing": "To make Lord Gepelnitchi's dream, the \"Spiritia Farm Project,\" a reality, we now begin our attack on the samples' flagship. Annihilate the samples."
+ },
+ "MD_330": {
+  "objective": "Annihilate the samples who have launched a surprise attack.",
+  "briefing": "The fools! The samples have launched a surprise attack on our Varauta system. Show them that resistance is futile. Annihilate the samples at once."
+ },
+ "MD_340": {
+  "objective": "Fight alongside Lord Gepelnitchi and annihilate those Anima Spiritia.",
+  "briefing": "The Anima Spiritia's power has at last revived Lord Gepelnitchi's true body. Fight beside the mighty Lord Gepelnitchi and annihilate those Anima Spiritia."
+ },
+ "MG_010": {
+  "objective": "Arrest the poachers trying to poach the Galaxy Whales.",
+  "briefing": "Galaxy Whales are nearing orbit; we've detected likely poachers hunting them. Arrest them once confirmed. You may ignore the civilian craft also spotted."
+ },
+ "MG_020": {
+  "objective": "As part of training, fight a mock battle against Patrol officers.",
+  "briefing": "When the Galaxy Whales near Zola, poachers flock to the planet in droves. To prepare, the Zolan Star Patrol holds its regular training: a mock battle."
+ },
+ "MG_030": {
+  "objective": "Arrest the poachers trying to poach the Galaxy Whales.",
+  "briefing": "The Galaxy Whales are nearing Zola again: prime hunting season for poachers. We can't ignore their poaching any longer. Take the poachers into custody."
+ },
+ "MG_040": {
+  "objective": "Escort Officer Liza to the target area and arrest the poachers.",
+  "briefing": "Undercover with the poachers, Officer Liza is trying to flee in a stolen VF-17. Escort her to the target area, then arrest the poachers and black marketeers."
+ },
+ "MG_050": {
+  "objective": "Protect the Galaxy Whale from the reaction weapon and arrest the poachers.",
+  "briefing": "Poachers aim a reaction weapon at the white Galaxy Whale hampering their hunt. Protect the whale from the weapon at all costs and arrest the poachers."
+ },
+ "MG_055": {
+  "objective": "Make Basara's song ring across the galaxy.",
+  "briefing": "Basara: \"Sing to the whales? Heh, not just the whales! I'll make all of you          out here listen to my song! Here we go! Listen to my song!!\""
+ },
+ "MF_310": {
+  "objective": "To stop them from entering Island 1, annihilate the unknown lifeforms.",
+  "briefing": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to hide the details. Head to the scene at once and annihilate the enemy."
+ },
+ "MF_311": {
+  "objective": "To stop them from entering Island 1, annihilate the unknown lifeforms.",
+  "briefing": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to hide the details. Head to the scene at once and annihilate the enemy."
+ },
+ "MF_315": {
+  "objective": "To stop them from entering Island 1, annihilate the unknown lifeforms.",
+  "briefing": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to hide the details. Head to the scene at once and annihilate the enemy."
+ },
+ "MF_316": {
+  "objective": "To stop them from entering Island 1, annihilate the unknown lifeforms.",
+  "briefing": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to hide the details. Head to the scene at once and annihilate the enemy."
+ },
+ "MF_320": {
+  "objective": "As part of training, fight a mock battle against the New U.N. Forces.",
+  "briefing": "A mock battle now begins as our regular joint drill with the New U.N. Forces. Show them what S.M.S. can really do, and win the mock battle."
+ },
+ "MF_330": {
+  "objective": "Annihilate the returning Victors.",
+  "briefing": "The Victors that struck Macross Frontier never left; they seem to be hiding in Island 3's foundation block. Annihilate them before they near Island 1."
+ },
+ "MF_340": {
+  "objective": "As part of the S.M.S. applicants' final test, fight a mock battle against Pixie Team.",
+  "briefing": "The final test for S.M.S. applicants begins now. To help out, join the applicants in a mock battle against Pixie Team, led by Capt. Klan Klang."
+ },
+ "MF_350": {
+  "objective": "Scout the thieves' hideout, and if they attack, annihilate the thieves.",
+  "briefing": "The New U.N. Forces have asked us to scout a thieves' hideout. If the thieves attack once you're there, you are authorized to engage them."
+ },
+ "MF_360": {
+  "objective": "As part of training, fight a mock battle against S.M.S. Skull Squadron.",
+  "briefing": "To prepare for Vajra attacks, a mock battle begins now. Beat Maj. Ozma Lee's Skull Squadron, one of the finest elite units in all of S.M.S."
+ },
+ "MF_370": {
+  "objective": "To save the Galaxy fleet's surviving ships, wipe out the Vajra.",
+  "briefing": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack. Wipe out the Vajra blocking the survivors' escape from the combat zone, now."
+ },
+ "MF_371": {
+  "objective": "To save the Galaxy fleet's surviving ships, wipe out the Vajra.",
+  "briefing": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack. Wipe out the Vajra blocking the survivors' escape from the combat zone, now."
+ },
+ "MF_372": {
+  "objective": "To save the Galaxy fleet's surviving ships, wipe out the Vajra.",
+  "briefing": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack. Wipe out the Vajra blocking the survivors' escape from the combat zone, now."
+ },
+ "MF_375": {
+  "objective": "To save the Galaxy fleet's surviving ships, wipe out the Vajra.",
+  "briefing": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack. Wipe out the Vajra blocking the survivors' escape from the combat zone, now."
+ },
+ "MF_376": {
+  "objective": "To save the Galaxy fleet's surviving ships, wipe out the Vajra.",
+  "briefing": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack. Wipe out the Vajra blocking the survivors' escape from the combat zone, now."
+ },
+ "MF_377": {
+  "objective": "To save the Galaxy fleet's surviving ships, wipe out the Vajra.",
+  "briefing": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack. Wipe out the Vajra blocking the survivors' escape from the combat zone, now."
+ },
+ "MF_380": {
+  "objective": "Wipe out the Vajra that suddenly appeared during the survey of their nest.",
+  "briefing": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible, but the Vajra spotted us almost at once. Move swiftly to wipe them out."
+ },
+ "MF_385": {
+  "objective": "Wipe out the Vajra that suddenly appeared during the survey of their nest.",
+  "briefing": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible, but the Vajra spotted us almost at once. Move swiftly to wipe them out."
+ },
+ "MF_390": {
+  "objective": "Wipe out the rioting Zentradi.",
+  "briefing": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken hostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them."
+ },
+ "MF_395": {
+  "objective": "Wipe out the rioting Zentradi.",
+  "briefing": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken hostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them."
+ },
+ "MF_400": {
+  "objective": "Clear out all the Vajra cocoons aboard the Global.",
+  "briefing": "The Global, 117th Research Fleet flagship found on planet Gallia 4, has become a Vajra lair. To stop the Vajra breeding, clear out every Vajra cocoon aboard."
+ },
+ "MF_401": {
+  "objective": "Clear out all the Vajra cocoons aboard the Global.",
+  "briefing": "The Global, 117th Research Fleet flagship found on planet Gallia 4, has become a Vajra lair. To stop the Vajra breeding, clear out every Vajra cocoon aboard."
+ },
+ "MF_410": {
+  "objective": "Destroy the giant Vajra ship believed to be commanding the Vajra.",
+  "briefing": "Organized Vajra attacks have put the Frontier fleet in grave danger. Head for the giant Vajra ship believed to be giving orders. Destroy it at once."
+ },
+ "MF_411": {
+  "objective": "Destroy the giant Vajra ship believed to be commanding the Vajra.",
+  "briefing": "Organized Vajra attacks have put the Frontier fleet in grave danger. Head for the giant Vajra ship believed to be giving orders. Destroy it at once."
+ },
+ "MF_140": {
+  "objective": "Wipe out the Vajra so they can't disrupt the experiment using Ranka Lee's song.",
+  "briefing": "Top-secret mission: you will now guard an experiment using Ranka Lee's song. Until the experiment begins, wipe out the Vajra so they can't interfere."
+ },
+ "MF_150": {
+  "objective": "Defend the Macross Quarter and wipe out the Vajra or survive for 5 minutes.",
+  "briefing": "Evolved Vajra have appeared that even reaction weapons can't harm. They will be hard to destroy, so put defending the Macross Quarter and your survival first."
+ },
+ "MF_155": {
+  "objective": "Defend the Macross Quarter and wipe out the Vajra or survive for 5 minutes.",
+  "briefing": "Evolved Vajra have appeared that even reaction weapons can't harm. They will be hard to destroy, so put defending the Macross Quarter and your survival first."
+ },
+ "MF_160": {
+  "objective": "Defend the Battle Frontier for 5 minutes as it prepares a super-long-distance fold.",
+  "briefing": "To end the war with the Vajra, a super-long-distance fold has been decided on. Defend the Battle Frontier until the super-long-distance fold begins."
+ },
+ "MF_170": {
+  "objective": "Wipe out the Vajra rampaging inside the Frontier.",
+  "briefing": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra are rampaging inside. Wipe out the Vajra that have emerged in the Frontier."
+ },
+ "MF_172": {
+  "objective": "Wipe out the Vajra rampaging inside the Frontier.",
+  "briefing": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra are rampaging inside. Wipe out the Vajra that have emerged in the Frontier."
+ },
+ "MF_180": {
+  "objective": "Wipe out the deserters trying to escape in the stolen Macross Quarter.",
+  "briefing": "Some S.M.S. members are trying to hijack the Macross Quarter and escape. At this rate they'll fold away. You're authorized to shoot down the deserters."
+ },
+ "MF_185": {
+  "objective": "To test the VF-171EX, hold a mock battle with the Sagittarius Squadron.",
+  "briefing": "A mock battle will now be held to test the VF-171EX, built to fight the Vajra. Defeat the Sagittarius Squadron in this combined machine test and training."
+ },
+ "MF_190": {
+  "objective": "To make the Vajra homeworld ours, wipe out the Vajra.",
+  "briefing": "At last we've found the Vajra homeworld. Our only way to survive is to make it our new home. Wipe out the Vajra, powered by the Galactic Fairy's song."
+ },
+ "MF_191": {
+  "objective": "To make the Vajra homeworld ours, wipe out the Vajra.",
+  "briefing": "At last we've found the Vajra homeworld. Our only way to survive is to make it our new home. Wipe out the Vajra, powered by the Galactic Fairy's song."
+ },
+ "MF_200": {
+  "objective": "For the peace of the galaxy, defeat Grace O'Connor.",
+  "briefing": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the true masterminds. For the peace of the galaxy, defeat Grace O'Connor."
+ },
+ "MF_201": {
+  "objective": "For the peace of the galaxy, defeat Grace O'Connor.",
+  "briefing": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the true masterminds. For the peace of the galaxy, defeat Grace O'Connor."
+ },
+ "MF_205": {
+  "objective": "For the peace of the galaxy, defeat Grace O'Connor.",
+  "briefing": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the true masterminds. For the peace of the galaxy, defeat Grace O'Connor."
+ },
+ "MF_206": {
+  "objective": "For the peace of the galaxy, defeat Grace O'Connor.",
+  "briefing": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the true masterminds. For the peace of the galaxy, defeat Grace O'Connor."
+ },
+ "MY_310": {
+  "objective": "To rescue our kin, annihilate the unknown entities.",
+  "briefing": "We have detected a being that shares fold waves with us. To rescue that being, we shall annihilate the unknown entities."
+ },
+ "MY_320": {
+  "objective": "Annihilate the unknown entities that hinder the rescue of our kin.",
+  "briefing": "Our kin, who are one and the same as us, must be rescued at all costs. We shall annihilate the unknown entities that hinder the rescue."
+ },
+ "MY_330": {
+  "objective": "Annihilate the unknown entities that have appeared to hinder the rescue of our kin.",
+  "briefing": "We sensed our kin's fold waves and began a rescue, but new unknown entities appeared to hinder it. We shall annihilate the entities hindering the rescue."
+ },
+ "MY_340": {
+  "objective": "Annihilate those who would invade the Vajra planet.",
+  "briefing": "Your key is in my hand, and the queen's throne is already mine. Go now, Vajra. My eyes, my ears, my limbs. Strike with your mighty claws!"
+ },
+ "ME_010": {
+  "objective": "Wipe out the rogue Zentradi forces.",
+  "briefing": "An unknown fleet, likely rogue Zentradi forces, has been spotted near Jupiter. Break the enemy's will to fight with Operation Minmay, then wipe them out."
+ },
+ "ME_020": {
+  "objective": "Wipe out the mysterious mecha rampaging through the city.",
+  "briefing": "Mecha from a mysterious fleet slipped through our defenses and invaded Earth. Wipe out the mobile weapons ravaging the city as if seeking something. Now!"
+ },
+ "ME_030": {
+  "objective": "Wipe out the Mardook forces seeking to destroy Earth's culture.",
+  "briefing": "The Mardook forces have launched an all-out assault to destroy Earth's culture. Protect Earth's culture at all costs and wipe out the Mardook forces."
+ },
+ "ME_040": {
+  "objective": "To retake the communications relay base, wipe out Vindirance.",
+  "briefing": "Starting the op to retake the relay base held by anti-U.N. group Vindirance. Infiltrate via the canyon leading to the base and wipe out Vindirance's guards."
+ },
+ "ME_041": {
+  "objective": "To retake the communications relay base, wipe out Vindirance.",
+  "briefing": "Starting the op to retake the relay base held by anti-U.N. group Vindirance. Infiltrate via the canyon leading to the base and wipe out Vindirance's guards."
+ },
+ "ME_050": {
+  "objective": "Wipe out Vindirance, who are scheming to fold to Earth.",
+  "briefing": "Vindirance is plotting a fold to Earth. It must be stopped at all costs, so reaction weapons are authorized for this operation. Wipe out Vindirance."
+ },
+ "ME_060": {
+  "objective": "To shatter Latence's ambitions, destroy the Macross.",
+  "briefing": "We will now descend to Earth and infiltrate Macross City. To shatter Latence's ambitions, destroy the wide-area jamming system in the head of the Macross."
+ },
+ "ME_100": {
+  "objective": "Defeat the variable fighters of all eras.",
+  "briefing": "Variable fighters, developed using the OverTechnology of the Macross. To learn how they evolved, battle the variable fighters of every generation."
+ },
+ "ME_110": {
+  "objective": "Annihilate the Zentradi forces.",
+  "briefing": "A massive Zentradi horde has appeared and is about to invade Earth once again. Protect Earth from this crisis: annihilate the Zentradi forces at all costs."
+ },
+ "ME_120": {
+  "objective": "To be accepted as a security guard, fight a mock battle with Basara's band.",
+  "briefing": "Venue security test for Fire Bomber's special live: can you stay cool through Basara and the band's red-hot songs? Win the mock battle vs. Fire Bomber."
+ },
+ "ME_130": {
+  "objective": "Fight wild with a burning heart!",
+  "briefing": "Basara: \"Now it's red-hot live time! We'll slam our hearts right into you!          So let's go big and flashy! Get wild and FIRE!\""
+ },
+ "ME_140": {
+  "objective": "Make it out of Macross Heaven alive.",
+  "briefing": "The Macross that ended the interstellar war passed its name on to colony ships. Make it out alive from Macross Heaven, packed with ships bearing that name."
+ },
+ "ME_150": {
+  "objective": "Wipe out the swarming hordes of small fry.",
+  "briefing": "The enemy is throwing sheer numbers at us. Teach them that \"quality\" beats \"quantity\" in battle: sweep away the small-fry horde in the wasteland at once."
+ },
+ "ME_151": {
+  "objective": "Wipe out the swarming hordes of small fry.",
+  "briefing": "The enemy is throwing sheer numbers at us. Teach them that \"quality\" beats \"quantity\" in battle: sweep away the small-fry horde in the wasteland at once."
+ },
+ "ME_160": {
+  "objective": "Set your ecstasy ablaze in a one-of-a-kind fight!",
+  "briefing": "Sheryl: \"From here on, it's special live time. Are you ready, Ranka-chan?\" Ranka: \"Yes! So... everyone, hold me tight! To the ends of the galaxy!! Kira☆\""
+ },
+ "ME_170": {
+  "objective": "This is the day we take down Editorial Sentai Dengeki V, no matter what!",
+  "briefing": "Dr. Editor-in-Chief Nishioka formed Editorial Sentai Dengeki V for world peace! When these Dengeki editors' hearts unite, their giant robot smashes evil!!"
+ },
+ "ME_180": {
+  "objective": "Defeat the Famitsu editors blocking your probe and uncover the collection's secret.",
+  "briefing": "To guard a prized collection, Hamamura Tsushin made the Weekly Famitsu office a super dimension fortress. Find out what collection is worth going that far."
+ },
+ "ME_190": {
+  "objective": "Annihilate the ones rampaging in the city who wield \"giant\" power.",
+  "briefing": "Wipe out the Regults rampaging in the city now, but we sense a \"giant\" power behind them, so never drop your guard. Annihilate those with \"giant\" power."
+ },
+ "ME_200": {
+  "objective": "Win the mock battle against the special forces unit Moon Island Platoon.",
+  "briefing": "A mock battle now begins vs. the special forces unit codenamed \"Moon Island\". They're all problem children, but reportedly skilled. Defeat Moon Island."
+ },
+ "MC_010": {
+  "objective": "Seize victory from Roy Focker.",
+  "briefing": "Roy Focker: the U.N. ace who loves booze, women, and above all the open sky. Defeat Focker, whose skills have made him the very model of a pilot."
+ },
+ "MC_020": {
+  "objective": "Seize victory from Shin Kudo.",
+  "briefing": "Shin Kudo washed up on Mayan Island and grew through the many people he met. Defeat Shin, the idiot who'd throw his life away for the woman he holds dear."
+ },
+ "MC_030": {
+  "objective": "Seize victory from the duo of Ivanov and Nora.",
+  "briefing": "D.D. Ivanov and Nora Polyansky: the aces of the Anti-U.N. Forces. Defeat this dangerous couple, whose skills ran the U.N. Forces ragged."
+ },
+ "MC_040": {
+  "objective": "Seize victory from the Bird Human.",
+  "briefing": "Sara Nome, Guide of the Wind, charged with stopping the Bird Human's revival. Defeat the Bird Human, revived in spite of all her efforts."
+ },
+ "MC_050": {
+  "objective": "Seize victory from the genius Max and the ace Milia.",
+  "briefing": "Genius pilot Max and ace Milia, who made the first-ever interstellar marriage. Defeat the Jenius couple, also a bridge to peace with the Zentradi."
+ },
+ "MC_060": {
+  "objective": "Seize victory from Quamzin Kravshera.",
+  "briefing": "Quamzin Kravshera, boss of the Quamzin family, notorious as the Ally Killer. Defeat Boss Quamzin, in such a fine mood he's riding a Destroid Monster."
+ },
+ "MC_070": {
+  "objective": "Seize victory from Golg Boddole Zer.",
+  "briefing": "Golg Boddole Zer: Zentradi fleet Supreme Commander over a full 5 million ships. Defeat the ruthless Boddole Zer, who'd readily kill his own troops to win."
+ },
+ "MC_080": {
+  "objective": "Seize victory from the duo of Isamu and Guld.",
+  "briefing": "Isamu and Guld: stuck together since childhood, they fight whenever they meet. Defeat the Dalmatian High School duo, seemingly at odds but friends at heart."
+ },
+ "MC_090": {
+  "objective": "Seize victory from Captain Max.",
+  "briefing": "Maximilian Jenius, space carrier Battle 7's captain and a commander of genius. Defeat the Battle 7, which fought its way through the fierce Protodeviln war."
+ },
+ "MC_100": {
+  "objective": "Seize victory from Gavil and Glavil.",
+  "briefing": "Gavil, a Protodeviln with a unique sense of beauty, and Glavil, a monster-like Protodeviln of immense combat power. Defeat the Beauty and the Monster."
+ },
+ "MC_110": {
+  "objective": "Triumph over His Excellency Gepelnitchi.",
+  "briefing": "His Excellency Gepelnitchi: Varauta supreme commander, mightiest Protodeviln. Defeat His Excellency Gepelnitchi, who could drain the galaxy of its Spiritia."
+ },
+ "MC_120": {
+  "objective": "Seize victory from Gamlin Kizaki.",
+  "briefing": "Gamlin Kizaki, elite pilot of the U.N. Forces' Diamond Force. Defeat Gamlin, nicknamed \"Martian\" as a child for his wide forehead."
+ },
+ "MC_130": {
+  "objective": "Seize victory from the duo of Basara and Graham.",
+  "briefing": "Graham, who hates and would kill the Galaxy Whales, and Basara, who was moved to sing to them. Defeat these men burning with passion for the whales."
+ },
+ "MC_140": {
+  "objective": "Seize victory from Ozma Lee.",
+  "briefing": "Ozma Lee: seasoned S.M.S. Skull Squadron leader, overprotective of his sister. Defeat Ozma, who smashed death flag after death flag throughout the story."
+ },
+ "MC_150": {
+  "objective": "Seize victory from Jeffrey, captain of the Macross Quarter.",
+  "briefing": "The Macross Quarter: ARMD-class in size, yet it bears the name Macross. Defeat the Macross Quarter, captained by Jeffrey Wilder."
+ },
+ "MC_160": {
+  "objective": "Seize victory from Klan Klang.",
+  "briefing": "Klan Klang, Pixie Team leader, clumsy not just in her genes but in love too. Defeat Klan, a maiden sunk in rage and grief after losing the one she loved."
+ },
+ "MC_170": {
+  "objective": "Seize victory from the duo of Alto and Brera.",
+  "briefing": "\"Being linked to you made it clear. However far you go, people are alone!\" \"That's why we...!\", \"But!!\", \"It's precisely because we're alone that...\","
+ },
+ "MC_180": {
+  "objective": "Seize victory from Ranka Lee.",
+  "briefing": "Manipulated by Grace, Ranka Lee guards the Vajra planet to atone for her sins. Defeat Ranka, who sings to protect the Vajra homeworld."
+ },
+ "MC_190": {
+  "objective": "Seize victory from the Vajra Queen.",
+  "briefing": "Even the Protoculture feared their power, envied it, and at last deified them, copying their form: the super-dimensional Vajra. Defeat Grace's Vajra Queen."
+ },
+ "MC_200": {
+  "objective": "Seize victory from the enemy battleships new to the fight in this game.",
+  "briefing": "Macross is full of giant battleships, and needless to say, so is this game. Defeat the giant enemy battleships making their debut in this game."
+ },
+ "MT_010": {
+  "objective": "Practice piloting in Fighter mode.",
+  "briefing": "Ranka: \"I, Ranka Lee, am gonna explain the basic Fighter mode controls!         I'm nervous I won't explain it well, but I'll do my best. Kira☆\""
+ },
+ "MT_011": {
+  "objective": "Practice piloting in Battroid mode.",
+  "briefing": "Sheryl: \"Oh, fine. I'll explain the basic Battroid mode controls for you.          Sheryl herself is explaining, so don't you dare miss a single word.\""
+ },
+ "MT_012": {
+  "objective": "Practice piloting in GERWALK mode.",
+  "briefing": "Ranka: \"Okay! Next, I'll explain the basic GERWALK mode controls.         Listen to me and get the GERWALK mode controls down perfectly!\""
+ },
+ "MT_020": {
+  "objective": "Practice shooting attacks.",
+  "briefing": "Sheryl: \"It's a pain, but next I'll explain the basics of shooting attacks.          You've got ME explaining, so if you don't learn it, you'll be sorry.\""
+ },
+ "MT_021": {
+  "objective": "Practice melee attacks.",
+  "briefing": "Ranka: \"Umm... here I'll explain the basics of melee attacks.         It's tough with so much to learn, but I'll do my best explaining too!\""
+ },
+ "MT_030": {
+  "objective": "Practice Special Maneuvers 1.",
+  "briefing": "Sheryl: \"Here I'll mostly explain the special maneuvers related to piloting.          If you're aiming to go pro, you'd better learn at least this much.\""
+ },
+ "MT_031": {
+  "objective": "Practice Special Maneuvers 2.",
+  "briefing": "Ranka: \"Here I'll mainly explain the SP-related special maneuvers.         They look a bit hard, but listen closely and learn them well, okay?\""
+ },
+ "MT_032": {
+  "objective": "Practice container transport.",
+  "briefing": "Sheryl: \"All right, next I'll explain container transport.          I'm the one explaining it. Of course you'll pick it up right away.\""
+ },
+ "MT_040": {
+  "objective": "Practice piloting in Real Flight Mode.",
+  "briefing": "Ranka: \"Sheryl and I are going to show you how to fly in Real Flight Mode!\" Sheryl: \"You don't get service like this very often, so be grateful.\""
+ },
+ "MT_041": {
+  "objective": "Practice the new special maneuvers.",
+  "briefing": "Sheryl: \"Here I'll explain the controls that changed since the previous game.\" Ranka: \"Explaining with Sheryl makes me nervous, but I'll do my best!\""
+ },
+ "MT_042": {
+  "objective": "Practice the Anti-Missile Action.",
+  "briefing": "Ranka: \"The last lesson is about the Anti-Missile Action.\" Sheryl: \"Keep up with our lessons at Macross speed!\""
+ },
+ "MT_100": {
+  "objective": "Train at the ground training field.",
+  "briefing": "Sheryl: \"Now you're going to do combat training at the ground training field.          There are targets on the field too, so train however you like.\""
+ },
+ "MT_110": {
+  "objective": "Train at the space training field.",
+  "briefing": "Ranka: \"Now you're going to do combat training at the space training field!         There are targets on the field too, so train however you like!\""
+ },
+ "MT_120": {
+  "objective": "Train at the in-base training field.",
+  "briefing": "Sheryl: \"Now you're going to do combat training at the in-base training field.          There are targets on the field too, so train however you like.\""
+ },
+ "MT_130": {
+  "objective": "Train at the indoor training field.",
+  "briefing": "Ranka: \"Now you're going to do combat training at the indoor training field!         There are targets on the field too, so train however you like!\""
+ },
+ "MT_140": {
+  "objective": "Train at the flight training field.",
+  "briefing": "Sheryl: \"Now you're going to do combat training at the flight training field.          There are targets on the field too, so train however you like.\""
+ }
+}

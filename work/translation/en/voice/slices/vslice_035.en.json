@@ -1,0 +1,549 @@
+{
+ "slice": 35,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vo0_of1_1292",
+   "en": "Golg Boddole Zer, Main Fleet Supreme Commander",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Title word heard as 'engine/organ' (kikan); read as 'main fleet' (kikan, other kanji). Rank read as supreme commander of the main fleet."
+  },
+  {
+   "id": "vo0_of2_1292",
+   "en": "Golg Boddole Zer, Main Fleet Supreme Commander",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Title word heard as 'engine/organ' (kikan); read as 'main fleet' (kikan, other kanji). Rank read as supreme commander of the main fleet."
+  },
+  {
+   "id": "vo0_om0_1292",
+   "en": "Golg Boddole Zer, Main Fleet Supreme Commander",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Title word heard as 'engine/organ' (kikan); read as 'main fleet' (kikan, other kanji). Rank read as supreme commander of the main fleet."
+  },
+  {
+   "id": "vos_mis_1292",
+   "en": "Golg Boddole Zer, Main Fleet Supreme Commander",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Title word heard as 'engine/organ' (kikan); read as 'main fleet' (kikan, other kanji). Rank read as supreme commander of the main fleet."
+  },
+  {
+   "id": "vo0_of0_1293",
+   "en": "VF-11 Thunderbolt",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1293",
+   "en": "VF-11 Thunderbolt",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1293",
+   "en": "VF-11 Thunderbolt",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1293",
+   "en": "VF-11 Thunderbolt",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1293",
+   "en": "VF-11 Thunderbolt",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1294",
+   "en": "YF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1294",
+   "en": "YF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1294",
+   "en": "YF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1294",
+   "en": "YF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1294",
+   "en": "YF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1295",
+   "en": "YF-21 Sturmvogel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1295",
+   "en": "YF-21 Sturmvogel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1295",
+   "en": "YF-21 Sturmvogel",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as YF-21 Sturmvogel (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1295",
+   "en": "YF-21 Sturmvogel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1295",
+   "en": "YF-21 Sturmvogel",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as YF-21 Sturmvogel (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1296",
+   "en": "X-9 Ghost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1296",
+   "en": "X-9 Ghost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1296",
+   "en": "X-9 Ghost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1296",
+   "en": "X-9 Ghost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1296",
+   "en": "X-9 Ghost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1297",
+   "en": "VF-17 Nightmare",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1297",
+   "en": "VF-17 Nightmare",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1297",
+   "en": "VF-17 Nightmare",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1297",
+   "en": "VF-17 Nightmare",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1297",
+   "en": "VF-17 Nightmare",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1298",
+   "en": "VF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1298",
+   "en": "VF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1298",
+   "en": "VF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1298",
+   "en": "VF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1298",
+   "en": "VF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1299",
+   "en": "Mylene Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1299",
+   "en": "Mylene Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1299",
+   "en": "Mylene Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1299",
+   "en": "Mylene Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1299",
+   "en": "Mylene Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1300",
+   "en": "Fire Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1300",
+   "en": "Fire Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1300",
+   "en": "Fire Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1300",
+   "en": "Fire Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1300",
+   "en": "Fire Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1301",
+   "en": "Storm Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1301",
+   "en": "Storm Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1301",
+   "en": "Storm Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1301",
+   "en": "Storm Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1301",
+   "en": "Storm Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1302",
+   "en": "Sound Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1302",
+   "en": "Sound Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1302",
+   "en": "Sound Force",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Sound Force (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1302",
+   "en": "Sound Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1302",
+   "en": "Sound Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1303",
+   "en": "VF-22 Sturmvogel II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1303",
+   "en": "VF-22 Sturmvogel II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1303",
+   "en": "VF-22 Sturmvogel II",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as VF-22 Sturmvogel II (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1303",
+   "en": "VF-22 Sturmvogel II",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as VF-22 Sturmvogel II (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vos_mis_1303",
+   "en": "VF-22 Sturmvogel II",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as VF-22 Sturmvogel II (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of0_1304",
+   "en": "Battle 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1304",
+   "en": "Battle 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1304",
+   "en": "Battle 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1304",
+   "en": "Battle 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1304",
+   "en": "Battle 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1305",
+   "en": "Fz-109 Elgersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1305",
+   "en": "Fz-109 Elgersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1305",
+   "en": "Fz-109 Elgersoln",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Fz-109 Elgersoln (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1305",
+   "en": "Fz-109 Elgersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1305",
+   "en": "Fz-109 Elgersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1306",
+   "en": "Az-130 Panzersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of1_1306",
+   "en": "Az-130 Panzersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of2_1306",
+   "en": "Az-130 Panzersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_om0_1306",
+   "en": "Az-130 Panzersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1306",
+   "en": "Az-130 Panzersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1307",
+   "en": "FBz-99 Zaubergeran",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as FBz-99 Zaubergeran (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of1_1307",
+   "en": "FBz-99 Zaubergeran",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as FBz-99 Zaubergeran (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_of2_1307",
+   "en": "FBz-99 Zaubergeran",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as FBz-99 Zaubergeran (cross-checked with the other operators' rows)."
+  },
+  {
+   "id": "vo0_om0_1307",
+   "en": "FBz-99 Zaubergeran",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vos_mis_1307",
+   "en": "FBz-99 Zaubergeran",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vo0_of0_1308",
+   "en": "Queadluun-Rau",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper mangled the name; read as Queadluun-Rau (cross-checked with the other operators' rows)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 2721: Title word heard as 'engine/organ' (kikan); read as 'main fleet' (kikan, other kanji). Rank read as supreme commander of the main fleet.",
+   "row 2722: Title word heard as 'engine/organ' (kikan); read as 'main fleet' (kikan, other kanji). Rank read as supreme commander of the main fleet.",
+   "row 2723: Title word heard as 'engine/organ' (kikan); read as 'main fleet' (kikan, other kanji). Rank read as supreme commander of the main fleet.",
+   "row 2724: Title word heard as 'engine/organ' (kikan); read as 'main fleet' (kikan, other kanji). Rank read as supreme commander of the main fleet."
+  ],
+  "whisper_doubt": [
+   "row 2721",
+   "row 2722",
+   "row 2723",
+   "row 2724",
+   "row 2737",
+   "row 2739",
+   "row 2772",
+   "row 2777",
+   "row 2778",
+   "row 2779",
+   "row 2787",
+   "row 2795",
+   "row 2796",
+   "row 2797",
+   "row 2800"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

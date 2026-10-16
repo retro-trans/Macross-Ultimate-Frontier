@@ -1,0 +1,543 @@
+{
+ "slice": 81,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_mil_177",
+   "en": "This is the mark of an ace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_179",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_180",
+   "en": "Acknowledged.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_181",
+   "en": "Captain, you're taking hits!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_182",
+   "en": "Are you okay? Okay.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript repeats 'daijoubu', question mark only on the first; may be two questions. Kept literal."
+  },
+  {
+   "id": "vps_mil_183",
+   "en": "Captain, are you all right?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'muujika taichou'; read as 'buji ka, taichou' (the Zentradi-size sibling clip reads 'bujika taichou')."
+  },
+  {
+   "id": "vps_mil_184",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_185",
+   "en": "How dare you hit the Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_186",
+   "en": "Captain, eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_187",
+   "en": "This feeling is nice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_188",
+   "en": "How can this be?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sibling clip transcribes differently ('can't put it into words'); kept the sense of the clearer one."
+  },
+  {
+   "id": "vps_mil_189",
+   "en": "Protoculture.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_190",
+   "en": "You're quite skilled.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper no-speech warning; transcript plausible."
+  },
+  {
+   "id": "vps_mil_191",
+   "en": "Not bad. You've got skill.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'demae' (delivery); read as 'udemae' (skill)."
+  },
+  {
+   "id": "vps_mil_198",
+   "en": "Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_300",
+   "en": "Don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_301",
+   "en": "Dead weight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_302",
+   "en": "You're slow! Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_303",
+   "en": "Don't let your guard down! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_304",
+   "en": "First to the prey wins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_305",
+   "en": "I won't lose to a man.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_306",
+   "en": "I'm counting on you for support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_307",
+   "en": "Let me see what you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_308",
+   "en": "Follow me! I'll show you how an ace fights!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_309",
+   "en": "I'm counting on your skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_310",
+   "en": "Leave the support to me. Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_311",
+   "en": "Paired with me, you can do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_320",
+   "en": "You're in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_321",
+   "en": "Enough already!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'iikake ni shiro'; read as 'ii kagen ni shiro' (sibling clip confirms)."
+  },
+  {
+   "id": "vps_mil_322",
+   "en": "Too slow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_323",
+   "en": "We got through it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_324",
+   "en": "Let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_327",
+   "en": "Your support wasn't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_328",
+   "en": "Next time, I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_329",
+   "en": "As skilled as I expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_330",
+   "en": "We worked well together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_331",
+   "en": "I've taken a liking to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_340",
+   "en": "I'm enough on my own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_341",
+   "en": "I'll do as I please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_342",
+   "en": "Pointless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_343",
+   "en": "Move out. Keep up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_344",
+   "en": "I'll show you an ace's strength.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_345",
+   "en": "Can you keep up with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_346",
+   "en": "Watch my back. Follow me!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper no-speech warning; transcript plausible."
+  },
+  {
+   "id": "vps_mil_347",
+   "en": "Let me test what you can do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_348",
+   "en": "Can you surpass me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_349",
+   "en": "Move out! I'll show you a woman's power!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_350",
+   "en": "I'm taking the lead. Cover my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_351",
+   "en": "I've never felt such a rush.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_360",
+   "en": "Next time, I'm going out alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_361",
+   "en": "Were you even on the battlefield?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_362",
+   "en": "A complete waste of ammo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_363",
+   "en": "Good. Returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_364",
+   "en": "Did you see my strength?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_365",
+   "en": "You weren't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_366",
+   "en": "Come, prepare for the next battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_367",
+   "en": "I'll rely on you next time, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_369",
+   "en": "Today's operation was excellent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_370",
+   "en": "Nice skills. Next time, it's you against me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_371",
+   "en": "Two aces, huh? Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_600",
+   "en": "You're violating orders!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote an odd opening word (kabuchi?) before 'meirei ihan da zo'; first word unclear, dropped."
+  },
+  {
+   "id": "vps_mil_601",
+   "en": "So which one is the hotshot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_602",
+   "en": "That's the one?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_603",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_604",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Zentradi-style word; Whisper wrote 'debura', not understood."
+  },
+  {
+   "id": "vps_mil_605",
+   "en": "Deculture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_609",
+   "en": "Oh!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_615",
+   "en": "That enemy is strong!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_616",
+   "en": "Me, lose? Impossible!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_mil_617",
+   "en": "I am Milia, the ace!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_000",
+   "en": "Milia Fallyna, launching.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote the surname as Harina; read as Fallyna."
+  },
+  {
+   "id": "vpz_mil_001",
+   "en": "Mission acknowledged.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_002",
+   "en": "I'm heading out.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'ittekiru'; read as 'itte kuru'."
+  },
+  {
+   "id": "vpz_mil_003",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter or shout, no words."
+  },
+  {
+   "id": "vpz_mil_004",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Garbled (shin-shin-shin); the matching clip in the other version is a short snort."
+  },
+  {
+   "id": "vpz_mil_005",
+   "en": "It's useless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_006",
+   "en": "What is this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_mil_007",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter or scream, no words."
+  },
+  {
+   "id": "vpz_mil_009",
+   "en": "Finish it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Whisper wrote 'todometa'; read as 'todome da'."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 6406 vps_mil_182: Are you okay? Okay. - Transcript repeats 'daijoubu', question mark only on the first; may be two questions. Kept literal.",
+   "row 6412 vps_mil_188: How can this be? - Sibling clip transcribes differently ('can't put it into words'); kept the sense of the clearer one."
+  ],
+  "whisper_doubt": [
+   "row 6406 vps_mil_182: Transcript repeats 'daijoubu', question mark only on the first; may be two questions. Kept literal.",
+   "row 6407 vps_mil_183: Whisper wrote 'muujika taichou'; read as 'buji ka, taichou' (the Zentradi-size sibling clip reads 'bujika taichou').",
+   "row 6414 vps_mil_190: Whisper no-speech warning; transcript plausible.",
+   "row 6415 vps_mil_191: Whisper wrote 'demae' (delivery); read as 'udemae' (skill).",
+   "row 6430 vps_mil_321: Whisper wrote 'iikake ni shiro'; read as 'ii kagen ni shiro' (sibling clip confirms).",
+   "row 6445 vps_mil_346: Whisper no-speech warning; transcript plausible.",
+   "row 6462 vps_mil_600: Whisper wrote an odd opening word (kabuchi?) before 'meirei ihan da zo'; first word unclear, dropped.",
+   "row 6466 vps_mil_604: Zentradi-style word; Whisper wrote 'debura', not understood.",
+   "row 6472 vpz_mil_000: Whisper wrote the surname as Harina; read as Fallyna.",
+   "row 6474 vpz_mil_002: Whisper wrote 'ittekiru'; read as 'itte kuru'.",
+   "row 6476 vpz_mil_004: Garbled (shin-shin-shin); the matching clip in the other version is a short snort.",
+   "row 6480 vpz_mil_009: Whisper wrote 'todometa'; read as 'todome da'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

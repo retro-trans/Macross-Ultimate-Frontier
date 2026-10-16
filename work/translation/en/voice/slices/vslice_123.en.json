@@ -1,0 +1,559 @@
+{
+ "slice": 123,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpy_gos_134",
+   "en": "You damn bugs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_135",
+   "en": "Why don't you understand? This is the ultimate form of human evolution!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_136",
+   "en": "Ah... my... our dream...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_137",
+   "en": "I'm being beaten... by vermin like these?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says 'mushi-kyara' (bug characters); read as 'mushikera' (vermin)."
+  },
+  {
+   "id": "vpy_gos_138",
+   "en": "It was supposed to be the power to rule the entire universe... So why?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'suberu' (slide) read as 'suberu' = rule (kanji for 'govern')."
+  },
+  {
+   "id": "vpy_gos_175",
+   "en": "The whole galaxy is in my hands.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_176",
+   "en": "The door to the abyss opens.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_177",
+   "en": "Ah... I feel it... I feel it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_187",
+   "en": "So this is the power of song?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_188",
+   "en": "No... our dream... Our dream, defeated by a mere song...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_189",
+   "en": "Impossible! Our plan, hindered by a mere song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_600",
+   "en": "Time's up. I'm detonating the Dimension Eater. Purple One, return at once, and keep following my orders.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Spoken as a commander (male-style 'da'); Dimension Eater and Purple One not in glossary beyond Purple Flight."
+  },
+  {
+   "id": "vpy_gos_601",
+   "en": "Apostles of the Galactic Fairy: the fleet is destroyed. Hatred burns. The fold waves are their guide. Good luck, Frontier.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper transcript is garbled and run together (15 s); meaning reconstructed, wording loose."
+  },
+  {
+   "id": "vpy_gos_602",
+   "en": "I never imagined this girl was the Little Queen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_603",
+   "en": "Can you see, Ranka? Those who would violate this planet are attacking.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Ranko-san'; read as Ranka."
+  },
+  {
+   "id": "vpy_gos_604",
+   "en": "Futile struggling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_605",
+   "en": "Listen, vermin! We now hold the whole universe, through the Vajra: life the Protoculture feared, envied and mimicked!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Long line compressed to fit 178 bytes; 'shinka shite sono sugata o mo shita' is ambiguous about who imitates whom."
+  },
+  {
+   "id": "vpy_gos_606",
+   "en": "Know our power!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_607",
+   "en": "Songs mean nothing to us, who are directly linked to the Queen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_609",
+   "en": "Go, Vajra! My eyes, my ears, my limbs, with your mighty claws!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_610",
+   "en": "Why don't you understand? This is the ultimate form of human evolution!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gos_611",
+   "en": "You damn vermin!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'mushi-kyara'."
+  },
+  {
+   "id": "vpy_gos_612",
+   "en": "That's why we...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_006",
+   "en": "How could this be?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_007",
+   "en": "Impossible.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'ariana-ibaa' (garbled); same slot as 'ariemasen/arienai wa' in the other variant."
+  },
+  {
+   "id": "vpy_gra_009",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter."
+  },
+  {
+   "id": "vpy_gra_010",
+   "en": "Die.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shiinya' = 'shine' (die)."
+  },
+  {
+   "id": "vpy_gra_014",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_015",
+   "en": "Insolent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpy_gra_106",
+   "en": "Now, kneel! Before my power, equal to a god's, that rules even fate!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'hikyou shinasai / umeki' garbled; read as 'hirefuse' and 'unmei' as in 106/608."
+  },
+  {
+   "id": "vpy_gra_114",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter."
+  },
+  {
+   "id": "vpy_gra_123",
+   "en": "Vermin, wasting your effort.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'mushi-kyara'; read as 'mushikera'."
+  },
+  {
+   "id": "vpy_gra_125",
+   "en": "Defying me... what a foolish child.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_127",
+   "en": "Futile struggling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_128",
+   "en": "You're better than I expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_129",
+   "en": "You've got enough power to amuse me, I suppose.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_135",
+   "en": "Why don't you understand? This is the ultimate form of human evolution!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_136",
+   "en": "Ah... my... our dream...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_137",
+   "en": "I'm being beaten... by vermin like these?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'mushi-ki nado' garbled; read as 'mushikera-domo'."
+  },
+  {
+   "id": "vpy_gra_138",
+   "en": "It was supposed to be the power to rule the entire universe... So why...?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Kanji for 'slide' read as the homophone for 'rule'."
+  },
+  {
+   "id": "vpy_gra_177",
+   "en": "Ah... I feel it... I feel it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_189",
+   "en": "Impossible! Our plan, hindered by a mere song!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_600",
+   "en": "Time's up. I'm detonating the Dimension Eater. Purple One, return at once, and keep following my orders.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Dimension Eater and Purple One not in glossary beyond Purple Flight."
+  },
+  {
+   "id": "vpy_gra_601",
+   "en": "Apostles of the Galactic Fairy: the fleet is destroyed. Hatred burns. The fold waves are their guide. Good luck, Frontier.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Whisper transcript is garbled and run together (16 s); meaning reconstructed, wording loose."
+  },
+  {
+   "id": "vpy_gra_603",
+   "en": "Can you see, Ranka? Those who would violate this planet are attacking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_604",
+   "en": "Hmph, futile struggling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_605",
+   "en": "Listen, vermin! We now hold the whole universe, through the Vajra: life the Protoculture feared, envied and mimicked!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Long line compressed to fit 178 bytes; ambiguity as in vpy_gos_605."
+  },
+  {
+   "id": "vpy_gra_607",
+   "en": "Songs mean nothing to us, who are directly linked to the Queen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_608",
+   "en": "Now, kneel! Before my power, equal to a god's, that rules even fate!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_609",
+   "en": "Go, Vajra! My eyes, my ears, my limbs, with your mighty claws!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_611",
+   "en": "You damn vermin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpy_gra_612",
+   "en": "That's why we...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_000",
+   "en": "Looks like launch prep is complete. Launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_001",
+   "en": "Jeffrey Wilder, sortieing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_002",
+   "en": "Never thought I'd sortie as a pilot again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_003",
+   "en": "Too soft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_004",
+   "en": "They think little of me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_005",
+   "en": "Weak!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_006",
+   "en": "What the...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_007",
+   "en": "I must recover at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_008",
+   "en": "I've got to shake off this rust.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_009",
+   "en": "One more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_010",
+   "en": "This one's going to hurt!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_011",
+   "en": "Now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_012",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_013",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpf_jef_014",
+   "en": "You got me, I'll give you that.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'yatte kureru': annoyed or admiring; read as grudging respect."
+  },
+  {
+   "id": "vpf_jef_015",
+   "en": "No problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_016",
+   "en": "Did I let my guard down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_017",
+   "en": "It only grazed me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_018",
+   "en": "I've still got more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_019",
+   "en": "I won't miss this opening!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_020",
+   "en": "Sorry about that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_100",
+   "en": "Everyone, show your full strength!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_101",
+   "en": "Sadly, this is no exercise. Battle stations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_102",
+   "en": "I'll show you how a veteran fights.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_103",
+   "en": "This takes me back to my youth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_104",
+   "en": "Going into intercept mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_105",
+   "en": "Target acquired.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9772 (vpy_gos_600): Spoken as a commander (male-style 'da'); Dimension Eater and Purple One not in glossary beyond Purple Flight.",
+   "row 9773 (vpy_gos_601): Whisper transcript is garbled and run together (15 s); meaning reconstructed, wording loose.",
+   "row 9777 (vpy_gos_605): Long line compressed to fit 178 bytes; 'shinka shite sono sugata o mo shita' is ambiguous about who imitates whom.",
+   "row 9804 (vpy_gra_600): Dimension Eater and Purple One not in glossary beyond Purple Flight.",
+   "row 9805 (vpy_gra_601): Whisper transcript is garbled and run together (16 s); meaning reconstructed, wording loose.",
+   "row 9808 (vpy_gra_605): Long line compressed to fit 178 bytes; ambiguity as in vpy_gos_605.",
+   "row 9828 (vpf_jef_014): 'yatte kureru': annoyed or admiring; read as grudging respect."
+  ],
+  "whisper_doubt": [
+   "row 9764 (vpy_gos_137): Transcript says 'mushi-kyara' (bug characters); read as 'mushikera' (vermin).",
+   "row 9765 (vpy_gos_138): Transcript 'suberu' (slide) read as 'suberu' = rule (kanji for 'govern').",
+   "row 9773 (vpy_gos_601): Whisper transcript is garbled and run together (15 s); meaning reconstructed, wording loose.",
+   "row 9775 (vpy_gos_603): Transcript 'Ranko-san'; read as Ranka.",
+   "row 9782 (vpy_gos_611): Transcript 'mushi-kyara'.",
+   "row 9785 (vpy_gra_007): Transcript 'ariana-ibaa' (garbled); same slot as 'ariemasen/arienai wa' in the other variant.",
+   "row 9787 (vpy_gra_010): Transcript 'shiinya' = 'shine' (die).",
+   "row 9791 (vpy_gra_106): Transcript 'hikyou shinasai / umeki' garbled; read as 'hirefuse' and 'unmei' as in 106/608.",
+   "row 9793 (vpy_gra_123): Transcript 'mushi-kyara'; read as 'mushikera'.",
+   "row 9800 (vpy_gra_137): Transcript 'mushi-ki nado' garbled; read as 'mushikera-domo'.",
+   "row 9801 (vpy_gra_138): Kanji for 'slide' read as the homophone for 'rule'.",
+   "row 9805 (vpy_gra_601): Whisper transcript is garbled and run together (16 s); meaning reconstructed, wording loose."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

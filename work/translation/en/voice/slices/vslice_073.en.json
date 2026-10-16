@@ -1,0 +1,530 @@
+{
+ "slice": 73,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_hyo_328",
+   "en": "Glad we made it back alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_329",
+   "en": "Now I'll show you somewhere nice!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_330",
+   "en": "Wow! You're a genius! That was amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_331",
+   "en": "We're invincible! Hahaha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_340",
+   "en": "Teaming up with a girl on a battlefield, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_341",
+   "en": "A girl's fine, but I'll pass on dying together.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'shinju' (pearl); read as 'shinjuu' (double suicide)."
+  },
+  {
+   "id": "vps_hyo_342",
+   "en": "I'd rather have met you somewhere else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_343",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_344",
+   "en": "Sortieing with a girl? Now that's great!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_345",
+   "en": "Don't get scared over an op this easy! Hahaha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_346",
+   "en": "You'll be fine with me. Count on me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_347",
+   "en": "I'll back you up perfectly! Rest easy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_348",
+   "en": "Leave some to me, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_349",
+   "en": "No need to be shy just because you're fighting with me. Hahaha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_350",
+   "en": "Does this count as a date? Ha ha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_351",
+   "en": "Looks like spring has come for me too! Let's do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_360",
+   "en": "Phew, we somehow made it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_361",
+   "en": "Wow, miracles really do exist.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_362",
+   "en": "Please, go easy on me next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_363",
+   "en": "Shall we head back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_364",
+   "en": "Done, done!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kanryo kanryotta'; likely 'kanryo, kanryo-tto'."
+  },
+  {
+   "id": "vps_hyo_365",
+   "en": "It ended safely, didn't it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_367",
+   "en": "A strong girl? That's good too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_368",
+   "en": "Let me team up with you next time, too!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'goshicho' (viewing); likely 'goissho' (together)."
+  },
+  {
+   "id": "vps_hyo_369",
+   "en": "Wow! We were an invincible duo! Hahaha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_370",
+   "en": "So, how about coming somewhere nice with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_371",
+   "en": "Here it comes! So this is what they call my big chance!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'kore ga koitte yatsu ka'; meaning guessed (maybe 'moteki'/popularity)."
+  },
+  {
+   "id": "vps_hyo_600",
+   "en": "Same here!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Short reply, context not available."
+  },
+  {
+   "id": "vps_hyo_604",
+   "en": "Ah, my steak...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_605",
+   "en": "It's no good! We won't make it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_606",
+   "en": "Maybe it's because I got a girlfriend? Hahaha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_607",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Groaning, no words."
+  },
+  {
+   "id": "vps_hyo_615",
+   "en": "If I take down the captain, I can be captain too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_616",
+   "en": "Guess I'm still not captain material.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hyo_617",
+   "en": "Hahaha! I guess I'm the captain from now on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_000",
+   "en": "Launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_001",
+   "en": "Vermillion 1, launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_002",
+   "en": "Hikaru Ichijyo, taking off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_003",
+   "en": "Well then, shall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_004",
+   "en": "Like hell!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_005",
+   "en": "Hey, look out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_006",
+   "en": "That was close!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'attaatta' (found it); probably 'abunakatta' (that was close)."
+  },
+  {
+   "id": "vps_hik_008",
+   "en": "Whoa, whoa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_009",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_010",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_011",
+   "en": "How about this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_012",
+   "en": "Ow, that hurts!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_013",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream, no words."
+  },
+  {
+   "id": "vps_hik_014",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt, no words."
+  },
+  {
+   "id": "vps_hik_016",
+   "en": "Whoa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_017",
+   "en": "Not yet!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'mazu da'; likely 'mada da' (not yet)."
+  },
+  {
+   "id": "vps_hik_018",
+   "en": "Shut up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_019",
+   "en": "Eat this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_020",
+   "en": "Take that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_100",
+   "en": "I'll do it, Minmay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_101",
+   "en": "Whoa, it's started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_102",
+   "en": "Starting the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_103",
+   "en": "You're slow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_104",
+   "en": "Got you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_105",
+   "en": "Well, shall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_106",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Battle shout, no words."
+  },
+  {
+   "id": "vps_hik_108",
+   "en": "Take this, too!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'kore demo kuree'; likely 'kore demo kurae' (eat this)."
+  },
+  {
+   "id": "vps_hik_109",
+   "en": "Finish it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_110",
+   "en": "Alright, almost there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_111",
+   "en": "Geez, you're persistent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_112",
+   "en": "I can do it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_113",
+   "en": "I can't keep playing with you forever!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_114",
+   "en": "Next!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_115",
+   "en": "The enemy's over here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_116",
+   "en": "Here they come!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_117",
+   "en": "What, enemies?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_118",
+   "en": "Finally took care of them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_119",
+   "en": "Phew, that's one done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_120",
+   "en": "Yeah, I took it down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_121",
+   "en": "The shield's busted, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_122",
+   "en": "Aw, my shield's broken.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_123",
+   "en": "My shield! Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_124",
+   "en": "I won't go down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vps_hik_125",
+   "en": "Tch.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 5787: Heard 'kore ga koitte yatsu ka'; meaning guessed (maybe 'moteki'/popularity).",
+   "row 5788: Short reply, context not available."
+  ],
+  "whisper_doubt": [
+   "row 5766: Heard 'shinju' (pearl); read as 'shinjuu' (double suicide).",
+   "row 5781: Heard 'kanryo kanryotta'; likely 'kanryo, kanryo-tto'.",
+   "row 5784: Heard 'goshicho' (viewing); likely 'goissho' (together).",
+   "row 5787: Heard 'kore ga koitte yatsu ka'; meaning guessed (maybe 'moteki'/popularity).",
+   "row 5802: Heard 'attaatta' (found it); probably 'abunakatta' (that was close).",
+   "row 5812: Heard 'mazu da'; likely 'mada da' (not yet).",
+   "row 5823: Heard 'kore demo kuree'; likely 'kore demo kurae' (eat this)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

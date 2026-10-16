@@ -1,0 +1,635 @@
+{
+ "slice": 89,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpz_bti_340",
+   "en": "Somehow, I can't trust women.",
+   "flags": [],
+   "notes": "Explicit in the line."
+  },
+  {
+   "id": "vpz_bti_341",
+   "en": "Why must I fight alongside you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_342",
+   "en": "Just concentrate on staying out of my way.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'senen shiyou' (I will) probably 'senen shiro' (you do)."
+  },
+  {
+   "id": "vpz_bti_343",
+   "en": "This operation absolutely cannot fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_344",
+   "en": "Follow my orders and there'll be no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_345",
+   "en": "The operation's starting. Focus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_346",
+   "en": "You, take the support role!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_347",
+   "en": "I'm expecting great things from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_348",
+   "en": "Show me everything you've got!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_349",
+   "en": "W-what is this? This feeling I have toward you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_350",
+   "en": "With you here, the operation's success is assured!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_351",
+   "en": "Perhaps I'll follow you for once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_360",
+   "en": "To think you were the only one who could sortie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_361",
+   "en": "What on earth were you doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_362",
+   "en": "I'll ask you not to get in the way anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_363",
+   "en": "You seem to be safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_364",
+   "en": "I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_365",
+   "en": "You carried out the operation without a hitch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'nanaki' read as 'nanaku'."
+  },
+  {
+   "id": "vpz_bti_366",
+   "en": "I've seen plenty of your skill.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'moratteta' read as 'moratta'."
+  },
+  {
+   "id": "vpz_bti_367",
+   "en": "Your fighting is rather pleasing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_368",
+   "en": "I never thought you'd be this good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_369",
+   "en": "I'm beginning to feel Culture myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_370",
+   "en": "To think I'd feel joy fighting alongside you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_371",
+   "en": "Deculture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_615",
+   "en": "Who are you?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_616",
+   "en": "Ngh... is this as far as I go?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'nii, watashi wa koko made iru'; guessed 'nuu, watashi wa koko made ka'."
+  },
+  {
+   "id": "vpz_bti_617",
+   "en": "Did you think you could defeat me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_620",
+   "en": "Vrlitwhai, Adoclass Fleet, to Macross. We will now cover your ship.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Opening garbled (likely 'Vrlitwhai'); the kanji for 'engine/organ' read as the homophone 'kikan' (your ship). 'Adoclass Fleet' is not in the glossary."
+  },
+  {
+   "id": "vpz_bti_621",
+   "en": "To all who hear Lynn Minmay's song: we have only one enemy. Defeat Golg Boddole Zer and take back Culture!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Rinmin mei no uta' read as 'Rin Minmei no uta'."
+  },
+  {
+   "id": "vpz_bti_622",
+   "en": "What is this lack of discipline? Utter barbarians. Hm? So they did pick up a Supervision Army ship.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'mikaiji doku' read as 'mikaijin'; 'kansatsu-gun' = Supervision Army."
+  },
+  {
+   "id": "vpz_bti_623",
+   "en": "Took the bait! Move to the predicted battle zone!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'yosokusen' read as 'yosoku seniki' (predicted battle area)."
+  },
+  {
+   "id": "vpz_bti_624",
+   "en": "So these are the enemy ship's Micronians?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'maikuromu' read as 'maikuroon' (Micronian); the line may mean something else."
+  },
+  {
+   "id": "vpz_bti_625",
+   "en": "The time has finally come. It must be done. All-out attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_626",
+   "en": "My fleet will negotiate a ceasefire with the Micronians.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'teisen' written as 'sadamesen'."
+  },
+  {
+   "id": "vpz_bti_627",
+   "en": "Very well. If the song is played, my soldiers' morale will rise too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_628",
+   "en": "Keep up the bombardment!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_629",
+   "en": "Try doing this thing called a kiss. Heh heh. Just joking.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kisuu' (odd number) read as 'kisu' (kiss)."
+  },
+  {
+   "id": "vpz_bti_630",
+   "en": "Hoh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_631",
+   "en": "Good, good.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'yoriyori'; read as 'yoshiyoshi'."
+  },
+  {
+   "id": "vpz_bti_632",
+   "en": "Fine flying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_ipn_006",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Whisper hallucination ('subtitle comment'); no real words."
+  },
+  {
+   "id": "vpi_max_000",
+   "en": "Maximilian Jenius, launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_001",
+   "en": "All right, here I go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_003",
+   "en": "Whoa there!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Repeated 'otto'."
+  },
+  {
+   "id": "vpi_max_007",
+   "en": "Not like this!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'konna kudo kudo...'; repetition artifact after 'konna'."
+  },
+  {
+   "id": "vpi_max_011",
+   "en": "Yes!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'sorezore'; guessed 'sore!'/an exclamation of success."
+  },
+  {
+   "id": "vpi_max_014",
+   "en": "They hit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_015",
+   "en": "Huh?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Repetition artifact."
+  },
+  {
+   "id": "vpi_max_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Chuckle."
+  },
+  {
+   "id": "vpi_max_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Exclamation."
+  },
+  {
+   "id": "vpi_max_018",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Giggle."
+  },
+  {
+   "id": "vpi_max_019",
+   "en": "Here you go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_020",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Effort sounds."
+  },
+  {
+   "id": "vpi_max_102",
+   "en": "Right, let's go!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'yosshiiko'; guessed 'yoshi, ikou'."
+  },
+  {
+   "id": "vpi_max_105",
+   "en": "Here they come!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'kuruka'; read as 'kuru ka' (coming?)."
+  },
+  {
+   "id": "vpi_max_106",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_108",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_113",
+   "en": "Too slow!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'osoyo'; read as 'osoi yo'."
+  },
+  {
+   "id": "vpi_max_115",
+   "en": "May I have a match with you?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'negainaki' read as 'negaou ka'."
+  },
+  {
+   "id": "vpi_max_117",
+   "en": "There they are!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Repetition artifact on 'ita'."
+  },
+  {
+   "id": "vpi_max_119",
+   "en": "One down!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'ichiban yarimaasu'; guessed 'ichi ki yarimashita'."
+  },
+  {
+   "id": "vpi_max_121",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Breathing."
+  },
+  {
+   "id": "vpi_max_122",
+   "en": "My shield's broken!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_124",
+   "en": "Uh-oh, this is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_125",
+   "en": "Oh, how interesting!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'amoshiraishirai...'; repetition artifact over 'omoshiroi'."
+  },
+  {
+   "id": "vpi_max_126",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Chuckle."
+  },
+  {
+   "id": "vpi_max_127",
+   "en": "What are you doing?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'nanyosuru'; read as 'nani o suru'."
+  },
+  {
+   "id": "vpi_max_130",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vpi_max_132",
+   "en": "How outrageous!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'nante chara nanda'; reading uncertain."
+  },
+  {
+   "id": "vpi_max_135",
+   "en": "I can't dodge it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_136",
+   "en": "Is this as far as I go?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'boku mo koko made ni naru'; read as 'koko made ka'."
+  },
+  {
+   "id": "vpi_max_137",
+   "en": "A genius, huh... I guess I'm not one after all.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ambiguous: Max may be commenting on the enemy rather than himself."
+  },
+  {
+   "id": "vpi_max_139",
+   "en": "I told you not to let your guard down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_140",
+   "en": "Get out of there, quick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_142",
+   "en": "What?! Shot down?!",
+   "flags": [],
+   "notes": "Unclear who was hit; kept ambiguous."
+  },
+  {
+   "id": "vpi_max_144",
+   "en": "Well, this is trouble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpi_max_149",
+   "en": "Reinforcements?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'shinban'; guessed from the situation (149 is the reinforcement line for other pilots)."
+  },
+  {
+   "id": "vpi_max_151",
+   "en": "They got me!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Repetition artifact on 'yarareta'."
+  },
+  {
+   "id": "vpi_max_153",
+   "en": "I couldn't protect them...",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Heard 'bokura ni naru'; guessed from 153 for other pilots."
+  },
+  {
+   "id": "vpi_max_155",
+   "en": "Mission complete.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 7066 (vpz_bti_616): Heard 'nii, watashi wa koko made iru'; guessed 'nuu, watashi wa koko made ka'.",
+   "row 7070 (vpz_bti_622): 'mikaiji doku' read as 'mikaijin'; 'kansatsu-gun' = Supervision Army.",
+   "row 7071 (vpz_bti_623): 'yosokusen' read as 'yosoku seniki' (predicted battle area).",
+   "row 7072 (vpz_bti_624): 'maikuromu' read as 'maikuroon' (Micronian); the line may mean something else.",
+   "row 7085 (vpi_max_007): Heard 'konna kudo kudo...'; repetition artifact after 'konna'.",
+   "row 7086 (vpi_max_011): Heard 'sorezore'; guessed 'sore!'/an exclamation of success.",
+   "row 7094 (vpi_max_102): Heard 'yosshiiko'; guessed 'yoshi, ikou'.",
+   "row 7095 (vpi_max_105): Heard 'kuruka'; read as 'kuru ka' (coming?).",
+   "row 7098 (vpi_max_113): Heard 'osoyo'; read as 'osoi yo'.",
+   "row 7101 (vpi_max_119): Heard 'ichiban yarimaasu'; guessed 'ichi ki yarimashita'.",
+   "row 7105 (vpi_max_125): Heard 'amoshiraishirai...'; repetition artifact over 'omoshiroi'.",
+   "row 7109 (vpi_max_132): Heard 'nante chara nanda'; reading uncertain.",
+   "row 7112 (vpi_max_137): Ambiguous: Max may be commenting on the enemy rather than himself.",
+   "row 7117 (vpi_max_149): Heard 'shinban'; guessed from the situation (149 is the reinforcement line for other pilots).",
+   "row 7119 (vpi_max_153): Heard 'bokura ni naru'; guessed from 153 for other pilots."
+  ],
+  "whisper_doubt": [
+   "row 7043 (vpz_bti_342): 'senen shiyou' (I will) probably 'senen shiro' (you do).",
+   "row 7058 (vpz_bti_365): 'nanaki' read as 'nanaku'.",
+   "row 7059 (vpz_bti_366): 'moratteta' read as 'moratta'.",
+   "row 7066 (vpz_bti_616): Heard 'nii, watashi wa koko made iru'; guessed 'nuu, watashi wa koko made ka'.",
+   "row 7068 (vpz_bti_620): Opening garbled (likely 'Vrlitwhai'); the kanji for 'engine/organ' read as the homophone 'kikan' (your ship). 'Adoclass Fleet' is not in the glossary.",
+   "row 7069 (vpz_bti_621): 'Rinmin mei no uta' read as 'Rin Minmei no uta'.",
+   "row 7070 (vpz_bti_622): 'mikaiji doku' read as 'mikaijin'; 'kansatsu-gun' = Supervision Army.",
+   "row 7071 (vpz_bti_623): 'yosokusen' read as 'yosoku seniki' (predicted battle area).",
+   "row 7072 (vpz_bti_624): 'maikuromu' read as 'maikuroon' (Micronian); the line may mean something else.",
+   "row 7074 (vpz_bti_626): 'teisen' written as 'sadamesen'.",
+   "row 7077 (vpz_bti_629): 'kisuu' (odd number) read as 'kisu' (kiss).",
+   "row 7079 (vpz_bti_631): Heard 'yoriyori'; read as 'yoshiyoshi'.",
+   "row 7081 (vpz_ipn_006): Whisper hallucination ('subtitle comment'); no real words.",
+   "row 7084 (vpi_max_003): Repeated 'otto'.",
+   "row 7085 (vpi_max_007): Heard 'konna kudo kudo...'; repetition artifact after 'konna'.",
+   "row 7086 (vpi_max_011): Heard 'sorezore'; guessed 'sore!'/an exclamation of success.",
+   "row 7088 (vpi_max_015): Repetition artifact.",
+   "row 7094 (vpi_max_102): Heard 'yosshiiko'; guessed 'yoshi, ikou'.",
+   "row 7095 (vpi_max_105): Heard 'kuruka'; read as 'kuru ka' (coming?).",
+   "row 7098 (vpi_max_113): Heard 'osoyo'; read as 'osoi yo'.",
+   "row 7099 (vpi_max_115): 'negainaki' read as 'negaou ka'.",
+   "row 7100 (vpi_max_117): Repetition artifact on 'ita'.",
+   "row 7101 (vpi_max_119): Heard 'ichiban yarimaasu'; guessed 'ichi ki yarimashita'.",
+   "row 7105 (vpi_max_125): Heard 'amoshiraishirai...'; repetition artifact over 'omoshiroi'.",
+   "row 7107 (vpi_max_127): Heard 'nanyosuru'; read as 'nani o suru'.",
+   "row 7109 (vpi_max_132): Heard 'nante chara nanda'; reading uncertain.",
+   "row 7111 (vpi_max_136): Heard 'boku mo koko made ni naru'; read as 'koko made ka'.",
+   "row 7117 (vpi_max_149): Heard 'shinban'; guessed from the situation (149 is the reinforcement line for other pilots).",
+   "row 7118 (vpi_max_151): Repetition artifact on 'yarareta'.",
+   "row 7119 (vpi_max_153): Heard 'bokura ni naru'; guessed from 153 for other pilots."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "row 7068: Opening garbled (likely 'Vrlitwhai'); the kanji for 'engine/organ' read as the homophone 'kikan' (your ship). 'Adoclass Fleet' is not in the glossary."
+  ],
+  "unfinished": []
+ }
+}

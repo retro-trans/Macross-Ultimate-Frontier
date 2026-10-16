@@ -1,0 +1,529 @@
+{
+ "slice": 124,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpf_jef_106",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_107",
+   "en": "Allow me to end this here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_108",
+   "en": "This one settles it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_109",
+   "en": "Sorry, but I'm taking you down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_110",
+   "en": "I'll finish it right here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_111",
+   "en": "I won't let my guard down until the end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_112",
+   "en": "Looks like you underestimated me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_113",
+   "en": "I'll keep going at this pace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_114",
+   "en": "You lacked the experience to take me on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_115",
+   "en": "I'll take the biggest prey myself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_116",
+   "en": "That seems to be our target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_117",
+   "en": "Leave that one to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_118",
+   "en": "Target shot down, confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_119",
+   "en": "I have to handle at least this much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_120",
+   "en": "Looks like I haven't lost my touch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_121",
+   "en": "The shield's gone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_122",
+   "en": "I won't back down over a mere shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_123",
+   "en": "I never expected the shield to be destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_124",
+   "en": "I only fight battles I can win.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shousan' (praise); read as 'shousan' = chance of winning."
+  },
+  {
+   "id": "vpf_jef_125",
+   "en": "Still moving fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_126",
+   "en": "That won't bring me down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_127",
+   "en": "The enemy is quite good, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_128",
+   "en": "I can't whine over this much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_129",
+   "en": "We need a move to break this situation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_130",
+   "en": "This is where it gets serious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_131",
+   "en": "It's a bit early to give up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_132",
+   "en": "I haven't felt this tension in a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_133",
+   "en": "I never thought I'd be driven this far.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_134",
+   "en": "I must decide my own path.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'yuku sei' garbled; guessed 'yukusue' (fate) / 'hikigiwa' (when to retreat)."
+  },
+  {
+   "id": "vpf_jef_135",
+   "en": "There's still a chance! I can't give up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_136",
+   "en": "Looks like this is as far as I go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_137",
+   "en": "I suppose I can't fight like I did in my youth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_138",
+   "en": "I never imagined it would end like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_139",
+   "en": "Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_140",
+   "en": "Calm down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_141",
+   "en": "Assess the situation calmly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_142",
+   "en": "Eject at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_143",
+   "en": "If you get shot down--",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Trails off in the clip."
+  },
+  {
+   "id": "vpf_jef_144",
+   "en": "I won't let your efforts go to waste.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_148",
+   "en": "Thanks for the backup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_149",
+   "en": "Don't let this attack chance slip!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_150",
+   "en": "Reinforcements now. Let's see how the battle changes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_151",
+   "en": "The sacrifices were far too many.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_152",
+   "en": "If only I'd had more strength.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_153",
+   "en": "I can't let the situation get any worse.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_154",
+   "en": "I thank you all for your work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_155",
+   "en": "I can't lose to the young ones yet! Ha ha ha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_156",
+   "en": "The operation looks like a success. All forces, return!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_157",
+   "en": "Out of time... I'm getting old.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_158",
+   "en": "What a thing... out of time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_159",
+   "en": "Out of time! All forces, withdraw at once!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shougun' (general) read as 'zengun' (all forces)."
+  },
+  {
+   "id": "vpf_jef_160",
+   "en": "You all did well. This is all my responsibility.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_161",
+   "en": "I never thought failure awaited us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_162",
+   "en": "I've lost my edge.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'iyake ga mawatta' read as idiom 'yaki ga mawatta' (lost one's edge)."
+  },
+  {
+   "id": "vpf_jef_163",
+   "en": "Switch to cover fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_164",
+   "en": "You'll take rear support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_165",
+   "en": "Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_166",
+   "en": "You'll take the front line.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_167",
+   "en": "Charge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_168",
+   "en": "Move up and put pressure on the enemy!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'yoto' garbled; read as 'atsuryoku' (pressure)."
+  },
+  {
+   "id": "vpf_jef_169",
+   "en": "Fall back and size up the battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_170",
+   "en": "Fall back! There's no need to rush to your death!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_171",
+   "en": "You're too far forward!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_172",
+   "en": "Those who take pride in their own wings, advance with me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_173",
+   "en": "Let's see your trump card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_174",
+   "en": "Show your strength!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_175",
+   "en": "Let's go, you lot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_176",
+   "en": "Don't underestimate me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_177",
+   "en": "I'll get a little serious!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_178",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Single grunt (n)."
+  },
+  {
+   "id": "vpf_jef_179",
+   "en": "Understood!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'hokorareta' (was praised); probably 'makasareta' / acknowledgement, matching the 178-180 group."
+  },
+  {
+   "id": "vpf_jef_180",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_181",
+   "en": "I need you to pull a bit more weight, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_182",
+   "en": "The Captain's in danger at this rate.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'taichou' written with kanji for 'physical condition'; read as 'captain'."
+  },
+  {
+   "id": "vpf_jef_183",
+   "en": "I've been asking too much of the Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_184",
+   "en": "Pass the Captain's command to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_185",
+   "en": "So the Captain's been shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_186",
+   "en": "No time to grieve. We'll fight on for the Captain, too.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'taishou' (target) read as 'taichou' (captain)."
+  },
+  {
+   "id": "vpf_jef_187",
+   "en": "A song... It takes me back to my youth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpf_jef_188",
+   "en": "Fighting in the face of this song is rather crude.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9869 (vpf_jef_134): Transcript 'yuku sei' garbled; guessed 'yukusue' (fate) / 'hikigiwa' (when to retreat).",
+   "row 9878 (vpf_jef_143): Trails off in the clip.",
+   "row 9911 (vpf_jef_179): Transcript 'hokorareta' (was praised); probably 'makasareta' / acknowledgement, matching the 178-180 group."
+  ],
+  "whisper_doubt": [
+   "row 9859 (vpf_jef_124): Transcript 'shousan' (praise); read as 'shousan' = chance of winning.",
+   "row 9869 (vpf_jef_134): Transcript 'yuku sei' garbled; guessed 'yukusue' (fate) / 'hikigiwa' (when to retreat).",
+   "row 9891 (vpf_jef_159): Transcript 'shougun' (general) read as 'zengun' (all forces).",
+   "row 9894 (vpf_jef_162): Transcript 'iyake ga mawatta' read as idiom 'yaki ga mawatta' (lost one's edge).",
+   "row 9900 (vpf_jef_168): Transcript 'yoto' garbled; read as 'atsuryoku' (pressure).",
+   "row 9911 (vpf_jef_179): Transcript 'hokorareta' (was praised); probably 'makasareta' / acknowledgement, matching the 178-180 group.",
+   "row 9914 (vpf_jef_182): Transcript 'taichou' written with kanji for 'physical condition'; read as 'captain'.",
+   "row 9918 (vpf_jef_186): Transcript 'taishou' (target) read as 'taichou' (captain)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}
