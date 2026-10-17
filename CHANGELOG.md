@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.7.3] - 2026-10-17 (test build, not released)
+
+### Added
+- **Title screen shows the build version and the group name** in the bottom-right corner, as in the other retro-trans releases: "v0.7.3" over "github.com / retro-trans", white with a dark outline, drawn into `data/menu/title/title.gim` next to the English copyright lines.
+  - `work/ui/redraw_layout.json`: two items on `title.gim` with their own `text`, right-aligned in boxes (356, 246, 120×11) and (316, 258, 160×11), erase mode `keep`.
+  - `tools/redraw_images.py`: an item's `text` may contain `{version}`, filled from the new `--version` option (default `dev`); `tools/build_iso.py` passes its build version.
+- Includes the 0.7.2 fix (friendly units shown as enemies).
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.3).iso`, built with `python tools/build_iso.py 0.7.3 --work work/output/build_0.7.3 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.3.log`).
+
+## [0.7.2] - 2026-10-17 (test build, not released)
+
+### Fixed
+- **Friendly units shown as enemies in some missions** (every build with the EBOOT text, 0.5.0-0.7.1): in missions whose unit placement file has the extra column (89 of the 246 files), wingmen and allies had red "EN" tags in the unit list and red marks on the radar; for example Ozma Lee in the first Frontier mission, "Close Encounter" (MF_310). Cause: the EBOOT string 追加装備 ("Add-on Equipment", eboot:3B2978, row u2297) is not only a label but a column name of the unit placement files `data/locate/*.csv`. The game compares header cell 4 with it (code at 0x1C1B20 and 0x1C3564) to tell the files with that extra column from the others; translated, those files were read with the wrong layout, so every later column (side, team, AI...) was off by one. The string now stays Japanese; it is never shown in game. Same bug as in the Macross Triangle Frontier translation (its 0.1.19).
+  - `tools/dump_eboot.py`: `NOT_TEXT` entry for vaddr 0x3B28D8; NOT_TEXT strings now carry `not_text`.
+  - `tools/build_ui.py`: such strings stay as a row with status `not_text` (row ids do not shift) and no English; `tools/ui_slice.py` skips them in `check`, `merge` and `export`, so `ui_insert.json` no longer writes it.
+  - Checked: no other translated EBOOT string is a CSV header in the game data; the only whole-cell matches are unit display names in `locate/*.csv` (translated there too) and the `COMMENT` column of `path/*.csv`.
+  - Missed by the 0.7.1 playtest because the first Zero mission (MZ_310) uses a file without the extra column.
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.2).iso`, built with `python tools/build_iso.py 0.7.2 --work work/output/build_0.7.2 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.2.log`). EBOOT: 3,508 of 3,575 strings, loader check ok. 2,216,732,672 bytes (appended layout, not yet re-laid out with `tools/relayout_iso.py`), SHA-256 `123677EA69379F87C0D1A7841FD62BF21197FD48A308683C88FD7613A73BDB18`.
+- Checked in PPSSPP 1.20.4 in "Close Encounter" (MF_310) against the Japanese game and 0.7.1: Ozma Lee now has the green "FR" tag and allies are green on the radar, as in the original; 0.7.1 showed a red "EN" tag (`work/ui/screens_0.7.2/`, local). Only that mission was played.
+
 ## [0.7.1] - 2026-10-16 (first public release)
 
 Same game content as 0.7.0, in the original disc layout.

@@ -223,6 +223,14 @@ with `デモ用` / `顔絵用` / `ダミー` are internal. Whether the rest are 
 game (lock-on labels?) has not been confirmed. 1,070 rows, 205 distinct
 names. The other columns are AI and placement data.
 
+89 of the 246 files have an extra column `追加装備` (add-on equipment) as the
+fifth column; the other columns move one to the right. The game tells the two
+layouts apart by comparing header cell 4 with the EBOOT string `追加装備`
+(vaddr 0x3B28D8, read at 0x1C1B20 and 0x1C3564). That string must stay
+Japanese: translated (0.5.0-0.7.1), the files with the column were read with
+the short layout, so allied units in those missions (for example the first
+Frontier mission, MF_310) had red "EN" tags and red radar marks.
+
 ### Not covered by the dump
 
 - **EBOOT.BIN**: system messages, menu labels, option and save texts are in
@@ -395,6 +403,10 @@ has these fields:
   strings can move, but their old bytes must stay.
 - `in_place`: never moved. This covers the pilot table and the ASCII map at
   0x347E4C (`note` says which).
+- `not_text`: data, not text (`NOT_TEXT` in the tool): the ASCII map and
+  `追加装備` at 0x3B28D8, a column name of `data/locate/*.csv` (section 3
+  above). `build_ui.py` keeps them as rows with status `not_text` that are
+  never inserted.
 
 Totals: 3,277 strings are reached only through pointer words (4,507 words:
 3,360 in `.rodata` tables, 1,147 in `.data` structs), 147 strings also through

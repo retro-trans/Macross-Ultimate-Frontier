@@ -21,6 +21,9 @@ Skipped, never translated:
     renderer's ASCII glyph map (eboot:347EEC)
   - one-character tails of a longer string (tail_of)
   - internal unit-list labels: デモ用 / 顔絵用 / ダミー / 削除 / テスト / 予定
+Kept as a row with status "not_text" (so row ids do not shift) but never translated or
+inserted: EBOOT strings marked not_text by dump_eboot.py (NOT_TEXT) that the game compares
+against data, e.g. eboot:3B2978, a column name of data/locate/*.csv.
 
 Byte limits: EBOOT strings flagged in_place (pilot table) or inline_copy must be
 rewritten in place, so "max_bytes" = capacity - 1 (Shift-JIS bytes; ASCII = 1).
@@ -63,6 +66,8 @@ def main():
         o = {"id": x["id"], "ref": {"file": "EBOOT.BIN", "offset": x["offset"], "bytes": x["bytes"]}}
         if x.get("in_place") or x.get("inline_copy"):
             o["max_bytes"] = x["capacity"] - 1
+        if x.get("not_text"):
+            o["not_text"] = True
         occ.append(("eboot@%04X" % (x["offset"] >> 12), x["jp"], o))
     for x in json.load(open(os.path.join(TEXT, "menu_text.json"), encoding="utf-8")):
         if x["id"] in done or not x["jp"]:
@@ -107,7 +112,10 @@ def main():
         r["row"], r["slice"] = i, sl
         r["id"] = "u%04d" % i
         o = old.get(r["jp"], {})
-        if o.get("en"):
+        if all(x.get("not_text") for x in r["occ"]):
+            r["en"], r["flags"], r["notes"], r["status"] = "", [], "not text: " + "; ".join(
+                x["id"] for x in r["occ"]) + " is compared against game data (tools/dump_eboot.py NOT_TEXT)", "not_text"
+        elif o.get("en"):
             r["en"], r["flags"], r["notes"], r["status"] = o["en"], o.get("flags", []), o.get("notes", ""), o.get("status", "done")
         elif r["jp"] in tm:
             r["en"], r["flags"], r["notes"], r["status"] = tm[r["jp"]], [], "prefilled from dialogue translation", "tm"

@@ -30,6 +30,7 @@ Every entry has:
   refs      every reference, see docs/formats.md for the fields
   in_place  a field of a struct array (pilot table) or a lookup table
             (`note` says which): edit in place only
+  not_text  data, not text (NOT_TEXT below; `note` says why): never edit
   inline_copy  code reads the bytes directly (an inlined strcpy of fixed
             length): moving or lengthening the string is not enough
   tails     ids of the merged Japanese tails inside this string
@@ -57,8 +58,12 @@ MEM_OPS = {0x20: "lb", 0x21: "lh", 0x22: "lwl", 0x23: "lw", 0x24: "lbu", 0x25: "
            0x26: "lwr", 0x28: "sb", 0x29: "sh", 0x2A: "swl", 0x2B: "sw", 0x2E: "swr",
            0x31: "lwc1", 0x39: "swc1", 0x32: "lv.s", 0x36: "lv.q", 0x3A: "sv.s", 0x3E: "sv.q"}
 MAX_STRING = 4096
-# Lookup tables that decode as text but are read by position: never moved
-NOT_TEXT = {0x347E4C: "ASCII to full-width map of the text renderer (patched by tools/vwf_build.py)"}
+# Lookup tables that decode as text but are read by position, and strings the game compares
+# against data: never moved, never translated
+NOT_TEXT = {0x347E4C: "ASCII to full-width map of the text renderer (patched by tools/vwf_build.py)",
+            0x3B28D8: "CSV column name looked up in data/locate/*.csv (read at 0x1C1B20 and 0x1C3564): "
+                      "translated, the parser loses the column and misreads the unit's side (friendly "
+                      "units shown as enemies, 0.5.0-0.7.1)"}
 BFS_LIMIT = 30000
 
 
@@ -573,7 +578,7 @@ def dump(path):
         if any(r["kind"] == "code" and r["insn"] not in ADDR_OPS.values() for r in e["refs"]):
             e["inline_copy"] = True
         if e["vaddr"] in NOT_TEXT:
-            e["in_place"] = True
+            e["in_place"] = e["not_text"] = True
             e["note"] = NOT_TEXT[e["vaddr"]]
     stats["strings_inline_copy"] = sum(1 for e in out if e.get("inline_copy"))
     stats["code_refs_uncertain"] = sum(1 for e in out for r in e["refs"] if r.get("certain") is False)

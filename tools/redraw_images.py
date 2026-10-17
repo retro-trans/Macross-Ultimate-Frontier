@@ -2,6 +2,7 @@
 
 Usage:
   python tools/redraw_images.py [--out <overlay>] [--preview <dir>] [--only <substr>] [--no-sheets]
+                                [--version <0.x.y>]
 
 Inputs:
   work/translation/en/images/img_{menu_a,menu_b,script,art}.json   rows: file, size, en, style, notes
@@ -22,6 +23,8 @@ forms from the row notes, then a hard squeeze), and the result is quantized back
 the texture's own palette size by tools/gim.py. Tip cards are typeset as a whole
 (tipcard()); gallery thumbnails are shrunk from the redrawn stills.
 Specs with "keep" are left as they are; specs with "hold" get a preview only.
+An item's own "text" may contain {version}, filled from --version (build_iso.py passes the
+build version): the title screen shows the build version and the group name this way.
 """
 import argparse
 import fnmatch
@@ -43,6 +46,7 @@ FONTS = {  # SIL Open Font License 1.1
     "serif": r"C:\Windows\Fonts\NotoSerifJP-VF.ttf",
 }
 SS = 4  # supersampling factor
+VERSION = "dev"  # --version, for {version} in an item's "text"
 
 DEFAULT_STYLE = {
     "font": "sans", "weight": 700, "size": 13, "min_size": 8, "xscale_min": 0.72, "tracking": 0,
@@ -419,7 +423,7 @@ def text_for(item, rows, spec=None):
     (row notes such as "spell out 'Forward' if it fits")."""
     r = rows[item.get("row", 0)]
     if "text" in item:
-        t = item["text"]
+        t = item["text"].replace("{version}", VERSION)
     else:
         t = r["en"]
         if "line" in item:
@@ -726,7 +730,10 @@ def main():
     ap.add_argument("--only", help="only files whose path contains this")
     ap.add_argument("--no-sheets", action="store_true")
     ap.add_argument("--no-write", action="store_true", help="previews only, no GIMs")
+    ap.add_argument("--version", default="dev", help="build version for {version} in item texts")
     a = ap.parse_args()
+    global VERSION
+    VERSION = a.version
     layout = load_layout(a.layout)
     by_file = load_rows()
     shared = share_choices(layout, by_file)

@@ -48,6 +48,13 @@ The user approved them on 2026-10-15; they ship from 0.4.1 as
 `©… BIGWEST` and `©2007 BIGWEST/MACROSS F PROJECT/MBS`. The layout still
 supports `"hold"` (preview only) for any later case like this.
 
+From 0.7.3 the title screen also shows the build version and the group name
+in the bottom-right corner ("v0.7.3" over "github.com / retro-trans"), as in
+the other retro-trans releases. They are two items on `title.gim` with their
+own `text` and erase mode `keep`; `{version}` in an item's text is filled from
+`redraw_images.py --version`, which `build_iso.py` passes. A run without it
+draws "vdev".
+
 Kept as art, following the row notes and the logo decision:
 
 - `menu/load/f_003.gim` and its gallery thumbnail: the cropped in-scene poster

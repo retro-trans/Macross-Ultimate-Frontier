@@ -83,6 +83,8 @@ def check(n, rows, avoid):
         if not t:
             errs.append("%s missing" % r["id"])
             continue
+        if r["status"] == "not_text":  # never inserted (build_ui.py)
+            continue
         en, jp, fl = t.get("en", ""), r["jp"], t.get("flags", [])
         if not en:
             if "unfinished" not in fl:
@@ -139,6 +141,8 @@ def main():
                 if r is None:
                     print("unknown id", t["id"], f)
                     continue
+                if r["status"] == "not_text":  # never translated (build_ui.py)
+                    continue
                 if t.get("en") and (r["en"] != t["en"] or r["status"] != "done"):
                     n += 1
                 r["en"], r["flags"], r["notes"] = t.get("en", ""), t.get("flags", []), t.get("notes", "")
@@ -174,6 +178,8 @@ def main():
         for r in d["rows"]:
             if r["en"]:
                 for o in r["occ"]:
+                    if o.get("not_text"):
+                        continue
                     ins.append({"id": o["id"], "jp": r["jp"], "ref": o["ref"], "en": r["en"]})
         json.dump({"rows": ins}, open(os.path.join(os.path.dirname(WORK), "ui_insert.json"), "w", encoding="utf-8"),
                   ensure_ascii=False, indent=1)

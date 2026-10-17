@@ -65012,16 +65012,19 @@
       "file": "EBOOT.BIN",
       "offset": 3877240,
       "bytes": 8
-     }
+     },
+     "max_bytes": 11,
+     "not_text": true
     }
    ],
+   "max_bytes": 11,
    "row": 2297,
    "slice": 9,
    "id": "u2297",
-   "en": "Add-on Equipment",
+   "en": "",
    "flags": [],
-   "notes": "",
-   "status": "done"
+   "notes": "not text: eboot:3B2978 is compared against game data (tools/dump_eboot.py NOT_TEXT)",
+   "status": "not_text"
   },
   {
    "group": "eboot@03B2",

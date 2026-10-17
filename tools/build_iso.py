@@ -94,7 +94,8 @@ def main():
     os.makedirs(os.path.join(ROOT, overlay, "data", "extra"), exist_ok=True)
     shutil.copyfile(os.path.join(ROOT, vwf, font), os.path.join(ROOT, overlay, font))
     if images:
-        run("tools/redraw_images.py", "--out", overlay, "--preview", os.path.join(b, "redraw"), "--no-sheets")
+        run("tools/redraw_images.py", "--out", overlay, "--preview", os.path.join(b, "redraw"), "--no-sheets",
+            "--version", version)
     if voice_subs or voice_placeholder:
         run("tools/voice_subs_at3.py", "--out", overlay, "--widths", os.path.join(vwf, "vwf_widths.json"),
             *(["--placeholder"] if voice_placeholder else voice_subs))
