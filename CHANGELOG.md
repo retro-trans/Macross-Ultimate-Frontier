@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.7.3] - 2026-10-17 (test build, not released)
+## [0.7.3] - 2026-10-17 (public release)
 
 ### Added
 - **Title screen shows the build version and the group name** in the bottom-right corner, as in the other retro-trans releases: "v0.7.3" over "github.com / retro-trans", white with a dark outline, drawn into `data/menu/title/title.gim` next to the English copyright lines.
@@ -10,6 +10,9 @@
 
 ### Build
 - `work/output/Macross Ultimate Frontier (EN v0.7.3).iso`, built with `python tools/build_iso.py 0.7.3 --work work/output/build_0.7.3 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.3.log`).
+- Release image `work/output/Macross Ultimate Frontier (EN v0.7.3 release).iso`: `python tools/relayout_iso.py "Macross Ultimate Frontier (Japan).iso" "work/output/Macross Ultimate Frontier (EN v0.7.3).iso" "work/output/Macross Ultimate Frontier (EN v0.7.3 release).iso" --write`. 1,238,269,952 bytes, SHA-256 `c8d64a7e8d006e88e4532e81d538f7211eafa808de6911c9c0bc746f58dd6a4f`; all 102 files match the build. The appended-layout test ISO is not a release source.
+- Release assets (Retro Trans Tools): full patch from the original disc (4,510,329 bytes) and an upgrade from the published 0.7.1 image (30,783 bytes); metadata in `docs/releases/0.7.3/`.
+- Checked in PPSSPP 1.20.4 at 4x: the title screen shows "v0.7.3" and "github.com / retro-trans" (test build and release image); the release image runs from a new campaign into the first Zero mission (mission list, radio subtitle under the cut-in, flight HUD). The 0.7.2 fix was checked in "Close Encounter" on 0.7.2.
 
 ## [0.7.2] - 2026-10-17 (test build, not released)
 
