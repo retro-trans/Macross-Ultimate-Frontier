@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.7.5] - 2026-10-18 (test build, not released)
+## [0.7.5] - 2026-10-18 (public release)
 
 ### Fixed
 - **Game hangs when a save is loaded (or a mode is unlocked).** Reported by a player whose save would not open; their save is in `incoming/NPJH50050000` (local). The original Japanese game loads it and then shows the prize notice "Chronicle Mode has been unlocked"; 0.7.3 (the public release) hung at that point, writing past the end of memory (PPSSPP log: "Bad memory access ... 0ad40000" onward).
@@ -11,6 +11,8 @@
 
 ### Build
 - `work/output/Macross Ultimate Frontier (EN v0.7.5).iso`, built with `python tools/build_iso.py 0.7.5 --work work/output/build_0.7.5 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.5.log`).
+- Release image `work/output/Macross Ultimate Frontier (EN v0.7.5 release).iso` (`tools/relayout_iso.py`, all 102 files match the build): 1,238,269,952 bytes, SHA-256 `e10fc6a208312c46178a7c17e1a4488e6197482966c2c719d78a6d7f8ca8cbb4`. The reported save loads on it to the mission list.
+- Release assets: full patch (4,509,112 bytes) and upgrades from the published 0.7.3 (30,042 bytes) and 0.7.1 (46,726 bytes); metadata in `docs/releases/0.7.5/`.
 - Checked in PPSSPP 1.20.4 with the reported save: 0.7.3 hangs after "Load the data?" (99 bad memory accesses logged); 0.7.5 shows "Chronicle Mode has been unlocked.", two "New mission added" notices and reaches the mission list, with no bad accesses. The Japanese game behaves the same as 0.7.5 (`work/ui/screens_save/`, local).
 
 ## [0.7.4] - 2026-10-18 (test build, not released)
