@@ -1,5 +1,30 @@
 # Changelog
 
+## [0.7.5] - 2026-10-18 (test build, not released)
+
+### Fixed
+- **Game hangs when a save is loaded (or a mode is unlocked).** Reported by a player whose save would not open; their save is in `incoming/NPJH50050000` (local). The original Japanese game loads it and then shows the prize notice "Chronicle Mode has been unlocked"; 0.7.3 (the public release) hung at that point, writing past the end of memory (PPSSPP log: "Bad memory access ... 0ad40000" onward).
+  - Cause: four prize notices are copied with an inlined fixed-length copy whose end address is a separate constant (start + 32 or start + 96, from a code pair or the constant pool at 0x37FA78): "Chronicle Mode / Enemy Mode / Extra Mode has been unlocked." and the Hangar era-faction tip. `eboot_insert.py` moved the English to new addresses and repointed the start but not the end, so the copy loop never reached its end. `dump_eboot.py` had read the end constants as merged "tails" of the strings.
+  - `tools/dump_eboot.py`: a string with any reference into its middle is now `inline_copy` with its original length as the limit, so `eboot_insert.py` writes it in place (or stops the build if the English is too long). Only these four strings are affected. The same cause applies to every earlier build that translated these strings, including the public 0.7.1.
+  - u3005 (Hangar tip) shortened to fit 97 bytes: "In the Hangar, push the analog stick left/right / to switch era factions for units and characters." The three mode notices already fit.
+- Includes the 0.7.4 unit-name fix (VAJRA etc.).
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.5).iso`, built with `python tools/build_iso.py 0.7.5 --work work/output/build_0.7.5 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.5.log`).
+- Checked in PPSSPP 1.20.4 with the reported save: 0.7.3 hangs after "Load the data?" (99 bad memory accesses logged); 0.7.5 shows "Chronicle Mode has been unlocked.", two "New mission added" notices and reaches the mission list, with no bad accesses. The Japanese game behaves the same as 0.7.5 (`work/ui/screens_save/`, local).
+
+## [0.7.4] - 2026-10-18 (test build, not released)
+
+### Fixed
+- **Vajra spelled "VAJURA" on lock-on labels and unit lists.** These names are not Japanese text: the original EBOOT already carries English unit labels with the game's own romanization, referenced from the unit records, so the translation had never touched them. 33 labels that clash with the glossary are now rewritten in place: VAJURA / BAJURA -> VAJRA (ship, carrier, cocoon, larva, queen, small and large drones), VAJURA SEMI-QUEEN -> VAJRA SUB-QUEEN, GEPPERNITI -> GEPELNITCHI, OCTOSS -> OCTOS, BARAUTA -> VARAUTA (ships and carriers). CALL_VAJURA is an internal identifier and stays.
+  - `work/translation/en/eboot_ascii.en.json`: the rows (file offset, old, new, glossary note).
+  - `tools/eboot_ascii_fix.py`: checks the old bytes and that the new name fits its slot (GEPELNITCHI fills its 12 bytes exactly), NUL-fills the rest. No game data file contains these names, and each is referenced only by its unit record, so nothing matches on them. `tools/build_iso.py` runs it after `eboot_insert.py`.
+  - Other names in the table were left as the game has them where the glossary has no entry (for example GOLG GANTS CHARTS, QUEL QUALLIE, QDL-RAU).
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.4).iso`, built with `python tools/build_iso.py 0.7.4 --work work/output/build_0.7.4 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.4.log`).
+- Checked in PPSSPP 1.20.4 at 4x: new campaign, Frontier era, "Close Encounter" (MF_310): the lock-on labels read VAJRA(S). Radio subtitles show for Ozma and the operator.
+
 ## [0.7.3] - 2026-10-17 (public release)
 
 ### Added

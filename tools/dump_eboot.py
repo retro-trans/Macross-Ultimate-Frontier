@@ -34,8 +34,9 @@ Every entry has:
   inline_copy  code reads the bytes directly (an inlined strcpy of fixed
             length): moving or lengthening the string is not enough
   tails     ids of the merged Japanese tails inside this string
-  inner_refs  addresses referenced inside the string (merged tails of any
-            kind, e.g. "B" = the last byte of a final 。): keep the old bytes
+  inner_refs  addresses referenced inside the string (merged tails, or the
+            end bound of an inlined fixed-length copy): such strings are marked
+            inline_copy and limited to their original length
   tail_of   set when the string is the tail of a longer one (the compiler
             merged them); editing the longer string changes this one too
 """
@@ -564,6 +565,14 @@ def dump(path):
         inner = targets[bisect.bisect_right(targets, v):bisect.bisect_right(targets, v + e["bytes"])]
         if inner:
             e["inner_refs"] = inner
+            # Something points inside the string. In this EBOOT that is always the
+            # end bound of an inlined fixed-length copy (start + 16k, from a code
+            # pair or a constant-pool word), e.g. the prize notices at 0x3B9D90 to
+            # 0x3B9E3C: moving the string would leave the copy running to an end it
+            # never reaches (a hang that writes past RAM). Keep it in place and
+            # within its original length.
+            e["inline_copy"] = True
+            e["capacity"] = min(e["capacity"], e["bytes"] + 1)
 
     out = [entries[v] for v in sorted(entries)]
     for e in out:

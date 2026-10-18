@@ -80358,9 +80358,9 @@
    "row": 3005,
    "slice": 11,
    "id": "u3005",
-   "en": "When selecting units and characters in the Hangar,\npress the analog stick left/right to switch between each era's factions.",
+   "en": "In the Hangar, push the analog stick left/right\nto switch era factions for units and characters.",
    "flags": [],
-   "notes": "",
+   "notes": "review: fixed-length copy: the game copies this notice with an inlined 97-byte copy, so the English must fit 97 bytes (was 123; moving it hung the game)",
    "status": "done"
   },
   {

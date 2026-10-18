@@ -9,6 +9,8 @@ Steps (each one is a tool that can also be run on its own):
   1. tools/vwf_build.py       VWF font + patched EBOOT        -> work/output/vwf/
   2. tools/dump_eboot.py      string map of that EBOOT        -> work/output/build/eboot_strings.vwf.json
   3. tools/eboot_insert.py    relocate the English EBOOT text -> work/output/build/EBOOT.BIN
+  3b. tools/eboot_ascii_fix.py  glossary spellings for the EBOOT's own ASCII unit names
+     (work/translation/en/eboot_ascii.en.json)
   4. tools/insert_text.py     CSV cells and FES string pools  -> work/output/build/overlay/
      (the VWF font is copied into the same overlay)
   4b. tools/redraw_images.py  English redrawn textures (GIM)  -> work/output/build/overlay/
@@ -87,6 +89,7 @@ def main():
     run("tools/vwf_build.py", *vwf_args)
     run("tools/dump_eboot.py", vwf_eboot, dump)
     run("tools/eboot_insert.py", "--eboot", vwf_eboot, "--dump", dump, "--out", eboot, *tr)
+    run("tools/eboot_ascii_fix.py", eboot, eboot)
     if voice_subs or voice_placeholder:
         run("tools/voice_subs_patch.py", eboot, eboot)
     run("tools/insert_text.py", "--out", overlay, *tr)

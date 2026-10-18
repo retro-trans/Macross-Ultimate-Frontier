@@ -1,0 +1,205 @@
+{
+ "_meta": {
+  "about": "English unit names that the original EBOOT already has in ASCII (lock-on labels, unit lists). Each row replaces the string in place at its file offset; the new name must fit the old slot. Applied by tools/eboot_ascii_fix.py. Only names that clash with the glossary are listed; CALL_VAJURA is an internal identifier and stays."
+ },
+ "rows": [
+  {
+   "id": "eboot_ascii:3809DC",
+   "old": "BARAUTA CARRIER",
+   "en": "VARAUTA CARRIER",
+   "notes": "Glossary: Varauta."
+  },
+  {
+   "id": "eboot_ascii:3809F4",
+   "old": "BARAUTA CARRIER(RB)",
+   "en": "VARAUTA CARRIER(RB)",
+   "notes": "Glossary: Varauta."
+  },
+  {
+   "id": "eboot_ascii:380A10",
+   "old": "BARAUTA CARRIER(M)",
+   "en": "VARAUTA CARRIER(M)",
+   "notes": "Glossary: Varauta."
+  },
+  {
+   "id": "eboot_ascii:380A2C",
+   "old": "BARAUTA CARRIER(LB)",
+   "en": "VARAUTA CARRIER(LB)",
+   "notes": "Glossary: Varauta."
+  },
+  {
+   "id": "eboot_ascii:380A48",
+   "old": "BARAUTA CARRIER(LF)",
+   "en": "VARAUTA CARRIER(LF)",
+   "notes": "Glossary: Varauta."
+  },
+  {
+   "id": "eboot_ascii:380A64",
+   "old": "BARAUTA CARRIER(RF)",
+   "en": "VARAUTA CARRIER(RF)",
+   "notes": "Glossary: Varauta."
+  },
+  {
+   "id": "eboot_ascii:380AA4",
+   "old": "BARAUTA SHIP",
+   "en": "VARAUTA SHIP",
+   "notes": "Glossary: Varauta."
+  },
+  {
+   "id": "eboot_ascii:380ABC",
+   "old": "BARAUTA SHIP(F)",
+   "en": "VARAUTA SHIP(F)",
+   "notes": "Glossary: Varauta."
+  },
+  {
+   "id": "eboot_ascii:380AD4",
+   "old": "BARAUTA SHIP(M)",
+   "en": "VARAUTA SHIP(M)",
+   "notes": "Glossary: Varauta."
+  },
+  {
+   "id": "eboot_ascii:380AEC",
+   "old": "BARAUTA SHIP(B)",
+   "en": "VARAUTA SHIP(B)",
+   "notes": "Glossary: Varauta."
+  },
+  {
+   "id": "eboot_ascii:380CC8",
+   "old": "VAJURA SHIP",
+   "en": "VAJRA SHIP",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380CDC",
+   "old": "VAJURA SHIP(F)",
+   "en": "VAJRA SHIP(F)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380CF4",
+   "old": "VAJURA SHIP(M)",
+   "en": "VAJRA SHIP(M)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380D0C",
+   "old": "VAJURA SHIP(B)",
+   "en": "VAJRA SHIP(B)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380D24",
+   "old": "VAJURA SHIP(L)",
+   "en": "VAJRA SHIP(L)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380D3C",
+   "old": "VAJURA SHIP(R)",
+   "en": "VAJRA SHIP(R)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380D54",
+   "old": "VAJURA SHIP(U)",
+   "en": "VAJRA SHIP(U)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380D84",
+   "old": "VAJURA CARRIER",
+   "en": "VAJRA CARRIER",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380D9C",
+   "old": "VAJURA CARRIER(LT)",
+   "en": "VAJRA CARRIER(LT)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380DB8",
+   "old": "VAJURA CARRIER(MT)",
+   "en": "VAJRA CARRIER(MT)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380DD4",
+   "old": "VAJURA CARRIER(RT)",
+   "en": "VAJRA CARRIER(RT)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380DF0",
+   "old": "VAJURA CARRIER(TU)",
+   "en": "VAJRA CARRIER(TU)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380E0C",
+   "old": "VAJURA CARRIER(MU)",
+   "en": "VAJRA CARRIER(MU)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:380E28",
+   "old": "VAJURA CARRIER(UU)",
+   "en": "VAJRA CARRIER(UU)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:38157C",
+   "old": "VAJURA(L)",
+   "en": "VAJRA(L)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:381D38",
+   "old": "VAJURA(S)",
+   "en": "VAJRA(S)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:381F10",
+   "old": "OCTOSS",
+   "en": "OCTOS",
+   "notes": "Glossary: Octos."
+  },
+  {
+   "id": "eboot_ascii:382024",
+   "old": "VAJURA COCOON",
+   "en": "VAJRA COCOON",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:3822C8",
+   "old": "VAJURA LARVA",
+   "en": "VAJRA LARVA",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:38A9A8",
+   "old": "GEPPERNITI",
+   "en": "GEPELNITCHI",
+   "notes": "Glossary: Gepelnitchi."
+  },
+  {
+   "id": "eboot_ascii:38BD1C",
+   "old": "VAJURA SEMI-QUEEN",
+   "en": "VAJRA SUB-QUEEN",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:38BD54",
+   "old": "VAJURA QUEEN",
+   "en": "VAJRA QUEEN",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:38BDF8",
+   "old": "BAJURA(G)",
+   "en": "VAJRA(G)",
+   "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  }
+ ]
+}
