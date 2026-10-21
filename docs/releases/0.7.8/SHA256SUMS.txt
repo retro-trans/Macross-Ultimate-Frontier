@@ -1,0 +1,6 @@
+af1bbea25dddc23ebbaf4aec7820c14bc243e230e2e0d236f3c0d24db47786d9  BUILD-MANIFEST.json
+1fbd4b0a8e058611981c2340354ddfccc942f3360e8490c5d5e2f1d8c7adeec7  MacrossUltimateFrontier-English-0.7.1-to-0.7.8.xdelta
+5828b48b880b3344edeb2647c57935f2d0decd59a50f09f97c6d73d099345a3e  MacrossUltimateFrontier-English-0.7.3-to-0.7.8.xdelta
+18fcbd1e5cd7e1074d9276ab7aec84d099bb51d9ff14f54b0d39eb65236bf110  MacrossUltimateFrontier-English-0.7.5-to-0.7.8.xdelta
+dc7776740af727669f32e02c688231b6361cb6f11f5ab6bef71cbd012f839c03  MacrossUltimateFrontier-English-0.7.8.xdelta
+6057b66d34c22a387036caa7490f6f1b1a610fb8cacc965d6187e0ff37c3ed6a  VALIDATION.json

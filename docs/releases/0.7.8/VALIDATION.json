@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "af1bbea25dddc23ebbaf4aec7820c14bc243e230e2e0d236f3c0d24db47786d9",
+  "patches": [
+    {
+      "patch": "MacrossUltimateFrontier-English-0.7.8.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "fa9614697c3821aa4280a1e3bf6773c9a96717f04174067d68774d2ddc89fbd0"
+    },
+    {
+      "patch": "MacrossUltimateFrontier-English-0.7.5-to-0.7.8.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "fa9614697c3821aa4280a1e3bf6773c9a96717f04174067d68774d2ddc89fbd0"
+    },
+    {
+      "patch": "MacrossUltimateFrontier-English-0.7.3-to-0.7.8.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "fa9614697c3821aa4280a1e3bf6773c9a96717f04174067d68774d2ddc89fbd0"
+    },
+    {
+      "patch": "MacrossUltimateFrontier-English-0.7.1-to-0.7.8.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "fa9614697c3821aa4280a1e3bf6773c9a96717f04174067d68774d2ddc89fbd0"
+    }
+  ]
+}

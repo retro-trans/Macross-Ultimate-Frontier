@@ -19,6 +19,8 @@
 ### Build
 - `work/output/Macross Ultimate Frontier (EN v0.7.8).iso`, built with `python tools/build_iso.py 0.7.8 --work work/output/build_0.7.8 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.8.log`).
 - Checked in PPSSPP 1.20.4 with the reported save (Player > Support): Shock Guard and Circus Flight wrap as listed; the widest rewrapped line (283 px, u0974) fits with about 16 px to spare, tested by writing it over a description in RAM since the other skills are locked in that save.
+- Release image `work/output/Macross Ultimate Frontier (EN v0.7.8 release).iso` (`tools/relayout_iso.py`, all 102 files match the build): 1,238,269,952 bytes, SHA-256 `fa9614697c3821aa4280a1e3bf6773c9a96717f04174067d68774d2ddc89fbd0`. Booted in PPSSPP 1.20.4: title stamp v0.7.8, the reported save loads to the mission list and the MA_010 briefing.
+- Release assets: full patch (4,516,457 bytes) and upgrades from the published 0.7.5 (391,117 bytes), 0.7.3 (392,863 bytes) and 0.7.1 (407,363 bytes); source commit `03560b3`, metadata in `docs/releases/0.7.8/`.
 
 ## [0.7.7] - 2026-10-21 (test build, not released)
 
