@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.7.9] - 2026-10-21 (test build, not released)
+## [0.7.9] - 2026-10-21 (public release)
 
 ### Changed
 - "Legendary Elixir" is now **"Phantom Elixir"** (u0925; recorded in `work/glossary/terms.json`, skills).
@@ -45,6 +45,8 @@
 
 ### Build
 - `work/output/Macross Ultimate Frontier (EN v0.7.9).iso`, built with `python tools/build_iso.py 0.7.9 --work work/output/build_0.7.9 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.9.log`).
+- Release image `work/output/Macross Ultimate Frontier (EN v0.7.9 release).iso` (`tools/relayout_iso.py`, all 102 files match the build): 1,238,269,952 bytes, SHA-256 `e8620443e6c15db580b13afe31f88459386814129b664da41ee60ca91e7e031e`. Booted in PPSSPP 1.20.4: title stamp v0.7.9, the reported save loads, shop prices read "800 pts".
+- Release assets: full patch (4,515,354 bytes) and upgrades from the published 0.7.8 (77,707 bytes), 0.7.5 (410,596), 0.7.3 (412,214) and 0.7.1 (402,578); source commit `19b63ce`, metadata in `docs/releases/0.7.9/`.
 
 ## [0.7.8] - 2026-10-21 (public release)
 
