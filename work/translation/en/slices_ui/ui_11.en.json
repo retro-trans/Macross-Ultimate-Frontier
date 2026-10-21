@@ -1307,11 +1307,9 @@
   },
   {
    "id": "u3025",
-   "en": "NP",
-   "flags": [
-    "uncertain"
-   ],
-   "notes": "Lone first kanji of 'Nyan-Nyan', 2-byte slot in the shop code; probably the price unit for Nyan-Nyan Points. Check in game."
+   "en": "pts",
+   "flags": [],
+   "notes": "Nyan-Nyan Shop price unit (checked in game: drawn after the price at base+0x93; the number is moved 3 px left by work/ui/eboot_word_patches.json for a gap, size 10). The p and t strings that followed are emptied by eboot_ascii.en.json, so 'pts' is drawn whole."
   },
   {
    "id": "u3026",

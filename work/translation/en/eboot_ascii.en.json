@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "about": "English unit names that the original EBOOT already has in ASCII (lock-on labels, unit lists). Each row replaces the string in place at its file offset; the new name must fit the old slot. Applied by tools/eboot_ascii_fix.py. Only names that clash with the glossary are listed; CALL_VAJURA is an internal identifier and stays."
+  "about": "English unit names that the original EBOOT already has in ASCII (lock-on labels, unit lists). Each row replaces the string in place at its file offset; the new name must fit the old slot. Applied by tools/eboot_ascii_fix.py. Only names that clash with the glossary are listed; CALL_VAJURA is an internal identifier and stays. Also the Nyan-Nyan Shop price unit: the game draws the 'Nyan' kanji, p and t as three strings at fixed x (+0x93, +0x9C, +0xA0, size 10); the English 'pts' is the 'Nyan' kanji string (u3025) and the p and t strings are emptied here."
  },
  "rows": [
   {
@@ -200,6 +200,18 @@
    "old": "BAJURA(G)",
    "en": "VAJRA(G)",
    "notes": "Glossary: Vajra (the game romanizes it VAJURA / BAJURA)."
+  },
+  {
+   "id": "eboot_ascii:3BAEFC",
+   "old": "p",
+   "en": "",
+   "notes": "Shop price unit, second part; 'pts' is drawn whole by u3025."
+  },
+  {
+   "id": "eboot_ascii:3BAF00",
+   "old": "t",
+   "en": "",
+   "notes": "Shop price unit, third part; 'pts' is drawn whole by u3025. Referenced only by the price code at 0x25C0A4."
   }
  ]
 }

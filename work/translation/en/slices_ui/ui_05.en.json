@@ -23,7 +23,7 @@
   },
   {
    "id": "u0956",
-   "en": "When your HP drops to 30% or less, it recovers\nto 50%. *Once only",
+   "en": "Restores HP to 50% when HP drops to 30% or\nbelow. ※ One use only.",
    "flags": [],
    "notes": "Source reference mark before 'once only' rendered as ASCII '*'. Same in u0958, u0962, u0968."
   },
@@ -35,7 +35,7 @@
   },
   {
    "id": "u0958",
-   "en": "When your HP hits 0%, it recovers and you are\ninvincible for a while. *Once only",
+   "en": "Restores HP and grants temporary invincibility\nwhen HP reaches 0%. ※ One use only.",
    "flags": [],
    "notes": ""
   },
@@ -47,8 +47,10 @@
   },
   {
    "id": "u0960",
-   "en": "On mission clear, the partner's EXP for each\nparameter is doubled.",
-   "flags": [],
+   "en": "Increase experience points gained for each of\npartner's parameters to 2x on mission clear.",
+   "flags": [
+    "reflow"
+   ],
    "notes": ""
   },
   {
@@ -59,8 +61,10 @@
   },
   {
    "id": "u0962",
-   "en": "When your HP drops to 30% or less, you\nawaken, invincible for a while. *Once only",
-   "flags": [],
+   "en": "Become temporarily invincible and awaken\nat 30% HP or below. ※ One use only.",
+   "flags": [
+    "reflow"
+   ],
    "notes": ""
   },
   {
@@ -85,7 +89,7 @@
   },
   {
    "id": "u0966",
-   "en": "Affinity changes at twice the normal rate.",
+   "en": "Affinity changes at 2x the normal rate.",
    "flags": [],
    "notes": ""
   },
@@ -99,7 +103,7 @@
   },
   {
    "id": "u0968",
-   "en": "When your HP drops to 30% or less, the SP\nGauge recovers 6 blocks. *Once only",
+   "en": "Recover 6 SP Gauge blocks when HP drops to\n30% or below. ※ One use only.",
    "flags": [],
    "notes": ""
   },
@@ -111,7 +115,7 @@
   },
   {
    "id": "u0970",
-   "en": "Boost Gauge consumption drops to 75%\nof normal.",
+   "en": "Decrease Boost Gauge consumption to 75%\nof normal.",
    "flags": [],
    "notes": ""
   },
@@ -135,7 +139,7 @@
   },
   {
    "id": "u0974",
-   "en": "SP Gauge consumption drops to 75% of normal.",
+   "en": "Decrease SP Gauge consumption to 75%\nof normal.",
    "flags": [
     "reflow"
    ],
@@ -143,13 +147,13 @@
   },
   {
    "id": "u0975",
-   "en": "Quick Recovery",
+   "en": "Rapid Recovery",
    "flags": [],
    "notes": ""
   },
   {
    "id": "u0976",
-   "en": "In consecutive missions, HP is restored to 100%\nat the start of each mission.",
+   "en": "Restore HP to 100% at the start of each mission\nduring consecutive missions.",
    "flags": [],
    "notes": ""
   },
@@ -161,7 +165,7 @@
   },
   {
    "id": "u0978",
-   "en": "Boosts unit performance while you pilot\na Destroid.",
+   "en": "Increase unit performance when piloting\na Destroid.",
    "flags": [],
    "notes": ""
   },
@@ -173,7 +177,7 @@
   },
   {
    "id": "u0980",
-   "en": "Nyan-Nyan Points earned drop to 0, but Tune\nPoints earned are doubled.",
+   "en": "Decrease earned Nyan-Nyan Points to 0, but\nincrease earned Tune Points to 2x.",
    "flags": [],
    "notes": ""
   },
@@ -185,7 +189,7 @@
   },
   {
    "id": "u0982",
-   "en": "On mission clear, Affinity with each selected\ncharacter decreases.",
+   "en": "Decreases Affinity with each selected character\nwhen a mission is cleared.",
    "flags": [],
    "notes": ""
   },
@@ -197,7 +201,7 @@
   },
   {
    "id": "u0984",
-   "en": "Halves the effects of all songs.",
+   "en": "Decrease effect of all songs to 0.50x.",
    "flags": [],
    "notes": ""
   },
@@ -209,7 +213,7 @@
   },
   {
    "id": "u0986",
-   "en": "Enemy attack power is doubled, but the player\npilot's EXP earned is doubled.",
+   "en": "Increase enemy attack power to 2x, but increase\nEXP of player's parameters to 2x.",
    "flags": [],
    "notes": ""
   },
@@ -233,8 +237,10 @@
   },
   {
    "id": "u0990",
-   "en": "Start missions with the SP Gauge already\ncharged to 3 blocks.",
-   "flags": [],
+   "en": "Fill 3 SP Gauge blocks at start of mission.",
+   "flags": [
+    "reflow"
+   ],
    "notes": ""
   },
   {

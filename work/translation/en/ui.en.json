@@ -26544,7 +26544,7 @@
    "row": 903,
    "slice": 4,
    "id": "u0903",
-   "en": "Defense is doubled, and you no longer stagger\nwhen hit.",
+   "en": "Increase defense to 2x and no longer stagger\nwhen hit.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26664,7 +26664,7 @@
    "row": 909,
    "slice": 4,
    "id": "u0909",
-   "en": "Reflects beam-type shots and negates\nsolid-ammo attacks.",
+   "en": "Reflect beam-type shots and negate\nsolid-ammo attacks.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26704,7 +26704,7 @@
    "row": 911,
    "slice": 4,
    "id": "u0911",
-   "en": "Become invincible for a short time.",
+   "en": "Become invincible temporarily.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26906,7 +26906,7 @@
    "row": 921,
    "slice": 4,
    "id": "u0921",
-   "en": "Reloads all weapons, shortens attack openings,\nand makes you invincible for a while.",
+   "en": "Reload all weapons, shorten attack openings,\nand become invincible temporarily.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26986,7 +26986,7 @@
    "row": 925,
    "slice": 4,
    "id": "u0925",
-   "en": "Legendary Elixir",
+   "en": "Phantom Elixir",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27054,7 +27054,7 @@
    "row": 928,
    "slice": 4,
    "id": "u0928",
-   "en": "Increase attack power of self and allies by 1.5x\nand gradually restore HP.",
+   "en": "Increase attack power of self and allies by\n1.5x and gradually restore HP.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27142,7 +27142,7 @@
    "row": 932,
    "slice": 4,
    "id": "u0932",
-   "en": "Freezes enemies for an instant, and you and\nnearby allies gradually recover HP.",
+   "en": "Momentarily freezes enemies, and self and\nnearby allies gradually restore HP.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27162,7 +27162,7 @@
    "row": 933,
    "slice": 4,
    "id": "u0933",
-   "en": "You and nearby allies gradually recover HP.",
+   "en": "Self and nearby allies gradually recover HP.",
    "flags": [
     "reflow"
    ],
@@ -27206,7 +27206,7 @@
    "row": 935,
    "slice": 4,
    "id": "u0935",
-   "en": "Attack power of you and your allies triples, but\ndefense is halved.",
+   "en": "Increase self and allies' attack power to 3x, but\ndecrease defense to 0.5x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27226,8 +27226,10 @@
    "row": 936,
    "slice": 4,
    "id": "u0936",
-   "en": "Zentradi weapons and Zentradi-piloted units\nweaken in all stats; others grow stronger.",
-   "flags": [],
+   "en": "Decrease parameters of Zentradi-type weapons\nand Zentradi-piloted units; strengthen others.",
+   "flags": [
+    "reflow"
+   ],
    "notes": "Source says Zentran-type weapons; rendered 'Zentradi-made'.",
    "status": "done"
   },
@@ -27266,7 +27268,7 @@
    "row": 938,
    "slice": 4,
    "id": "u0938",
-   "en": "Sivil appears in front of you and puts up a\nbarrier for a set time.",
+   "en": "Sivil appears in front of you and deploys a\nbarrier for a set time.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27348,7 +27350,7 @@
    "row": 942,
    "slice": 4,
    "id": "u0942",
-   "en": "Stops everything but you and triggers an SPA.\n*Hold the L button when activating for no SPA",
+   "en": "Stops movement of all but self and uses SPA.\n*Hold L Button on activation to not use SPA.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27388,7 +27390,7 @@
    "row": 944,
    "slice": 4,
    "id": "u0944",
-   "en": "In Fighter mode, roll speed rises and you can\nroll up to 4 times in a row.",
+   "en": "In Fighter mode, increase roll speed and allow\nup to 4 consecutive rolls.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27428,7 +27430,7 @@
    "row": 946,
    "slice": 4,
    "id": "u0946",
-   "en": "Lock-on range doubles, and multi-lock speed\nincreases 1.5x.",
+   "en": "Lock-on range doubles, and increase multi-lock\nspeed to 1.5x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27468,7 +27470,7 @@
    "row": 948,
    "slice": 4,
    "id": "u0948",
-   "en": "When you rescue your partner, their HP is\nrestored to 50%.",
+   "en": "When rescuing your partner, they recover 50%\nof their HP.",
    "flags": [
     "uncertain"
    ],
@@ -27510,8 +27512,10 @@
    "row": 950,
    "slice": 4,
    "id": "u0950",
-   "en": "Anti-Missile Action can be used 1.5x as\nmany times.",
-   "flags": [],
+   "en": "Increase limit of Anti-Missile Action to 1.5x.",
+   "flags": [
+    "reflow"
+   ],
    "notes": "",
    "status": "done"
   },
@@ -27550,7 +27554,7 @@
    "row": 952,
    "slice": 4,
    "id": "u0952",
-   "en": "Damage to battleships and bases doubles.",
+   "en": "Increase damage to battleships and bases to 2x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27630,7 +27634,7 @@
    "row": 956,
    "slice": 5,
    "id": "u0956",
-   "en": "When your HP drops to 30% or less, it recovers\nto 50%. *Once only",
+   "en": "Restores HP to 50% when HP drops to 30% or\nbelow. ※ One use only.",
    "flags": [],
    "notes": "Source reference mark before 'once only' rendered as ASCII '*'. Same in u0958, u0962, u0968.",
    "status": "done"
@@ -27678,7 +27682,7 @@
    "row": 958,
    "slice": 5,
    "id": "u0958",
-   "en": "When your HP hits 0%, it recovers and you are\ninvincible for a while. *Once only",
+   "en": "Restores HP and grants temporary invincibility\nwhen HP reaches 0%. ※ One use only.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27718,8 +27722,10 @@
    "row": 960,
    "slice": 5,
    "id": "u0960",
-   "en": "On mission clear, the partner's EXP for each\nparameter is doubled.",
-   "flags": [],
+   "en": "Increase experience points gained for each of\npartner's parameters to 2x on mission clear.",
+   "flags": [
+    "reflow"
+   ],
    "notes": "",
    "status": "done"
   },
@@ -27758,8 +27764,10 @@
    "row": 962,
    "slice": 5,
    "id": "u0962",
-   "en": "When your HP drops to 30% or less, you\nawaken, invincible for a while. *Once only",
-   "flags": [],
+   "en": "Become temporarily invincible and awaken\nat 30% HP or below. ※ One use only.",
+   "flags": [
+    "reflow"
+   ],
    "notes": "",
    "status": "done"
   },
@@ -27840,7 +27848,7 @@
    "row": 966,
    "slice": 5,
    "id": "u0966",
-   "en": "Affinity changes at twice the normal rate.",
+   "en": "Affinity changes at 2x the normal rate.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27882,7 +27890,7 @@
    "row": 968,
    "slice": 5,
    "id": "u0968",
-   "en": "When your HP drops to 30% or less, the SP\nGauge recovers 6 blocks. *Once only",
+   "en": "Recover 6 SP Gauge blocks when HP drops to\n30% or below. ※ One use only.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27922,7 +27930,7 @@
    "row": 970,
    "slice": 5,
    "id": "u0970",
-   "en": "Boost Gauge consumption drops to 75%\nof normal.",
+   "en": "Decrease Boost Gauge consumption to 75%\nof normal.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28010,7 +28018,7 @@
    "row": 974,
    "slice": 5,
    "id": "u0974",
-   "en": "SP Gauge consumption drops to 75% of normal.",
+   "en": "Decrease SP Gauge consumption to 75%\nof normal.",
    "flags": [
     "reflow"
    ],
@@ -28032,7 +28040,7 @@
    "row": 975,
    "slice": 5,
    "id": "u0975",
-   "en": "Quick Recovery",
+   "en": "Rapid Recovery",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28052,7 +28060,7 @@
    "row": 976,
    "slice": 5,
    "id": "u0976",
-   "en": "In consecutive missions, HP is restored to 100%\nat the start of each mission.",
+   "en": "Restore HP to 100% at the start of each mission\nduring consecutive missions.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28092,7 +28100,7 @@
    "row": 978,
    "slice": 5,
    "id": "u0978",
-   "en": "Boosts unit performance while you pilot\na Destroid.",
+   "en": "Increase unit performance when piloting\na Destroid.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28132,7 +28140,7 @@
    "row": 980,
    "slice": 5,
    "id": "u0980",
-   "en": "Nyan-Nyan Points earned drop to 0, but Tune\nPoints earned are doubled.",
+   "en": "Decrease earned Nyan-Nyan Points to 0, but\nincrease earned Tune Points to 2x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28172,7 +28180,7 @@
    "row": 982,
    "slice": 5,
    "id": "u0982",
-   "en": "On mission clear, Affinity with each selected\ncharacter decreases.",
+   "en": "Decreases Affinity with each selected character\nwhen a mission is cleared.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28212,7 +28220,7 @@
    "row": 984,
    "slice": 5,
    "id": "u0984",
-   "en": "Halves the effects of all songs.",
+   "en": "Decrease effect of all songs to 0.50x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28252,7 +28260,7 @@
    "row": 986,
    "slice": 5,
    "id": "u0986",
-   "en": "Enemy attack power is doubled, but the player\npilot's EXP earned is doubled.",
+   "en": "Increase enemy attack power to 2x, but increase\nEXP of player's parameters to 2x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28332,8 +28340,10 @@
    "row": 990,
    "slice": 5,
    "id": "u0990",
-   "en": "Start missions with the SP Gauge already\ncharged to 3 blocks.",
-   "flags": [],
+   "en": "Fill 3 SP Gauge blocks at start of mission.",
+   "flags": [
+    "reflow"
+   ],
    "notes": "",
    "status": "done"
   },
@@ -69424,7 +69434,7 @@
    "row": 2463,
    "slice": 9,
    "id": "u2463",
-   "en": "Remove Boarding Size Limit",
+   "en": "Remove Unit Size Limit",
    "flags": [],
    "notes": "Lets any pilot board units regardless of body size.",
    "status": "done"
@@ -69454,7 +69464,7 @@
    "row": 2464,
    "slice": 9,
    "id": "u2464",
-   "en": "Remove Fixed-Pilot Unit Limit",
+   "en": "Remove Fixed-Pilot Limit",
    "flags": [
     "uncertain"
    ],
@@ -69576,7 +69586,7 @@
    "row": 2468,
    "slice": 9,
    "id": "u2468",
-   "en": "Unlock Nyan-Nyan Shop Line Select",
+   "en": "Unlock Shop Line Select",
    "flags": [],
    "notes": "Daishi = shopkeeper lines/voice lines of the Nyan-Nyan Shop.",
    "status": "done"
@@ -69606,7 +69616,7 @@
    "row": 2469,
    "slice": 9,
    "id": "u2469",
-   "en": "Unlock EX Challenge Mode",
+   "en": "Unlock EX Challenge",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -69656,7 +69666,7 @@
    "row": 2471,
    "slice": 9,
    "id": "u2471",
-   "en": "Nyan-Nyan Shop: Everything Free",
+   "en": "Free Nyan-Nyan Shop",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -80762,11 +80772,9 @@
    "row": 3025,
    "slice": 11,
    "id": "u3025",
-   "en": "NP",
-   "flags": [
-    "uncertain"
-   ],
-   "notes": "Lone first kanji of 'Nyan-Nyan', 2-byte slot in the shop code; probably the price unit for Nyan-Nyan Points. Check in game.",
+   "en": "pts",
+   "flags": [],
+   "notes": "Nyan-Nyan Shop price unit (checked in game: drawn after the price at base+0x93; the number is moved 3 px left by work/ui/eboot_word_patches.json for a gap, size 10). The p and t strings that followed are emptied by eboot_ascii.en.json, so 'pts' is drawn whole.",
    "status": "done"
   },
   {

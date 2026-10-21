@@ -1,0 +1,13 @@
+{
+ "_meta": {
+  "about": "Checked 32-bit word patches to EBOOT code, applied by tools/eboot_ascii_fix.py after the string fixes. Each row: file offset (hex), old word, new word (hex, little-endian value). Only plain immediates, never relocated words."
+ },
+ "rows": [
+  {
+   "offset": "25BF74",
+   "old": "26A20092",
+   "new": "26A2008F",
+   "notes": "Nyan-Nyan Shop price: addiu v0, s5, 0x92 -> 0x8f at vaddr 0x25BED4. The price number is right-aligned against base+0x92 and the unit 'pts' starts at +0x93; moving the number 3 px left leaves a gap ('300 pts')."
+  }
+ ]
+}

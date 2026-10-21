@@ -1,5 +1,51 @@
 # Changelog
 
+## [0.7.9] - 2026-10-21 (test build, not released)
+
+### Changed
+- "Legendary Elixir" is now **"Phantom Elixir"** (u0925; recorded in `work/glossary/terms.json`, skills).
+- Kira☆: "Momentarily freezes enemies, and self and / nearby allies gradually restore HP." (u0932; was "Freezes enemies for an instant, and you and / nearby allies gradually recover HP.").
+- Skill descriptions reworded from player feedback (2026-10-21), "you" now "self" where the skill affects the user:
+  - VOICES: "Self and nearby allies gradually recover HP." (u0933).
+  - Emulator: "Increase self and allies' attack power to 3x, but / decrease defense to 0.5x." (u0935).
+  - Do You Remember Love?: "Decrease parameters of Zentradi-type weapons / and Zentradi-piloted units; strengthen others." (u0936; the suggested "...while strengthening other weapons" needed three lines, the box holds two).
+  - Spiritia Barrier: "Sivil appears in front of you and deploys a / barrier for a set time." (u0938).
+  - Max World Second: "Stops movement of all but self and uses SPA. / *Hold L Button on activation to not use SPA." (u0942; shortened from the suggestion to fit 283 px per line).
+  - Rolling Plus: "In Fighter mode, increase roll speed and allow / up to 4 consecutive rolls." (u0944).
+  - Clairvoyance: "Lock-on range doubles, and increase multi-lock / speed to 1.5x." (u0946).
+  - Medic Squad: "When rescuing your partner, they recover 50% / of their HP." (u0948).
+  - Missile Disposal Squad: "Increase limit of Anti-Missile Action to 1.5x." (u0950).
+  - Sabotage Squad: "Increase damage to battleships and bases to 2x." (u0952).
+  - Cheer: "Restores HP to 50% when HP drops to 30% or / below. ※ One use only." (u0956).
+  - Pineapple Cake: "Restores HP and grants temporary invincibility / when HP reaches 0%. ※ One use only." (u0958). The once-only notes now use the reference mark ※ as the Japanese does (Shift-JIS 0x81A6, drawn with the game's own glyph) instead of "*".
+  - Drill Sergeant: "Increase experience points gained for each of / partner's parameters to 2x on mission clear." (u0960; "when clearing a mission" shortened to fit two lines).
+  - Awakening: "Become temporarily invincible and awaken / at 30% HP or below. ※ One use only." (u0962; shortened to fit two lines).
+  - Triangler: "Affinity changes at 2x the normal rate." (u0966).
+  - Signal to Strike Back: "Recover 6 SP Gauge blocks when HP drops to / 30% or below. ※ One use only." (u0968).
+  - Boost Maniac and Thrifty: "Decrease Boost / SP Gauge consumption to 75% / of normal." (u0970, u0974).
+  - "Quick Recovery" is now **"Rapid Recovery"** (u0975, recorded in the glossary): "Restore HP to 100% at the start of each mission / during consecutive missions." (u0976).
+  - Destroyer: "Increase unit performance when piloting / a Destroid." (u0978).
+  - Tuning Fanatic: "Decrease earned Nyan-Nyan Points to 0, but / increase earned Tune Points to 2x." (u0980).
+  - Outcast: "Decreases Affinity with each selected character / when a mission is cleared." (u0982; Affinity keeps its glossary capital).
+  - Earplugs: "Decrease effect of all songs to 0.50x." (u0984).
+  - Taunt: "Increase enemy attack power to 2x, but increase / EXP of player's parameters to 2x." (u0986).
+  - Full Spirit: "Fill 3 SP Gauge blocks at start of mission." (u0990, now one line).
+  - Iron Wall: "Increase defense to 2x and no longer stagger / when hit." (u0903).
+  - Reflection: "Reflect beam-type shots and negate / solid-ammo attacks." (u0909).
+  - Emergency Evasion: "Become invincible temporarily." (u0911).
+  - Rally: "Reload all weapons, shorten attack openings, / and become invincible temporarily." (u0921).
+  - Galactic Fairy: the line now breaks after "by" (u0928).
+- **Prize Mode list on the save-select screen** ran past its panel (player screenshot of 0.7.8: "Remove Boarding Size Limit", "Remove Fixed-Pilot Unit Limit"). The panel draws the names at 0.85 scale and holds about 155 px in `check_widths.py` units (measured: "Remove Tune Lower Limit", 152, ends 4 px from the frame). Five of the twelve names were longer and are shortened; the Nyan-Nyan Shop list uses the same strings:
+  - "Remove Unit Size Limit" (u2463, was "Remove Boarding Size Limit"), "Remove Fixed-Pilot Limit" (u2464, was "Remove Fixed-Pilot Unit Limit").
+  - "Unlock Shop Line Select" (u2468, was "Unlock Nyan-Nyan Shop Line Select"), "Unlock EX Challenge" (u2469, was "Unlock EX Challenge Mode"), "Free Nyan-Nyan Shop" (u2471, was "Nyan-Nyan Shop: Everything Free").
+- **Nyan-Nyan Shop price unit** read "6400NPt": the game draws the unit as three strings at fixed x after the price (the "Nyan" kanji at +0x93, "p" at +0x9C, "t" at +0xA0, size 10; code at 0x25C02C-0x25C0A4), and the English "NP" ran under the "p". The kanji string (u3025) is now "pts" (fits its 4-byte slot) and the "p" and "t" strings are emptied in place (`work/translation/en/eboot_ascii.en.json`). The number was right-aligned against +0x92, touching the unit; it now ends at +0x8F (`addiu v0, s5, 0x92` -> `0x8f` at 0x25BED4), so prices read "800 pts". The word patch is in the new `work/ui/eboot_word_patches.json` (old word checked), applied by `tools/eboot_ascii_fix.py` in build step 3b. Checked in game.
+- **Nyan-Nyan Shop menu**: labels were all different sizes and changed size when highlighted. The normal-state textures are only as wide as their Japanese text (Units, Walls 24 px, Titles 25, Icons 37, Movies 38, BGM 28), and each label had been fitted to its own width, with the highlighted (47 px) versions drawn larger. Now every label, normal and highlighted, is drawn at size 10 and only squeezed sideways to its normal texture width (at most 0.82x). The leftover Japanese bullet dot before each label is erased, which gives 5 px more room. "BGM" kept the original Japanese texture and is now redrawn in the same font. Checked in game.
+- **Record > Campaign Record**: "Ultimate Clear Rate" ran into the value box beside it; now **"Ulti. Clear Rate"**.
+- **Record > Overall Record**: the middle labels did not line up with their values. In the Japanese texture both middle labels end at x=145, where the values end; "Times Shot Down" was left-aligned from x=89. It is now right-aligned to the same edge as "Item Completion Rate" (box narrowed so it keeps a gap after "Total Sorties"). Checked in game.
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.9).iso`, built with `python tools/build_iso.py 0.7.9 --work work/output/build_0.7.9 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.9.log`).
+
 ## [0.7.8] - 2026-10-21 (public release)
 
 ### Changed

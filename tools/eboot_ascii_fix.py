@@ -7,10 +7,16 @@ the game's own romanization: VAJURA, GEPPERNITI, OCTOSS... Each is referenced by
 pointer from its unit record, and no game data file matches them, so they can be
 rewritten in place. work/translation/en/eboot_ascii.en.json lists the names that
 clash with the glossary (rows: id "eboot_ascii:<file offset hex>", old, en).
+It also empties the 'p' and 't' of the Nyan-Nyan Shop price unit, which the English
+draws whole as 'Pts' in the 'Nyan' kanji string (u3025).
 
 Each row is written over the old string at its offset. The tool checks the old
 bytes first and that the new name (plus its terminating NUL) fits the slot up to
 the next string; the rest of the slot is filled with NUL bytes.
+
+Then the checked code-word patches of work/ui/eboot_word_patches.json are applied
+(rows: file offset, old word, new word, all hex): each old word is verified first.
+Only plain immediates are patched there, never relocated words.
 """
 import json
 import os
@@ -18,6 +24,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FIXES = os.path.join(ROOT, "work", "translation", "en", "eboot_ascii.en.json")
+WORDS = os.path.join(ROOT, "work", "ui", "eboot_word_patches.json")
 
 
 def apply(data, rows):
@@ -37,6 +44,16 @@ def apply(data, rows):
     return bytes(data)
 
 
+def apply_words(data, rows):
+    data = bytearray(data)
+    for r in rows:
+        off, old, new = int(r["offset"], 16), int(r["old"], 16), int(r["new"], 16)
+        if int.from_bytes(data[off:off + 4], "little") != old:
+            raise ValueError("word at %X: expected %08X" % (off, old))
+        data[off:off + 4] = new.to_bytes(4, "little")
+    return bytes(data)
+
+
 def main():
     args = sys.argv[1:]
     fixes = FIXES
@@ -48,8 +65,10 @@ def main():
         sys.exit(__doc__)
     rows = json.load(open(fixes, encoding="utf-8"))["rows"]
     out = apply(open(args[0], "rb").read(), rows)
+    words = json.load(open(WORDS, encoding="utf-8"))["rows"] if os.path.exists(WORDS) else []
+    out = apply_words(out, words)
     open(args[1], "wb").write(out)
-    print("%d unit names fixed" % len(rows))
+    print("%d ASCII strings fixed, %d code words patched" % (len(rows), len(words)))
 
 
 if __name__ == "__main__":

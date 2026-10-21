@@ -1794,13 +1794,13 @@
   },
   {
    "id": "u2463",
-   "en": "Remove Boarding Size Limit",
+   "en": "Remove Unit Size Limit",
    "flags": [],
    "notes": "Lets any pilot board units regardless of body size."
   },
   {
    "id": "u2464",
-   "en": "Remove Fixed-Pilot Unit Limit",
+   "en": "Remove Fixed-Pilot Limit",
    "flags": [
     "uncertain"
    ],
@@ -1826,13 +1826,13 @@
   },
   {
    "id": "u2468",
-   "en": "Unlock Nyan-Nyan Shop Line Select",
+   "en": "Unlock Shop Line Select",
    "flags": [],
    "notes": "Daishi = shopkeeper lines/voice lines of the Nyan-Nyan Shop."
   },
   {
    "id": "u2469",
-   "en": "Unlock EX Challenge Mode",
+   "en": "Unlock EX Challenge",
    "flags": [],
    "notes": ""
   },
@@ -1844,7 +1844,7 @@
   },
   {
    "id": "u2471",
-   "en": "Nyan-Nyan Shop: Everything Free",
+   "en": "Free Nyan-Nyan Shop",
    "flags": [],
    "notes": ""
   },

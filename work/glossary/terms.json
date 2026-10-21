@@ -685,6 +685,16 @@
     "ja": "激励",
     "en": "Rally",
     "notes": "Command skill. Project decision 2026-10-21 (user): Rally, not Encouragement."
+   },
+   {
+    "ja": "幻の秘薬",
+    "en": "Phantom Elixir",
+    "notes": "Command skill. Project decision 2026-10-21 (user): Phantom Elixir, not Legendary Elixir."
+   },
+   {
+    "ja": "急速回復",
+    "en": "Rapid Recovery",
+    "notes": "Auto skill. Project decision 2026-10-21 (user): Rapid Recovery, not Quick Recovery."
    }
   ]
  },

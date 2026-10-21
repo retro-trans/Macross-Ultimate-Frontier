@@ -88,7 +88,7 @@
      "menu_map_pict"
     ],
     "sheets_viewed": 27,
-    "rows": 67,
+    "rows": 69,
     "empty_en": 0,
     "notes": ""
    },
@@ -313,7 +313,7 @@
     315,
     51
    ],
-   "en": "Campaign Clear Rate\nS Rank Rate\nExtra Enemy Clear Rate\nUltimate Clear Rate\nChronicle Completion\nEX Clear Rate",
+   "en": "Campaign Clear Rate\nS Rank Rate\nExtra Enemy Clear Rate\nUlti. Clear Rate\nChronicle Completion\nEX Clear Rate",
    "kind": "other",
    "style": "white bold italic sans on transparent, two columns of three, each followed by a green arrow and a black value box",
    "notes": "Order: left column top to bottom, then right column. About 110-130 px per label; if tight use \"Campaign Clear\", \"S Ranks\", \"Extra Enemy Clear\", \"Ultimate Clear\", \"Chronicle Done\", \"EX Clear\". English \"CLEAR RATE\" tag stays.",
@@ -6548,7 +6548,7 @@
    "en": "Characters",
    "kind": "button label",
    "style": "white bold text with dark outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, normal state. Keep the leading bullet. Fallback 'Chars' if 10 letters do not fit 47px.",
+   "notes": "Nyan-Nyan Shop menu item, normal state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Fallback 'Chars' if 10 letters do not fit 47px.",
    "flags": [],
    "group": "menu_b"
   },
@@ -6562,7 +6562,7 @@
    "en": "Characters",
    "kind": "button label",
    "style": "white bold text with thick red glow outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, highlighted state. Keep the leading bullet. Fallback 'Chars' if 10 letters do not fit 47px.",
+   "notes": "Nyan-Nyan Shop menu item, highlighted state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Fallback 'Chars' if 10 letters do not fit 47px.",
    "flags": [],
    "group": "menu_b"
   },
@@ -6576,7 +6576,7 @@
    "en": "Units",
    "kind": "button label",
    "style": "white bold text with dark outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, normal state. Keep the leading bullet. Normal texture is only 24px wide (the _light one is 47px): widen it or use a tiny font.",
+   "notes": "Nyan-Nyan Shop menu item, normal state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Normal texture is only 24px wide (the _light one is 47px): widen it or use a tiny font.",
    "flags": [],
    "group": "menu_b"
   },
@@ -6590,7 +6590,7 @@
    "en": "Units",
    "kind": "button label",
    "style": "white bold text with thick red glow outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, highlighted state. Keep the leading bullet. Normal texture is only 24px wide (the _light one is 47px): widen it or use a tiny font.",
+   "notes": "Nyan-Nyan Shop menu item, highlighted state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Normal texture is only 24px wide (the _light one is 47px): widen it or use a tiny font.",
    "flags": [],
    "group": "menu_b"
   },
@@ -6604,7 +6604,7 @@
    "en": "Unlocks",
    "kind": "button label",
    "style": "white bold text with dark outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, normal state. Keep the leading bullet. Category is 'Mode Unlocks' in ui.en.json; the full form does not fit 47px.",
+   "notes": "Nyan-Nyan Shop menu item, normal state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Category is 'Mode Unlocks' in ui.en.json; the full form does not fit 47px.",
    "flags": [],
    "group": "menu_b"
   },
@@ -6618,7 +6618,35 @@
    "en": "Unlocks",
    "kind": "button label",
    "style": "white bold text with thick red glow outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, highlighted state. Keep the leading bullet. Category is 'Mode Unlocks' in ui.en.json; the full form does not fit 47px.",
+   "notes": "Nyan-Nyan Shop menu item, highlighted state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Category is 'Mode Unlocks' in ui.en.json; the full form does not fit 47px.",
+   "flags": [],
+   "group": "menu_b"
+  },
+  {
+   "png": "menu_shop/menu_03.gim.png",
+   "file": "data/menu/shop/menu_03.gim",
+   "size": [
+    28,
+    12
+   ],
+   "en": "BGM",
+   "kind": "button label",
+   "style": "white bold text with dark outline, leading bullet dot, transparent",
+   "notes": "Nyan-Nyan Shop menu item, normal state. Redrawn in the English font so it matches the other labels (0.7.9); the Japanese leading bullet is erased.",
+   "flags": [],
+   "group": "menu_b"
+  },
+  {
+   "png": "menu_shop/menu_03_light.gim.png",
+   "file": "data/menu/shop/menu_03_light.gim",
+   "size": [
+    47,
+    12
+   ],
+   "en": "BGM",
+   "kind": "button label",
+   "style": "white bold text with thick red glow outline, leading bullet dot, transparent",
+   "notes": "Nyan-Nyan Shop menu item, highlighted state. Redrawn in the English font so it matches the other labels (0.7.9); the Japanese leading bullet is erased.",
    "flags": [],
    "group": "menu_b"
   },
@@ -6632,7 +6660,7 @@
    "en": "Movies",
    "kind": "button label",
    "style": "white bold text with dark outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, normal state. Keep the leading bullet. ",
+   "notes": "Nyan-Nyan Shop menu item, normal state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. ",
    "flags": [],
    "group": "menu_b"
   },
@@ -6646,7 +6674,7 @@
    "en": "Movies",
    "kind": "button label",
    "style": "white bold text with thick red glow outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, highlighted state. Keep the leading bullet. ",
+   "notes": "Nyan-Nyan Shop menu item, highlighted state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. ",
    "flags": [],
    "group": "menu_b"
   },
@@ -6660,7 +6688,7 @@
    "en": "Wallpapers",
    "kind": "button label",
    "style": "white bold text with dark outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, normal state. Keep the leading bullet. Normal texture is only 24px wide (_light is 47px); fallback 'Walls'.",
+   "notes": "Nyan-Nyan Shop menu item, normal state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Normal texture is only 24px wide (_light is 47px); fallback 'Walls'.",
    "flags": [],
    "group": "menu_b"
   },
@@ -6674,7 +6702,7 @@
    "en": "Wallpapers",
    "kind": "button label",
    "style": "white bold text with thick red glow outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, highlighted state. Keep the leading bullet. Normal texture is only 24px wide (_light is 47px); fallback 'Walls'.",
+   "notes": "Nyan-Nyan Shop menu item, highlighted state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Normal texture is only 24px wide (_light is 47px); fallback 'Walls'.",
    "flags": [],
    "group": "menu_b"
   },
@@ -6688,7 +6716,7 @@
    "en": "Titles",
    "kind": "button label",
    "style": "white bold text with dark outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, normal state. Keep the leading bullet. Normal texture is 25px wide (_light is 47px).",
+   "notes": "Nyan-Nyan Shop menu item, normal state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Normal texture is 25px wide (_light is 47px).",
    "flags": [],
    "group": "menu_b"
   },
@@ -6702,7 +6730,7 @@
    "en": "Titles",
    "kind": "button label",
    "style": "white bold text with thick red glow outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, highlighted state. Keep the leading bullet. Normal texture is 25px wide (_light is 47px).",
+   "notes": "Nyan-Nyan Shop menu item, highlighted state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Normal texture is 25px wide (_light is 47px).",
    "flags": [],
    "group": "menu_b"
   },
@@ -6716,7 +6744,7 @@
    "en": "Icons",
    "kind": "button label",
    "style": "white bold text with dark outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, normal state. Keep the leading bullet. ",
+   "notes": "Nyan-Nyan Shop menu item, normal state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. ",
    "flags": [],
    "group": "menu_b"
   },
@@ -6730,7 +6758,7 @@
    "en": "Icons",
    "kind": "button label",
    "style": "white bold text with thick red glow outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, highlighted state. Keep the leading bullet. ",
+   "notes": "Nyan-Nyan Shop menu item, highlighted state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. ",
    "flags": [],
    "group": "menu_b"
   },
@@ -6744,7 +6772,7 @@
    "en": "Leave Shop",
    "kind": "button label",
    "style": "white bold text with dark outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, normal state. Keep the leading bullet. Cf. 'Leave the Nyan-Nyan Shop?' in ui.en.json.",
+   "notes": "Nyan-Nyan Shop menu item, normal state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Cf. 'Leave the Nyan-Nyan Shop?' in ui.en.json.",
    "flags": [],
    "group": "menu_b"
   },
@@ -6758,7 +6786,7 @@
    "en": "Leave Shop",
    "kind": "button label",
    "style": "white bold text with thick red glow outline, leading bullet dot, transparent",
-   "notes": "Nyan-Nyan Shop menu item, highlighted state. Keep the leading bullet. Cf. 'Leave the Nyan-Nyan Shop?' in ui.en.json.",
+   "notes": "Nyan-Nyan Shop menu item, highlighted state. The Japanese leading bullet is erased (0.7.9); all nine labels are drawn at size 10, squeezed to the texture's own width. Cf. 'Leave the Nyan-Nyan Shop?' in ui.en.json.",
    "flags": [],
    "group": "menu_b"
   },

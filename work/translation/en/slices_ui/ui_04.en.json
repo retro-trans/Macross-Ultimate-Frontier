@@ -998,7 +998,7 @@
   },
   {
    "id": "u0903",
-   "en": "Defense is doubled, and you no longer stagger\nwhen hit.",
+   "en": "Increase defense to 2x and no longer stagger\nwhen hit.",
    "flags": [],
    "notes": ""
   },
@@ -1034,7 +1034,7 @@
   },
   {
    "id": "u0909",
-   "en": "Reflects beam-type shots and negates\nsolid-ammo attacks.",
+   "en": "Reflect beam-type shots and negate\nsolid-ammo attacks.",
    "flags": [],
    "notes": ""
   },
@@ -1046,7 +1046,7 @@
   },
   {
    "id": "u0911",
-   "en": "Become invincible for a short time.",
+   "en": "Become invincible temporarily.",
    "flags": [],
    "notes": ""
   },
@@ -1108,7 +1108,7 @@
   },
   {
    "id": "u0921",
-   "en": "Reloads all weapons, shortens attack openings,\nand makes you invincible for a while.",
+   "en": "Reload all weapons, shorten attack openings,\nand become invincible temporarily.",
    "flags": [],
    "notes": ""
   },
@@ -1132,7 +1132,7 @@
   },
   {
    "id": "u0925",
-   "en": "Legendary Elixir",
+   "en": "Phantom Elixir",
    "flags": [],
    "notes": ""
   },
@@ -1150,7 +1150,7 @@
   },
   {
    "id": "u0928",
-   "en": "Increase attack power of self and allies by 1.5x\nand gradually restore HP.",
+   "en": "Increase attack power of self and allies by\n1.5x and gradually restore HP.",
    "flags": [],
    "notes": ""
   },
@@ -1174,13 +1174,13 @@
   },
   {
    "id": "u0932",
-   "en": "Freezes enemies for an instant, and you and\nnearby allies gradually recover HP.",
+   "en": "Momentarily freezes enemies, and self and\nnearby allies gradually restore HP.",
    "flags": [],
    "notes": ""
   },
   {
    "id": "u0933",
-   "en": "You and nearby allies gradually recover HP.",
+   "en": "Self and nearby allies gradually recover HP.",
    "flags": [
     "reflow"
    ],
@@ -1196,14 +1196,16 @@
   },
   {
    "id": "u0935",
-   "en": "Attack power of you and your allies triples, but\ndefense is halved.",
+   "en": "Increase self and allies' attack power to 3x, but\ndecrease defense to 0.5x.",
    "flags": [],
    "notes": ""
   },
   {
    "id": "u0936",
-   "en": "Zentradi weapons and Zentradi-piloted units\nweaken in all stats; others grow stronger.",
-   "flags": [],
+   "en": "Decrease parameters of Zentradi-type weapons\nand Zentradi-piloted units; strengthen others.",
+   "flags": [
+    "reflow"
+   ],
    "notes": "Source says Zentran-type weapons; rendered 'Zentradi-made'."
   },
   {
@@ -1214,7 +1216,7 @@
   },
   {
    "id": "u0938",
-   "en": "Sivil appears in front of you and puts up a\nbarrier for a set time.",
+   "en": "Sivil appears in front of you and deploys a\nbarrier for a set time.",
    "flags": [],
    "notes": ""
   },
@@ -1240,7 +1242,7 @@
   },
   {
    "id": "u0942",
-   "en": "Stops everything but you and triggers an SPA.\n*Hold the L button when activating for no SPA",
+   "en": "Stops movement of all but self and uses SPA.\n*Hold L Button on activation to not use SPA.",
    "flags": [],
    "notes": ""
   },
@@ -1252,7 +1254,7 @@
   },
   {
    "id": "u0944",
-   "en": "In Fighter mode, roll speed rises and you can\nroll up to 4 times in a row.",
+   "en": "In Fighter mode, increase roll speed and allow\nup to 4 consecutive rolls.",
    "flags": [],
    "notes": ""
   },
@@ -1264,7 +1266,7 @@
   },
   {
    "id": "u0946",
-   "en": "Lock-on range doubles, and multi-lock speed\nincreases 1.5x.",
+   "en": "Lock-on range doubles, and increase multi-lock\nspeed to 1.5x.",
    "flags": [],
    "notes": ""
   },
@@ -1276,7 +1278,7 @@
   },
   {
    "id": "u0948",
-   "en": "When you rescue your partner, their HP is\nrestored to 50%.",
+   "en": "When rescuing your partner, they recover 50%\nof their HP.",
    "flags": [
     "uncertain"
    ],
@@ -1290,8 +1292,10 @@
   },
   {
    "id": "u0950",
-   "en": "Anti-Missile Action can be used 1.5x as\nmany times.",
-   "flags": [],
+   "en": "Increase limit of Anti-Missile Action to 1.5x.",
+   "flags": [
+    "reflow"
+   ],
    "notes": ""
   },
   {
@@ -1302,7 +1306,7 @@
   },
   {
    "id": "u0952",
-   "en": "Damage to battleships and bases doubles.",
+   "en": "Increase damage to battleships and bases to 2x.",
    "flags": [],
    "notes": ""
   }
