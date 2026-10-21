@@ -23,7 +23,7 @@
   },
   {
    "id": "u0956",
-   "en": "When your HP drops to 30% or less,\nit recovers to 50%. *Once only",
+   "en": "When your HP drops to 30% or less, it recovers\nto 50%. *Once only",
    "flags": [],
    "notes": "Source reference mark before 'once only' rendered as ASCII '*'. Same in u0958, u0962, u0968."
   },
@@ -35,7 +35,7 @@
   },
   {
    "id": "u0958",
-   "en": "When your HP hits 0%, it recovers and\nyou are invincible for a while. *Once only",
+   "en": "When your HP hits 0%, it recovers and you are\ninvincible for a while. *Once only",
    "flags": [],
    "notes": ""
   },
@@ -47,7 +47,7 @@
   },
   {
    "id": "u0960",
-   "en": "On mission clear, the partner's EXP\nfor each parameter is doubled.",
+   "en": "On mission clear, the partner's EXP for each\nparameter is doubled.",
    "flags": [],
    "notes": ""
   },
@@ -71,7 +71,7 @@
   },
   {
    "id": "u0964",
-   "en": "Units that normally cannot fly\nbecome able to fly.",
+   "en": "Units that normally cannot fly become able\nto fly.",
    "flags": [],
    "notes": ""
   },
@@ -111,7 +111,7 @@
   },
   {
    "id": "u0970",
-   "en": "Boost Gauge consumption drops\nto 75% of normal.",
+   "en": "Boost Gauge consumption drops to 75%\nof normal.",
    "flags": [],
    "notes": ""
   },
@@ -135,8 +135,10 @@
   },
   {
    "id": "u0974",
-   "en": "SP Gauge consumption drops\nto 75% of normal.",
-   "flags": [],
+   "en": "SP Gauge consumption drops to 75% of normal.",
+   "flags": [
+    "reflow"
+   ],
    "notes": ""
   },
   {
@@ -147,7 +149,7 @@
   },
   {
    "id": "u0976",
-   "en": "In consecutive missions, HP is restored\nto 100% at the start of each mission.",
+   "en": "In consecutive missions, HP is restored to 100%\nat the start of each mission.",
    "flags": [],
    "notes": ""
   },
@@ -159,7 +161,7 @@
   },
   {
    "id": "u0978",
-   "en": "Boosts unit performance while\nyou pilot a Destroid.",
+   "en": "Boosts unit performance while you pilot\na Destroid.",
    "flags": [],
    "notes": ""
   },
@@ -171,7 +173,7 @@
   },
   {
    "id": "u0980",
-   "en": "Nyan-Nyan Points earned drop to 0, but\nTune Points earned are doubled.",
+   "en": "Nyan-Nyan Points earned drop to 0, but Tune\nPoints earned are doubled.",
    "flags": [],
    "notes": ""
   },
@@ -183,7 +185,7 @@
   },
   {
    "id": "u0982",
-   "en": "On mission clear, Affinity with each\nselected character decreases.",
+   "en": "On mission clear, Affinity with each selected\ncharacter decreases.",
    "flags": [],
    "notes": ""
   },
@@ -207,7 +209,7 @@
   },
   {
    "id": "u0986",
-   "en": "Enemy attack power is doubled, but the\nplayer pilot's EXP earned is doubled.",
+   "en": "Enemy attack power is doubled, but the player\npilot's EXP earned is doubled.",
    "flags": [],
    "notes": ""
   },
@@ -219,7 +221,7 @@
   },
   {
    "id": "u0988",
-   "en": "Converts earned Tune Points\ninto Nyan-Nyan Points.",
+   "en": "Converts earned Tune Points into\nNyan-Nyan Points.",
    "flags": [],
    "notes": ""
   },
@@ -231,7 +233,7 @@
   },
   {
    "id": "u0990",
-   "en": "Start missions with the SP Gauge\nalready charged to 3 blocks.",
+   "en": "Start missions with the SP Gauge already\ncharged to 3 blocks.",
    "flags": [],
    "notes": ""
   },

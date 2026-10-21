@@ -15913,9 +15913,9 @@
    "row": 444,
    "slice": 2,
    "id": "u0444",
-   "en": "Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "en": "Micro-Missiles (Multi)\nMissiles that can lock onto several enemies at once",
    "flags": [],
-   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple).",
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple). | review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -15933,9 +15933,9 @@
    "row": 445,
    "slice": 2,
    "id": "u0445",
-   "en": "Micro Missiles (Blast)\nMissiles that cause a huge blast on impact",
+   "en": "Micro-Missiles (Blast)\nMissiles that cause a huge blast on impact",
    "flags": [],
-   "notes": "",
+   "notes": "review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -15953,9 +15953,9 @@
    "row": 446,
    "slice": 2,
    "id": "u0446",
-   "en": "Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "en": "Micro-Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": "",
+   "notes": "review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -16053,9 +16053,9 @@
    "row": 451,
    "slice": 2,
    "id": "u0451",
-   "en": "Micro Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "en": "Micro-Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
    "flags": [],
-   "notes": "",
+   "notes": "review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -16093,9 +16093,9 @@
    "row": 453,
    "slice": 2,
    "id": "u0453",
-   "en": "Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "en": "Micro-Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": "",
+   "notes": "review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -16113,9 +16113,9 @@
    "row": 454,
    "slice": 2,
    "id": "u0454",
-   "en": "Micro Missiles (Cluster)\nMissiles that burst and split into several after launch",
+   "en": "Micro-Missiles (Cluster)\nMissiles that burst and split into several after launch",
    "flags": [],
-   "notes": "",
+   "notes": "review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -16213,9 +16213,9 @@
    "row": 459,
    "slice": 2,
    "id": "u0459",
-   "en": "Micro Missiles (Laser/Blast)\nMissiles that fly straight at the enemy and cause a blast on impact",
+   "en": "Micro-Missiles (Laser/Blast)\nMissiles that fly straight at the enemy and cause a blast on impact",
    "flags": [],
-   "notes": "",
+   "notes": "review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -16333,9 +16333,9 @@
    "row": 465,
    "slice": 2,
    "id": "u0465",
-   "en": "Ultra-High-Mobility Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "en": "Ultra-High-Mobility Micro-Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles).",
+   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles). | review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -16353,9 +16353,9 @@
    "row": 466,
    "slice": 2,
    "id": "u0466",
-   "en": "Ultra-High-Mobility Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "en": "Ultra-High-Mobility Micro-Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles).",
+   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles). | review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -16373,9 +16373,9 @@
    "row": 467,
    "slice": 2,
    "id": "u0467",
-   "en": "Ultra-High-Mobility Micro Missiles (Blast)\nMissiles with tremendous destructive power",
+   "en": "Ultra-High-Mobility Micro-Missiles (Blast)\nMissiles with tremendous destructive power",
    "flags": [],
-   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles).",
+   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles). | review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -16533,9 +16533,9 @@
    "row": 475,
    "slice": 2,
    "id": "u0475",
-   "en": "Large Hand Grenade + Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a huge blast on impact",
+   "en": "Large Hand Grenade + Micro-Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a huge blast on impact",
    "flags": [],
-   "notes": "",
+   "notes": "review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -17193,9 +17193,9 @@
    "row": 508,
    "slice": 2,
    "id": "u0508",
-   "en": "MDE Warhead Micro Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "en": "MDE Warhead Micro-Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
    "flags": [],
-   "notes": "",
+   "notes": "review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -17213,9 +17213,9 @@
    "row": 509,
    "slice": 2,
    "id": "u0509",
-   "en": "MDE Warhead Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "en": "MDE Warhead Micro-Missiles (Multi)\nMissiles that can lock onto several enemies at once",
    "flags": [],
-   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple).",
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple). | review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -17233,9 +17233,9 @@
    "row": 510,
    "slice": 2,
    "id": "u0510",
-   "en": "MDE Warhead Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "en": "MDE Warhead Micro-Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": "",
+   "notes": "review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -17253,9 +17253,9 @@
    "row": 511,
    "slice": 2,
    "id": "u0511",
-   "en": "MDE Warhead Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "en": "MDE Warhead Micro-Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": "",
+   "notes": "review: user: Micro-Missiles (hyphenated)",
    "status": "done"
   },
   {
@@ -26544,7 +26544,7 @@
    "row": 903,
    "slice": 4,
    "id": "u0903",
-   "en": "Defense is doubled, and you no longer\nstagger when hit.",
+   "en": "Defense is doubled, and you no longer stagger\nwhen hit.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26584,7 +26584,7 @@
    "row": 905,
    "slice": 4,
    "id": "u0905",
-   "en": "Emits colored smoke in Fighter mode.\n○ button: On/Off  □ button: Change color",
+   "en": "Emits colored smoke in Fighter mode.\n○ Button: On/Off  □ Button: Change Color",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26624,7 +26624,7 @@
    "row": 907,
    "slice": 4,
    "id": "u0907",
-   "en": "Guarding an enemy melee attack\nalways parries it.",
+   "en": "Always parry when guarding an enemy's\nmelee attack.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26664,7 +26664,7 @@
    "row": 909,
    "slice": 4,
    "id": "u0909",
-   "en": "Reflects beam-type shots and\nnegates solid-ammo attacks.",
+   "en": "Reflects beam-type shots and negates\nsolid-ammo attacks.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26764,7 +26764,7 @@
    "row": 914,
    "slice": 4,
    "id": "u0914",
-   "en": "Missile Read",
+   "en": "Missile Reading",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26784,7 +26784,7 @@
    "row": 915,
    "slice": 4,
    "id": "u0915",
-   "en": "Slows down enemy missiles.",
+   "en": "Slow down the speed of enemy missiles.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26826,7 +26826,7 @@
    "row": 917,
    "slice": 4,
    "id": "u0917",
-   "en": "You can no longer guard, but\nmelee attack power triples.",
+   "en": "You can no longer guard, but melee attack\npower triples.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26886,7 +26886,7 @@
    "row": 920,
    "slice": 4,
    "id": "u0920",
-   "en": "Encouragement",
+   "en": "Rally",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26906,7 +26906,7 @@
    "row": 921,
    "slice": 4,
    "id": "u0921",
-   "en": "Reloads all weapons, shortens attack\nopenings, and makes you invincible for a while.",
+   "en": "Reloads all weapons, shortens attack openings,\nand makes you invincible for a while.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26926,7 +26926,7 @@
    "row": 922,
    "slice": 4,
    "id": "u0922",
-   "en": "Attack power, speed and boost capacity\nincrease 1.5x.",
+   "en": "Increases attack power, speed, and boost\ncapacity by 1.5x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26966,7 +26966,7 @@
    "row": 924,
    "slice": 4,
    "id": "u0924",
-   "en": "All weapons carry 1.5x ammo.",
+   "en": "Increase all weapons' ammo capacity by 1.5x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27006,7 +27006,7 @@
    "row": 926,
    "slice": 4,
    "id": "u0926",
-   "en": "Restores HP to you and allies around\nyou, and revives any that were shot down.",
+   "en": "Restore HP to self and nearby allies, and revive\nany shot-down allies.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27054,7 +27054,7 @@
    "row": 928,
    "slice": 4,
    "id": "u0928",
-   "en": "Attack power of you and your allies\nrises 1.5x, and HP gradually recovers.",
+   "en": "Increase attack power of self and allies by 1.5x\nand gradually restore HP.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27162,8 +27162,10 @@
    "row": 933,
    "slice": 4,
    "id": "u0933",
-   "en": "You and nearby allies\ngradually recover HP.",
-   "flags": [],
+   "en": "You and nearby allies gradually recover HP.",
+   "flags": [
+    "reflow"
+   ],
    "notes": "",
    "status": "done"
   },
@@ -27204,7 +27206,7 @@
    "row": 935,
    "slice": 4,
    "id": "u0935",
-   "en": "Attack power of you and your allies triples,\nbut defense is halved.",
+   "en": "Attack power of you and your allies triples, but\ndefense is halved.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27224,7 +27226,7 @@
    "row": 936,
    "slice": 4,
    "id": "u0936",
-   "en": "All stats of Zentradi-made weapons and\nZentradi-piloted units drop; other units grow stronger.",
+   "en": "Zentradi weapons and Zentradi-piloted units\nweaken in all stats; others grow stronger.",
    "flags": [],
    "notes": "Source says Zentran-type weapons; rendered 'Zentradi-made'.",
    "status": "done"
@@ -27264,7 +27266,7 @@
    "row": 938,
    "slice": 4,
    "id": "u0938",
-   "en": "Sivil appears in front of you and\nputs up a barrier for a set time.",
+   "en": "Sivil appears in front of you and puts up a\nbarrier for a set time.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27304,7 +27306,7 @@
    "row": 940,
    "slice": 4,
    "id": "u0940",
-   "en": "Reverses the up/down and left/right controls\nof every enemy unit.",
+   "en": "Reverses the up/down and left/right controls of\nevery enemy unit.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27386,7 +27388,7 @@
    "row": 944,
    "slice": 4,
    "id": "u0944",
-   "en": "In Fighter mode, roll speed rises and\nyou can roll up to 4 times in a row.",
+   "en": "In Fighter mode, roll speed rises and you can\nroll up to 4 times in a row.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27426,7 +27428,7 @@
    "row": 946,
    "slice": 4,
    "id": "u0946",
-   "en": "Lock-on range doubles, and\nmulti-lock speed increases 1.5x.",
+   "en": "Lock-on range doubles, and multi-lock speed\nincreases 1.5x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27466,7 +27468,7 @@
    "row": 948,
    "slice": 4,
    "id": "u0948",
-   "en": "When you rescue your partner,\ntheir HP is restored to 50%.",
+   "en": "When you rescue your partner, their HP is\nrestored to 50%.",
    "flags": [
     "uncertain"
    ],
@@ -27508,7 +27510,7 @@
    "row": 950,
    "slice": 4,
    "id": "u0950",
-   "en": "Anti-Missile Action can be used\n1.5x as many times.",
+   "en": "Anti-Missile Action can be used 1.5x as\nmany times.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27628,7 +27630,7 @@
    "row": 956,
    "slice": 5,
    "id": "u0956",
-   "en": "When your HP drops to 30% or less,\nit recovers to 50%. *Once only",
+   "en": "When your HP drops to 30% or less, it recovers\nto 50%. *Once only",
    "flags": [],
    "notes": "Source reference mark before 'once only' rendered as ASCII '*'. Same in u0958, u0962, u0968.",
    "status": "done"
@@ -27676,7 +27678,7 @@
    "row": 958,
    "slice": 5,
    "id": "u0958",
-   "en": "When your HP hits 0%, it recovers and\nyou are invincible for a while. *Once only",
+   "en": "When your HP hits 0%, it recovers and you are\ninvincible for a while. *Once only",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27716,7 +27718,7 @@
    "row": 960,
    "slice": 5,
    "id": "u0960",
-   "en": "On mission clear, the partner's EXP\nfor each parameter is doubled.",
+   "en": "On mission clear, the partner's EXP for each\nparameter is doubled.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27796,7 +27798,7 @@
    "row": 964,
    "slice": 5,
    "id": "u0964",
-   "en": "Units that normally cannot fly\nbecome able to fly.",
+   "en": "Units that normally cannot fly become able\nto fly.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27920,7 +27922,7 @@
    "row": 970,
    "slice": 5,
    "id": "u0970",
-   "en": "Boost Gauge consumption drops\nto 75% of normal.",
+   "en": "Boost Gauge consumption drops to 75%\nof normal.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28008,8 +28010,10 @@
    "row": 974,
    "slice": 5,
    "id": "u0974",
-   "en": "SP Gauge consumption drops\nto 75% of normal.",
-   "flags": [],
+   "en": "SP Gauge consumption drops to 75% of normal.",
+   "flags": [
+    "reflow"
+   ],
    "notes": "",
    "status": "done"
   },
@@ -28048,7 +28052,7 @@
    "row": 976,
    "slice": 5,
    "id": "u0976",
-   "en": "In consecutive missions, HP is restored\nto 100% at the start of each mission.",
+   "en": "In consecutive missions, HP is restored to 100%\nat the start of each mission.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28088,7 +28092,7 @@
    "row": 978,
    "slice": 5,
    "id": "u0978",
-   "en": "Boosts unit performance while\nyou pilot a Destroid.",
+   "en": "Boosts unit performance while you pilot\na Destroid.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28128,7 +28132,7 @@
    "row": 980,
    "slice": 5,
    "id": "u0980",
-   "en": "Nyan-Nyan Points earned drop to 0, but\nTune Points earned are doubled.",
+   "en": "Nyan-Nyan Points earned drop to 0, but Tune\nPoints earned are doubled.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28168,7 +28172,7 @@
    "row": 982,
    "slice": 5,
    "id": "u0982",
-   "en": "On mission clear, Affinity with each\nselected character decreases.",
+   "en": "On mission clear, Affinity with each selected\ncharacter decreases.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28248,7 +28252,7 @@
    "row": 986,
    "slice": 5,
    "id": "u0986",
-   "en": "Enemy attack power is doubled, but the\nplayer pilot's EXP earned is doubled.",
+   "en": "Enemy attack power is doubled, but the player\npilot's EXP earned is doubled.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28288,7 +28292,7 @@
    "row": 988,
    "slice": 5,
    "id": "u0988",
-   "en": "Converts earned Tune Points\ninto Nyan-Nyan Points.",
+   "en": "Converts earned Tune Points into\nNyan-Nyan Points.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -28328,7 +28332,7 @@
    "row": 990,
    "slice": 5,
    "id": "u0990",
-   "en": "Start missions with the SP Gauge\nalready charged to 3 blocks.",
+   "en": "Start missions with the SP Gauge already\ncharged to 3 blocks.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -69120,9 +69124,9 @@
    "row": 2450,
    "slice": 9,
    "id": "u2450",
-   "en": "Shooting Def.",
+   "en": "Ranged Def.",
    "flags": [],
-   "notes": "",
+   "notes": "review: user request: unit stat named Ranged Def. (pairs with Melee Def.)",
    "status": "done"
   },
   {

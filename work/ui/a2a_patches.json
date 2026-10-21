@@ -1,0 +1,92 @@
+{
+ "_meta": {
+  "about": "Position changes for parts of A2A layouts (tools/a2a_patch.py). Each part has one keyframe: [part, 1, 0, -1, 0, 0, 0, 100, 100, -1, x, y, 0]; only x is changed, after checking the old value.",
+  "groups": "Total Missiles Fired: the 12 digit slots were grouped 4-4-4 around the Japanese unit marks (oku, man). Now grouped by three from the right with a 6 px gap: 786 394."
+ },
+ "patches": [
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 7,
+   "old_x": 24,
+   "x": 81,
+   "note": "Total Missiles Fired digit 12 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 8,
+   "old_x": 39,
+   "x": 96,
+   "note": "Total Missiles Fired digit 11 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 9,
+   "old_x": 54,
+   "x": 111,
+   "note": "Total Missiles Fired digit 10 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 10,
+   "old_x": 69,
+   "x": 132,
+   "note": "Total Missiles Fired digit 9 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 11,
+   "old_x": 121,
+   "x": 147,
+   "note": "Total Missiles Fired digit 8 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 12,
+   "old_x": 136,
+   "x": 162,
+   "note": "Total Missiles Fired digit 7 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 13,
+   "old_x": 151,
+   "x": 183,
+   "note": "Total Missiles Fired digit 6 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 14,
+   "old_x": 166,
+   "x": 198,
+   "note": "Total Missiles Fired digit 5 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 15,
+   "old_x": 219,
+   "x": 213,
+   "note": "Total Missiles Fired digit 4 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 16,
+   "old_x": 234,
+   "x": 234,
+   "note": "Total Missiles Fired digit 3 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 17,
+   "old_x": 249,
+   "x": 249,
+   "note": "Total Missiles Fired digit 2 from the right"
+  },
+  {
+   "file": "data/menu/gallery/a2a_record_all_tactics_bar.a2a",
+   "part": 18,
+   "old_x": 264,
+   "x": 264,
+   "note": "Total Missiles Fired digit 1 from the right"
+  }
+ ]
+}

@@ -80,6 +80,7 @@ def andi(rt, rs, imm): return _i(0x0C, rs, rt, imm)
 def sltiu(rt, rs, imm): return _i(0x0B, rs, rt, imm)
 def lw(rt, off, base): return _i(0x23, base, rt, off)
 def lh(rt, off, base): return _i(0x21, base, rt, off)
+def lb(rt, off, base): return _i(0x20, base, rt, off)
 def sw(rt, off, base): return _i(0x2B, base, rt, off)
 def beq(rs, rt, pc, target): return _i(0x04, rs, rt, _off(pc, target))
 def b(pc, target): return beq("zero", "zero", pc, target)
@@ -90,6 +91,20 @@ def sh(rt, off, base): return _i(0x29, base, rt, off)
 def lui(rt, imm): return _i(0x0F, "zero", rt, imm)
 def ori(rt, rs, imm): return _i(0x0D, rs, rt, imm)
 def mov_s(fd, fs): return (0x11 << 26) | (0x10 << 21) | (fs << 11) | (fd << 6) | 0x06
+def _fpu(fmt, ft, fs, fd, funct): return (0x11 << 26) | (fmt << 21) | (ft << 16) | (fs << 11) | (fd << 6) | funct
+def add_s(fd, fs, ft): return _fpu(0x10, ft, fs, fd, 0x00)
+def sub_s(fd, fs, ft): return _fpu(0x10, ft, fs, fd, 0x01)
+def div_s(fd, fs, ft): return _fpu(0x10, ft, fs, fd, 0x03)
+def mul_s(fd, fs, ft): return _fpu(0x10, ft, fs, fd, 0x02)
+def mtc1(rt, fs): return (0x11 << 26) | (0x04 << 21) | (R[rt] << 16) | (fs << 11)
+def slt(rd, rs, rt): return _r(rs, rt, rd, 0, 0x2A)
+def seh(rd, rt): return (0x1F << 26) | (R[rt] << 16) | (R[rd] << 11) | (0x18 << 6) | 0x20
+def movn(rd, rs, rt): return _r(rs, rt, rd, 0, 0x0B)
+def round_w_s(fd, fs): return _fpu(0x10, 0, fs, fd, 0x0C)
+def cvt_s_w(fd, fs): return _fpu(0x14, 0, fs, fd, 0x20)
+def mfc1(rt, fs): return (0x11 << 26) | (R[rt] << 16) | (fs << 11)
+def lwc1(ft, off, base): return (0x31 << 26) | (R[base] << 21) | (ft << 16) | (off & 0xFFFF)
+def swc1(ft, off, base): return (0x39 << 26) | (R[base] << 21) | (ft << 16) | (off & 0xFFFF)
 
 
 # ------------------------------------------------------------- ELF helpers
@@ -373,9 +388,179 @@ def dispatcher_code(pc, g0, hd_off):
     return code
 
 
+MISC_CAVE = DISPATCH_CAVE + 4 * 44   # after the dispatcher (43 words): 24 words free of relocations
+ADV_CAVE = 0x157560                  # rest of the unused routine 0x1573DC: 38 words free of relocations
+CARRY = 0x448                        # printer stack frame: unused padding word next to the saved ra
+SUBPX = 0x28                         # font descriptor word, 0 and unused in every font: sub-pixel offset
+EMITTER = 0x157F10                   # the sprite emitter the printer calls for every glyph
+EMIT2 = 0x15E644                     # the shadowed-text emitter (help bars, record screens)
+EMIT2_CAVE = 0x157328                # unused char->glyph routine 0x157304: 28 words free of relocations
+EMIT2_U_SITES = (0x15E708, 0x15E7CC, 0x15E848, 0x15E8B8, 0x15E924, 0x15E998)   # seh $t1,$t1 = u0 per pass
+FRAC_BYTES = 0x158D54                # unused converter 0x158D0C: 37 words free of relocations;
+                                     # 96 signed bytes, (integer - true advance) in 1/64 px
+
+
+def adv_code(pc, fractab):
+    """Exact advances for the printer's two advance blocks (sub-pixel text).
+
+    The printer computes L = left * size / cell and R = right * size / cell from the
+    bearing table and moves the pen by size - (round(L) + round(R)): the integer table
+    and the per-letter rounding cost up to a pixel per letter ("Turni ng", tight
+    "Melee"). For the 14 px font (cell 14) R is taken from a second table that holds
+    14 - the font's true advance, so the advance is exact. L + R - carry is rounded
+    once for the whole-pixel pen and the remainder is carried to the next letter; the
+    same remainder (desc+0x28) tells the emitter how far right of the pen to draw the
+    next glyph, so every glyph lands at its exact position.
+    In: f1 = left * size, f0 = right * size, f3 = cell, f4 = size, a2 = table index
+    (-1 = not ours), s3 = font descriptor. Out: a2 = round(L + R - carry)."""
+    c = [
+        div_s(1, 1, 3),                 # L
+        div_s(0, 0, 3),                 # R from the integer table
+        lw("t9", 8, "s3"),
+        addiu("t9", "t9", -CELL),
+        None,                           # bnez t9 -> exact (not the 14 px font)
+        slt("t8", "a2", "zero"),
+        None,                           # bnez t8 -> exact (index -1)
+        move("t9", "ra"),
+        bal(pc + 32, pc + 40),          # ra = pc + 40
+        NOP,
+        lui("at", 0),                   # at = fractab - (pc + 40), filled below
+        ori("at", "at", 0),
+        addu("at", "at", "ra"),
+        move("ra", "t9"),
+        addu("at", "at", "a2"),
+        lb("t8", 0, "at"),              # d = (integer - true advance) * 64
+        mtc1("t8", 2),
+        cvt_s_w(2, 2),
+        mul_s(2, 2, 4),
+        lui("t8", 0x3C80),              # 1/64
+        mtc1("t8", 5),
+        mul_s(2, 2, 5),
+        div_s(2, 2, 3),
+        add_s(0, 0, 2),                 # R exact = R + d * size / 64 / cell
+        # exact:
+        add_s(1, 1, 0),                 # L + R
+        lwc1(0, CARRY, "sp"),
+        sub_s(1, 1, 0),                 # u = L + R - carry
+        round_w_s(2, 1),
+        cvt_s_w(0, 2),
+        sub_s(0, 0, 1),                 # carry = round(u) - u
+        swc1(0, CARRY, "sp"),
+        swc1(0, SUBPX, "s3"),           # the next glyph is drawn this far right of its pen
+        jr("ra"),
+        mfc1("a2", 2),
+    ]
+    exact = pc + 4 * 24
+    c[4] = bne("t9", "zero", pc + 16, exact)
+    c[6] = bne("t8", "zero", pc + 24, exact)
+    off = (fractab - (pc + 40)) & 0xFFFFFFFF
+    c[10] = lui("at", off >> 16)
+    c[11] = ori("at", "at", off & 0xFFFF)
+    return c
+
+
+def emit_code(pc, hd=True):
+    """Sub-pixel placement in the emitter 0x157F10. The pen is a whole pixel, the true
+    position is pen + c (c = desc+0x28, -0.5..0.5 px). The glyph's texture u is moved
+    by round(c * cellW / size) texels, which moves the drawn glyph by c (to 1/56 of the
+    cell at 4x). u0 is kept >= 0. In: t2 = cellW * col (from the mult), v1 = cellW,
+    s1 = desc, s3/s6 = x0/x1. Out: t2 = u0, v1 = u1 (as the original two instructions)."""
+    code = [
+        andi("t2", "t2", 0xFFFF),
+        subu("t4", "s6", "s3"),         # size on screen
+        None,                           # beqz t4 -> end
+        lh("t5", 0x18, "s1") if hd else lw("t5", 8, "s1"),   # cell width in texels (56 on the 4x page)
+        lwc1(0, SUBPX, "s1"),
+        mtc1("t4", 1),
+        mtc1("t5", 2),
+        cvt_s_w(1, 1),
+        cvt_s_w(2, 2),
+        mul_s(0, 0, 2),
+        div_s(0, 0, 1),
+        round_w_s(0, 0),
+        mfc1("t4", 0),
+        subu("t2", "t2", "t4"),
+        slt("t5", "t2", "zero"),
+        movn("t2", "zero", "t5"),
+        jr("ra"),
+        addu("v1", "v1", "t2"),
+    ]
+    code[2] = beqz("t4", pc + 8, pc + 4 * 16)
+    return code
+
+
+def emit2_code(pc, first):
+    """Sub-pixel placement for the emitter 0x15E644, which draws a glyph up to six
+    times (shadow and outline passes) through the sprite routine 0x2B7C4, each pass
+    with u0 in t1. After the glyph lookup, k = round(c * cellW / width) is kept at
+    sp+0x18 (unused); each pass's `seh t1, t1` becomes a call that also subtracts k
+    (u0 >= 0). Registers: s2 = desc, s0 = width, t3 = cellW; t8/t9 are unused here."""
+    c = [
+        first,                          # the instruction this hook replaces (cell width -> t3)
+        None,                           # beqz s0 -> end
+        sw("zero", 0x18, "sp"),
+        lwc1(0, SUBPX, "s2"),
+        mtc1("t3", 2),
+        mtc1("s0", 1),
+        cvt_s_w(2, 2),
+        cvt_s_w(1, 1),
+        mul_s(0, 0, 2),
+        div_s(0, 0, 1),
+        round_w_s(0, 0),
+        mfc1("t8", 0),
+        sw("t8", 0x18, "sp"),
+        jr("ra"),                       # end
+        NOP,
+        # per pass:
+        seh("t1", "t1"),
+        lw("t8", 0x18, "sp"),
+        subu("t1", "t1", "t8"),
+        slt("t9", "t1", "zero"),
+        jr("ra"),
+        movn("t1", "zero", "t9"),
+    ]
+    c[1] = beqz("s0", pc + 4, pc + 4 * 13)
+    return c, pc + 4 * 15
+
+
+def frac_patches(eb, fractab, hd=True):
+    adv = adv_code(ADV_CAVE, fractab)
+    if ADV_CAVE + 4 * len(adv) > 0x1575F8:
+        raise ValueError("advance code does not fit the cave")
+    pro = MISC_CAVE                     # carry = 0 and offset = 0 at the start of every printer call
+    misc = [sw("t3", 0x41C, "sp"), sw("zero", SUBPX, "s3"), b(pro + 8, 0x1595C4), sw("zero", CARRY, "sp")]
+    emit_at = MISC_CAVE + 4 * len(misc)
+    misc += emit_code(emit_at, hd)
+    if MISC_CAVE + 4 * len(misc) > DISPATCH_CAVE + 4 * 68:
+        raise ValueError("emitter code does not fit the cave")
+    for base, code in ((ADV_CAVE, adv), (MISC_CAVE, misc)):
+        for i, w in enumerate(code):
+            eb.put_word(base + 4 * i, w)
+    eb.put_word(0x1595BC, b(0x1595BC, pro), "sw $t3, 0x41c($sp)")
+    # both advance blocks: rounding of L and R -> the shared routine, then size - (a2 + 0)
+    for div_at, back in ((0x1598A8, 0x1598C8), (0x159A74, 0x159A94)):
+        eb.put_word(div_at, bal(div_at, ADV_CAVE), "div.s $f1, $f1, $f3")
+        eb.put_word(div_at + 4, NOP, "div.s $f0, $f0, $f3")
+        eb.put_word(div_at + 8, b(div_at + 8, back), "add.s $f1, $f1, $f2")
+        eb.put_word(div_at + 12, move("v1", "zero"), "add.s $f0, $f0, $f2")
+    eb.put_word(EMITTER + 0xA4, bal(EMITTER + 0xA4, emit_at), "andi $t2, $t2, 0xffff")
+    eb.put_word(EMITTER + 0xA8, NOP, "addu $v1, $v1, $t2")
+    e2, per_pass = emit2_code(EMIT2_CAVE, eb.word(EMIT2 + 0x90))
+    if len(e2) > 28:
+        raise ValueError("second emitter code does not fit the cave")
+    for i, w in enumerate(e2):
+        eb.put_word(EMIT2_CAVE + 4 * i, w)
+    if eb.disasm(EMIT2 + 0x90) not in ("lh $t3, 0x18($s2)", "lw $t3, 8($s2)"):
+        raise ValueError("unexpected instruction at %x" % (EMIT2 + 0x90))
+    eb.put_word(EMIT2 + 0x90, bal(EMIT2 + 0x90, EMIT2_CAVE))
+    for va in EMIT2_U_SITES:
+        eb.put_word(va, bal(va, per_pass), "seh $t1, $t1")
+    return len(adv) + len(misc) + len(e2)
+
+
 def hd_patches(eb, g0, hd_off):
     code = dispatcher_code(DISPATCH_CAVE, g0, hd_off)
-    if len(code) > 68:
+    if len(code) > 44:
         raise ValueError("dispatcher does not fit the cave")
     for i, w in enumerate(code):
         eb.put_word(DISPATCH_CAVE + 4 * i, w)
@@ -418,6 +603,11 @@ def build(eboot_path, font_path, out, weight=vwf_font.DEFAULT_WEIGHT, ttf=vwf_fo
     # width table: guard entry (index -1, used for single-byte kana) + 96 entries
     table = struct.pack("<2i", 0, 0) + b"".join(struct.pack("<2i", 0, CELL - w) for w in widths)
     eb.put_bytes(TABLE_CAVE, table)
+    # (integer - true advance) in 1/64 px per glyph, for the printer's exact advances
+    true_adv = info.pop("true_advance")
+    fractab = FRAC_BYTES
+    eb.put_bytes(fractab, struct.pack("<96b", *[max(-127, min(127, int(round((w - a) * 64))))
+                                               for w, a in zip(widths, true_adv)]))
     table_va = TABLE_CAVE + 8
 
     # font descriptor: proportional flag + table pointer (with a new relocation)
@@ -438,6 +628,8 @@ def build(eboot_path, font_path, out, weight=vwf_font.DEFAULT_WEIGHT, ttf=vwf_fo
         n = hd_patches(eb, g0, info["hd_page_offset"])
         print("HD text: 4x page at font offset 0x%X, dispatcher %d words at 0x%X, %d emitter loads"
               % (info["hd_page_offset"], n, DISPATCH_CAVE, len(EMITTER_LOADS)))
+    print("exact advances: %d words at 0x%X, 0x%X and 0x%X, table at 0x%X"
+          % (frac_patches(eb, fractab, hd), ADV_CAVE, MISC_CAVE, EMIT2_CAVE, fractab))
 
     eboot_out = os.path.join(out, "PSP_GAME", "SYSDIR", "EBOOT.BIN")
     os.makedirs(os.path.dirname(eboot_out), exist_ok=True)

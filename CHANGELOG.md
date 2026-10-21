@@ -1,5 +1,66 @@
 # Changelog
 
+## [0.7.8] - 2026-10-21 (public release)
+
+### Changed
+- **All mission briefings** given the same military-briefing pass: 180 of the 432 briefing rows (`mission_ext.csv` strStory and strMission, 118 distinct texts) now say "Commencing..." for the source's "the operation now begins", "Annihilate" for its order to annihilate (was a mix with "Wipe out"), "Suppress" for "suppression", and drop contractions and casual phrasing ("we'll", "can't let them", "Get out of it", "hit the Macross all-out"). Character-voiced briefings (Basara, Sharon, Grace, the tutorials, the Chronicle profiles, the parody missions) are unchanged. Every changed row passes `fit_line.py` (at most 79 characters per strStory line).
+- **Skill names and descriptions** (Player > Support > Command Skill), from player screenshots of 0.7.7:
+  - "Missile Read" is now **"Missile Reading"**, description "Slow down the speed of enemy missiles." (u0914, u0915).
+  - "Encouragement" is now **"Rally"** (u0920).
+  - Shock Guard: "Always parry when guarding an enemy's melee attack." (u0907; was "Guarding an enemy melee attack always parries it.").
+  - Flight Carnival: "○ Button: On/Off  □ Button: Change Color" (u0905).
+  - Ace: "Increases attack power, speed, and boost capacity by 1.5x." (u0922; was "Attack power, speed and boost capacity increase 1.5x.").
+  - Bombing King: "Increase all weapons' ammo capacity by 1.5x." (u0924; was "All weapons carry 1.5x ammo.").
+  - Legendary Elixir: "Restore HP to self and nearby allies, and revive any shot-down allies." (u0926).
+  - Galactic Fairy: "Increase attack power of self and allies by 1.5x and gradually restore HP." (u0928).
+  - Both names are recorded in `work/glossary/terms.json` (skills).
+- **Skill descriptions rewrapped to the box.** Line 1 broke well before the right edge ("You can no longer guard, but / melee attack power triples."). The box is 189 px wide and draws the text at 2/3 size, which is 283 px in `check_widths.py` units (measured from the 0.7.7 screenshots: the Encouragement line 2 at 283 px ends 1 px from the frame). 39 descriptions (u0903-u0990) now fill line 1 up to 283 px, with no one-word last line; two now fit on one line (u0933, u0974). u0936 (Do You Remember Love?) ran past the box on line 2 and is reworded: "Zentradi weapons and Zentradi-piloted units / weaken in all stats; others grow stronger."
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.8).iso`, built with `python tools/build_iso.py 0.7.8 --work work/output/build_0.7.8 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.8.log`).
+- Checked in PPSSPP 1.20.4 with the reported save (Player > Support): Shock Guard and Circus Flight wrap as listed; the widest rewrapped line (283 px, u0974) fits with about 16 px to spare, tested by writing it over a description in RAM since the other skills are locked in that save.
+
+## [0.7.7] - 2026-10-21 (test build, not released)
+
+### Changed
+- Unit stat "Shooting Def." is now **"Ranged Def."** (u2450, Hangar and Partner unit stats), pairing with "Melee Def.". The pilot stat "Shooting" is a different term and is unchanged.
+- Pilot stat "Stamina" is now **"Endurance"**, abbreviated **END** (was STA): the Hangar pilot status panel and the stat headers on the card spec, results, character and save-select screens (5 textures; rows in `work/translation/en/images/`, three hardcoded labels in `work/ui/redraw_layout.json`).
+- Both decisions are recorded in `work/glossary/terms.json` (game_system).
+- **Briefing for "Of Sea and Wind"** (MA_010, MA_015), reworded to read like a military briefing: "Commencing the operation to annihilate the "Anti-U.N. Forces," / enemy of the U.N. Forces. Eliminate the Anti-U.N. TYPE-29 fighter formation." (was "...wipe out the U.N.'s foe: ..."). The line break moved so both lines stay under the 79-character slot.
+- **Help bar "Tabs"** no longer touches the L/R icons: the word starts 3 px into its atlas slot (`common_guide_message.gim`).
+- **Sortie button on the briefing screen** (`brief_decision_icon.gim`): the erase sampled a column inside the old Japanese glyph and left a grey band behind "Sortie", squeezed to 8 px. It is now erased with the button's own background and drawn at 9 px from 2 px further left.
+- **Total Missiles Fired** read "78 6394" for 786,394: the 12 digit slots were grouped by four around the Japanese unit marks (oku, man), which the English texture leaves out. The slots are now grouped by three from the right with a small gap ("786 394"), via the new layout step `tools/a2a_patch.py` (positions in `work/ui/a2a_patches.json`, format in `docs/formats.md`). Real commas would need a code hook, since the digit texture has no comma. Checked in game: "15 589 shots".
+- "Micro Missiles" is now **"Micro-Missiles"** in all 15 weapon names and descriptions (several already used the hyphen).
+- "Item Collection Rate" is now **"Item Completion Rate"** on the overall-record panel (`gal_r_c_all_rate_base.gim`).
+- **Full-width Latin now uses the English font.** Unit names and labels the game already had in full-width Latin (ＶＦ－２７, ＴＹＰＥ－１４, ＨＰ, Ｓ．Ｍ．Ｓ, ＦＩＲＥ ＢＯＭＢＥＲ, shop song titles) were drawn with the fixed-width Japanese glyphs ("V F - 2 7"). `tools/fullwidth.py` (build step 3c) rewrites them as ASCII: 54 EBOOT strings in place (1 byte per character, so they always fit) and 73 cells of `menu/text/nn_ext.csv` through `insert_text.py`. Digit tables and dash placeholders stay; α and × keep their glyphs (SV-51α). The names occur in no other game file, so nothing looks them up; the unit placement CSVs are not touched.
+- Pack descriptions overflowing their box (reported from a player screenshot of 0.7.5: u1004 "Force-purged when add-on HP" touched the right border at 226 px): with the new spacing the widest lines of u1004 and u1003 are 196 and 194 px, so the text is unchanged. `work/output/vwf/vwf_widths.json` (read by `check_widths.py`) had stayed at the 0.6.0 widths because builds now write to `build_*/vwf`; it is refreshed from 0.7.7.
+- **Even letter spacing, exact sub-pixel text.** Gaps between letters varied by up to about a pixel (loose "Turni ng", tight "Melee", "Shi n"). Three causes, three fixes:
+  - Font build (`tools/vwf_font.py`): each glyph took the sub-pixel position that looked sharpest and a left margin that depended on its own ink. Every glyph's pen now sits 1 px into its cell.
+  - Advances: the bearing table holds whole pixels at 14 px (i 3.75 -> 4, e 6.25 -> 6) and the printer rounded each letter again at smaller sizes. A byte table at 0x158D54 now holds each glyph's (integer - true advance) in 1/64 px; the printer's two advance blocks call a routine at 0x157560 that uses the exact advance, rounds once for the whole-pixel pen and carries the remainder to the next letter.
+  - Drawing: the remainder (-0.5..0.5 px, font descriptor +0x28) is passed to the sprite emitter 0x157F10, which moves the glyph's texture u by that fraction of the cell, so each glyph is drawn at its exact position (1/56 px steps on the 4x page). The shadowed-text emitter 0x15E644 (help bars, record screens), which draws each glyph up to six times, gets the same shift in all six passes (without it, the help line read "overal l records ac ross").
+  - Measured in game at 4x on the 10 px stat labels: "Turning" gaps 3,5,4,5,6,3 (the font's own design 4,6,4,6,6,4; 0.7.6 had 6,6,7,6,9,4), "Melee" 3,3,4,3 (design 3,4,4,2). Text is a little narrower than before; every measured box still fits. Code: `tools/vwf_build.py` (`adv_code`, `emit_code`, `frac_patches`), details in `docs/vwf.md`.
+- Includes the 0.7.6 clear-rate panel fix.
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.7).iso`, built with `python tools/build_iso.py 0.7.7 --work work/output/build_0.7.7 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.7.log`).
+- Checked in PPSSPP 1.20.4 with the reported save: "Ranged Def." on the Player and Partner unit stats, "END" in the save-select stat headers.
+- Spacing checked in PPSSPP at 4x: Partner unit stats ("VF-0D", "HP" now in the English font), help lines, mission list and info panel, Record screens ("Item Completion Rate").
+- The first 0.7.7 rebuild stopped at the last step (the ISO was open in PPSSPP); `iso_patch.py` was rerun alone.
+
+## [0.7.6] - 2026-10-21 (test build, not released)
+
+### Fixed
+- **Record screen, clear-rate panel** (`menu/gallery/gal_r_com_clear_rate_base.gim`):
+  - Four labels sat next to the wrong values. The English lines run row by row (Campaign | S Rank, Extra Enemy | Ultimate, Chronicle | EX), but the layout placed them column by column, so "S Rank Rate", "Extra Enemy Clear Rate", "Ultimate Clear Rate" and "Chronicle Completion" were each beside another rate's percentage. The items now follow the original positions.
+  - The labels were slanted, grey and of mixed sizes; the Japanese is upright, bold white and uniform. Now upright white, weight 800, all 9 px ("Extra Enemy Clear Rate" squeezed to 80% instead of shortened).
+  - The green arrows before each value box were erased; the erase boxes now stop before them.
+  - All in `work/ui/redraw_layout.json`; the translation is unchanged.
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.6).iso`, built with `python tools/build_iso.py 0.7.6 --work work/output/build_0.7.6 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.6.log`).
+- Checked in PPSSPP 1.20.4 with the reported save: Record > Campaign Record shows the labels upright, in the Japanese order, each beside its own value, with the arrows.
+- Added `docs/mission_titles.md`: all 247 mission records in the EBOOT mission table (id, title, objective), grouped by id prefix.
+
 ## [0.7.5] - 2026-10-18 (public release)
 
 ### Fixed

@@ -3200,9 +3200,9 @@
     "field": "strStory"
    },
    "row": 225,
-   "en": "Commencing the operation to wipe out the U.N.'s foe: the \"Anti-U.N. Forces.\"\\nAnnihilate the Anti-U.N. TYPE-29 fighter formation.",
+   "en": "Commencing the operation to annihilate the \"Anti-U.N. Forces,\"\\nenemy of the U.N. Forces. Eliminate the Anti-U.N. TYPE-29 fighter formation.",
    "flags": [],
-   "notes": "Source sets the organization name in brackets; kept as quotation marks. | review: refit: \"U.N. Forces\" to \"U.N.'s\", \"enemy\" to \"foe\"; L2 drops repeated \"Forces'\""
+   "notes": "Source sets the organization name in brackets; kept as quotation marks. | review: refit: \"U.N. Forces\" to \"U.N.'s\", \"enemy\" to \"foe\"; L2 drops repeated \"Forces'\" | review: user: read like a military briefing"
   },
   {
    "id": "mission_ext:MA_015:strMission",
@@ -3232,9 +3232,9 @@
     "field": "strStory"
    },
    "row": 227,
-   "en": "Commencing the operation to wipe out the U.N.'s foe: the \"Anti-U.N. Forces.\"\\nAnnihilate the Anti-U.N. TYPE-29 fighter formation.",
+   "en": "Commencing the operation to annihilate the \"Anti-U.N. Forces,\"\\nenemy of the U.N. Forces. Eliminate the Anti-U.N. TYPE-29 fighter formation.",
    "flags": [],
-   "notes": "Same text as row 225. | review: refit: \"U.N. Forces\" to \"U.N.'s\", \"enemy\" to \"foe\"; L2 drops repeated \"Forces'\""
+   "notes": "Same text as row 225. | review: refit: \"U.N. Forces\" to \"U.N.'s\", \"enemy\" to \"foe\"; L2 drops repeated \"Forces'\" | review: same text as MA_010"
   },
   {
    "id": "mission_ext:MA_020:strMission",
@@ -3264,9 +3264,9 @@
     "field": "strStory"
    },
    "row": 229,
-   "en": "The \"VF-0\": a variable fighter developed with the ASS-1's OverTechnology.\\nTo survive the battles ahead, you'll now undergo VF-0 conversion training.",
+   "en": "The \"VF-0\": a variable fighter developed with the ASS-1's OverTechnology.\\nTo survive the battles to come, we will now conduct VF-0 conversion training.",
    "flags": [],
-   "notes": "ASS-1 is not a glossary entry (only mentioned in notes); bare 'VF-0' not an entry either (only VF-0S/D/A). Kept as written. | review: term added to glossary | review: refit: tighter wording"
+   "notes": "ASS-1 is not a glossary entry (only mentioned in notes); bare 'VF-0' not an entry either (only VF-0S/D/A). Kept as written. | review: term added to glossary | review: refit: tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_030:strMission",
@@ -3296,9 +3296,9 @@
     "field": "strStory"
    },
    "row": 231,
-   "en": "The Anti-U.N. Forces made a surprise attack with VFs built using our tech.\\nSortie at once and annihilate the Anti-U.N. variable fighters.",
+   "en": "The Anti-U.N. Forces have launched a surprise attack using VFs built with our\\ntechnology. Sortie at once and annihilate the Anti-U.N. variable fighters.",
    "flags": [],
-   "notes": "review: refit: \"variable fighters\" abbreviated to \"VFs\" in L1, \"technology\" to \"tech\"; second Anti-U.N. mention shortened"
+   "notes": "review: refit: \"variable fighters\" abbreviated to \"VFs\" in L1, \"technology\" to \"tech\"; second Anti-U.N. mention shortened | review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_040:strMission",
@@ -3330,11 +3330,11 @@
     "field": "strStory"
    },
    "row": 233,
-   "en": "To prepare for the escalating Anti-U.N. war, we'll hold a mock battle drill.\\nWin the mock battle against U.N. Forces ace Major Roy Focker.",
+   "en": "Commencing a training mock battle to prepare for the escalating Anti-U.N. war.\\nWin the mock battle against U.N. Forces ace Major Roy Focker.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Same rank issue as row 232. | review: refit: \"mock battle as training\" to \"mock battle drill\"; L2 aligned with row 265 (same source line)"
+   "notes": "Same rank issue as row 232. | review: refit: \"mock battle as training\" to \"mock battle drill\"; L2 aligned with row 265 (same source line) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_050:strMission",
@@ -3364,9 +3364,9 @@
     "field": "strStory"
    },
    "row": 235,
-   "en": "The Anti-U.N. Forces are trying to seize the AFOS fragment on Mayan Island.\\nExpect unfamiliar underwater combat, but wipe out the Anti-U.N. at all costs.",
+   "en": "The Anti-U.N. Forces are trying to seize the AFOS fragment on Mayan Island.\\nExpect unfamiliar underwater combat, but annihilate the enemy at all costs.",
    "flags": [],
-   "notes": "review: refit: tighter wording, second mention \"Anti-U.N.\""
+   "notes": "review: refit: tighter wording, second mention \"Anti-U.N.\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_060:strMission",
@@ -3396,9 +3396,9 @@
     "field": "strStory"
    },
    "row": 237,
-   "en": "The Anti-U.N. Forces attack the Asuka to seize the AFOS fragment under study.\\nDefend the carrier Asuka and annihilate the Anti-U.N. at all costs.",
+   "en": "The Anti-U.N. Forces are attacking the Asuka to seize the AFOS fragment under\\nstudy. Annihilate the Anti-U.N. Forces at all costs to defend the carrier.",
    "flags": [],
-   "notes": "review: refit: restructured so the Asuka is named as the target in L1; second mention \"Anti-U.N.\""
+   "notes": "review: refit: restructured so the Asuka is named as the target in L1; second mention \"Anti-U.N.\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_065:strMission",
@@ -3428,9 +3428,9 @@
     "field": "strStory"
    },
    "row": 239,
-   "en": "The Anti-U.N. Forces attack the Asuka to seize the AFOS fragment under study.\\nDefend the carrier Asuka and annihilate the Anti-U.N. at all costs.",
+   "en": "The Anti-U.N. Forces are attacking the Asuka to seize the AFOS fragment under\\nstudy. Annihilate the Anti-U.N. Forces at all costs to defend the carrier.",
    "flags": [],
-   "notes": "Same text as row 237. | review: refit: restructured so the Asuka is named as the target in L1; second mention \"Anti-U.N.\""
+   "notes": "Same text as row 237. | review: refit: restructured so the Asuka is named as the target in L1; second mention \"Anti-U.N.\" | review: briefing register pass (same text as row 237)"
   },
   {
    "id": "mission_ext:MA_070:strMission",
@@ -3444,9 +3444,9 @@
     "field": "strMission"
    },
    "row": 240,
-   "en": "Find the Bird Human's head and\\nretrieve it to the target area.",
+   "en": "Locate the Bird Human's head and\\nbring it to the target area.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_070:strStory",
@@ -3460,9 +3460,9 @@
     "field": "strStory"
    },
    "row": 241,
-   "en": "The Bird Human's head: another AFOS fragment, newly found on Mayan Island.\\nFind it before the Anti-U.N. Forces do and bring it to the target area.",
+   "en": "The Bird Human's head: another AFOS fragment, newly found on Mayan Island.\\nLocate it ahead of the Anti-U.N. Forces and deliver it to the target area.",
    "flags": [],
-   "notes": "review: refit: L2 refers to the head as \"it\" (named in L1)"
+   "notes": "review: refit: L2 refers to the head as \"it\" (named in L1) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_080:strMission",
@@ -3476,9 +3476,9 @@
     "field": "strMission"
    },
    "row": 242,
-   "en": "Wipe out the Anti-U.N. Forces so they\\ncan't recover the Bird Human's head.",
+   "en": "Annihilate the Anti-U.N. Forces to stop\\nthem recovering the Bird Human's head.",
    "flags": [],
-   "notes": "review: refit: restructured, purpose clause moved to the end"
+   "notes": "review: refit: restructured, purpose clause moved to the end | review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_080:strStory",
@@ -3492,9 +3492,9 @@
     "field": "strStory"
    },
    "row": 243,
-   "en": "We lost the Bird Human's head in a fierce battle with the Anti-U.N. Forces.\\nWe can't let them recover it. Wipe out the Anti-U.N. Forces searching for it.",
+   "en": "We lost the Bird Human's head in a fierce battle with the Anti-U.N. Forces.\\nThey must not recover it. Annihilate the Anti-U.N. Forces searching for it.",
    "flags": [],
-   "notes": "review: refit: \"lost track of ... after\" to \"lost ... in\""
+   "notes": "review: refit: \"lost track of ... after\" to \"lost ... in\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_090:strMission",
@@ -3508,9 +3508,9 @@
     "field": "strMission"
    },
    "row": 244,
-   "en": "To seize the immense power of AFOS,\\nwipe out the Anti-U.N. Forces.",
+   "en": "To seize the immense power of AFOS,\\nannihilate the Anti-U.N. Forces.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_090:strStory",
@@ -3524,9 +3524,9 @@
     "field": "strStory"
    },
    "row": 245,
-   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nAnnihilate the Anti-U.N. Forces and claim the fragments for our U.N. Forces.",
    "flags": [],
-   "notes": "review: refit: second mention \"Anti-U.N.\""
+   "notes": "review: refit: second mention \"Anti-U.N.\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MA_091:strMission",
@@ -3540,9 +3540,9 @@
     "field": "strMission"
    },
    "row": 246,
-   "en": "To seize the immense power of AFOS,\\nwipe out the Anti-U.N. Forces.",
+   "en": "To seize the immense power of AFOS,\\nannihilate the Anti-U.N. Forces.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 244)"
   },
   {
    "id": "mission_ext:MA_091:strStory",
@@ -3556,9 +3556,9 @@
     "field": "strStory"
    },
    "row": 247,
-   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nAnnihilate the Anti-U.N. Forces and claim the fragments for our U.N. Forces.",
    "flags": [],
-   "notes": "review: refit: second mention \"Anti-U.N.\""
+   "notes": "review: refit: second mention \"Anti-U.N.\" | review: briefing register pass (same text as row 245)"
   },
   {
    "id": "mission_ext:MA_095:strMission",
@@ -3572,9 +3572,9 @@
     "field": "strMission"
    },
    "row": 248,
-   "en": "To seize the immense power of AFOS,\\nwipe out the Anti-U.N. Forces.",
+   "en": "To seize the immense power of AFOS,\\nannihilate the Anti-U.N. Forces.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 244)"
   },
   {
    "id": "mission_ext:MA_095:strStory",
@@ -3588,9 +3588,9 @@
     "field": "strStory"
    },
    "row": 249,
-   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nAnnihilate the Anti-U.N. Forces and claim the fragments for our U.N. Forces.",
    "flags": [],
-   "notes": "review: refit: second mention \"Anti-U.N.\""
+   "notes": "review: refit: second mention \"Anti-U.N.\" | review: briefing register pass (same text as row 245)"
   },
   {
    "id": "mission_ext:MA_096:strMission",
@@ -3604,9 +3604,9 @@
     "field": "strMission"
    },
    "row": 250,
-   "en": "To seize the immense power of AFOS,\\nwipe out the Anti-U.N. Forces.",
+   "en": "To seize the immense power of AFOS,\\nannihilate the Anti-U.N. Forces.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 244)"
   },
   {
    "id": "mission_ext:MA_096:strStory",
@@ -3620,9 +3620,9 @@
     "field": "strStory"
    },
    "row": 251,
-   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nAnnihilate the Anti-U.N. Forces and claim the fragments for our U.N. Forces.",
    "flags": [],
-   "notes": "review: refit: second mention \"Anti-U.N.\""
+   "notes": "review: refit: second mention \"Anti-U.N.\" | review: briefing register pass (same text as row 245)"
   },
   {
    "id": "mission_ext:MH_010:strMission",
@@ -3636,9 +3636,9 @@
     "field": "strMission"
    },
    "row": 252,
-   "en": "To seize the AFOS fragment,\\nwipe out the U.N. Forces.",
+   "en": "To seize the AFOS fragment,\\nannihilate the U.N. Forces.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MH_010:strStory",
@@ -3652,11 +3652,11 @@
     "field": "strStory"
    },
    "row": 253,
-   "en": "To seize the AFOS fragment being studied by the U.N. Forces, we will now\\nraid the carrier Asuka. Wipe out the U.N. escorts and seize the AFOS fragment.",
+   "en": "Commencing a raid on the carrier Asuka, where the U.N. Forces are studying the\\nAFOS fragment. Annihilate the U.N. escorts and seize the fragment.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Carrier written as 'Asuka' in the source; glossary lists 'Asuka II'. Kept the game's short form 'the carrier Asuka'. Break kept mid-sentence as in source. | review: refit: \"escorting U.N. units\" to \"U.N. escorts\""
+   "notes": "Carrier written as 'Asuka' in the source; glossary lists 'Asuka II'. Kept the game's short form 'the carrier Asuka'. Break kept mid-sentence as in source. | review: refit: \"escorting U.N. units\" to \"U.N. escorts\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MH_020:strMission",
@@ -3670,9 +3670,9 @@
     "field": "strMission"
    },
    "row": 254,
-   "en": "To seize the immense power of AFOS,\\nwipe out the U.N. Forces.",
+   "en": "To seize the immense power of AFOS,\\nannihilate the U.N. Forces.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MH_020:strStory",
@@ -3686,9 +3686,9 @@
     "field": "strStory"
    },
    "row": 255,
-   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nWipe out the U.N. to claim the AFOS fragments for our Anti-U.N. Forces.",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments.\\nAnnihilate the U.N. Forces and claim the fragments for our Anti-U.N. Forces.",
    "flags": [],
-   "notes": "review: refit: second mention \"U.N.\""
+   "notes": "review: refit: second mention \"U.N.\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_310:strMission",
@@ -3702,9 +3702,9 @@
     "field": "strMission"
    },
    "row": 256,
-   "en": "Wipe out the giant aliens who struck back\\nafter the Macross's attack.",
+   "en": "Annihilate the giant aliens who struck back\\nafter the Macross's attack.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_310:strStory",
@@ -3718,9 +3718,9 @@
     "field": "strStory"
    },
    "row": 257,
-   "en": "During its launch ceremony, the Macross fired its main gun at an unknown fleet.\\nBattle with the aliens looks unavoidable. Get into intercept position at once.",
+   "en": "During its launch ceremony, the Macross fired its main gun at an unknown fleet.\\nCombat with the aliens appears unavoidable. Take intercept positions at once.",
    "flags": [],
-   "notes": "review: refit: \"unidentified space fleet\" to \"unknown fleet\""
+   "notes": "review: refit: \"unidentified space fleet\" to \"unknown fleet\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_315:strMission",
@@ -3734,9 +3734,9 @@
     "field": "strMission"
    },
    "row": 258,
-   "en": "Wipe out the giant aliens who struck back\\nafter the Macross's attack.",
+   "en": "Annihilate the giant aliens who struck back\\nafter the Macross's attack.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 256)"
   },
   {
    "id": "mission_ext:MS_315:strStory",
@@ -3750,9 +3750,9 @@
     "field": "strStory"
    },
    "row": 259,
-   "en": "During its launch ceremony, the Macross fired its main gun at an unknown fleet.\\nBattle with the aliens looks unavoidable. Get into intercept position at once.",
+   "en": "During its launch ceremony, the Macross fired its main gun at an unknown fleet.\\nCombat with the aliens appears unavoidable. Take intercept positions at once.",
    "flags": [],
-   "notes": "review: refit: \"unidentified space fleet\" to \"unknown fleet\""
+   "notes": "review: refit: \"unidentified space fleet\" to \"unknown fleet\" | review: briefing register pass (same text as row 257)"
   },
   {
    "id": "mission_ext:MS_320:strMission",
@@ -3766,9 +3766,9 @@
     "field": "strMission"
    },
    "row": 260,
-   "en": "Wipe out the giant alien ground forces\\nattacking the Macross.",
+   "en": "Annihilate the giant alien ground forces\\nattacking the Macross.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_320:strStory",
@@ -3782,11 +3782,11 @@
     "field": "strStory"
    },
    "row": 261,
-   "en": "To escape the giant aliens' attack, the Macross now attempts a space launch.\\nEscort the blundering VF-1D while wiping out the giant alien ground forces.",
+   "en": "To escape the giant aliens' attack, the Macross now attempts a space launch.\\nEscort the erratic VF-1D while annihilating the giant alien ground forces.",
    "flags": [
     "uncertain"
    ],
-   "notes": "The VF-1D 'flying around the battlefield recklessly/aimlessly' (Hikaru's civilian joyride); rendered 'blundering around'. | review: refit: \"blundering around the battlefield\" to \"blundering\""
+   "notes": "The VF-1D 'flying around the battlefield recklessly/aimlessly' (Hikaru's civilian joyride); rendered 'blundering around'. | review: refit: \"blundering around the battlefield\" to \"blundering\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_330:strMission",
@@ -3816,9 +3816,9 @@
     "field": "strStory"
    },
    "row": 263,
-   "en": "Beginning the Transformation to fire the main gun at the giant alien fleet.\\nDefend the Macross at all costs while the Transformation is under way.",
+   "en": "Commencing the Transformation to fire the main gun at the giant alien fleet.\\nDefend the Macross at all costs while the Transformation is under way.",
    "flags": [],
-   "notes": "review: refit: L1 restructured; L2 unchanged"
+   "notes": "review: refit: L1 restructured; L2 unchanged | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_340:strMission",
@@ -3848,9 +3848,9 @@
     "field": "strStory"
    },
    "row": 265,
-   "en": "Our rookies lack experience, so we'll now hold a mock battle as training.\\nWin the mock battle against U.N. Forces ace Major Roy Focker.",
+   "en": "Commencing a training mock battle to offset the rookie pilots' inexperience.\\nWin the mock battle against U.N. Forces ace Major Roy Focker.",
    "flags": [],
-   "notes": "review: refit: L1 restructured; L2 aligned with row 233 (same source line)"
+   "notes": "review: refit: L1 restructured; L2 aligned with row 233 (same source line) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_350:strMission",
@@ -3880,9 +3880,9 @@
     "field": "strStory"
    },
    "row": 267,
-   "en": "To break out of this defensive fight, we'll surprise-attack the giant aliens.\\nDefend the Macross until its main gun fires.",
+   "en": "Commencing a surprise attack on the giant aliens to break the stalemate.\\nDefend the Macross until its main gun fires.",
    "flags": [],
-   "notes": "review: refit: \"purely defensive\" to \"defensive\", \"launch a surprise attack on\" to \"surprise-attack\""
+   "notes": "review: refit: \"purely defensive\" to \"defensive\", \"launch a surprise attack on\" to \"surprise-attack\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_355:strMission",
@@ -3912,9 +3912,9 @@
     "field": "strStory"
    },
    "row": 269,
-   "en": "To break out of this defensive fight, we'll surprise-attack the giant aliens.\\nDefend the Macross until its main gun fires.",
+   "en": "Commencing a surprise attack on the giant aliens to break the stalemate.\\nDefend the Macross until its main gun fires.",
    "flags": [],
-   "notes": "review: refit: \"purely defensive\" to \"defensive\", \"launch a surprise attack on\" to \"surprise-attack\""
+   "notes": "review: refit: \"purely defensive\" to \"defensive\", \"launch a surprise attack on\" to \"surprise-attack\" | review: briefing register pass (same text as row 267)"
   },
   {
    "id": "mission_ext:MS_360:strMission",
@@ -3944,9 +3944,9 @@
     "field": "strStory"
    },
    "row": 271,
-   "en": "With supplies drained by repeated battles, we'll restock at Sara Base on Mars.\\nRecover the supply containers. If enemies appear, switch to wiping them out.",
+   "en": "Repeated battles have depleted supplies; we will resupply at Sara Base, Mars.\\nRecover the supply containers. If enemies appear, proceed to annihilate them.",
    "flags": [],
-   "notes": "Mars base name (romaji Sara kichi) rendered 'Sara Base'; not in glossary. | review: term now in glossary | review: refit: restructured both lines"
+   "notes": "Mars base name (romaji Sara kichi) rendered 'Sara Base'; not in glossary. | review: term now in glossary | review: refit: restructured both lines | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_370:strMission",
@@ -3976,9 +3976,9 @@
     "field": "strStory"
    },
    "row": 273,
-   "en": "Enemy units spotted approaching the Macross. A scramble has been ordered.\\nMiss Macross may be on your mind, but go at once and wipe out the enemy.",
+   "en": "Enemy units spotted approaching the Macross. A scramble has been ordered.\\nMiss Macross may be on your mind, but deploy at once and annihilate the enemy.",
    "flags": [],
-   "notes": "review: refit: tighter wording"
+   "notes": "review: refit: tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_380:strMission",
@@ -4008,9 +4008,9 @@
     "field": "strStory"
    },
    "row": 275,
-   "en": "Just short of Earth, the giant aliens have demanded the Macross surrender.\\nWe'll recon to learn their aims. Escort the Cat's Eye and wipe out the enemy.",
+   "en": "Just short of Earth, the giant aliens have demanded the Macross surrender.\\nRecon will determine their aims. Escort the Cat's Eye and annihilate the enemy.",
    "flags": [],
-   "notes": "review: refit: \"the enemy's true intent\" to \"their aims\""
+   "notes": "review: refit: \"the enemy's true intent\" to \"their aims\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_381:strMission",
@@ -4040,9 +4040,9 @@
     "field": "strStory"
    },
    "row": 277,
-   "en": "Just short of Earth, the giant aliens have demanded the Macross surrender.\\nWe'll recon to learn their aims. Escort the Cat's Eye and wipe out the enemy.",
+   "en": "Just short of Earth, the giant aliens have demanded the Macross surrender.\\nRecon will determine their aims. Escort the Cat's Eye and annihilate the enemy.",
    "flags": [],
-   "notes": "review: refit: \"the enemy's true intent\" to \"their aims\""
+   "notes": "review: refit: \"the enemy's true intent\" to \"their aims\" | review: briefing register pass (same text as row 275)"
   },
   {
    "id": "mission_ext:MS_390:strMission",
@@ -4072,11 +4072,11 @@
     "field": "strStory"
    },
    "row": 279,
-   "en": "We've rescued Lt. Hayase and the others held captive on a Zentradi battleship,\\nbut we haven't escaped the enemy ship yet. Get out of it at all costs.",
+   "en": "Lt. Hayase and the others held captive on a Zentradi battleship were rescued,\\nbut we have yet to escape the enemy ship. Break out of it at all costs.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Rank chuui -> 'Lieutenant' (army-style ranks, matching Major Focker for shousa). | review: refit: \"Lieutenant\" to \"Lt.\", second \"enemy ship\" to \"it\""
+   "notes": "Rank chuui -> 'Lieutenant' (army-style ranks, matching Major Focker for shousa). | review: refit: \"Lieutenant\" to \"Lt.\", second \"enemy ship\" to \"it\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_400:strMission",
@@ -4090,9 +4090,9 @@
     "field": "strMission"
    },
    "row": 280,
-   "en": "To make it back to Earth no matter what,\\nwipe out the Zentradi forces.",
+   "en": "To return to Earth at all costs,\\nannihilate the Zentradi forces.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_400:strStory",
@@ -4106,9 +4106,9 @@
     "field": "strStory"
    },
    "row": 281,
-   "en": "The Zentradi have surrounded the Macross to stop it from returning to Earth.\\nIt's a hard-line move, but destroy the Zentradi to break their encirclement.",
+   "en": "The Zentradi have surrounded the Macross to stop it from returning to Earth.\\nIt is a forceful measure, but destroy the Zentradi to break the encirclement.",
    "flags": [],
-   "notes": "review: refit: \"Zentradi forces\" to \"Zentradi\", tighter wording"
+   "notes": "review: refit: \"Zentradi forces\" to \"Zentradi\", tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_410:strMission",
@@ -4122,9 +4122,9 @@
     "field": "strMission"
    },
    "row": 282,
-   "en": "Wipe out the Zentradi forces\\nthat have attacked the Macross.",
+   "en": "Annihilate the Zentradi forces\\nthat have attacked the Macross.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_410:strStory",
@@ -4138,9 +4138,9 @@
     "field": "strStory"
    },
    "row": 283,
-   "en": "The Zentradi have attacked the Macross, back on Earth after a year away.\\nWipe out the Zentradi forces trying to smoke the Macross out into space.",
+   "en": "The Zentradi have attacked the Macross, back on Earth after a year away.\\nAnnihilate the Zentradi forces trying to smoke the Macross out into space.",
    "flags": [],
-   "notes": "'returned to Earth after a year' rendered as 'back on Earth for the first time in a year'. | review: refit: \"for the first time in a year\" to \"after a year away\"; L2 unchanged"
+   "notes": "'returned to Earth after a year' rendered as 'back on Earth for the first time in a year'. | review: refit: \"for the first time in a year\" to \"after a year away\"; L2 unchanged | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_420:strMission",
@@ -4154,9 +4154,9 @@
     "field": "strMission"
    },
    "row": 284,
-   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "en": "To stop the enemy nearing the Macross,\\nannihilate the Zentradi forces.",
    "flags": [],
-   "notes": "review: refit: 'away from' -> 'off'"
+   "notes": "review: refit: 'away from' -> 'off' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_420:strStory",
@@ -4170,9 +4170,9 @@
     "field": "strStory"
    },
    "row": 285,
-   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nThe Macross's resupply must not be interrupted. Annihilate the Zentradi.",
    "flags": [],
-   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_421:strMission",
@@ -4186,9 +4186,9 @@
     "field": "strMission"
    },
    "row": 286,
-   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "en": "To stop the enemy nearing the Macross,\\nannihilate the Zentradi forces.",
    "flags": [],
-   "notes": "review: refit: 'away from' -> 'off'"
+   "notes": "review: refit: 'away from' -> 'off' | review: briefing register pass (same text as row 284)"
   },
   {
    "id": "mission_ext:MS_421:strStory",
@@ -4202,9 +4202,9 @@
     "field": "strStory"
    },
    "row": 287,
-   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nThe Macross's resupply must not be interrupted. Annihilate the Zentradi.",
    "flags": [],
-   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\" | review: briefing register pass (same text as row 285)"
   },
   {
    "id": "mission_ext:MS_425:strMission",
@@ -4218,9 +4218,9 @@
     "field": "strMission"
    },
    "row": 288,
-   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "en": "To stop the enemy nearing the Macross,\\nannihilate the Zentradi forces.",
    "flags": [],
-   "notes": "review: refit: 'away from' -> 'off'"
+   "notes": "review: refit: 'away from' -> 'off' | review: briefing register pass (same text as row 284)"
   },
   {
    "id": "mission_ext:MS_425:strStory",
@@ -4234,9 +4234,9 @@
     "field": "strStory"
    },
    "row": 289,
-   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nThe Macross's resupply must not be interrupted. Annihilate the Zentradi.",
    "flags": [],
-   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\" | review: briefing register pass (same text as row 285)"
   },
   {
    "id": "mission_ext:MS_426:strMission",
@@ -4250,9 +4250,9 @@
     "field": "strMission"
    },
    "row": 290,
-   "en": "To keep the enemy off the Macross,\\nwipe out the Zentradi forces.",
+   "en": "To stop the enemy nearing the Macross,\\nannihilate the Zentradi forces.",
    "flags": [],
-   "notes": "review: refit: 'away from' -> 'off'"
+   "notes": "review: refit: 'away from' -> 'off' | review: briefing register pass (same text as row 284)"
   },
   {
    "id": "mission_ext:MS_426:strStory",
@@ -4266,9 +4266,9 @@
     "field": "strStory"
    },
    "row": 291,
-   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nWe can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea.\\nThe Macross's resupply must not be interrupted. Annihilate the Zentradi.",
    "flags": [],
-   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\""
+   "notes": "review: refit: tighter wording, \"Zentradi forces\" to \"Zentradi\" | review: briefing register pass (same text as row 285)"
   },
   {
    "id": "mission_ext:MS_430:strMission",
@@ -4282,9 +4282,9 @@
     "field": "strMission"
    },
    "row": 292,
-   "en": "To get the civilians safely onto Earth,\\nwipe out the Zentradi forces.",
+   "en": "To land the civilians on Earth,\\nannihilate the Zentradi forces.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_430:strStory",
@@ -4298,11 +4298,11 @@
     "field": "strStory"
    },
    "row": 293,
-   "en": "The Ontario Autonomous Zone has agreed to take in the Macross's civilians, but\\nthe Zentradi have appeared. Wipe them out so the civilians can be taken in.",
+   "en": "The Ontario Autonomous Zone has agreed to take in the Macross's civilians, but\\nthe Zentradi have appeared. Annihilate them so the civilians can be taken in.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Source breaks mid-phrase before 'appeared'; English breaks after 'but' at the matching point. | review: refit: restructured (Zone as subject), second Zentradi mention as \"them\""
+   "notes": "Source breaks mid-phrase before 'appeared'; English breaks after 'but' at the matching point. | review: refit: restructured (Zone as subject), second Zentradi mention as \"them\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_440:strMission",
@@ -4332,11 +4332,11 @@
     "field": "strStory"
    },
    "row": 295,
-   "en": "You'll now escort the liaison shuttle taking Capt. Hayase to U.N. HQ on Earth.\\nEscort it until it reaches a safe zone, then switch to wiping out the enemy.",
+   "en": "You will escort the liaison shuttle taking Capt. Hayase to U.N. HQ on Earth.\\nGuard it until it reaches a safe zone, then proceed to annihilate the enemy.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Rank taii -> 'Captain' (army-style, consistent with Major Focker and Lieutenant Hayase in row 279). Glossary position text says 'Lieutenant Commander'; please confirm the rank scheme. | review: refit: \"Captain\" to \"Capt.\", \"U.N. Forces HQ\" to \"U.N. HQ\", second \"shuttle\" to \"it\""
+   "notes": "Rank taii -> 'Captain' (army-style, consistent with Major Focker and Lieutenant Hayase in row 279). Glossary position text says 'Lieutenant Commander'; please confirm the rank scheme. | review: refit: \"Captain\" to \"Capt.\", \"U.N. Forces HQ\" to \"U.N. HQ\", second \"shuttle\" to \"it\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_450:strMission",
@@ -4386,9 +4386,9 @@
     "field": "strMission"
    },
    "row": 298,
-   "en": "Wipe out the Zentradi forces\\nlaunching an all-out attack.",
+   "en": "Annihilate the Zentradi forces\\nlaunching an all-out attack.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_460:strStory",
@@ -4402,9 +4402,9 @@
     "field": "strStory"
    },
    "row": 299,
-   "en": "At humanity's first interstellar wedding, the Zentradi hit the Macross all-out.\\nWe've taken our first step to peace and can't stop here. Wipe out the enemy.",
+   "en": "At humanity's first interstellar wedding, the Zentradi began an all-out attack.\\nWe have taken a first step to peace and cannot stop here. Eliminate the enemy.",
    "flags": [],
-   "notes": "review: refit: \"launched an all-out attack on\" to \"hit ... all-out\""
+   "notes": "review: refit: \"launched an all-out attack on\" to \"hit ... all-out\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_470:strMission",
@@ -4434,9 +4434,9 @@
     "field": "strStory"
    },
    "row": 301,
-   "en": "Fearing the power of Earth's culture, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
+   "en": "Fearing the power of Earth's culture, Boddole Zer has begun an all-out attack.\\nCommencing the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
    "flags": [],
-   "notes": "Full name on first mention, 'Boddole Zer' on second. | review: refit: \"Golg Boddole Zer\" to \"Boddole Zer\", \"hopeless gap in strength\" to \"hopeless odds\""
+   "notes": "Full name on first mention, 'Boddole Zer' on second. | review: refit: \"Golg Boddole Zer\" to \"Boddole Zer\", \"hopeless gap in strength\" to \"hopeless odds\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_475:strMission",
@@ -4466,9 +4466,9 @@
     "field": "strStory"
    },
    "row": 303,
-   "en": "Fearing the power of Earth's culture, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
+   "en": "Fearing the power of Earth's culture, Boddole Zer has begun an all-out attack.\\nCommencing the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
    "flags": [],
-   "notes": "review: refit: \"Golg Boddole Zer\" to \"Boddole Zer\", \"hopeless gap in strength\" to \"hopeless odds\""
+   "notes": "review: refit: \"Golg Boddole Zer\" to \"Boddole Zer\", \"hopeless gap in strength\" to \"hopeless odds\" | review: briefing register pass (same text as row 301)"
   },
   {
    "id": "mission_ext:MS_200:strMission",
@@ -4482,9 +4482,9 @@
     "field": "strMission"
    },
    "row": 304,
-   "en": "Put down the rioting Zentradi\\nat once.",
+   "en": "Suppress the rioting Zentradi\\nat once.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_200:strStory",
@@ -4498,9 +4498,9 @@
     "field": "strStory"
    },
    "row": 305,
-   "en": "Zentradi who can't fit in on Earth stole arms and are attacking civilian areas.\\nWe cannot let civilians come to harm. Put down the rampaging Zentradi.",
+   "en": "Zentradi unable to adapt to Earth have stolen arms to attack civilian areas.\\nCivilian casualties are unacceptable. Suppress the rampaging Zentradi.",
    "flags": [],
-   "notes": "review: refit: \"civilian residential areas\" to \"civilian areas\", \"weapons\" to \"arms\"; L2 unchanged"
+   "notes": "review: refit: \"civilian residential areas\" to \"civilian areas\", \"weapons\" to \"arms\"; L2 unchanged | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_210:strMission",
@@ -4532,9 +4532,9 @@
     "field": "strStory"
    },
    "row": 307,
-   "en": "To build up our forces, we'll capture the Zentradi automated spaceship factory.\\nWipe out the Zentradi forces defending the factory and take the factory.",
+   "en": "To bolster our forces, we will seize the Zentradi automated spaceship factory.\\nAnnihilate the Zentradi forces defending the factory and take control of it.",
    "flags": [],
-   "notes": "review: refit: \"carry out an operation to capture\" to \"capture\"; L2 unchanged"
+   "notes": "review: refit: \"carry out an operation to capture\" to \"capture\"; L2 unchanged | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_211:strMission",
@@ -4564,9 +4564,9 @@
     "field": "strStory"
    },
    "row": 309,
-   "en": "To build up our forces, we'll capture the Zentradi automated spaceship factory.\\nWipe out the Zentradi forces defending the factory and take the factory.",
+   "en": "To bolster our forces, we will seize the Zentradi automated spaceship factory.\\nAnnihilate the Zentradi forces defending the factory and take control of it.",
    "flags": [],
-   "notes": "review: refit: \"carry out an operation to capture\" to \"capture\"; L2 unchanged"
+   "notes": "review: refit: \"carry out an operation to capture\" to \"capture\"; L2 unchanged | review: briefing register pass (same text as row 307)"
   },
   {
    "id": "mission_ext:MS_220:strMission",
@@ -4580,9 +4580,9 @@
     "field": "strMission"
    },
    "row": 310,
-   "en": "Wipe out Quamzin's faction, which is\\ntrying to steal the micronization device.",
+   "en": "Annihilate Quamzin's faction, which is\\ntrying to steal the micronization device.",
    "flags": [],
-   "notes": "Device name (Micronian + device) rendered 'micronization device'; not in glossary. | review: term added to glossary | review: refit: line break moved"
+   "notes": "Device name (Micronian + device) rendered 'micronization device'; not in glossary. | review: term added to glossary | review: refit: line break moved | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_220:strStory",
@@ -4596,9 +4596,9 @@
     "field": "strStory"
    },
    "row": 311,
-   "en": "Quamzin, who won't coexist with Earthlings, is raiding the factory to steal\\nthe micronization device. We can't allow that. Wipe out Quamzin's faction.",
+   "en": "Quamzin, refusing to coexist with Earthlings, is raiding the factory to steal\\nthe micronization device. We cannot allow it. Annihilate Quamzin's faction.",
    "flags": [],
-   "notes": "Same 'micronization device' as row 310. | review: term added to glossary | review: refit: line break moved inside sentence 1; \"cannot let them take the device\" to \"can't allow that\""
+   "notes": "Same 'micronization device' as row 310. | review: term added to glossary | review: refit: line break moved inside sentence 1; \"cannot let them take the device\" to \"can't allow that\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_230:strMission",
@@ -4612,9 +4612,9 @@
     "field": "strMission"
    },
    "row": 312,
-   "en": "To rescue the hostages,\\nwipe out Quamzin's faction.",
+   "en": "To rescue the hostages,\\nannihilate Quamzin's faction.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_230:strStory",
@@ -4628,9 +4628,9 @@
     "field": "strStory"
    },
    "row": 313,
-   "en": "Quamzin has taken civilians hostage and is demanding a battleship as ransom.\\nRescuing the hostages safely comes first. Wipe out Quamzin's faction.",
+   "en": "Quamzin has taken civilians hostage and is demanding a battleship as ransom.\\nPrimary objective: rescue the hostages safely. Annihilate Quamzin's faction.",
    "flags": [],
-   "notes": "review: refit: L2 restructured; L1 unchanged"
+   "notes": "review: refit: L2 restructured; L1 unchanged | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_240:strMission",
@@ -4644,9 +4644,9 @@
     "field": "strMission"
    },
    "row": 314,
-   "en": "Wipe out Quamzin's faction, which is\\ntrying to steal the reaction engine.",
+   "en": "Annihilate Quamzin's faction, which is\\ntrying to steal the reaction engine.",
    "flags": [],
-   "notes": "review: refit: line break moved"
+   "notes": "review: refit: line break moved | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_240:strStory",
@@ -4660,11 +4660,11 @@
     "field": "strStory"
    },
    "row": 315,
-   "en": "Quamzin's faction is raiding the industrial zone to steal the reaction engine.\\nWipe them out to protect the reaction engine in the industrial complex block.",
+   "en": "Quamzin's faction is raiding the industrial zone to steal the reaction engine.\\nAnnihilate them to protect the reaction engine in the industrial complex block.",
    "flags": [
     "uncertain"
    ],
-   "notes": "'kombinat block' (romaji konbinaato burokku) rendered 'industrial complex block'. | review: term added to glossary | review: refit: \"district\" to \"zone\", second faction mention as \"them\""
+   "notes": "'kombinat block' (romaji konbinaato burokku) rendered 'industrial complex block'. | review: term added to glossary | review: refit: \"district\" to \"zone\", second faction mention as \"them\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_250:strMission",
@@ -4678,9 +4678,9 @@
     "field": "strMission"
    },
    "row": 316,
-   "en": "To protect the Macross and Macross City,\\nwipe out Quamzin's faction.",
+   "en": "To protect the Macross and Macross City,\\nannihilate Quamzin's faction.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_250:strStory",
@@ -4694,9 +4694,9 @@
     "field": "strStory"
    },
    "row": 317,
-   "en": "Out to destroy the Macross, Quamzin's faction has suddenly hit Macross City.\\nWipe them out at once to protect the Macross and the people of Macross City.",
+   "en": "Out to destroy the Macross, Quamzin's faction has suddenly struck Macross City.\\nEliminate them at once to protect the Macross and the people of Macross City.",
    "flags": [],
-   "notes": "review: refit: \"appeared in\" to \"hit\", second faction mention as \"them\""
+   "notes": "review: refit: \"appeared in\" to \"hit\", second faction mention as \"them\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MS_251:strMission",
@@ -4710,9 +4710,9 @@
     "field": "strMission"
    },
    "row": 318,
-   "en": "To protect the Macross and Macross City,\\nwipe out Quamzin's faction.",
+   "en": "To protect the Macross and Macross City,\\nannihilate Quamzin's faction.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 316)"
   },
   {
    "id": "mission_ext:MS_251:strStory",
@@ -4726,9 +4726,9 @@
     "field": "strStory"
    },
    "row": 319,
-   "en": "Out to destroy the Macross, Quamzin's faction has suddenly hit Macross City.\\nWipe them out at once to protect the Macross and the people of Macross City.",
+   "en": "Out to destroy the Macross, Quamzin's faction has suddenly struck Macross City.\\nEliminate them at once to protect the Macross and the people of Macross City.",
    "flags": [],
-   "notes": "review: refit: \"appeared in\" to \"hit\", second faction mention as \"them\""
+   "notes": "review: refit: \"appeared in\" to \"hit\", second faction mention as \"them\" | review: briefing register pass (same text as row 317)"
   },
   {
    "id": "mission_ext:MZ_310:strMission",
@@ -4758,9 +4758,9 @@
     "field": "strStory"
    },
    "row": 321,
-   "en": "As special training, we will now hold a mock battle using melee attacks only.\\nFleet Commander Vrlitwhai himself joins this mock battle. Defeat Vrlitwhai.",
+   "en": "Commencing special training: a mock battle using melee attacks only.\\nFleet Commander Vrlitwhai himself joins this mock battle. Defeat Vrlitwhai.",
    "flags": [],
-   "notes": "review: refit: L2 tighter; L1 unchanged"
+   "notes": "review: refit: L2 tighter; L1 unchanged | review: briefing register pass"
   },
   {
    "id": "mission_ext:MZ_320:strMission",
@@ -4822,9 +4822,9 @@
     "field": "strStory"
    },
    "row": 325,
-   "en": "Ignoring the order to halt attacks on Micronians, Quamzin attacked their ship.\\nWe can't let Quamzin get ahead of us. We're launching our own attack too.",
+   "en": "Ignoring the order to halt attacks on Micronians, Quamzin attacked their ship.\\nQuamzin must not be allowed to get ahead of us. Commencing our own attack.",
    "flags": [],
-   "notes": "review: refit: tighter wording"
+   "notes": "review: refit: tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MZ_340:strMission",
@@ -5018,9 +5018,9 @@
     "field": "strStory"
    },
    "row": 337,
-   "en": "We've spotted a pilot flying a Valkyrie around Saturn without permission.\\nUnauthorized use of a Valkyrie won't be tolerated. Capture the pilot at once.",
+   "en": "We have spotted a pilot flying a Valkyrie around Saturn without permission.\\nUnauthorized Valkyrie use will not be tolerated. Capture the pilot at once.",
    "flags": [],
-   "notes": "review: refit: \"took a Valkyrie out without permission and is flying it\" merged"
+   "notes": "review: refit: \"took a Valkyrie out without permission and is flying it\" merged | review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_030:strMission",
@@ -5050,9 +5050,9 @@
     "field": "strStory"
    },
    "row": 339,
-   "en": "The Zentradi have taken Macross crew members captive. To rescue the hostages,\\ninfiltrate the enemy ship and go at once to where they're thought to be held.",
+   "en": "The Zentradi have taken Macross crew members captive. To rescue the hostages,\\ninfiltrate the enemy ship and proceed at once to where they are believed held.",
    "flags": [],
-   "notes": "review: refit: tighter wording"
+   "notes": "review: refit: tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_040:strMission",
@@ -5082,9 +5082,9 @@
     "field": "strStory"
    },
    "row": 341,
-   "en": "To prepare for relentless Zentradi raids, we'll now conduct special training.\\nWin a mock battle against the rumored genius pilot, Maximilian Jenius.",
+   "en": "Commencing special training to prepare for the relentless Zentradi raids.\\nWin a mock battle against the rumored genius pilot, Maximilian Jenius.",
    "flags": [],
-   "notes": "Full name Maximilian Jenius kept as in the source. | review: refit: \"the genius pilot everyone is talking about\" to \"the rumored genius pilot\""
+   "notes": "Full name Maximilian Jenius kept as in the source. | review: refit: \"the genius pilot everyone is talking about\" to \"the rumored genius pilot\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_050:strMission",
@@ -5098,9 +5098,9 @@
     "field": "strMission"
    },
    "row": 342,
-   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "en": "Immediately annihilate the Meltrandi\\nforces closing in on the Macross.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_050:strStory",
@@ -5114,9 +5114,9 @@
     "field": "strStory"
    },
    "row": 343,
-   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo prevent any further approach, annihilate the Meltrandi forces at once.",
    "flags": [],
-   "notes": "review: refit: tighter wording, second Macross mention dropped"
+   "notes": "review: refit: tighter wording, second Macross mention dropped | review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_051:strMission",
@@ -5130,9 +5130,9 @@
     "field": "strMission"
    },
    "row": 344,
-   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "en": "Immediately annihilate the Meltrandi\\nforces closing in on the Macross.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 342)"
   },
   {
    "id": "mission_ext:MI_051:strStory",
@@ -5146,9 +5146,9 @@
     "field": "strStory"
    },
    "row": 345,
-   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo prevent any further approach, annihilate the Meltrandi forces at once.",
    "flags": [],
-   "notes": "review: refit: tighter wording, second Macross mention dropped"
+   "notes": "review: refit: tighter wording, second Macross mention dropped | review: briefing register pass (same text as row 343)"
   },
   {
    "id": "mission_ext:MI_055:strMission",
@@ -5162,9 +5162,9 @@
     "field": "strMission"
    },
    "row": 346,
-   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "en": "Immediately annihilate the Meltrandi\\nforces closing in on the Macross.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 342)"
   },
   {
    "id": "mission_ext:MI_055:strStory",
@@ -5178,9 +5178,9 @@
     "field": "strStory"
    },
    "row": 347,
-   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo prevent any further approach, annihilate the Meltrandi forces at once.",
    "flags": [],
-   "notes": "review: refit: tighter wording, second Macross mention dropped"
+   "notes": "review: refit: tighter wording, second Macross mention dropped | review: briefing register pass (same text as row 343)"
   },
   {
    "id": "mission_ext:MI_056:strMission",
@@ -5194,9 +5194,9 @@
     "field": "strMission"
    },
    "row": 348,
-   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "en": "Immediately annihilate the Meltrandi\\nforces closing in on the Macross.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 342)"
   },
   {
    "id": "mission_ext:MI_056:strStory",
@@ -5210,9 +5210,9 @@
     "field": "strStory"
    },
    "row": 349,
-   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo prevent any further approach, annihilate the Meltrandi forces at once.",
    "flags": [],
-   "notes": "review: refit: tighter wording, second Macross mention dropped"
+   "notes": "review: refit: tighter wording, second Macross mention dropped | review: briefing register pass (same text as row 343)"
   },
   {
    "id": "mission_ext:MI_060:strMission",
@@ -5226,9 +5226,9 @@
     "field": "strMission"
    },
    "row": 350,
-   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "en": "To end the interstellar war,\\ndestroy Golg Boddole Zer.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_060:strStory",
@@ -5242,9 +5242,9 @@
     "field": "strStory"
    },
    "row": 351,
-   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "en": "Peace with the Zentradi has vanished. Boddole Zer has begun an all-out attack.\\nCommencing the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
    "flags": [],
-   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_061:strMission",
@@ -5258,9 +5258,9 @@
     "field": "strMission"
    },
    "row": 352,
-   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "en": "To end the interstellar war,\\ndestroy Golg Boddole Zer.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 350)"
   },
   {
    "id": "mission_ext:MI_061:strStory",
@@ -5274,9 +5274,9 @@
     "field": "strStory"
    },
    "row": 353,
-   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "en": "Peace with the Zentradi has vanished. Boddole Zer has begun an all-out attack.\\nCommencing the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
    "flags": [],
-   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\" | review: briefing register pass (same text as row 351)"
   },
   {
    "id": "mission_ext:MI_065:strMission",
@@ -5290,9 +5290,9 @@
     "field": "strMission"
    },
    "row": 354,
-   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "en": "To end the interstellar war,\\ndestroy Golg Boddole Zer.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 350)"
   },
   {
    "id": "mission_ext:MI_065:strStory",
@@ -5306,9 +5306,9 @@
     "field": "strStory"
    },
    "row": 355,
-   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "en": "Peace with the Zentradi has vanished. Boddole Zer has begun an all-out attack.\\nCommencing the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
    "flags": [],
-   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\" | review: briefing register pass (same text as row 351)"
   },
   {
    "id": "mission_ext:MI_066:strMission",
@@ -5322,9 +5322,9 @@
     "field": "strMission"
    },
    "row": 356,
-   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "en": "To end the interstellar war,\\ndestroy Golg Boddole Zer.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 350)"
   },
   {
    "id": "mission_ext:MI_066:strStory",
@@ -5338,9 +5338,9 @@
     "field": "strStory"
    },
    "row": 357,
-   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "en": "Peace with the Zentradi has vanished. Boddole Zer has begun an all-out attack.\\nCommencing the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
    "flags": [],
-   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\" | review: briefing register pass (same text as row 351)"
   },
   {
    "id": "mission_ext:MP_310:strMission",
@@ -5370,11 +5370,11 @@
     "field": "strStory"
    },
    "row": 359,
-   "en": "To prepare for emergencies like a Zentradi remnant revolt or unseen threats,\\nregular U.N. Forces training begins. Beat each Destroid squad in mock battle.",
+   "en": "To prepare for emergencies like a Zentradi remnant revolt or unseen threats,\\nregular U.N. Forces drills begin. Defeat each Destroid squad in a mock battle.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Source uses the old U.N. Forces short form in the Macross Plus era; followed the brief's literal mapping. | review: refit: 'as yet unseen' -> 'unseen'; 'we will now conduct' -> 'begins'; 'fight mock battles... and win' -> 'beat... in mock battle'"
+   "notes": "Source uses the old U.N. Forces short form in the Macross Plus era; followed the brief's literal mapping. | review: refit: 'as yet unseen' -> 'unseen'; 'we will now conduct' -> 'begins'; 'fight mock battles... and win' -> 'beat... in mock battle' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_320:strMission",
@@ -5404,9 +5404,9 @@
     "field": "strStory"
    },
    "row": 361,
-   "en": "Rioting Zentradi remnants have ignored a call to surrender and still run wild.\\nTo put down the riot at once, annihilate the Zentradi remnants.",
+   "en": "Rioting Zentradi remnants ignored a call to surrender and are still rampaging.\\nTo suppress the riot at once, annihilate the Zentradi remnants.",
    "flags": [],
-   "notes": "review: refit: 'are still on the rampage' -> 'still run wild'"
+   "notes": "review: refit: 'are still on the rampage' -> 'still run wild' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_330:strMission",
@@ -5468,9 +5468,9 @@
     "field": "strStory"
    },
    "row": 365,
-   "en": "A flight test now begins to measure the prototype's thrust, agility and more.\\nRun a time trial to measure how long you take to clear all the waypoints.",
+   "en": "Commencing a flight test to measure the prototype's thrust, agility and more.\\nConduct a time trial measuring the time taken to pass all waypoints.",
    "flags": [],
-   "notes": "review: refit: 'flight performance, including thrust and maneuverability' -> 'thrust, agility and more'"
+   "notes": "review: refit: 'flight performance, including thrust and maneuverability' -> 'thrust, agility and more' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_350:strMission",
@@ -5500,9 +5500,9 @@
     "field": "strStory"
    },
    "row": 367,
-   "en": "To test the prototype's agility, we'll fly it in a confined space like a base.\\nRun a time trial: destroy all targets and reach the target area.",
+   "en": "Testing the prototype's agility in a confined space, such as a base interior.\\nConduct a time trial: destroy all targets and reach the target area.",
    "flags": [],
-   "notes": "review: refit: 'like the inside of a base' -> 'like a base'; dropped 'as fast as you can' (implied by time trial)"
+   "notes": "review: refit: 'like the inside of a base' -> 'like a base'; dropped 'as fast as you can' (implied by time trial) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_360:strMission",
@@ -5532,9 +5532,9 @@
     "field": "strStory"
    },
    "row": 369,
-   "en": "To gauge the prototype's combat ability, we'll now stage an arena mock battle.\\nBattle a large number of targets, simulating combat against multiple enemies.",
+   "en": "Commencing an arena mock battle to measure the prototype's combat capability.\\nEngage a large number of targets, simulating combat against multiple enemies.",
    "flags": [],
-   "notes": "review: refit: tighter wording"
+   "notes": "review: refit: tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_370:strMission",
@@ -5564,9 +5564,9 @@
     "field": "strStory"
    },
    "row": 371,
-   "en": "We've had reports of Zentradi remnants appearing from a planet near Eden.\\nWe'll now annihilate them, also as a live combat test of the prototype.",
+   "en": "Zentradi remnants have been reported emerging from a planet near Eden.\\nWe will now annihilate them, doubling as a live combat test of the prototype.",
    "flags": [],
-   "notes": "review: refit: 'planet Eden' -> 'Eden'; second mention of Zentradi remnants -> 'them'"
+   "notes": "review: refit: 'planet Eden' -> 'Eden'; second mention of Zentradi remnants -> 'them' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_380:strMission",
@@ -5598,11 +5598,11 @@
     "field": "strStory"
    },
    "row": 373,
-   "en": "For prototype combat data in varied settings, a mock air battle now begins.\\nDestroy the VF-11 and drone-escorted bombers short of the target area.",
+   "en": "Commencing a mock air battle for prototype combat data in varied settings.\\nDestroy the VF-11 and drone-escorted bombers short of the target area.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Bombers plural, as row 372. | review: refit: 'in a range of environments' -> 'in varied settings'; 'before they reach' -> 'short of'"
+   "notes": "Bombers plural, as row 372. | review: refit: 'in a range of environments' -> 'in varied settings'; 'before they reach' -> 'short of' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_390:strMission",
@@ -5632,11 +5632,11 @@
     "field": "strStory"
    },
    "row": 375,
-   "en": "For prototype combat data in varied settings, a mock sea battle now begins.\\nSink the multipurpose carrier escorted by VF-11s, Destroids and an Aegis ship.",
+   "en": "Commencing a mock sea battle for prototype combat data in varied settings.\\nSink the multipurpose carrier escorted by VF-11s, Destroids and an Aegis ship.",
    "flags": [
     "uncertain"
    ],
-   "notes": "'Aegis ship' kept literal; 'multipurpose carrier' for the general-purpose carrier. | review: term added to glossary | review: refit: 'Destroid squads' -> 'Destroids'; 'Destroy' -> 'Sink' (carrier)"
+   "notes": "'Aegis ship' kept literal; 'multipurpose carrier' for the general-purpose carrier. | review: term added to glossary | review: refit: 'Destroid squads' -> 'Destroids'; 'Destroy' -> 'Sink' (carrier) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_400:strMission",
@@ -5666,9 +5666,9 @@
     "field": "strStory"
    },
    "row": 377,
-   "en": "For prototype combat data in varied settings, a mock ground battle now begins.\\nDestroy the base defended by VF-11s and Destroid squads.",
+   "en": "Commencing a mock ground battle for prototype combat data in varied settings.\\nDestroy the base defended by VF-11s and Destroid squads.",
    "flags": [],
-   "notes": "review: refit: 'in a range of environments' -> 'in varied settings'"
+   "notes": "review: refit: 'in a range of environments' -> 'in varied settings' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_410:strMission",
@@ -5698,9 +5698,9 @@
     "field": "strStory"
    },
    "row": 379,
-   "en": "For head-to-head prototype data, we now hold a mock battle against the rival.\\nNeedless to say, it's the most crucial test for selection. Win at any cost.",
+   "en": "Commencing a mock battle vs. the rival model for head-to-head prototype data.\\nNeedless to say, this is the most crucial test for selection. Win at all costs.",
    "flags": [],
-   "notes": "review: refit: 'prototype against prototype' -> 'head-to-head'; 'rival model' -> 'rival'"
+   "notes": "review: refit: 'prototype against prototype' -> 'head-to-head'; 'rival model' -> 'rival' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_420:strMission",
@@ -6054,11 +6054,11 @@
     "field": "strMission"
    },
    "row": 400,
-   "en": "Wipe out the unknowns that just appeared.",
+   "en": "Annihilate the unidentified craft\\nthat have suddenly appeared.",
    "flags": [
     "uncertain"
    ],
-   "notes": "'Unidentified aircraft' for the group of unidentified machines; 'units' also possible. | review: same source as row 402; one rendering | review: refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source"
+   "notes": "'Unidentified aircraft' for the group of unidentified machines; 'units' also possible. | review: same source as row 402; one rendering | review: refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_310:strStory",
@@ -6088,9 +6088,9 @@
     "field": "strMission"
    },
    "row": 402,
-   "en": "Wipe out the unknowns that just appeared.",
+   "en": "Annihilate the unidentified craft\\nthat have suddenly appeared.",
    "flags": [],
-   "notes": "review: same source as row 402; one rendering | review: refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source"
+   "notes": "review: same source as row 402; one rendering | review: refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source | review: briefing register pass (same text as row 400)"
   },
   {
    "id": "mission_ext:M7_315:strStory",
@@ -6136,9 +6136,9 @@
     "field": "strStory"
    },
    "row": 405,
-   "en": "Danger always lurks on a journey through vast space. To prepare for the worst,\\nbeat Diamond Force member Lt. Gamlin Kizaki in a training mock battle.",
+   "en": "Danger always lurks on a journey through vast space. To prepare for the worst,\\ndefeat Diamond Force member Lt. Gamlin Kizaki in a training mock battle.",
    "flags": [],
-   "notes": "review: refit: 'the vastness of space' -> 'vast space'; 'emergencies' -> 'the worst'"
+   "notes": "review: refit: 'the vastness of space' -> 'vast space'; 'emergencies' -> 'the worst' | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_330:strMission",
@@ -6282,9 +6282,9 @@
     "field": "strMission"
    },
    "row": 414,
-   "en": "Annihilate the Varauta Army that's blocking\\nthe escape from the blazing star.",
+   "en": "Annihilate the Varauta Army that is\\nblocking the escape from the blazing star.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_370:strStory",
@@ -6314,9 +6314,9 @@
     "field": "strMission"
    },
    "row": 416,
-   "en": "Annihilate the Varauta Army that's blocking\\nthe escape from the blazing star.",
+   "en": "Annihilate the Varauta Army that is\\nblocking the escape from the blazing star.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 414)"
   },
   {
    "id": "mission_ext:M7_375:strStory",
@@ -6426,9 +6426,9 @@
     "field": "strStory"
    },
    "row": 423,
-   "en": "We've spotted a likely Protodeviln, approx. 300 m long, unlike any foe so far.\\nMake survival your top priority, and destroy the Protodeviln if possible.",
+   "en": "Detected: a likely Protodeviln, approx. 300 m long, unlike any enemy so far.\\nMake survival your top priority, and destroy the Protodeviln if possible.",
    "flags": [],
-   "notes": "review: refit: 'enemy contact believed to be' -> 'likely'; 'clearly unlike' -> 'unlike'"
+   "notes": "review: refit: 'enemy contact believed to be' -> 'likely'; 'clearly unlike' -> 'unlike' | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_400:strMission",
@@ -6490,9 +6490,9 @@
     "field": "strStory"
    },
    "row": 427,
-   "en": "The Protodeviln have gotten serious and are attacking the Macross 7 fleet.\\nWe can't let the Protodeviln beat us here. Annihilate the Varauta Army.",
+   "en": "The Protodeviln have begun a full-scale attack on the Macross 7 fleet.\\nWe cannot fall to the Protodeviln here. Annihilate the Varauta Army.",
    "flags": [],
-   "notes": "review: refit: tighter wording"
+   "notes": "review: refit: tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_420:strMission",
@@ -6522,11 +6522,11 @@
     "field": "strStory"
    },
    "row": 429,
-   "en": "Ahead of the escalating Protodeviln war, a mock battle will now be held.\\nBeat the married duo: a genius pilot of old in the latest model, and an ex-ace.",
+   "en": "Commencing a mock battle to prepare for the escalating Protodeviln war.\\nDefeat the married duo: a genius pilot of old in the latest VF, and an ex-ace.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Duo is Max and Milia (not named in JP). JP 'riding the newest machine' may modify only the genius pilot; rendered as applying to both. | review: source has only the genius pilot in the latest machine; 'both' was added | review: refit: 'husband-and-wife' -> 'married'; 'of years past' -> 'of old'; 'machine' -> 'model'; 'former ace' -> 'ex-ace'"
+   "notes": "Duo is Max and Milia (not named in JP). JP 'riding the newest machine' may modify only the genius pilot; rendered as applying to both. | review: source has only the genius pilot in the latest machine; 'both' was added | review: refit: 'husband-and-wife' -> 'married'; 'of years past' -> 'of old'; 'machine' -> 'model'; 'former ace' -> 'ex-ace' | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_430:strMission",
@@ -6556,9 +6556,9 @@
     "field": "strStory"
    },
    "row": 431,
-   "en": "We now launch Operation Stargazer, a surprise assault by a small elite force.\\nWipe out the Varauta Army at all costs to fire reaction weapons into the cave.",
+   "en": "Commencing Operation Stargazer, a surprise assault by a small elite force.\\nEliminate the Varauta Army at all costs to fire reaction weapons into the cave.",
    "flags": [],
-   "notes": "review: refit: dropped quote marks; 'target cave' -> 'the cave'; 'Annihilate' -> 'Wipe out'"
+   "notes": "review: refit: dropped quote marks; 'target cave' -> 'the cave'; 'Annihilate' -> 'Wipe out' | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_440:strMission",
@@ -6590,9 +6590,9 @@
     "field": "strStory"
    },
    "row": 433,
-   "en": "Capt. Gamlin, possessed by the Protodeviln, is on a rampage, wrecking bases.\\nWe can't allow more damage. You're authorized to shoot down Capt. Gamlin.",
+   "en": "Capt. Gamlin, possessed by the Protodeviln, is on a rampage, wrecking bases.\\nFurther damage is unacceptable. You are authorized to shoot down Capt. Gamlin.",
    "flags": [],
-   "notes": "review: refit: 'military facilities' -> 'bases'; Captain -> Capt."
+   "notes": "review: refit: 'military facilities' -> 'bases'; Captain -> Capt. | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_450:strMission",
@@ -6750,9 +6750,9 @@
     "field": "strStory"
    },
    "row": 443,
-   "en": "A vanguard ship has been wiped out by a large rogue Meltrandi fleet.\\nThey mustn't get any closer to the Macross 7 fleet. Annihilate the rogue fleet.",
+   "en": "A vanguard ship has been destroyed by a large rogue Meltrandi fleet.\\nThey must come no closer to the Macross 7 fleet. Annihilate the rogue fleet.",
    "flags": [],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. Same rogue-fleet term as row 442. | review: term added to glossary | review: refit: 'We can't let them' -> 'They mustn't'"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. Same rogue-fleet term as row 442. | review: term added to glossary | review: refit: 'We can't let them' -> 'They mustn't' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MD_310:strMission",
@@ -6894,9 +6894,9 @@
     "field": "strMission"
    },
    "row": 452,
-   "en": "Arrest the poachers trying\\nto poach the Galaxy Whales.",
+   "en": "Arrest the poachers\\ntargeting the Galaxy Whales.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MG_010:strStory",
@@ -6958,9 +6958,9 @@
     "field": "strMission"
    },
    "row": 456,
-   "en": "Arrest the poachers trying\\nto poach the Galaxy Whales.",
+   "en": "Arrest the poachers\\ntargeting the Galaxy Whales.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 452)"
   },
   {
    "id": "mission_ext:MG_030:strStory",
@@ -6974,9 +6974,9 @@
     "field": "strStory"
    },
    "row": 457,
-   "en": "The Galaxy Whales are nearing Zola again: prime hunting season for poachers.\\nWe can't ignore their poaching any longer. Take the poachers into custody.",
+   "en": "The Galaxy Whales are nearing Zola again: prime hunting season for poachers.\\nTheir poaching can no longer be overlooked. Take the poachers into custody.",
    "flags": [],
-   "notes": "review: refit: 'turn a blind eye to' -> 'ignore'"
+   "notes": "review: refit: 'turn a blind eye to' -> 'ignore' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MG_040:strMission",
@@ -7102,9 +7102,9 @@
     "field": "strStory"
    },
    "row": 465,
-   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "en": "An unknown enemy has downed a New U.N. aircraft. It appears to emit heavy EM\\njamming; details are unknown. Proceed to the scene at once and annihilate it.",
    "flags": [],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_311:strMission",
@@ -7134,9 +7134,9 @@
     "field": "strStory"
    },
    "row": 467,
-   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "en": "An unknown enemy has downed a New U.N. aircraft. It appears to emit heavy EM\\njamming; details are unknown. Proceed to the scene at once and annihilate it.",
    "flags": [],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP) | review: briefing register pass (same text as row 465)"
   },
   {
    "id": "mission_ext:MF_315:strMission",
@@ -7166,9 +7166,9 @@
     "field": "strStory"
    },
    "row": 469,
-   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "en": "An unknown enemy has downed a New U.N. aircraft. It appears to emit heavy EM\\njamming; details are unknown. Proceed to the scene at once and annihilate it.",
    "flags": [],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP) | review: briefing register pass (same text as row 465)"
   },
   {
    "id": "mission_ext:MF_316:strMission",
@@ -7198,9 +7198,9 @@
     "field": "strStory"
    },
    "row": 471,
-   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "en": "An unknown enemy has downed a New U.N. aircraft. It appears to emit heavy EM\\njamming; details are unknown. Proceed to the scene at once and annihilate it.",
    "flags": [],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP) | review: briefing register pass (same text as row 465)"
   },
   {
    "id": "mission_ext:MF_320:strMission",
@@ -7230,9 +7230,9 @@
     "field": "strStory"
    },
    "row": 473,
-   "en": "A mock battle now begins as our regular joint drill with the New U.N. Forces.\\nShow them what S.M.S. can really do, and win the mock battle.",
+   "en": "Commencing a mock battle as our regular joint drill with the New U.N. Forces.\\nShow the full strength of S.M.S. and win the mock battle.",
    "flags": [],
-   "notes": "review: refit: dropped repeat of 'against the New U.N. Forces'"
+   "notes": "review: refit: dropped repeat of 'against the New U.N. Forces' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_330:strMission",
@@ -7264,11 +7264,11 @@
     "field": "strStory"
    },
    "row": 475,
-   "en": "The Victors that struck Macross Frontier never left; they seem to be hiding\\nin Island 3's foundation block. Annihilate them before they near Island 1.",
+   "en": "The Victors that struck Macross Frontier never withdrew and appear to be hiding\\nin Island 3's foundation block. Annihilate them before they near Island 1.",
    "flags": [
     "uncertain"
    ],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. Victor number as row 474. | review: refit: 'did not retreat' -> 'never left'; break moved mid-sentence (as JP)"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. Victor number as row 474. | review: refit: 'did not retreat' -> 'never left'; break moved mid-sentence (as JP) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_340:strMission",
@@ -7298,9 +7298,9 @@
     "field": "strStory"
    },
    "row": 477,
-   "en": "The final test for S.M.S. applicants begins now. To help out, join the\\napplicants in a mock battle against Pixie Team, led by Capt. Klan Klang.",
+   "en": "Commencing the final test for S.M.S. applicants. To assist, join the\\napplicants in a mock battle against Pixie Team, led by Capt. Klan Klang.",
    "flags": [],
-   "notes": "review: refit: 'To help with the test' -> 'To help out'; Captain -> Capt."
+   "notes": "review: refit: 'To help with the test' -> 'To help out'; Captain -> Capt. | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_350:strMission",
@@ -7330,9 +7330,9 @@
     "field": "strStory"
    },
    "row": 479,
-   "en": "The New U.N. Forces have asked us to scout a thieves' hideout.\\nIf the thieves attack once you're there, you are authorized to engage them.",
+   "en": "The New U.N. Forces have requested reconnaissance of a thieves' hideout.\\nIf the thieves attack during the recon, you are authorized to engage them.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_360:strMission",
@@ -7362,9 +7362,9 @@
     "field": "strStory"
    },
    "row": 481,
-   "en": "To prepare for Vajra attacks, a mock battle begins now. Beat Maj. Ozma Lee's\\nSkull Squadron, one of the finest elite units in all of S.M.S.",
+   "en": "Commencing a mock battle to prepare for Vajra attacks. Defeat Maj. Ozma Lee's\\nSkull Squadron, one of the finest elite units in all of S.M.S.",
    "flags": [],
-   "notes": "review: refit: 'Win against Major' -> 'Beat Maj.'"
+   "notes": "review: refit: 'Win against Major' -> 'Beat Maj.' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_370:strMission",
@@ -7378,9 +7378,9 @@
     "field": "strMission"
    },
    "row": 482,
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_370:strStory",
@@ -7394,9 +7394,9 @@
     "field": "strStory"
    },
    "row": 483,
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_371:strMission",
@@ -7410,9 +7410,9 @@
     "field": "strMission"
    },
    "row": 484,
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass (same text as row 482)"
   },
   {
    "id": "mission_ext:MF_371:strStory",
@@ -7426,9 +7426,9 @@
     "field": "strStory"
    },
    "row": 485,
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass (same text as row 483)"
   },
   {
    "id": "mission_ext:MF_372:strMission",
@@ -7442,9 +7442,9 @@
     "field": "strMission"
    },
    "row": 486,
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass (same text as row 482)"
   },
   {
    "id": "mission_ext:MF_372:strStory",
@@ -7458,9 +7458,9 @@
     "field": "strStory"
    },
    "row": 487,
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass (same text as row 483)"
   },
   {
    "id": "mission_ext:MF_375:strMission",
@@ -7474,9 +7474,9 @@
     "field": "strMission"
    },
    "row": 488,
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass (same text as row 482)"
   },
   {
    "id": "mission_ext:MF_375:strStory",
@@ -7490,9 +7490,9 @@
     "field": "strStory"
    },
    "row": 489,
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass (same text as row 483)"
   },
   {
    "id": "mission_ext:MF_376:strMission",
@@ -7506,9 +7506,9 @@
     "field": "strMission"
    },
    "row": 490,
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass (same text as row 482)"
   },
   {
    "id": "mission_ext:MF_376:strStory",
@@ -7522,9 +7522,9 @@
     "field": "strStory"
    },
    "row": 491,
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass (same text as row 483)"
   },
   {
    "id": "mission_ext:MF_377:strMission",
@@ -7538,9 +7538,9 @@
     "field": "strMission"
    },
    "row": 492,
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass (same text as row 482)"
   },
   {
    "id": "mission_ext:MF_377:strStory",
@@ -7554,9 +7554,9 @@
     "field": "strStory"
    },
    "row": 493,
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass (same text as row 483)"
   },
   {
    "id": "mission_ext:MF_380:strMission",
@@ -7570,9 +7570,9 @@
     "field": "strMission"
    },
    "row": 494,
-   "en": "Wipe out the Vajra that suddenly appeared\\nduring the survey of their nest.",
+   "en": "Annihilate the Vajra that suddenly appeared\\nduring the survey of their nest.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_380:strStory",
@@ -7586,9 +7586,9 @@
     "field": "strStory"
    },
    "row": 495,
-   "en": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible,\\nbut the Vajra spotted us almost at once. Move swiftly to wipe them out.",
+   "en": "We located a Vajra nest to survey and, if possible, recover a cocoon, but\\nthe Vajra detected us soon after the survey began. Swiftly annihilate them.",
    "flags": [],
-   "notes": "review: refit: tighter wording; 'Switch to wiping out the Vajra' -> 'Move swiftly to wipe them out'"
+   "notes": "review: refit: tighter wording; 'Switch to wiping out the Vajra' -> 'Move swiftly to wipe them out' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_385:strMission",
@@ -7602,9 +7602,9 @@
     "field": "strMission"
    },
    "row": 496,
-   "en": "Wipe out the Vajra that suddenly appeared\\nduring the survey of their nest.",
+   "en": "Annihilate the Vajra that suddenly appeared\\nduring the survey of their nest.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 494)"
   },
   {
    "id": "mission_ext:MF_385:strStory",
@@ -7618,9 +7618,9 @@
     "field": "strStory"
    },
    "row": 497,
-   "en": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible,\\nbut the Vajra spotted us almost at once. Move swiftly to wipe them out.",
+   "en": "We located a Vajra nest to survey and, if possible, recover a cocoon, but\\nthe Vajra detected us soon after the survey began. Swiftly annihilate them.",
    "flags": [],
-   "notes": "review: refit: tightened wording; 'as soon as the survey began' -> 'almost at once'; matched to row 495 (identical Japanese, refit in story2)"
+   "notes": "review: refit: tightened wording; 'as soon as the survey began' -> 'almost at once'; matched to row 495 (identical Japanese, refit in story2) | review: briefing register pass (same text as row 495)"
   },
   {
    "id": "mission_ext:MF_390:strMission",
@@ -7634,9 +7634,9 @@
     "field": "strMission"
    },
    "row": 498,
-   "en": "Wipe out the rioting\\nZentradi.",
+   "en": "Annihilate the rioting\\nZentradi.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_390:strStory",
@@ -7650,11 +7650,11 @@
     "field": "strStory"
    },
    "row": 499,
-   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them.",
+   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Annihilate the rioters to rescue the hostages.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Rendered the 'imon kouen' as a morale-boosting concert tour. | review: refit: rebalanced lines; 'morale-boosting concert tour' reworded"
+   "notes": "Rendered the 'imon kouen' as a morale-boosting concert tour. | review: refit: rebalanced lines; 'morale-boosting concert tour' reworded | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_395:strMission",
@@ -7668,9 +7668,9 @@
     "field": "strMission"
    },
    "row": 500,
-   "en": "Wipe out the rioting\\nZentradi.",
+   "en": "Annihilate the rioting\\nZentradi.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 498)"
   },
   {
    "id": "mission_ext:MF_395:strStory",
@@ -7684,11 +7684,11 @@
     "field": "strStory"
    },
    "row": 501,
-   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them.",
+   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Annihilate the rioters to rescue the hostages.",
    "flags": [
     "uncertain"
    ],
-   "notes": "review: refit: rebalanced lines; 'morale-boosting concert tour' reworded"
+   "notes": "review: refit: rebalanced lines; 'morale-boosting concert tour' reworded | review: briefing register pass (same text as row 499)"
   },
   {
    "id": "mission_ext:MF_400:strMission",
@@ -7830,9 +7830,9 @@
     "field": "strMission"
    },
    "row": 510,
-   "en": "Wipe out the Vajra so they can't disrupt\\nthe experiment using Ranka Lee's song.",
+   "en": "Annihilate the Vajra before they disrupt\\nthe experiment using Ranka Lee's song.",
    "flags": [],
-   "notes": "review: refit: 'interfere with' -> 'disrupt', line break moved"
+   "notes": "review: refit: 'interfere with' -> 'disrupt', line break moved | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_140:strStory",
@@ -7846,9 +7846,9 @@
     "field": "strStory"
    },
    "row": 511,
-   "en": "Top-secret mission: you will now guard an experiment using Ranka Lee's song.\\nUntil the experiment begins, wipe out the Vajra so they can't interfere.",
+   "en": "Top-secret mission: you will now guard an experiment using Ranka Lee's song.\\nUntil the experiment begins, annihilate the Vajra to prevent interference.",
    "flags": [],
-   "notes": "review: refit: tightened wording"
+   "notes": "review: refit: tightened wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_150:strMission",
@@ -7862,9 +7862,9 @@
     "field": "strMission"
    },
    "row": 512,
-   "en": "Defend the Macross Quarter and wipe out\\nthe Vajra or survive for 5 minutes.",
+   "en": "Defend the Macross Quarter and annihilate\\nthe Vajra, or survive for 5 minutes.",
    "flags": [],
-   "notes": "review: refit: 'either' dropped, line break moved"
+   "notes": "review: refit: 'either' dropped, line break moved | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_150:strStory",
@@ -7878,9 +7878,9 @@
     "field": "strStory"
    },
    "row": 513,
-   "en": "Evolved Vajra have appeared that even reaction weapons can't harm. They will be\\nhard to destroy, so put defending the Macross Quarter and your survival first.",
+   "en": "Evolved Vajra immune even to reaction weapons have appeared. As they will be\\nhard to destroy, prioritize defending the Macross Quarter and your survival.",
    "flags": [],
-   "notes": "review: refit: restructured; 'top priorities' -> 'first'"
+   "notes": "review: refit: restructured; 'top priorities' -> 'first' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_155:strMission",
@@ -7894,9 +7894,9 @@
     "field": "strMission"
    },
    "row": 514,
-   "en": "Defend the Macross Quarter and wipe out\\nthe Vajra or survive for 5 minutes.",
+   "en": "Defend the Macross Quarter and annihilate\\nthe Vajra, or survive for 5 minutes.",
    "flags": [],
-   "notes": "review: refit: 'either' dropped, line break moved"
+   "notes": "review: refit: 'either' dropped, line break moved | review: briefing register pass (same text as row 512)"
   },
   {
    "id": "mission_ext:MF_155:strStory",
@@ -7910,9 +7910,9 @@
     "field": "strStory"
    },
    "row": 515,
-   "en": "Evolved Vajra have appeared that even reaction weapons can't harm. They will be\\nhard to destroy, so put defending the Macross Quarter and your survival first.",
+   "en": "Evolved Vajra immune even to reaction weapons have appeared. As they will be\\nhard to destroy, prioritize defending the Macross Quarter and your survival.",
    "flags": [],
-   "notes": "review: refit: restructured; 'top priorities' -> 'first'"
+   "notes": "review: refit: restructured; 'top priorities' -> 'first' | review: briefing register pass (same text as row 513)"
   },
   {
    "id": "mission_ext:MF_160:strMission",
@@ -7958,9 +7958,9 @@
     "field": "strMission"
    },
    "row": 518,
-   "en": "Wipe out the Vajra rampaging\\ninside the Frontier.",
+   "en": "Annihilate the Vajra rampaging\\ninside the Frontier.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_170:strStory",
@@ -7974,9 +7974,9 @@
     "field": "strStory"
    },
    "row": 519,
-   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Wipe out the Vajra that have emerged in the Frontier.",
+   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Annihilate the Vajra that have emerged in the Frontier.",
    "flags": [],
-   "notes": "review: refit: tightened; dropped repeated 'the Frontier' in line 2 first clause"
+   "notes": "review: refit: tightened; dropped repeated 'the Frontier' in line 2 first clause | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_172:strMission",
@@ -7990,9 +7990,9 @@
     "field": "strMission"
    },
    "row": 520,
-   "en": "Wipe out the Vajra rampaging\\ninside the Frontier.",
+   "en": "Annihilate the Vajra rampaging\\ninside the Frontier.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 518)"
   },
   {
    "id": "mission_ext:MF_172:strStory",
@@ -8006,9 +8006,9 @@
     "field": "strStory"
    },
    "row": 521,
-   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Wipe out the Vajra that have emerged in the Frontier.",
+   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Annihilate the Vajra that have emerged in the Frontier.",
    "flags": [],
-   "notes": "review: refit: tightened; dropped repeated 'the Frontier' in line 2 first clause"
+   "notes": "review: refit: tightened; dropped repeated 'the Frontier' in line 2 first clause | review: briefing register pass (same text as row 519)"
   },
   {
    "id": "mission_ext:MF_180:strMission",
@@ -8022,9 +8022,9 @@
     "field": "strMission"
    },
    "row": 522,
-   "en": "Wipe out the deserters trying to escape\\nin the stolen Macross Quarter.",
+   "en": "Annihilate the deserters trying to escape\\nin the stolen Macross Quarter.",
    "flags": [],
-   "notes": "review: refit: 'who seized the Macross Quarter' -> 'in the stolen Macross Quarter'"
+   "notes": "review: refit: 'who seized the Macross Quarter' -> 'in the stolen Macross Quarter' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_180:strStory",
@@ -8038,11 +8038,11 @@
     "field": "strStory"
    },
    "row": 523,
-   "en": "Some S.M.S. members are trying to hijack the Macross Quarter and escape.\\nAt this rate they'll fold away. You're authorized to shoot down the deserters.",
+   "en": "Some S.M.S. members are trying to hijack the Macross Quarter and escape.\\nUnchecked, they will fold away. You are authorized to shoot down the deserters.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Fold out = escape via space fold. | review: refit: tightened line 2"
+   "notes": "Fold out = escape via space fold. | review: refit: tightened line 2 | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_185:strMission",
@@ -8072,9 +8072,9 @@
     "field": "strStory"
    },
    "row": 525,
-   "en": "A mock battle will now be held to test the VF-171EX, built to fight the Vajra.\\nDefeat the Sagittarius Squadron in this combined machine test and training.",
+   "en": "Commencing a mock battle to test the VF-171EX, developed to fight the Vajra.\\nDefeat the Sagittarius Squadron in this combined machine test and training.",
    "flags": [],
-   "notes": "review: refit: restructured line 2"
+   "notes": "review: refit: restructured line 2 | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_190:strMission",
@@ -8088,9 +8088,9 @@
     "field": "strMission"
    },
    "row": 526,
-   "en": "To make the Vajra homeworld ours,\\nwipe out the Vajra.",
+   "en": "To claim the Vajra homeworld as ours,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_190:strStory",
@@ -8104,9 +8104,9 @@
     "field": "strStory"
    },
    "row": 527,
-   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Wipe out the Vajra, powered by the Galactic Fairy's song.",
+   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Annihilate the Vajra, powered by the Galactic Fairy's song.",
    "flags": [],
-   "notes": "review: refit: restructured; second 'Vajra homeworld' -> 'it'"
+   "notes": "review: refit: restructured; second 'Vajra homeworld' -> 'it' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_191:strMission",
@@ -8120,9 +8120,9 @@
     "field": "strMission"
    },
    "row": 528,
-   "en": "To make the Vajra homeworld ours,\\nwipe out the Vajra.",
+   "en": "To claim the Vajra homeworld as ours,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 526)"
   },
   {
    "id": "mission_ext:MF_191:strStory",
@@ -8136,9 +8136,9 @@
     "field": "strStory"
    },
    "row": 529,
-   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Wipe out the Vajra, powered by the Galactic Fairy's song.",
+   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Annihilate the Vajra, powered by the Galactic Fairy's song.",
    "flags": [],
-   "notes": "review: refit: restructured; second 'Vajra homeworld' -> 'it'"
+   "notes": "review: refit: restructured; second 'Vajra homeworld' -> 'it' | review: briefing register pass (same text as row 527)"
   },
   {
    "id": "mission_ext:MF_200:strMission",
@@ -8420,9 +8420,9 @@
     "field": "strMission"
    },
    "row": 546,
-   "en": "Wipe out the rogue Zentradi forces.",
+   "en": "Annihilate the rogue Zentradi forces.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_010:strStory",
@@ -8436,9 +8436,9 @@
     "field": "strStory"
    },
    "row": 547,
-   "en": "An unknown fleet, likely rogue Zentradi forces, has been spotted near Jupiter.\\nBreak the enemy's will to fight with Operation Minmay, then wipe them out.",
+   "en": "An unknown fleet, likely rogue Zentradi forces, has been spotted near Jupiter.\\nBreak the enemy's will to fight with Operation Minmay, then annihilate them.",
    "flags": [],
-   "notes": "review: refit: tightened line 1"
+   "notes": "review: refit: tightened line 1 | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_020:strMission",
@@ -8452,11 +8452,11 @@
     "field": "strMission"
    },
    "row": 548,
-   "en": "Wipe out the mysterious mecha\\nrampaging through the city.",
+   "en": "Annihilate the mysterious mecha\\nrampaging through the city.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Singular/plural unclear; 'mecha' covers both."
+   "notes": "Singular/plural unclear; 'mecha' covers both. | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_020:strStory",
@@ -8470,11 +8470,11 @@
     "field": "strStory"
    },
    "row": 549,
-   "en": "Mecha from a mysterious fleet slipped through our defenses and invaded Earth.\\nWipe out the mobile weapons ravaging the city as if seeking something. Now!",
+   "en": "Mecha from a mysterious fleet slipped through our defenses and invaded Earth.\\nImmediately annihilate the mecha ravaging the city as if seeking something.",
    "flags": [
     "uncertain"
    ],
-   "notes": "review: refit: tightened both lines"
+   "notes": "review: refit: tightened both lines | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_030:strMission",
@@ -8488,9 +8488,9 @@
     "field": "strMission"
    },
    "row": 550,
-   "en": "Wipe out the Mardook forces seeking\\nto destroy Earth's culture.",
+   "en": "Annihilate the Mardook forces seeking\\nto destroy Earth's culture.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_030:strStory",
@@ -8504,9 +8504,9 @@
     "field": "strStory"
    },
    "row": 551,
-   "en": "The Mardook forces have launched an all-out assault to destroy Earth's culture.\\nProtect Earth's culture at all costs and wipe out the Mardook forces.",
+   "en": "The Mardook forces have launched an all-out assault to destroy Earth's culture.\\nProtect Earth's culture at all costs and annihilate the Mardook forces.",
    "flags": [],
-   "notes": "review: refit: tightened line 1"
+   "notes": "review: refit: tightened line 1 | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_040:strMission",
@@ -8520,9 +8520,9 @@
     "field": "strMission"
    },
    "row": 552,
-   "en": "To retake the communications relay base,\\nwipe out Vindirance.",
+   "en": "To retake the communications relay base,\\nannihilate Vindirance.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_040:strStory",
@@ -8536,11 +8536,11 @@
     "field": "strStory"
    },
    "row": 553,
-   "en": "Starting the op to retake the relay base held by anti-U.N. group Vindirance.\\nInfiltrate via the canyon leading to the base and wipe out Vindirance's guards.",
+   "en": "Commencing an operation to retake the relay base from anti-U.N. Vindirance.\\nInfiltrate via the canyon to the base and annihilate the Vindirance guards.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Source says anti-U.N. organization; rendered 'anti-U.N. group'. | review: refit: abbreviated 'operation' and 'communications relay base'"
+   "notes": "Source says anti-U.N. organization; rendered 'anti-U.N. group'. | review: refit: abbreviated 'operation' and 'communications relay base' | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_041:strMission",
@@ -8554,9 +8554,9 @@
     "field": "strMission"
    },
    "row": 554,
-   "en": "To retake the communications relay base,\\nwipe out Vindirance.",
+   "en": "To retake the communications relay base,\\nannihilate Vindirance.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 552)"
   },
   {
    "id": "mission_ext:ME_041:strStory",
@@ -8570,11 +8570,11 @@
     "field": "strStory"
    },
    "row": 555,
-   "en": "Starting the op to retake the relay base held by anti-U.N. group Vindirance.\\nInfiltrate via the canyon leading to the base and wipe out Vindirance's guards.",
+   "en": "Commencing an operation to retake the relay base from anti-U.N. Vindirance.\\nInfiltrate via the canyon to the base and annihilate the Vindirance guards.",
    "flags": [
     "uncertain"
    ],
-   "notes": "review: refit: abbreviated 'operation' and 'communications relay base'"
+   "notes": "review: refit: abbreviated 'operation' and 'communications relay base' | review: briefing register pass (same text as row 553)"
   },
   {
    "id": "mission_ext:ME_050:strMission",
@@ -8588,9 +8588,9 @@
     "field": "strMission"
    },
    "row": 556,
-   "en": "Wipe out Vindirance, who are scheming\\nto fold to Earth.",
+   "en": "Annihilate Vindirance, who are\\nplotting a fold to Earth.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_050:strStory",
@@ -8604,9 +8604,9 @@
     "field": "strStory"
    },
    "row": 557,
-   "en": "Vindirance is plotting a fold to Earth. It must be stopped at all costs, so\\nreaction weapons are authorized for this operation. Wipe out Vindirance.",
+   "en": "Vindirance is plotting a fold to Earth. It must be stopped at all costs, so\\nreaction weapons are authorized for this operation. Annihilate Vindirance.",
    "flags": [],
-   "notes": "review: refit: rebalanced lines"
+   "notes": "review: refit: rebalanced lines | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_060:strMission",
@@ -8672,11 +8672,11 @@
     "field": "strStory"
    },
    "row": 561,
-   "en": "Variable fighters, developed using the OverTechnology of the Macross.\\nTo learn how they evolved, battle the variable fighters of every generation.",
+   "en": "Variable fighters, developed using the OverTechnology of the Macross.\\nTo learn how they evolved, engage the variable fighters of every generation.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Kahen kitai (variable machines) rendered as 'variable fighters'. | review: refit: pronoun for repeated 'variable fighters'"
+   "notes": "Kahen kitai (variable machines) rendered as 'variable fighters'. | review: refit: pronoun for repeated 'variable fighters' | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_110:strMission",
@@ -8788,9 +8788,9 @@
     "field": "strMission"
    },
    "row": 568,
-   "en": "Make it out of Macross Heaven alive.",
+   "en": "Return alive from Macross Heaven.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_140:strStory",
@@ -8804,9 +8804,9 @@
     "field": "strStory"
    },
    "row": 569,
-   "en": "The Macross that ended the interstellar war passed its name on to colony ships.\\nMake it out alive from Macross Heaven, packed with ships bearing that name.",
+   "en": "The Macross that ended the interstellar war passed its name on to colony ships.\\nReturn alive from Macross Heaven, crowded with ships bearing that name.",
    "flags": [],
-   "notes": "review: refit: restructured; dropped 'that travel the galaxy'"
+   "notes": "review: refit: restructured; dropped 'that travel the galaxy' | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_150:strMission",
@@ -8820,9 +8820,9 @@
     "field": "strMission"
    },
    "row": 570,
-   "en": "Wipe out the swarming hordes of small fry.",
+   "en": "Annihilate the endless swarms of small fry.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_150:strStory",
@@ -8852,9 +8852,9 @@
     "field": "strMission"
    },
    "row": 572,
-   "en": "Wipe out the swarming hordes of small fry.",
+   "en": "Annihilate the endless swarms of small fry.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 570)"
   },
   {
    "id": "mission_ext:ME_151:strStory",
@@ -9002,9 +9002,9 @@
     "field": "strStory"
    },
    "row": 581,
-   "en": "Wipe out the Regults rampaging in the city now, but we sense a \"giant\" power\\nbehind them, so never drop your guard. Annihilate those with \"giant\" power.",
+   "en": "Eliminate the Regults rampaging in the city now, but a \"giant\" power looms\\nbehind them. Do not let your guard down. Annihilate those with \"giant\" power.",
    "flags": [],
-   "notes": "review: refit: tightened"
+   "notes": "review: refit: tightened | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_200:strMission",
@@ -9034,9 +9034,9 @@
     "field": "strStory"
    },
    "row": 583,
-   "en": "A mock battle now begins vs. the special forces unit codenamed \"Moon Island\".\\nThey're all problem children, but reportedly skilled. Defeat Moon Island.",
+   "en": "Commencing a mock battle vs. the special forces unit codenamed \"Moon Island\".\\nThough made up of misfits, the unit is reportedly skilled. Defeat Moon Island.",
    "flags": [],
-   "notes": "Codename in quotes kept as 'Moon Island' (glossary alias); unit name 'Moon Island Platoon' elsewhere. | review: refit: tightened; 'Moon Island Platoon' -> 'Moon Island' as in source"
+   "notes": "Codename in quotes kept as 'Moon Island' (glossary alias); unit name 'Moon Island Platoon' elsewhere. | review: refit: tightened; 'Moon Island Platoon' -> 'Moon Island' as in source | review: briefing register pass"
   },
   {
    "id": "mission_ext:MC_010:strMission",

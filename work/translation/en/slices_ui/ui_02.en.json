@@ -757,21 +757,21 @@
   },
   {
    "id": "u0444",
-   "en": "Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "en": "Micro-Missiles (Multi)\nMissiles that can lock onto several enemies at once",
    "flags": [],
-   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple). | review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0445",
-   "en": "Micro Missiles (Blast)\nMissiles that cause a huge blast on impact",
+   "en": "Micro-Missiles (Blast)\nMissiles that cause a huge blast on impact",
    "flags": [],
-   "notes": ""
+   "notes": "review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0446",
-   "en": "Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "en": "Micro-Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": ""
+   "notes": "review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0447",
@@ -799,9 +799,9 @@
   },
   {
    "id": "u0451",
-   "en": "Micro Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "en": "Micro-Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
    "flags": [],
-   "notes": ""
+   "notes": "review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0452",
@@ -811,15 +811,15 @@
   },
   {
    "id": "u0453",
-   "en": "Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "en": "Micro-Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": ""
+   "notes": "review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0454",
-   "en": "Micro Missiles (Cluster)\nMissiles that burst and split into several after launch",
+   "en": "Micro-Missiles (Cluster)\nMissiles that burst and split into several after launch",
    "flags": [],
-   "notes": ""
+   "notes": "review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0455",
@@ -847,9 +847,9 @@
   },
   {
    "id": "u0459",
-   "en": "Micro Missiles (Laser/Blast)\nMissiles that fly straight at the enemy and cause a blast on impact",
+   "en": "Micro-Missiles (Laser/Blast)\nMissiles that fly straight at the enemy and cause a blast on impact",
    "flags": [],
-   "notes": ""
+   "notes": "review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0460",
@@ -883,21 +883,21 @@
   },
   {
    "id": "u0465",
-   "en": "Ultra-High-Mobility Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "en": "Ultra-High-Mobility Micro-Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles)."
+   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles). | review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0466",
-   "en": "Ultra-High-Mobility Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "en": "Ultra-High-Mobility Micro-Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles)."
+   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles). | review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0467",
-   "en": "Ultra-High-Mobility Micro Missiles (Blast)\nMissiles with tremendous destructive power",
+   "en": "Ultra-High-Mobility Micro-Missiles (Blast)\nMissiles with tremendous destructive power",
    "flags": [],
-   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles)."
+   "notes": "review: The Japanese term rendered High-Mobility in 5 other rows (and u0814); High-Maneuver is the rendering of the separate katakana term (High-Maneuver Missiles). | review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0468",
@@ -943,9 +943,9 @@
   },
   {
    "id": "u0475",
-   "en": "Large Hand Grenade + Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a huge blast on impact",
+   "en": "Large Hand Grenade + Micro-Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a huge blast on impact",
    "flags": [],
-   "notes": ""
+   "notes": "review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0476",
@@ -1141,27 +1141,27 @@
   },
   {
    "id": "u0508",
-   "en": "MDE Warhead Micro Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "en": "MDE Warhead Micro-Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
    "flags": [],
-   "notes": ""
+   "notes": "review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0509",
-   "en": "MDE Warhead Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "en": "MDE Warhead Micro-Missiles (Multi)\nMissiles that can lock onto several enemies at once",
    "flags": [],
-   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple)."
+   "notes": "review: Same description line as 6 other weapon rows; unified to the majority wording (several vs multiple). | review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0510",
-   "en": "MDE Warhead Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "en": "MDE Warhead Micro-Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": ""
+   "notes": "review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0511",
-   "en": "MDE Warhead Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "en": "MDE Warhead Micro-Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
    "flags": [],
-   "notes": ""
+   "notes": "review: user: Micro-Missiles (hyphenated)"
   },
   {
    "id": "u0512",

@@ -600,6 +600,19 @@
    "ja": "娘ｐｔ",
    "en": "Nyan-Nyan Pts",
    "notes": "Set in the UI translation (2026-10-15)."
+  },
+  {
+   "ja": "体力",
+   "en": "Endurance",
+   "aliases": [
+    "END"
+   ],
+   "notes": "Pilot stat. Project decision 2026-10-21 (user): Endurance, not Stamina; abbreviate END."
+  },
+  {
+   "ja": "射撃防御",
+   "en": "Ranged Def.",
+   "notes": "Unit stat, pairs with Melee Def. (格闘防御). Project decision 2026-10-21 (user): not Shooting Def."
   }
  ],
  "skills": {
@@ -631,8 +644,9 @@
    },
    {
     "ja": "ミサイル見切り",
-    "en": "Missile Read",
-    "status": "provisional"
+    "en": "Missile Reading",
+    "status": "confirmed",
+    "notes": "Skill. Project decision 2026-10-21 (user): Missile Reading, not Missile Read."
    },
    {
     "ja": "気力充実",
@@ -666,6 +680,11 @@
     "ja": "シャロンの誘惑",
     "en": "Sharon's Temptation",
     "status": "provisional"
+   },
+   {
+    "ja": "激励",
+    "en": "Rally",
+    "notes": "Command skill. Project decision 2026-10-21 (user): Rally, not Encouragement."
    }
   ]
  },

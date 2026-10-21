@@ -1716,9 +1716,9 @@
   },
   {
    "id": "u2450",
-   "en": "Shooting Def.",
+   "en": "Ranged Def.",
    "flags": [],
-   "notes": ""
+   "notes": "review: user request: unit stat named Ranged Def. (pairs with Melee Def.)"
   },
   {
    "id": "u2451",

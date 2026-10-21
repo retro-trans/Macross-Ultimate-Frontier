@@ -11,9 +11,9 @@
   },
   {
    "id": "mission_ext:M7_315:strMission",
-   "en": "Wipe out the unknowns that just appeared.",
+   "en": "Annihilate the unidentified craft\\nthat have suddenly appeared.",
    "flags": [],
-   "notes": "review: same source as row 402; one rendering | review: refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source"
+   "notes": "review: same source as row 402; one rendering | review: refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source | review: briefing register pass (same text as row 400)"
   },
   {
    "id": "mission_ext:M7_315:strStory",
@@ -29,9 +29,9 @@
   },
   {
    "id": "mission_ext:M7_320:strStory",
-   "en": "Danger always lurks on a journey through vast space. To prepare for the worst,\\nbeat Diamond Force member Lt. Gamlin Kizaki in a training mock battle.",
+   "en": "Danger always lurks on a journey through vast space. To prepare for the worst,\\ndefeat Diamond Force member Lt. Gamlin Kizaki in a training mock battle.",
    "flags": [],
-   "notes": "review: refit: 'the vastness of space' -> 'vast space'; 'emergencies' -> 'the worst'"
+   "notes": "review: refit: 'the vastness of space' -> 'vast space'; 'emergencies' -> 'the worst' | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_330:strMission",
@@ -85,9 +85,9 @@
   },
   {
    "id": "mission_ext:M7_370:strMission",
-   "en": "Annihilate the Varauta Army that's blocking\\nthe escape from the blazing star.",
+   "en": "Annihilate the Varauta Army that is\\nblocking the escape from the blazing star.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_370:strStory",
@@ -97,9 +97,9 @@
   },
   {
    "id": "mission_ext:M7_375:strMission",
-   "en": "Annihilate the Varauta Army that's blocking\\nthe escape from the blazing star.",
+   "en": "Annihilate the Varauta Army that is\\nblocking the escape from the blazing star.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 414)"
   },
   {
    "id": "mission_ext:M7_375:strStory",
@@ -139,9 +139,9 @@
   },
   {
    "id": "mission_ext:M7_390:strStory",
-   "en": "We've spotted a likely Protodeviln, approx. 300 m long, unlike any foe so far.\\nMake survival your top priority, and destroy the Protodeviln if possible.",
+   "en": "Detected: a likely Protodeviln, approx. 300 m long, unlike any enemy so far.\\nMake survival your top priority, and destroy the Protodeviln if possible.",
    "flags": [],
-   "notes": "review: refit: 'enemy contact believed to be' -> 'likely'; 'clearly unlike' -> 'unlike'"
+   "notes": "review: refit: 'enemy contact believed to be' -> 'likely'; 'clearly unlike' -> 'unlike' | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_400:strMission",
@@ -163,9 +163,9 @@
   },
   {
    "id": "mission_ext:M7_410:strStory",
-   "en": "The Protodeviln have gotten serious and are attacking the Macross 7 fleet.\\nWe can't let the Protodeviln beat us here. Annihilate the Varauta Army.",
+   "en": "The Protodeviln have begun a full-scale attack on the Macross 7 fleet.\\nWe cannot fall to the Protodeviln here. Annihilate the Varauta Army.",
    "flags": [],
-   "notes": "review: refit: tighter wording"
+   "notes": "review: refit: tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_420:strMission",
@@ -175,11 +175,11 @@
   },
   {
    "id": "mission_ext:M7_420:strStory",
-   "en": "Ahead of the escalating Protodeviln war, a mock battle will now be held.\\nBeat the married duo: a genius pilot of old in the latest model, and an ex-ace.",
+   "en": "Commencing a mock battle to prepare for the escalating Protodeviln war.\\nDefeat the married duo: a genius pilot of old in the latest VF, and an ex-ace.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Duo is Max and Milia (not named in JP). JP 'riding the newest machine' may modify only the genius pilot; rendered as applying to both. | review: source has only the genius pilot in the latest machine; 'both' was added | review: refit: 'husband-and-wife' -> 'married'; 'of years past' -> 'of old'; 'machine' -> 'model'; 'former ace' -> 'ex-ace'"
+   "notes": "Duo is Max and Milia (not named in JP). JP 'riding the newest machine' may modify only the genius pilot; rendered as applying to both. | review: source has only the genius pilot in the latest machine; 'both' was added | review: refit: 'husband-and-wife' -> 'married'; 'of years past' -> 'of old'; 'machine' -> 'model'; 'former ace' -> 'ex-ace' | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_430:strMission",
@@ -189,9 +189,9 @@
   },
   {
    "id": "mission_ext:M7_430:strStory",
-   "en": "We now launch Operation Stargazer, a surprise assault by a small elite force.\\nWipe out the Varauta Army at all costs to fire reaction weapons into the cave.",
+   "en": "Commencing Operation Stargazer, a surprise assault by a small elite force.\\nEliminate the Varauta Army at all costs to fire reaction weapons into the cave.",
    "flags": [],
-   "notes": "review: refit: dropped quote marks; 'target cave' -> 'the cave'; 'Annihilate' -> 'Wipe out'"
+   "notes": "review: refit: dropped quote marks; 'target cave' -> 'the cave'; 'Annihilate' -> 'Wipe out' | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_440:strMission",
@@ -203,9 +203,9 @@
   },
   {
    "id": "mission_ext:M7_440:strStory",
-   "en": "Capt. Gamlin, possessed by the Protodeviln, is on a rampage, wrecking bases.\\nWe can't allow more damage. You're authorized to shoot down Capt. Gamlin.",
+   "en": "Capt. Gamlin, possessed by the Protodeviln, is on a rampage, wrecking bases.\\nFurther damage is unacceptable. You are authorized to shoot down Capt. Gamlin.",
    "flags": [],
-   "notes": "review: refit: 'military facilities' -> 'bases'; Captain -> Capt."
+   "notes": "review: refit: 'military facilities' -> 'bases'; Captain -> Capt. | review: briefing register pass"
   },
   {
    "id": "mission_ext:M7_450:strMission",
@@ -263,9 +263,9 @@
   },
   {
    "id": "mission_ext:M7_460:strStory",
-   "en": "A vanguard ship has been wiped out by a large rogue Meltrandi fleet.\\nThey mustn't get any closer to the Macross 7 fleet. Annihilate the rogue fleet.",
+   "en": "A vanguard ship has been destroyed by a large rogue Meltrandi fleet.\\nThey must come no closer to the Macross 7 fleet. Annihilate the rogue fleet.",
    "flags": [],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. Same rogue-fleet term as row 442. | review: term added to glossary | review: refit: 'We can't let them' -> 'They mustn't'"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. Same rogue-fleet term as row 442. | review: term added to glossary | review: refit: 'We can't let them' -> 'They mustn't' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MD_310:strMission",
@@ -317,9 +317,9 @@
   },
   {
    "id": "mission_ext:MG_010:strMission",
-   "en": "Arrest the poachers trying\\nto poach the Galaxy Whales.",
+   "en": "Arrest the poachers\\ntargeting the Galaxy Whales.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MG_010:strStory",
@@ -341,15 +341,15 @@
   },
   {
    "id": "mission_ext:MG_030:strMission",
-   "en": "Arrest the poachers trying\\nto poach the Galaxy Whales.",
+   "en": "Arrest the poachers\\ntargeting the Galaxy Whales.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 452)"
   },
   {
    "id": "mission_ext:MG_030:strStory",
-   "en": "The Galaxy Whales are nearing Zola again: prime hunting season for poachers.\\nWe can't ignore their poaching any longer. Take the poachers into custody.",
+   "en": "The Galaxy Whales are nearing Zola again: prime hunting season for poachers.\\nTheir poaching can no longer be overlooked. Take the poachers into custody.",
    "flags": [],
-   "notes": "review: refit: 'turn a blind eye to' -> 'ignore'"
+   "notes": "review: refit: 'turn a blind eye to' -> 'ignore' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MG_040:strMission",
@@ -395,9 +395,9 @@
   },
   {
    "id": "mission_ext:MF_310:strStory",
-   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "en": "An unknown enemy has downed a New U.N. aircraft. It appears to emit heavy EM\\njamming; details are unknown. Proceed to the scene at once and annihilate it.",
    "flags": [],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_311:strMission",
@@ -407,9 +407,9 @@
   },
   {
    "id": "mission_ext:MF_311:strStory",
-   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "en": "An unknown enemy has downed a New U.N. aircraft. It appears to emit heavy EM\\njamming; details are unknown. Proceed to the scene at once and annihilate it.",
    "flags": [],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP) | review: briefing register pass (same text as row 465)"
   },
   {
    "id": "mission_ext:MF_315:strMission",
@@ -419,9 +419,9 @@
   },
   {
    "id": "mission_ext:MF_315:strStory",
-   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "en": "An unknown enemy has downed a New U.N. aircraft. It appears to emit heavy EM\\njamming; details are unknown. Proceed to the scene at once and annihilate it.",
    "flags": [],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP) | review: briefing register pass (same text as row 465)"
   },
   {
    "id": "mission_ext:MF_316:strMission",
@@ -431,9 +431,9 @@
   },
   {
    "id": "mission_ext:MF_316:strStory",
-   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to\\nhide the details. Head to the scene at once and annihilate the enemy.",
+   "en": "An unknown enemy has downed a New U.N. aircraft. It appears to emit heavy EM\\njamming; details are unknown. Proceed to the scene at once and annihilate it.",
    "flags": [],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP)"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. | review: refit: 'New U.N. Forces' -> 'New U.N.'; restructured; break moved mid-sentence (as JP) | review: briefing register pass (same text as row 465)"
   },
   {
    "id": "mission_ext:MF_320:strMission",
@@ -443,9 +443,9 @@
   },
   {
    "id": "mission_ext:MF_320:strStory",
-   "en": "A mock battle now begins as our regular joint drill with the New U.N. Forces.\\nShow them what S.M.S. can really do, and win the mock battle.",
+   "en": "Commencing a mock battle as our regular joint drill with the New U.N. Forces.\\nShow the full strength of S.M.S. and win the mock battle.",
    "flags": [],
-   "notes": "review: refit: dropped repeat of 'against the New U.N. Forces'"
+   "notes": "review: refit: dropped repeat of 'against the New U.N. Forces' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_330:strMission",
@@ -457,11 +457,11 @@
   },
   {
    "id": "mission_ext:MF_330:strStory",
-   "en": "The Victors that struck Macross Frontier never left; they seem to be hiding\\nin Island 3's foundation block. Annihilate them before they near Island 1.",
+   "en": "The Victors that struck Macross Frontier never withdrew and appear to be hiding\\nin Island 3's foundation block. Annihilate them before they near Island 1.",
    "flags": [
     "uncertain"
    ],
-   "notes": "JP break falls mid-sentence; moved to the sentence boundary. Victor number as row 474. | review: refit: 'did not retreat' -> 'never left'; break moved mid-sentence (as JP)"
+   "notes": "JP break falls mid-sentence; moved to the sentence boundary. Victor number as row 474. | review: refit: 'did not retreat' -> 'never left'; break moved mid-sentence (as JP) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_340:strMission",
@@ -471,9 +471,9 @@
   },
   {
    "id": "mission_ext:MF_340:strStory",
-   "en": "The final test for S.M.S. applicants begins now. To help out, join the\\napplicants in a mock battle against Pixie Team, led by Capt. Klan Klang.",
+   "en": "Commencing the final test for S.M.S. applicants. To assist, join the\\napplicants in a mock battle against Pixie Team, led by Capt. Klan Klang.",
    "flags": [],
-   "notes": "review: refit: 'To help with the test' -> 'To help out'; Captain -> Capt."
+   "notes": "review: refit: 'To help with the test' -> 'To help out'; Captain -> Capt. | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_350:strMission",
@@ -483,9 +483,9 @@
   },
   {
    "id": "mission_ext:MF_350:strStory",
-   "en": "The New U.N. Forces have asked us to scout a thieves' hideout.\\nIf the thieves attack once you're there, you are authorized to engage them.",
+   "en": "The New U.N. Forces have requested reconnaissance of a thieves' hideout.\\nIf the thieves attack during the recon, you are authorized to engage them.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_360:strMission",

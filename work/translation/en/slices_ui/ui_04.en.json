@@ -998,7 +998,7 @@
   },
   {
    "id": "u0903",
-   "en": "Defense is doubled, and you no longer\nstagger when hit.",
+   "en": "Defense is doubled, and you no longer stagger\nwhen hit.",
    "flags": [],
    "notes": ""
   },
@@ -1010,7 +1010,7 @@
   },
   {
    "id": "u0905",
-   "en": "Emits colored smoke in Fighter mode.\n○ button: On/Off  □ button: Change color",
+   "en": "Emits colored smoke in Fighter mode.\n○ Button: On/Off  □ Button: Change Color",
    "flags": [],
    "notes": ""
   },
@@ -1022,7 +1022,7 @@
   },
   {
    "id": "u0907",
-   "en": "Guarding an enemy melee attack\nalways parries it.",
+   "en": "Always parry when guarding an enemy's\nmelee attack.",
    "flags": [],
    "notes": ""
   },
@@ -1034,7 +1034,7 @@
   },
   {
    "id": "u0909",
-   "en": "Reflects beam-type shots and\nnegates solid-ammo attacks.",
+   "en": "Reflects beam-type shots and negates\nsolid-ammo attacks.",
    "flags": [],
    "notes": ""
   },
@@ -1064,13 +1064,13 @@
   },
   {
    "id": "u0914",
-   "en": "Missile Read",
+   "en": "Missile Reading",
    "flags": [],
    "notes": ""
   },
   {
    "id": "u0915",
-   "en": "Slows down enemy missiles.",
+   "en": "Slow down the speed of enemy missiles.",
    "flags": [],
    "notes": ""
   },
@@ -1084,7 +1084,7 @@
   },
   {
    "id": "u0917",
-   "en": "You can no longer guard, but\nmelee attack power triples.",
+   "en": "You can no longer guard, but melee attack\npower triples.",
    "flags": [],
    "notes": ""
   },
@@ -1102,19 +1102,19 @@
   },
   {
    "id": "u0920",
-   "en": "Encouragement",
+   "en": "Rally",
    "flags": [],
    "notes": ""
   },
   {
    "id": "u0921",
-   "en": "Reloads all weapons, shortens attack\nopenings, and makes you invincible for a while.",
+   "en": "Reloads all weapons, shortens attack openings,\nand makes you invincible for a while.",
    "flags": [],
    "notes": ""
   },
   {
    "id": "u0922",
-   "en": "Attack power, speed and boost capacity\nincrease 1.5x.",
+   "en": "Increases attack power, speed, and boost\ncapacity by 1.5x.",
    "flags": [],
    "notes": ""
   },
@@ -1126,7 +1126,7 @@
   },
   {
    "id": "u0924",
-   "en": "All weapons carry 1.5x ammo.",
+   "en": "Increase all weapons' ammo capacity by 1.5x.",
    "flags": [],
    "notes": ""
   },
@@ -1138,7 +1138,7 @@
   },
   {
    "id": "u0926",
-   "en": "Restores HP to you and allies around\nyou, and revives any that were shot down.",
+   "en": "Restore HP to self and nearby allies, and revive\nany shot-down allies.",
    "flags": [],
    "notes": ""
   },
@@ -1150,7 +1150,7 @@
   },
   {
    "id": "u0928",
-   "en": "Attack power of you and your allies\nrises 1.5x, and HP gradually recovers.",
+   "en": "Increase attack power of self and allies by 1.5x\nand gradually restore HP.",
    "flags": [],
    "notes": ""
   },
@@ -1180,8 +1180,10 @@
   },
   {
    "id": "u0933",
-   "en": "You and nearby allies\ngradually recover HP.",
-   "flags": [],
+   "en": "You and nearby allies gradually recover HP.",
+   "flags": [
+    "reflow"
+   ],
    "notes": ""
   },
   {
@@ -1194,13 +1196,13 @@
   },
   {
    "id": "u0935",
-   "en": "Attack power of you and your allies triples,\nbut defense is halved.",
+   "en": "Attack power of you and your allies triples, but\ndefense is halved.",
    "flags": [],
    "notes": ""
   },
   {
    "id": "u0936",
-   "en": "All stats of Zentradi-made weapons and\nZentradi-piloted units drop; other units grow stronger.",
+   "en": "Zentradi weapons and Zentradi-piloted units\nweaken in all stats; others grow stronger.",
    "flags": [],
    "notes": "Source says Zentran-type weapons; rendered 'Zentradi-made'."
   },
@@ -1212,7 +1214,7 @@
   },
   {
    "id": "u0938",
-   "en": "Sivil appears in front of you and\nputs up a barrier for a set time.",
+   "en": "Sivil appears in front of you and puts up a\nbarrier for a set time.",
    "flags": [],
    "notes": ""
   },
@@ -1224,7 +1226,7 @@
   },
   {
    "id": "u0940",
-   "en": "Reverses the up/down and left/right controls\nof every enemy unit.",
+   "en": "Reverses the up/down and left/right controls of\nevery enemy unit.",
    "flags": [],
    "notes": ""
   },
@@ -1250,7 +1252,7 @@
   },
   {
    "id": "u0944",
-   "en": "In Fighter mode, roll speed rises and\nyou can roll up to 4 times in a row.",
+   "en": "In Fighter mode, roll speed rises and you can\nroll up to 4 times in a row.",
    "flags": [],
    "notes": ""
   },
@@ -1262,7 +1264,7 @@
   },
   {
    "id": "u0946",
-   "en": "Lock-on range doubles, and\nmulti-lock speed increases 1.5x.",
+   "en": "Lock-on range doubles, and multi-lock speed\nincreases 1.5x.",
    "flags": [],
    "notes": ""
   },
@@ -1274,7 +1276,7 @@
   },
   {
    "id": "u0948",
-   "en": "When you rescue your partner,\ntheir HP is restored to 50%.",
+   "en": "When you rescue your partner, their HP is\nrestored to 50%.",
    "flags": [
     "uncertain"
    ],
@@ -1288,7 +1290,7 @@
   },
   {
    "id": "u0950",
-   "en": "Anti-Missile Action can be used\n1.5x as many times.",
+   "en": "Anti-Missile Action can be used 1.5x as\nmany times.",
    "flags": [],
    "notes": ""
   },

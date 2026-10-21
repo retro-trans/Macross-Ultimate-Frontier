@@ -91,6 +91,13 @@ searches the char's group linearly; a char that is not found becomes glyph 6
    table) for its small HUD fonts. The patch turns it on for font14 with a new
    table: left = 0, right = 14 − advance. At size s the advance is
    s − round(right × s / 14), so scaled text keeps its proportions.
+   From 0.7.7 text is placed at exact sub-pixel positions. The printer takes the
+   true advance (integer table + byte correction), moves the whole-pixel pen by
+   the rounded value and carries the remainder; the remainder is written to the
+   font descriptor (+0x28, unused) and the sprite emitter shifts the glyph's
+   texture u by that fraction of the cell. The string-width (centring) and
+   truncation routines and the glyph-array path still use the integer table, so
+   centred text can sit about a pixel off.
 3. **Glyph-array text** (unit names on lock-on labels, via 0x158ECC and
    0x1586B8) has no proportional code. A 21-instruction helper at 0x1740F8
    computes the advance from the same table: glyph − 1210 = table index.
@@ -117,6 +124,11 @@ The EBOOT is a relocatable PRX, so the loader would overwrite such a word.
 | 0x1594FC | line truncation (0x15937C): same |
 | 0x158818, 0x158840, 0x15885C | glyph-array drawer: full-width glyph, font pointer saved at sp+0x2C |
 | 0x158868–0x158888 | glyph-array drawer: advance from the helper |
+| 0x1598A8–0x1598B4, 0x159A74–0x159A80 | printer, both advance blocks (0.7.7): `bal` to 0x157560, which takes R from the byte table at 0x158D54 for the 14 px font (exact advance), rounds L + R − carry once and keeps the remainder |
+| 0x1595BC | printer prologue (0.7.7): carry (sp+0x448) and sub-pixel offset (desc+0x28) = 0, via 0x1574FC |
+| 0x157FB4–0x157FB8 | emitter 0x157F10 (0.7.7): `bal` to 0x15750C, which moves texture u by round(offset × cellW / size) texels (u ≥ 0) |
+| 0x158D54 | 96 signed bytes: (integer − true advance) × 64 per ASCII glyph, in the unused converter 0x158D0C |
+| 0x15E6D4, 0x15E708/7CC/848/8B8/924/998 | shadowed-text emitter 0x15E644 (help bars, record screens; 0.7.7): after the lookup, k = round(offset × cellW / width) is kept at its sp+0x18; each of the six passes' `seh $t1, $t1` (texture u) calls a stub at 0x157364 that subtracts k (code at 0x157328, in the unused routine 0x157304) |
 | 0x1589A4–0x1589C4, 0x158A48–0x158A70 | glyph-array centring pre-passes: width from the helper |
 
 Code caves: 0x2A4CCC (1,264 bytes, an SDK matrix routine) and 0x1740F8 (the
@@ -145,12 +157,16 @@ Font License 1.1):
 
 - Size: capital H is 40 px at 4x, i.e. 10 px. Caps sit on rows 1–10, matching
   the game's full-width Latin, and descenders reach row 13.
-- For each glyph, four horizontal sub-pixel phases are tried. Each is
-  box-filtered 4×4 down to 14×14 and quantised to the game's 4 alpha levels
-  (with a ×1.15 boost so 1 px strokes stay solid). The sharpest result is
-  kept: the most mass on fully-on pixels.
-- Advance = the font's own advance width at 4x / 4, measured from the cell's
-  left edge, which keeps the designed side bearings. Space = 4 px. The 0x7F
+- Placement (from 0.7.7): advance = the font's own advance rounded to whole
+  pixels. Every glyph's pen sits 1 px into its cell (room for the overhang of
+  `j`), plus half its rounding error, so the error is shared by both sides of
+  the letter. Before 0.7.7 each glyph took the sub-pixel phase that looked
+  sharpest and a left margin that depended on its own ink, which moved letters
+  by up to 1 px against each other ("Shi n", loose "u n o").
+- At 14 px the glyph is box-filtered 4×4 and quantised to the game's 4 alpha
+  levels (with a ×1.15 boost so 1 px strokes stay solid); a quarter pixel either
+  way is allowed when it gives sharper stems. The 4x glyph uses the exact
+  position. Space = 4 px. The 0x7F
   slot holds an ellipsis (…), 14 px wide.
 - Widths: lower case 4–13 px (`i` and `l` 4, most 8–9, `m` 13), capitals
   5–13 px (`I` 5, most 8–10, `W` 13), digits 8 px. The old fixed pitch was
@@ -209,7 +225,7 @@ The game draws each glyph as a sprite. The sprite's screen size comes from the t
 
 **Font.** The English glyphs are now drawn from **GenEi LateGo v2** (源暎ラテゴ, okoneya.jp, SIL Open Font License 1.1; Latin based on Linux Biolinum). It is kept in `work/fonts/GenEiLateGo_v2.ttc`, with the licence text in `work/fonts/GenEiLatin_LICENSE.txt`. `tools/vwf_build.py --ttf <file> [--ttf-index N]` picks another font, and `--no-hd` builds without the 4x page. GenEi is narrower than Noto Sans JP, so every measured box still fits (`tools/check_widths.py`).
 
-**4x page.** It is appended to `gpsp3_font14.fnt` at offset 0x53740, which grows the file from 341,824 to 456,512 bytes. It is 448 px wide, 512 rows, 4 bpp, with 8 cells of 56 px per row. Like the main atlas, it holds two glyph layers: local glyph L sits in cell L >> 1, layer L & 1. Each 4x glyph uses the same pen position and cell origin as its 14 px version. Half of each glyph's advance-rounding error is moved to its left side, so the spacing stays even at 4x.
+**4x page.** It is appended to `gpsp3_font14.fnt` at offset 0x53740, which grows the file from 341,824 to 456,512 bytes. It is 448 px wide, 512 rows, 4 bpp, with 8 cells of 56 px per row. Like the main atlas, it holds two glyph layers: local glyph L sits in cell L >> 1, layer L & 1. Each 4x glyph uses the same pen position and cell origin as its 14 px version (see the placement rule above), at the exact sub-pixel position.
 
 **Patch.** Code in `vwf_build.py`:
 

@@ -4,44 +4,32 @@
   "note": "Names the game text uses, matched against the glossary. 'gap' = missing from the glossary; 'partial' = check by hand. The organization list is mined from prose with a pattern, so it holds false hits (generic words); review before adding anything.",
   "summary": {
    "character": {
-    "gap": 52,
-    "partial": 18,
+    "gap": 25,
+    "partial": 19,
     "variant": 26,
-    "exact": 72
+    "exact": 98
    },
    "mecha": {
-    "gap": 22,
-    "partial": 12,
+    "gap": 21,
+    "partial": 11,
     "variant": 125,
-    "exact": 105
+    "exact": 107
    },
    "organization": {
-    "gap": 16,
+    "gap": 11,
     "partial": 8,
     "variant": 4,
-    "exact": 11
+    "exact": 16
    },
    "object": {
-    "gap": 19,
+    "gap": 18,
     "partial": 1,
     "variant": 0,
-    "exact": 0
+    "exact": 1
    }
   }
  },
  "character": [
-  {
-   "game": "カナリア・ベルシュタイン",
-   "match": "gap",
-   "count": 8,
-   "seen_in": [
-    "me_160:33:ENEB61",
-    "mf_191:4:FRICNR",
-    "mf_200:10:FRIDMS",
-    "mf_205:10:FRIDMS",
-    "mf_370:8:FRI000"
-   ]
-  },
   {
    "game": "ミリア639",
    "match": "gap",
@@ -52,39 +40,6 @@
     "mi_050:22:DEMOMIL",
     "mi_051:6:ENEMIL",
     "mi_055:17:ENEMIL"
-   ]
-  },
-  {
-   "game": "ギリアム・アングレート",
-   "match": "gap",
-   "count": 4,
-   "seen_in": [
-    "me_050:5:FRIGLI",
-    "me_050:34:ENEGLI",
-    "me_060:4:FRIGLI",
-    "me_060:26:DEMOGLI"
-   ]
-  },
-  {
-   "game": "カナリア",
-   "match": "gap",
-   "count": 4,
-   "seen_in": [
-    "mf_140:9:FRIRNK",
-    "mf_140:10:DEMORNK",
-    "mf_160:3:FRIRNK",
-    "mf_160:30:DEMORNK"
-   ]
-  },
-  {
-   "game": "カリバ",
-   "match": "gap",
-   "count": 4,
-   "seen_in": [
-    "mg_030:44:MSH000",
-    "mg_040:41:ENE050",
-    "mg_050:41:MSH000",
-    "mg_055:38:MSH000"
    ]
   },
   {
@@ -110,46 +65,6 @@
    ]
   },
   {
-   "game": "イリーナ 早川",
-   "match": "gap",
-   "count": 3,
-   "seen_in": [
-    "m7_420:3:ENE001",
-    "md_330:4:ENE000",
-    "me_130:34:ENEAEG"
-   ]
-  },
-  {
-   "game": "オルテック",
-   "match": "gap",
-   "count": 3,
-   "seen_in": [
-    "m7_420:15:ENEEF2",
-    "md_320:17:ENEEF2",
-    "me_130:26:ENEF90"
-   ]
-  },
-  {
-   "game": "オイグル",
-   "match": "gap",
-   "count": 3,
-   "seen_in": [
-    "me_160:11:ENETNJ",
-    "ms_230:28:ENERGT",
-    "ms_240:19:ENEOIG"
-   ]
-  },
-  {
-   "game": "テムジン",
-   "match": "gap",
-   "count": 3,
-   "seen_in": [
-    "mf_390:81:ENETEM",
-    "mf_395:80:ENETEM",
-    "mt_041:8:ENE000"
-   ]
-  },
-  {
    "game": "カムジン03350",
    "match": "gap",
    "count": 3,
@@ -166,87 +81,6 @@
    "seen_in": [
     "nn_ext:NNSHOP_ITEM_0018:col1",
     "nn_ext:NNSHOP_ITEM_6020:col1"
-   ]
-  },
-  {
-   "game": "スコット",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "m7_350:3:FRI000",
-    "me_130:18:ENEDMS"
-   ]
-  },
-  {
-   "game": "神楢",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "m7_350:3:FRI000",
-    "me_130:18:ENEDMS"
-   ]
-  },
-  {
-   "game": "ネピアス",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "m7_350:3:FRI000",
-    "me_130:18:ENEDMS"
-   ]
-  },
-  {
-   "game": "マシューズ",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "m7_420:16:ENEEF3",
-    "md_320:18:ENEEF3"
-   ]
-  },
-  {
-   "game": "ディック",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "m7_420:18:ENEDF2",
-    "md_320:14:ENEDF2"
-   ]
-  },
-  {
-   "game": "モーリー",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "m7_420:19:ENEDF3",
-    "md_320:15:ENEDF3"
-   ]
-  },
-  {
-   "game": "クロレ",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "m7_460:48:ENECRL",
-    "me_130:37:ENEQDK"
-   ]
-  },
-  {
-   "game": "スージー・ニュートレット",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "me_050:4:FRISUZ",
-    "me_060:5:FRISUZ"
-   ]
-  },
-  {
-   "game": "マルヤマ",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "me_160:27:ENE17N",
-    "mf_185:39:ENEMRY"
    ]
   },
   {
@@ -329,59 +163,11 @@
    ]
   },
   {
-   "game": "トーマ・シュン",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "me_050:35:ENETOH"
-   ]
-  },
-  {
-   "game": "マンフレート・ブランド",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "me_050:36:ENEMAN"
-   ]
-  },
-  {
-   "game": "フィジカ・S・ファルクラム",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "me_130:24:ENED70"
-   ]
-  },
-  {
-   "game": "マシュー・ラングレー",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "me_130:36:ENEAPZ"
-   ]
-  },
-  {
-   "game": "マリア・ベラスケス・ホイリー",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "me_130:40:ENET1C"
-   ]
-  },
-  {
    "game": "パトロール隊隊長",
    "match": "gap",
    "count": 1,
    "seen_in": [
     "me_130:42:ENEＴ50"
-   ]
-  },
-  {
-   "game": "ガビグラ",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "me_130:52:ENEGLV"
    ]
   },
   {
@@ -398,14 +184,6 @@
    "count": 1,
    "seen_in": [
     "me_170:7:ENE002"
-   ]
-  },
-  {
-   "game": "西岡編集長",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "me_170:10:ENE005"
    ]
   },
   {
@@ -430,30 +208,6 @@
    "count": 1,
    "seen_in": [
     "me_180:29:ENECRN"
-   ]
-  },
-  {
-   "game": "浜村通信",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "me_180:42:ENEBDZ"
-   ]
-  },
-  {
-   "game": "ジュン",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "mf_185:40:ENEJYN"
-   ]
-  },
-  {
-   "game": "ヘンリー・ギリアム",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "mf_315:3:FRI001"
    ]
   },
   {
@@ -578,6 +332,19 @@
     "mi_020:7:DEMOHIK",
     "ms_230:3:BASE01",
     "ms_320:4:FRIHIK"
+   ]
+  },
+  {
+   "game": "カナリア",
+   "match": "partial",
+   "glossary_ja": "カナリア・ベルシュタイン",
+   "glossary_en": "Canaria Berstein",
+   "count": 4,
+   "seen_in": [
+    "mf_140:9:FRIRNK",
+    "mf_140:10:DEMORNK",
+    "mf_160:3:FRIRNK",
+    "mf_160:30:DEMORNK"
    ]
   },
   {
@@ -1417,7 +1184,7 @@
    "game": "ゲペルニッチ",
    "match": "exact",
    "glossary_ja": "ゲペルニッチ",
-   "glossary_en": "Geperuniti",
+   "glossary_en": "Gepelnitchi",
    "count": 9,
    "seen_in": [
     "nn_ext:NNSHOP_ITEM_0042:col1",
@@ -1453,6 +1220,20 @@
     "m7_420:14:ENEDOC",
     "m7_450:36:FRIDOC",
     "md_310:44:ENEDOC"
+   ]
+  },
+  {
+   "game": "カナリア・ベルシュタイン",
+   "match": "exact",
+   "glossary_ja": "カナリア・ベルシュタイン",
+   "glossary_en": "Canaria Berstein",
+   "count": 8,
+   "seen_in": [
+    "me_160:33:ENEB61",
+    "mf_191:4:FRICNR",
+    "mf_200:10:FRIDMS",
+    "mf_205:10:FRIDMS",
+    "mf_370:8:FRI000"
    ]
   },
   {
@@ -1580,6 +1361,19 @@
    ]
   },
   {
+   "game": "ギリアム・アングレート",
+   "match": "exact",
+   "glossary_ja": "ギリアム・アングレート",
+   "glossary_en": "Gilliam Angreat",
+   "count": 4,
+   "seen_in": [
+    "me_050:5:FRIGLI",
+    "me_050:34:ENEGLI",
+    "me_060:4:FRIGLI",
+    "me_060:26:DEMOGLI"
+   ]
+  },
+  {
    "game": "ライザ・ホイリー",
    "match": "exact",
    "glossary_ja": "ライザ・ホイリー",
@@ -1616,6 +1410,19 @@
     "mf_340:9:FRILAL",
     "mf_410:8:FRILAL",
     "my_320:6:ENELAL"
+   ]
+  },
+  {
+   "game": "カリバ",
+   "match": "exact",
+   "glossary_ja": "カリバ",
+   "glossary_en": "Kariba",
+   "count": 4,
+   "seen_in": [
+    "mg_030:44:MSH000",
+    "mg_040:41:ENE050",
+    "mg_050:41:MSH000",
+    "mg_055:38:MSH000"
    ]
   },
   {
@@ -1705,6 +1512,30 @@
    ]
   },
   {
+   "game": "イリーナ 早川",
+   "match": "exact",
+   "glossary_ja": "イリーナ 早川",
+   "glossary_en": "Irina Hayakawa",
+   "count": 3,
+   "seen_in": [
+    "m7_420:3:ENE001",
+    "md_330:4:ENE000",
+    "me_130:34:ENEAEG"
+   ]
+  },
+  {
+   "game": "オルテック",
+   "match": "exact",
+   "glossary_ja": "オルテック",
+   "glossary_en": "Ortek",
+   "count": 3,
+   "seen_in": [
+    "m7_420:15:ENEEF2",
+    "md_320:17:ENEEF2",
+    "me_130:26:ENEF90"
+   ]
+  },
+  {
    "game": "シルビー・ジーナ",
    "match": "exact",
    "glossary_ja": "シルビー・ジーナ",
@@ -1726,6 +1557,30 @@
     "me_050:3:FRIAGS",
     "me_060:3:FRIAGS",
     "me_130:48:ENEA19"
+   ]
+  },
+  {
+   "game": "オイグル",
+   "match": "exact",
+   "glossary_ja": "オイグル",
+   "glossary_en": "Oigul",
+   "count": 3,
+   "seen_in": [
+    "me_160:11:ENETNJ",
+    "ms_230:28:ENERGT",
+    "ms_240:19:ENEOIG"
+   ]
+  },
+  {
+   "game": "テムジン",
+   "match": "exact",
+   "glossary_ja": "テムジン",
+   "glossary_en": "Temjin",
+   "count": 3,
+   "seen_in": [
+    "mf_390:81:ENETEM",
+    "mf_395:80:ENETEM",
+    "mt_041:8:ENE000"
    ]
   },
   {
@@ -1762,6 +1617,83 @@
    ]
   },
   {
+   "game": "スコット",
+   "match": "exact",
+   "glossary_ja": "スコット",
+   "glossary_en": "Scott",
+   "count": 2,
+   "seen_in": [
+    "m7_350:3:FRI000",
+    "me_130:18:ENEDMS"
+   ]
+  },
+  {
+   "game": "神楢",
+   "match": "exact",
+   "glossary_ja": "神楢",
+   "glossary_en": "Kannara",
+   "count": 2,
+   "seen_in": [
+    "m7_350:3:FRI000",
+    "me_130:18:ENEDMS"
+   ]
+  },
+  {
+   "game": "ネピアス",
+   "match": "exact",
+   "glossary_ja": "ネピアス",
+   "glossary_en": "Nepias",
+   "count": 2,
+   "seen_in": [
+    "m7_350:3:FRI000",
+    "me_130:18:ENEDMS"
+   ]
+  },
+  {
+   "game": "マシューズ",
+   "match": "exact",
+   "glossary_ja": "マシューズ",
+   "glossary_en": "Matthews",
+   "count": 2,
+   "seen_in": [
+    "m7_420:16:ENEEF3",
+    "md_320:18:ENEEF3"
+   ]
+  },
+  {
+   "game": "ディック",
+   "match": "exact",
+   "glossary_ja": "ディック",
+   "glossary_en": "Dick",
+   "count": 2,
+   "seen_in": [
+    "m7_420:18:ENEDF2",
+    "md_320:14:ENEDF2"
+   ]
+  },
+  {
+   "game": "モーリー",
+   "match": "exact",
+   "glossary_ja": "モーリー",
+   "glossary_en": "Molly",
+   "count": 2,
+   "seen_in": [
+    "m7_420:19:ENEDF3",
+    "md_320:15:ENEDF3"
+   ]
+  },
+  {
+   "game": "クロレ",
+   "match": "exact",
+   "glossary_ja": "クロレ",
+   "glossary_en": "Chlore",
+   "count": 2,
+   "seen_in": [
+    "m7_460:48:ENECRL",
+    "me_130:37:ENEQDK"
+   ]
+  },
+  {
    "game": "フェフ",
    "match": "exact",
    "glossary_ja": "フェフ",
@@ -1781,6 +1713,17 @@
    "seen_in": [
     "me_040:18:ENEMAR",
     "me_130:47:ENES13"
+   ]
+  },
+  {
+   "game": "スージー・ニュートレット",
+   "match": "exact",
+   "glossary_ja": "スージー・ニュートレット",
+   "glossary_en": "Suzie Newtlet",
+   "count": 2,
+   "seen_in": [
+    "me_050:4:FRISUZ",
+    "me_060:5:FRISUZ"
    ]
   },
   {
@@ -1825,6 +1768,17 @@
    "seen_in": [
     "me_160:10:ENENJG",
     "ms_370:6:ENE001"
+   ]
+  },
+  {
+   "game": "マルヤマ",
+   "match": "exact",
+   "glossary_ja": "マルヤマ",
+   "glossary_en": "Maruyama",
+   "count": 2,
+   "seen_in": [
+    "me_160:27:ENE17N",
+    "mf_185:39:ENEMRY"
    ]
   },
   {
@@ -1878,6 +1832,67 @@
    ]
   },
   {
+   "game": "トーマ・シュン",
+   "match": "exact",
+   "glossary_ja": "トーマ・シュン",
+   "glossary_en": "Shun Toma",
+   "count": 1,
+   "seen_in": [
+    "me_050:35:ENETOH"
+   ]
+  },
+  {
+   "game": "マンフレート・ブランド",
+   "match": "exact",
+   "glossary_ja": "マンフレート・ブランド",
+   "glossary_en": "Manfred Brando",
+   "count": 1,
+   "seen_in": [
+    "me_050:36:ENEMAN"
+   ]
+  },
+  {
+   "game": "フィジカ・S・ファルクラム",
+   "match": "exact",
+   "glossary_ja": "フィジカ・S・ファルクラム",
+   "glossary_en": "Physica S. Fulcrum",
+   "count": 1,
+   "seen_in": [
+    "me_130:24:ENED70"
+   ]
+  },
+  {
+   "game": "マシュー・ラングレー",
+   "match": "exact",
+   "glossary_ja": "マシュー・ラングレー",
+   "glossary_en": "Matthew Langley",
+   "count": 1,
+   "seen_in": [
+    "me_130:36:ENEAPZ"
+   ]
+  },
+  {
+   "game": "マリア・ベラスケス・ホイリー",
+   "match": "exact",
+   "glossary_ja": "マリア・ベラスケス・ホイリー",
+   "glossary_en": "Maria Velasquez Hoilie",
+   "count": 1,
+   "seen_in": [
+    "me_130:40:ENET1C"
+   ]
+  },
+  {
+   "game": "ガビグラ",
+   "match": "exact",
+   "glossary_ja": "ガビグラ",
+   "glossary_en": "Gavigla",
+   "glossary_file": "mecha",
+   "count": 1,
+   "seen_in": [
+    "me_130:52:ENEGLV"
+   ]
+  },
+  {
    "game": "ブルーノ・J・グローバル",
    "match": "exact",
    "glossary_ja": "ブルーノ・J・グローバル",
@@ -1885,6 +1900,46 @@
    "count": 1,
    "seen_in": [
     "me_160:48:ENEMAC"
+   ]
+  },
+  {
+   "game": "西岡編集長",
+   "match": "exact",
+   "glossary_ja": "西岡編集長",
+   "glossary_en": "Editor-in-Chief Nishioka",
+   "count": 1,
+   "seen_in": [
+    "me_170:10:ENE005"
+   ]
+  },
+  {
+   "game": "浜村通信",
+   "match": "exact",
+   "glossary_ja": "浜村通信",
+   "glossary_en": "Hamamura Tsushin",
+   "count": 1,
+   "seen_in": [
+    "me_180:42:ENEBDZ"
+   ]
+  },
+  {
+   "game": "ジュン",
+   "match": "exact",
+   "glossary_ja": "ジュン",
+   "glossary_en": "Jun",
+   "count": 1,
+   "seen_in": [
+    "mf_185:40:ENEJYN"
+   ]
+  },
+  {
+   "game": "ヘンリー・ギリアム",
+   "match": "exact",
+   "glossary_ja": "ヘンリー・ギリアム",
+   "glossary_en": "Henry Gilliam",
+   "count": 1,
+   "seen_in": [
+    "mf_315:3:FRI001"
    ]
   },
   {
@@ -1970,14 +2025,6 @@
    "count": 1,
    "seen_in": [
     "nn_ext:NNSHOP_ITEM_6181:col1"
-   ]
-  },
-  {
-   "game": "キャッツアイ",
-   "match": "gap",
-   "count": 1,
-   "seen_in": [
-    "nn_ext:NNSHOP_ITEM_6185:col1"
    ]
   },
   {
@@ -2110,18 +2157,6 @@
     "ms_ext:MF_X9G:strDescription",
     "nn_ext:NNSHOP_ITEM_1059:col1",
     "nn_ext:NNSHOP_ITEM_6122:col1"
-   ]
-  },
-  {
-   "game": "シャイアンⅡ",
-   "match": "partial",
-   "glossary_ja": "ADR-03-MK-III シャイアン",
-   "glossary_en": "ADR-03-Mk III Cheyenne",
-   "count": 3,
-   "seen_in": [
-    "ms_ext:MB_SH2:strDescription",
-    "nn_ext:NNSHOP_ITEM_1095:col1",
-    "nn_ext:NNSHOP_ITEM_6150:col1"
    ]
   },
   {
@@ -3648,7 +3683,7 @@
    "game": "ゲペルニッチ",
    "match": "exact",
    "glossary_ja": "ゲペルニッチ",
-   "glossary_en": "Geperuniti",
+   "glossary_en": "Gepelnitchi",
    "count": 3,
    "seen_in": [
     "ms_ext:MF_GPR:strDescription",
@@ -3666,6 +3701,18 @@
     "ms_ext:MB_GAS:strDescription",
     "nn_ext:NNSHOP_ITEM_1093:col1",
     "nn_ext:NNSHOP_ITEM_6149:col1"
+   ]
+  },
+  {
+   "game": "シャイアンⅡ",
+   "match": "exact",
+   "glossary_ja": "シャイアンⅡ",
+   "glossary_en": "Cheyenne II",
+   "count": 3,
+   "seen_in": [
+    "ms_ext:MB_SH2:strDescription",
+    "nn_ext:NNSHOP_ITEM_1095:col1",
+    "nn_ext:NNSHOP_ITEM_6150:col1"
    ]
   },
   {
@@ -4498,6 +4545,16 @@
    ]
   },
   {
+   "game": "キャッツアイ",
+   "match": "exact",
+   "glossary_ja": "キャッツアイ",
+   "glossary_en": "Cat's Eye",
+   "count": 1,
+   "seen_in": [
+    "nn_ext:NNSHOP_ITEM_6185:col1"
+   ]
+  },
+  {
    "game": "ケルカリア",
    "match": "exact",
    "glossary_ja": "ケルカリア",
@@ -4581,7 +4638,7 @@
    "game": "ゲペルニッチ艦",
    "match": "exact",
    "glossary_ja": "ゲペルニッチ艦",
-   "glossary_en": "Geperuniti's ship",
+   "glossary_en": "Gepelnitchi's ship",
    "count": 1,
    "seen_in": [
     "nn_ext:NNSHOP_ITEM_6204:col1"
@@ -4683,38 +4740,6 @@
    ]
   },
   {
-   "game": "ブリタイ艦隊",
-   "match": "gap",
-   "count": 4,
-   "seen_in": [
-    "mission_ext:MZ_310:strMission",
-    "mission_ext:MZ_310:strStory",
-    "mission_ext:MZ_310:strStory",
-    "mission_ext:MZ_340:strStory"
-   ]
-  },
-  {
-   "game": "反統合軍",
-   "match": "gap",
-   "count": 4,
-   "seen_in": [
-    "mission_ext:ME_040:strStory",
-    "mission_ext:ME_041:strStory",
-    "ms_ext:MB_S00:strDescription",
-    "ms_ext:MB_A50:strDescription"
-   ]
-  },
-  {
-   "game": "サジタリウス小隊",
-   "match": "gap",
-   "count": 3,
-   "seen_in": [
-    "mission_ext:MF_185:strMission",
-    "mission_ext:MF_185:strStory",
-    "ms_ext:MB_17E:strDescription"
-   ]
-  },
-  {
    "game": "ミンメイ・アタック",
    "match": "gap",
    "count": 3,
@@ -4734,30 +4759,12 @@
    ]
   },
   {
-   "game": "第１１７調査船団",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "mission_ext:MF_400:strStory",
-    "mission_ext:MF_401:strStory"
-   ]
-  },
-  {
    "game": "現在フロンティア船団",
    "match": "gap",
    "count": 2,
    "seen_in": [
     "mission_ext:MF_410:strStory",
     "mission_ext:MF_411:strStory"
-   ]
-  },
-  {
-   "game": "編集戦隊",
-   "match": "gap",
-   "count": 2,
-   "seen_in": [
-    "mission_ext:ME_170:strMission",
-    "mission_ext:ME_170:strStory"
    ]
   },
   {
@@ -4817,20 +4824,6 @@
    ]
   },
   {
-   "game": "統合軍",
-   "match": "partial",
-   "glossary_ja": "地球統合軍",
-   "glossary_en": "U.N. Forces",
-   "count": 54,
-   "seen_in": [
-    "mission_ext:MA_010:strMission",
-    "mission_ext:MA_010:strStory",
-    "mission_ext:MA_015:strMission",
-    "mission_ext:MA_015:strStory",
-    "mission_ext:MA_040:strStory"
-   ]
-  },
-  {
    "game": "ギャラクシー船団",
    "match": "partial",
    "glossary_ja": "マクロス・ギャラクシー船団",
@@ -4867,6 +4860,17 @@
     "ms_ext:MB_171:strDescription",
     "pilot_ext:PY_GRA:strDescription",
     "pilot_ext:PY_GOS:strDescription"
+   ]
+  },
+  {
+   "game": "編集戦隊",
+   "match": "partial",
+   "glossary_ja": "編集戦隊デンゲキＶ",
+   "glossary_en": "Editorial Sentai Dengeki V",
+   "count": 2,
+   "seen_in": [
+    "mission_ext:ME_170:strMission",
+    "mission_ext:ME_170:strStory"
    ]
   },
   {
@@ -4965,6 +4969,20 @@
    ]
   },
   {
+   "game": "統合軍",
+   "match": "exact",
+   "glossary_ja": "地球統合軍",
+   "glossary_en": "U.N. Forces",
+   "count": 54,
+   "seen_in": [
+    "mission_ext:MA_010:strMission",
+    "mission_ext:MA_010:strStory",
+    "mission_ext:MA_015:strMission",
+    "mission_ext:MA_015:strStory",
+    "mission_ext:MA_040:strStory"
+   ]
+  },
+  {
    "game": "反統合同盟",
    "match": "exact",
    "glossary_ja": "反統合同盟",
@@ -5010,7 +5028,7 @@
    "game": "新統合軍",
    "match": "exact",
    "glossary_ja": "新統合軍",
-   "glossary_en": "New U.N. Spacy",
+   "glossary_en": "New U.N. Forces",
    "count": 9,
    "seen_in": [
     "mission_ext:MF_310:strStory",
@@ -5035,6 +5053,44 @@
    ]
   },
   {
+   "game": "ブリタイ艦隊",
+   "match": "exact",
+   "glossary_ja": "ブリタイ艦隊",
+   "glossary_en": "Vrlitwhai's fleet",
+   "count": 4,
+   "seen_in": [
+    "mission_ext:MZ_310:strMission",
+    "mission_ext:MZ_310:strStory",
+    "mission_ext:MZ_310:strStory",
+    "mission_ext:MZ_340:strStory"
+   ]
+  },
+  {
+   "game": "反統合軍",
+   "match": "exact",
+   "glossary_ja": "反統合同盟",
+   "glossary_en": "Anti-U.N. Forces",
+   "count": 4,
+   "seen_in": [
+    "mission_ext:ME_040:strStory",
+    "mission_ext:ME_041:strStory",
+    "ms_ext:MB_S00:strDescription",
+    "ms_ext:MB_A50:strDescription"
+   ]
+  },
+  {
+   "game": "サジタリウス小隊",
+   "match": "exact",
+   "glossary_ja": "サジタリウス小隊",
+   "glossary_en": "Sagittarius Squadron",
+   "count": 3,
+   "seen_in": [
+    "mission_ext:MF_185:strMission",
+    "mission_ext:MF_185:strStory",
+    "ms_ext:MB_17E:strDescription"
+   ]
+  },
+  {
    "game": "スカル小隊",
    "match": "exact",
    "glossary_ja": "スカル小隊",
@@ -5043,6 +5099,17 @@
    "seen_in": [
     "mission_ext:MF_360:strStory",
     "ms_ext:MB_S14:strDescription"
+   ]
+  },
+  {
+   "game": "第１１７調査船団",
+   "match": "exact",
+   "glossary_ja": "第１１７調査船団",
+   "glossary_en": "117th Research Fleet",
+   "count": 2,
+   "seen_in": [
+    "mission_ext:MF_400:strStory",
+    "mission_ext:MF_401:strStory"
    ]
   },
   {
@@ -5129,16 +5196,6 @@
     "ma_060:4:HYK001",
     "ma_091:4:FRIASK",
     "ma_096:3:FRIASK"
-   ]
-  },
-  {
-   "game": "イリーナ隊",
-   "match": "gap",
-   "count": 3,
-   "seen_in": [
-    "md_330:16:DEMO03",
-    "md_330:17:DEMO04",
-    "md_330:18:DEMO05"
    ]
   },
   {
@@ -5276,6 +5333,19 @@
     "mp_390:23:HYK005",
     "mp_390:24:HYK006"
    ]
+  },
+  {
+   "game": "イリーナ隊",
+   "match": "exact",
+   "glossary_ja": "イリーナ隊",
+   "glossary_en": "Irina Squad",
+   "glossary_file": "organization",
+   "count": 3,
+   "seen_in": [
+    "md_330:16:DEMO03",
+    "md_330:17:DEMO04",
+    "md_330:18:DEMO05"
+   ]
   }
  ],
  "character_unused_glossary": [
@@ -5297,7 +5367,6 @@
   "Dr.千葉",
   "グババ",
   "エミリア・ジーナス",
-  "ギリアム・アングリット",
   "モニカ・ラング",
   "ミーナ・ローシャン",
   "ラム・ホア",
@@ -5321,17 +5390,21 @@
   "バジュラ母艦",
   "バジュラクィーン",
   "空母級バジュラ艦",
-  "ゼントラーディ用ワンマン戦闘ポッド"
+  "ゼントラーディ用ワンマン戦闘ポッド",
+  "ＶＦ－１９ エクスカリバー"
  ],
  "organization_unused_glossary": [
   "地球統合政府",
   "統合宇宙軍",
+  "新統合宇宙軍",
   "監察軍",
   "ファイヤーボンバー",
   "ゾラ・パトロール",
   "マクロス・フロンティア船団",
   "クロレ艦隊",
   "新星インダストリー",
-  "ゼネラル・ギャラクシー"
+  "ゼネラル・ギャラクシー",
+  "ベクタープロモーション",
+  "クリティカル・パス社"
  ]
 }

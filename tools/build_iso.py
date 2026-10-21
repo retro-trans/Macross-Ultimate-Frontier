@@ -11,10 +11,13 @@ Steps (each one is a tool that can also be run on its own):
   3. tools/eboot_insert.py    relocate the English EBOOT text -> work/output/build/EBOOT.BIN
   3b. tools/eboot_ascii_fix.py  glossary spellings for the EBOOT's own ASCII unit names
      (work/translation/en/eboot_ascii.en.json)
+  3c. tools/fullwidth.py      full-width Latin (ＶＦ－２７, ＨＰ) -> ASCII in the EBOOT and the
+     menu text CSVs, so it uses the English font
   4. tools/insert_text.py     CSV cells and FES string pools  -> work/output/build/overlay/
      (the VWF font is copied into the same overlay)
   4b. tools/redraw_images.py  English redrawn textures (GIM)  -> work/output/build/overlay/
      (skip with --no-images; layout in work/ui/redraw_layout.json, docs/image_redraw.md)
+  4a. tools/a2a_patch.py      layout part positions (work/ui/a2a_patches.json) -> overlay
   4c. tools/voice_subs_patch.py + voice_subs_at3.py: voice-clip subtitles (only with
      --voice-subs or --voice-placeholder; docs/voice_subtitles.md)
   5. tools/muf_archive.py     repack with the overlay         -> work/output/build/USRDIR/
@@ -90,12 +93,16 @@ def main():
     run("tools/dump_eboot.py", vwf_eboot, dump)
     run("tools/eboot_insert.py", "--eboot", vwf_eboot, "--dump", dump, "--out", eboot, *tr)
     run("tools/eboot_ascii_fix.py", eboot, eboot)
+    run("tools/fullwidth.py", "eboot", dump, eboot, eboot)
+    fw_rows = os.path.join(b, "fullwidth_rows.json")
+    run("tools/fullwidth.py", "csv", fw_rows, *[x for t in tr for x in ("--skip", t)])
     if voice_subs or voice_placeholder:
         run("tools/voice_subs_patch.py", eboot, eboot)
-    run("tools/insert_text.py", "--out", overlay, *tr)
+    run("tools/insert_text.py", "--out", overlay, *tr, fw_rows)
     font = os.path.join("data", "extra", "gpsp3_font14.fnt")
     os.makedirs(os.path.join(ROOT, overlay, "data", "extra"), exist_ok=True)
     shutil.copyfile(os.path.join(ROOT, vwf, font), os.path.join(ROOT, overlay, font))
+    run("tools/a2a_patch.py", "--out", overlay)
     if images:
         run("tools/redraw_images.py", "--out", overlay, "--preview", os.path.join(b, "redraw"), "--no-sheets",
             "--version", version)

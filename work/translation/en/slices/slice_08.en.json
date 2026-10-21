@@ -5,11 +5,11 @@
  "rows": [
   {
    "id": "mission_ext:ME_100:strStory",
-   "en": "Variable fighters, developed using the OverTechnology of the Macross.\\nTo learn how they evolved, battle the variable fighters of every generation.",
+   "en": "Variable fighters, developed using the OverTechnology of the Macross.\\nTo learn how they evolved, engage the variable fighters of every generation.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Kahen kitai (variable machines) rendered as 'variable fighters'. | review: refit: pronoun for repeated 'variable fighters'"
+   "notes": "Kahen kitai (variable machines) rendered as 'variable fighters'. | review: refit: pronoun for repeated 'variable fighters' | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_110:strMission",
@@ -51,21 +51,21 @@
   },
   {
    "id": "mission_ext:ME_140:strMission",
-   "en": "Make it out of Macross Heaven alive.",
+   "en": "Return alive from Macross Heaven.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_140:strStory",
-   "en": "The Macross that ended the interstellar war passed its name on to colony ships.\\nMake it out alive from Macross Heaven, packed with ships bearing that name.",
+   "en": "The Macross that ended the interstellar war passed its name on to colony ships.\\nReturn alive from Macross Heaven, crowded with ships bearing that name.",
    "flags": [],
-   "notes": "review: refit: restructured; dropped 'that travel the galaxy'"
+   "notes": "review: refit: restructured; dropped 'that travel the galaxy' | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_150:strMission",
-   "en": "Wipe out the swarming hordes of small fry.",
+   "en": "Annihilate the endless swarms of small fry.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_150:strStory",
@@ -75,9 +75,9 @@
   },
   {
    "id": "mission_ext:ME_151:strMission",
-   "en": "Wipe out the swarming hordes of small fry.",
+   "en": "Annihilate the endless swarms of small fry.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 570)"
   },
   {
    "id": "mission_ext:ME_151:strStory",
@@ -135,9 +135,9 @@
   },
   {
    "id": "mission_ext:ME_190:strStory",
-   "en": "Wipe out the Regults rampaging in the city now, but we sense a \"giant\" power\\nbehind them, so never drop your guard. Annihilate those with \"giant\" power.",
+   "en": "Eliminate the Regults rampaging in the city now, but a \"giant\" power looms\\nbehind them. Do not let your guard down. Annihilate those with \"giant\" power.",
    "flags": [],
-   "notes": "review: refit: tightened"
+   "notes": "review: refit: tightened | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_200:strMission",
@@ -147,9 +147,9 @@
   },
   {
    "id": "mission_ext:ME_200:strStory",
-   "en": "A mock battle now begins vs. the special forces unit codenamed \"Moon Island\".\\nThey're all problem children, but reportedly skilled. Defeat Moon Island.",
+   "en": "Commencing a mock battle vs. the special forces unit codenamed \"Moon Island\".\\nThough made up of misfits, the unit is reportedly skilled. Defeat Moon Island.",
    "flags": [],
-   "notes": "Codename in quotes kept as 'Moon Island' (glossary alias); unit name 'Moon Island Platoon' elsewhere. | review: refit: tightened; 'Moon Island Platoon' -> 'Moon Island' as in source"
+   "notes": "Codename in quotes kept as 'Moon Island' (glossary alias); unit name 'Moon Island Platoon' elsewhere. | review: refit: tightened; 'Moon Island Platoon' -> 'Moon Island' as in source | review: briefing register pass"
   },
   {
    "id": "mission_ext:MC_010:strMission",

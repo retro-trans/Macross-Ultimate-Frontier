@@ -2,9 +2,10 @@
 
 Glyphs are drawn at 4x (a 56x56 px cell) from an outline font, then
 box-filtered down to the game's 14x14 cell and quantised to its four alpha
-levels (2 bpp). For each glyph the horizontal sub-pixel phase (0-3 at 4x) that
-gives the sharpest 14 px result is chosen, so vertical stems land on whole
-pixels where the outline allows it.
+levels (2 bpp). Every glyph's pen sits LEFT = 1 px into its cell (placement()); the
+patched printer advances by the true, fractional advance and draws each glyph at
+its exact sub-pixel position. At 14 px a quarter pixel either way is allowed for
+the sharpest result; the 4x glyph uses the exact position.
 
 Font file layout (see docs/vwf.md): a 448 px wide 4 bpp atlas, 32 cells of
 14x14 per row. Every nibble holds two 2 bpp glyphs: bits 0-1 = even glyph
@@ -88,54 +89,57 @@ def quantise(a):
     return np.abs(a[..., None] - LEVELS[None, None, :]).argmin(axis=-1).astype(np.uint8)
 
 
+LEFT = 1  # px between the pen and the glyph's origin in every cell (room for j's overhang)
+
+
+def placement(font, ch):
+    """Integer advance, true advance (px) and the pen position inside the cell (4x px).
+
+    Every glyph's pen sits LEFT px into its cell. The patched printer advances by
+    the true (fractional) advance and draws each glyph at its exact sub-pixel
+    position (docs/vwf.md), so the glyph needs no rounding shift. The integer
+    advance is still used by the string-width, truncation and glyph-array code."""
+    a4 = font.getlength(ch)
+    advance = max(1, min(CELL, int(round(a4 / SCALE))))
+    return advance, a4 / SCALE, LEFT * SCALE
+
+
+def cell_cov(font, ch, pen4):
+    """4x coverage of `ch` with its pen at x = pen4 (4x px) from the cell's left edge."""
+    cov = render_char(font, ch, pen4 % SCALE)
+    start = (PAD - pen4 // SCALE) * SCALE   # render column that becomes the cell's column 0
+    return cov[:, start:start + BIG]
+
+
 def build_glyph(font, ch, with_pos=False):
-    """Return (2 bpp 14x14 array, advance in px[, (phase, shift)])."""
+    """Return (2 bpp 14x14 array, advance in px[, pen position in 4x px])."""
     if ch == " ":
         z = np.zeros((CELL, CELL), np.uint8)
-        return (z, SPACE_ADVANCE, (0, 0)) if with_pos else (z, SPACE_ADVANCE)
+        return (z, SPACE_ADVANCE, LEFT * SCALE) if with_pos else (z, SPACE_ADVANCE)
+    advance, _, pen4 = placement(font, ch)
     best = None
-    for phase in range(SCALE):
-        small = downsample(render_char(font, ch, phase))
-        cols = np.where(small.max(axis=0) > 0.05)[0]
-        if cols.size == 0:
-            continue
-        # the cell starts at the pen (keeps the left bearing), or further left
-        # when the ink overhangs the pen (j, y...)
-        shift = min(int(cols.min()), PAD)
-        small = small[:, shift:]
-        q = quantise(small)
-        # sharpness: favour pixels that are fully on or off
+    # at 1x the ink snaps to whole pixels anyway: allow a quarter pixel either way
+    # for the sharpest result (the spacing error stays under a quarter pixel)
+    for p4 in (pen4, pen4 - 1, pen4 + 1):
+        q = quantise(downsample(cell_cov(font, ch, p4)))
         a = LEVELS[q]
-        score = (a * a).sum() / max(a.sum(), 1e-6)
+        score = (a * a).sum() / max(a.sum(), 1e-6) - (0.002 if p4 != pen4 else 0)
         if best is None or score > best[0]:
-            best = (score, q, phase, shift)
-    _, q, phase, shift = best
+            best = (score, q)
+    q = best[1]
     cols = np.where(q.max(axis=0) > 0)[0]
-    ink = int(cols.max()) + 1 if cols.size else 0
-    if ink > CELL:
-        print("warning: %r is %d px wide, clipped to %d" % (ch, ink, CELL), file=sys.stderr)
+    if cols.size and cols.max() + 1 > CELL:
+        print("warning: %r is %d px wide, clipped to %d" % (ch, cols.max() + 1, CELL), file=sys.stderr)
     out = np.zeros((CELL, CELL), np.uint8)
     out[:, :min(CELL, q.shape[1])] = q[:, :CELL]
-    # advance from the font's own metrics (keeps the designed side bearings),
-    # measured from the left edge of the ink we kept
-    advance = int(round((PAD * SCALE + phase + font.getlength(ch)) / SCALE)) - shift
-    advance = max(1, min(CELL, advance))
-    return (out, advance, (phase, shift)) if with_pos else (out, advance)
+    return (out, advance, pen4) if with_pos else (out, advance)
 
 
-def build_hd_glyph(font, ch, phase, shift, advance):
-    """The same glyph at 4x (a 56x56 2 bpp cell), with the pen and cell origin of the
-    14 px glyph. The game places glyphs on whole native pixels with the rounded
-    advance, so the rounding error (up to half a native pixel = 2 px at 4x) would all
-    fall to the right of the letter. Half of it is moved to the left instead, which
-    keeps the spacing even at 4x."""
+def build_hd_glyph(font, ch, pen4):
+    """The same glyph at 4x (a 56x56 2 bpp cell), at its exact pen position."""
     if ch == " ":
         return np.zeros((BIG, BIG), np.uint8)
-    true4 = PAD * SCALE + phase + font.getlength(ch) - shift * SCALE   # unrounded advance at 4x
-    d = int(round((advance * SCALE - true4) / 2))
-    cov = render_char(font, ch, phase)
-    cov = np.roll(cov, d, axis=1)
-    cov = cov[:, shift * SCALE:shift * SCALE + BIG]
+    cov = cell_cov(font, ch, pen4)
     out = np.zeros((BIG, BIG), np.uint8)
     q = np.abs(cov[..., None] - LEVELS[None, None, :]).argmin(axis=-1).astype(np.uint8)
     out[:, :q.shape[1]] = q
@@ -146,16 +150,18 @@ def build_set(path=DEFAULT_FONT, weight=DEFAULT_WEIGHT, index=0, hd=False):
     """Glyphs and advances for ASCII 0x20-0x7F. With hd=True also the 4x cells."""
     size = fit_size(path, weight, index)
     font = load_font(path, weight, size, index)
-    glyphs, widths, hd_glyphs = [], [], []
+    glyphs, widths, hd_glyphs, true_adv = [], [], [], []
     for c in range(FIRST, LAST + 1):
         ch = chr(c) if c < 0x7F else "\u2026"  # 0x7F (DEL) slot holds an ellipsis
         ch = ALIASES.get(ch, ch)
-        g, w, (phase, shift) = build_glyph(font, ch, with_pos=True)
+        g, w, pen4 = build_glyph(font, ch, with_pos=True)
         glyphs.append(g)
         widths.append(w)
+        true_adv.append(float(SPACE_ADVANCE) if ch == " " else placement(font, ch)[1])
         if hd:
-            hd_glyphs.append(build_hd_glyph(font, ch, phase, shift, w))
-    info = {"font": os.path.basename(path), "index": index, "weight": weight, "size_4x": size}
+            hd_glyphs.append(build_hd_glyph(font, ch, pen4))
+    info = {"font": os.path.basename(path), "index": index, "weight": weight, "size_4x": size,
+            "true_advance": true_adv}
     return (glyphs, widths, info, hd_glyphs) if hd else (glyphs, widths, info)
 
 

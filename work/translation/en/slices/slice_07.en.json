@@ -5,133 +5,133 @@
  "rows": [
   {
    "id": "mission_ext:MF_360:strStory",
-   "en": "To prepare for Vajra attacks, a mock battle begins now. Beat Maj. Ozma Lee's\\nSkull Squadron, one of the finest elite units in all of S.M.S.",
+   "en": "Commencing a mock battle to prepare for Vajra attacks. Defeat Maj. Ozma Lee's\\nSkull Squadron, one of the finest elite units in all of S.M.S.",
    "flags": [],
-   "notes": "review: refit: 'Win against Major' -> 'Beat Maj.'"
+   "notes": "review: refit: 'Win against Major' -> 'Beat Maj.' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_370:strMission",
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_370:strStory",
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_371:strMission",
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass (same text as row 482)"
   },
   {
    "id": "mission_ext:MF_371:strStory",
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass (same text as row 483)"
   },
   {
    "id": "mission_ext:MF_372:strMission",
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass (same text as row 482)"
   },
   {
    "id": "mission_ext:MF_372:strStory",
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass (same text as row 483)"
   },
   {
    "id": "mission_ext:MF_375:strMission",
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass (same text as row 482)"
   },
   {
    "id": "mission_ext:MF_375:strStory",
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass (same text as row 483)"
   },
   {
    "id": "mission_ext:MF_376:strMission",
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass (same text as row 482)"
   },
   {
    "id": "mission_ext:MF_376:strStory",
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass (same text as row 483)"
   },
   {
    "id": "mission_ext:MF_377:strMission",
-   "en": "To save the Galaxy fleet's surviving ships,\\nwipe out the Vajra.",
+   "en": "To save the Galaxy fleet's surviving ships,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": "review: refit: 'rescue' -> 'save'"
+   "notes": "review: refit: 'rescue' -> 'save' | review: briefing register pass (same text as row 482)"
   },
   {
    "id": "mission_ext:MF_377:strStory",
-   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack.\\nWipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "en": "Commencing the rescue of surviving Macross Galaxy ships under Vajra attack.\\nAnnihilate the Vajra blocking the survivors' withdrawal at once.",
    "flags": [],
-   "notes": "review: refit: 'Galaxy survivors' -> 'survivors'"
+   "notes": "review: refit: 'Galaxy survivors' -> 'survivors' | review: briefing register pass (same text as row 483)"
   },
   {
    "id": "mission_ext:MF_380:strMission",
-   "en": "Wipe out the Vajra that suddenly appeared\\nduring the survey of their nest.",
+   "en": "Annihilate the Vajra that suddenly appeared\\nduring the survey of their nest.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_380:strStory",
-   "en": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible,\\nbut the Vajra spotted us almost at once. Move swiftly to wipe them out.",
+   "en": "We located a Vajra nest to survey and, if possible, recover a cocoon, but\\nthe Vajra detected us soon after the survey began. Swiftly annihilate them.",
    "flags": [],
-   "notes": "review: refit: tighter wording; 'Switch to wiping out the Vajra' -> 'Move swiftly to wipe them out'"
+   "notes": "review: refit: tighter wording; 'Switch to wiping out the Vajra' -> 'Move swiftly to wipe them out' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_385:strMission",
-   "en": "Wipe out the Vajra that suddenly appeared\\nduring the survey of their nest.",
+   "en": "Annihilate the Vajra that suddenly appeared\\nduring the survey of their nest.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 494)"
   },
   {
    "id": "mission_ext:MF_385:strStory",
-   "en": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible,\\nbut the Vajra spotted us almost at once. Move swiftly to wipe them out.",
+   "en": "We located a Vajra nest to survey and, if possible, recover a cocoon, but\\nthe Vajra detected us soon after the survey began. Swiftly annihilate them.",
    "flags": [],
-   "notes": "review: refit: tightened wording; 'as soon as the survey began' -> 'almost at once'; matched to row 495 (identical Japanese, refit in story2)"
+   "notes": "review: refit: tightened wording; 'as soon as the survey began' -> 'almost at once'; matched to row 495 (identical Japanese, refit in story2) | review: briefing register pass (same text as row 495)"
   },
   {
    "id": "mission_ext:MF_390:strMission",
-   "en": "Wipe out the rioting\\nZentradi.",
+   "en": "Annihilate the rioting\\nZentradi.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_390:strStory",
-   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them.",
+   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Annihilate the rioters to rescue the hostages.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Rendered the 'imon kouen' as a morale-boosting concert tour. | review: refit: rebalanced lines; 'morale-boosting concert tour' reworded"
+   "notes": "Rendered the 'imon kouen' as a morale-boosting concert tour. | review: refit: rebalanced lines; 'morale-boosting concert tour' reworded | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_395:strMission",
-   "en": "Wipe out the rioting\\nZentradi.",
+   "en": "Annihilate the rioting\\nZentradi.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 498)"
   },
   {
    "id": "mission_ext:MF_395:strStory",
-   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them.",
+   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\\nhostage by rioting Zentradi. Annihilate the rioters to rescue the hostages.",
    "flags": [
     "uncertain"
    ],
-   "notes": "review: refit: rebalanced lines; 'morale-boosting concert tour' reworded"
+   "notes": "review: refit: rebalanced lines; 'morale-boosting concert tour' reworded | review: briefing register pass (same text as row 499)"
   },
   {
    "id": "mission_ext:MF_400:strMission",
@@ -183,39 +183,39 @@
   },
   {
    "id": "mission_ext:MF_140:strMission",
-   "en": "Wipe out the Vajra so they can't disrupt\\nthe experiment using Ranka Lee's song.",
+   "en": "Annihilate the Vajra before they disrupt\\nthe experiment using Ranka Lee's song.",
    "flags": [],
-   "notes": "review: refit: 'interfere with' -> 'disrupt', line break moved"
+   "notes": "review: refit: 'interfere with' -> 'disrupt', line break moved | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_140:strStory",
-   "en": "Top-secret mission: you will now guard an experiment using Ranka Lee's song.\\nUntil the experiment begins, wipe out the Vajra so they can't interfere.",
+   "en": "Top-secret mission: you will now guard an experiment using Ranka Lee's song.\\nUntil the experiment begins, annihilate the Vajra to prevent interference.",
    "flags": [],
-   "notes": "review: refit: tightened wording"
+   "notes": "review: refit: tightened wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_150:strMission",
-   "en": "Defend the Macross Quarter and wipe out\\nthe Vajra or survive for 5 minutes.",
+   "en": "Defend the Macross Quarter and annihilate\\nthe Vajra, or survive for 5 minutes.",
    "flags": [],
-   "notes": "review: refit: 'either' dropped, line break moved"
+   "notes": "review: refit: 'either' dropped, line break moved | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_150:strStory",
-   "en": "Evolved Vajra have appeared that even reaction weapons can't harm. They will be\\nhard to destroy, so put defending the Macross Quarter and your survival first.",
+   "en": "Evolved Vajra immune even to reaction weapons have appeared. As they will be\\nhard to destroy, prioritize defending the Macross Quarter and your survival.",
    "flags": [],
-   "notes": "review: refit: restructured; 'top priorities' -> 'first'"
+   "notes": "review: refit: restructured; 'top priorities' -> 'first' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_155:strMission",
-   "en": "Defend the Macross Quarter and wipe out\\nthe Vajra or survive for 5 minutes.",
+   "en": "Defend the Macross Quarter and annihilate\\nthe Vajra, or survive for 5 minutes.",
    "flags": [],
-   "notes": "review: refit: 'either' dropped, line break moved"
+   "notes": "review: refit: 'either' dropped, line break moved | review: briefing register pass (same text as row 512)"
   },
   {
    "id": "mission_ext:MF_155:strStory",
-   "en": "Evolved Vajra have appeared that even reaction weapons can't harm. They will be\\nhard to destroy, so put defending the Macross Quarter and your survival first.",
+   "en": "Evolved Vajra immune even to reaction weapons have appeared. As they will be\\nhard to destroy, prioritize defending the Macross Quarter and your survival.",
    "flags": [],
-   "notes": "review: refit: restructured; 'top priorities' -> 'first'"
+   "notes": "review: refit: restructured; 'top priorities' -> 'first' | review: briefing register pass (same text as row 513)"
   },
   {
    "id": "mission_ext:MF_160:strMission",
@@ -231,41 +231,41 @@
   },
   {
    "id": "mission_ext:MF_170:strMission",
-   "en": "Wipe out the Vajra rampaging\\ninside the Frontier.",
+   "en": "Annihilate the Vajra rampaging\\ninside the Frontier.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_170:strStory",
-   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Wipe out the Vajra that have emerged in the Frontier.",
+   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Annihilate the Vajra that have emerged in the Frontier.",
    "flags": [],
-   "notes": "review: refit: tightened; dropped repeated 'the Frontier' in line 2 first clause"
+   "notes": "review: refit: tightened; dropped repeated 'the Frontier' in line 2 first clause | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_172:strMission",
-   "en": "Wipe out the Vajra rampaging\\ninside the Frontier.",
+   "en": "Annihilate the Vajra rampaging\\ninside the Frontier.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 518)"
   },
   {
    "id": "mission_ext:MF_172:strStory",
-   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Wipe out the Vajra that have emerged in the Frontier.",
+   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra\\nare rampaging inside. Annihilate the Vajra that have emerged in the Frontier.",
    "flags": [],
-   "notes": "review: refit: tightened; dropped repeated 'the Frontier' in line 2 first clause"
+   "notes": "review: refit: tightened; dropped repeated 'the Frontier' in line 2 first clause | review: briefing register pass (same text as row 519)"
   },
   {
    "id": "mission_ext:MF_180:strMission",
-   "en": "Wipe out the deserters trying to escape\\nin the stolen Macross Quarter.",
+   "en": "Annihilate the deserters trying to escape\\nin the stolen Macross Quarter.",
    "flags": [],
-   "notes": "review: refit: 'who seized the Macross Quarter' -> 'in the stolen Macross Quarter'"
+   "notes": "review: refit: 'who seized the Macross Quarter' -> 'in the stolen Macross Quarter' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_180:strStory",
-   "en": "Some S.M.S. members are trying to hijack the Macross Quarter and escape.\\nAt this rate they'll fold away. You're authorized to shoot down the deserters.",
+   "en": "Some S.M.S. members are trying to hijack the Macross Quarter and escape.\\nUnchecked, they will fold away. You are authorized to shoot down the deserters.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Fold out = escape via space fold. | review: refit: tightened line 2"
+   "notes": "Fold out = escape via space fold. | review: refit: tightened line 2 | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_185:strMission",
@@ -275,33 +275,33 @@
   },
   {
    "id": "mission_ext:MF_185:strStory",
-   "en": "A mock battle will now be held to test the VF-171EX, built to fight the Vajra.\\nDefeat the Sagittarius Squadron in this combined machine test and training.",
+   "en": "Commencing a mock battle to test the VF-171EX, developed to fight the Vajra.\\nDefeat the Sagittarius Squadron in this combined machine test and training.",
    "flags": [],
-   "notes": "review: refit: restructured line 2"
+   "notes": "review: refit: restructured line 2 | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_190:strMission",
-   "en": "To make the Vajra homeworld ours,\\nwipe out the Vajra.",
+   "en": "To claim the Vajra homeworld as ours,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_190:strStory",
-   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Wipe out the Vajra, powered by the Galactic Fairy's song.",
+   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Annihilate the Vajra, powered by the Galactic Fairy's song.",
    "flags": [],
-   "notes": "review: refit: restructured; second 'Vajra homeworld' -> 'it'"
+   "notes": "review: refit: restructured; second 'Vajra homeworld' -> 'it' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MF_191:strMission",
-   "en": "To make the Vajra homeworld ours,\\nwipe out the Vajra.",
+   "en": "To claim the Vajra homeworld as ours,\\nannihilate the Vajra.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 526)"
   },
   {
    "id": "mission_ext:MF_191:strStory",
-   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Wipe out the Vajra, powered by the Galactic Fairy's song.",
+   "en": "At last we've found the Vajra homeworld. Our only way to survive is to make it\\nour new home. Annihilate the Vajra, powered by the Galactic Fairy's song.",
    "flags": [],
-   "notes": "review: refit: restructured; second 'Vajra homeworld' -> 'it'"
+   "notes": "review: refit: restructured; second 'Vajra homeworld' -> 'it' | review: briefing register pass (same text as row 527)"
   },
   {
    "id": "mission_ext:MF_200:strMission",
@@ -413,83 +413,83 @@
   },
   {
    "id": "mission_ext:ME_010:strMission",
-   "en": "Wipe out the rogue Zentradi forces.",
+   "en": "Annihilate the rogue Zentradi forces.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_010:strStory",
-   "en": "An unknown fleet, likely rogue Zentradi forces, has been spotted near Jupiter.\\nBreak the enemy's will to fight with Operation Minmay, then wipe them out.",
+   "en": "An unknown fleet, likely rogue Zentradi forces, has been spotted near Jupiter.\\nBreak the enemy's will to fight with Operation Minmay, then annihilate them.",
    "flags": [],
-   "notes": "review: refit: tightened line 1"
+   "notes": "review: refit: tightened line 1 | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_020:strMission",
-   "en": "Wipe out the mysterious mecha\\nrampaging through the city.",
+   "en": "Annihilate the mysterious mecha\\nrampaging through the city.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Singular/plural unclear; 'mecha' covers both."
+   "notes": "Singular/plural unclear; 'mecha' covers both. | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_020:strStory",
-   "en": "Mecha from a mysterious fleet slipped through our defenses and invaded Earth.\\nWipe out the mobile weapons ravaging the city as if seeking something. Now!",
+   "en": "Mecha from a mysterious fleet slipped through our defenses and invaded Earth.\\nImmediately annihilate the mecha ravaging the city as if seeking something.",
    "flags": [
     "uncertain"
    ],
-   "notes": "review: refit: tightened both lines"
+   "notes": "review: refit: tightened both lines | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_030:strMission",
-   "en": "Wipe out the Mardook forces seeking\\nto destroy Earth's culture.",
+   "en": "Annihilate the Mardook forces seeking\\nto destroy Earth's culture.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_030:strStory",
-   "en": "The Mardook forces have launched an all-out assault to destroy Earth's culture.\\nProtect Earth's culture at all costs and wipe out the Mardook forces.",
+   "en": "The Mardook forces have launched an all-out assault to destroy Earth's culture.\\nProtect Earth's culture at all costs and annihilate the Mardook forces.",
    "flags": [],
-   "notes": "review: refit: tightened line 1"
+   "notes": "review: refit: tightened line 1 | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_040:strMission",
-   "en": "To retake the communications relay base,\\nwipe out Vindirance.",
+   "en": "To retake the communications relay base,\\nannihilate Vindirance.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_040:strStory",
-   "en": "Starting the op to retake the relay base held by anti-U.N. group Vindirance.\\nInfiltrate via the canyon leading to the base and wipe out Vindirance's guards.",
+   "en": "Commencing an operation to retake the relay base from anti-U.N. Vindirance.\\nInfiltrate via the canyon to the base and annihilate the Vindirance guards.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Source says anti-U.N. organization; rendered 'anti-U.N. group'. | review: refit: abbreviated 'operation' and 'communications relay base'"
+   "notes": "Source says anti-U.N. organization; rendered 'anti-U.N. group'. | review: refit: abbreviated 'operation' and 'communications relay base' | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_041:strMission",
-   "en": "To retake the communications relay base,\\nwipe out Vindirance.",
+   "en": "To retake the communications relay base,\\nannihilate Vindirance.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 552)"
   },
   {
    "id": "mission_ext:ME_041:strStory",
-   "en": "Starting the op to retake the relay base held by anti-U.N. group Vindirance.\\nInfiltrate via the canyon leading to the base and wipe out Vindirance's guards.",
+   "en": "Commencing an operation to retake the relay base from anti-U.N. Vindirance.\\nInfiltrate via the canyon to the base and annihilate the Vindirance guards.",
    "flags": [
     "uncertain"
    ],
-   "notes": "review: refit: abbreviated 'operation' and 'communications relay base'"
+   "notes": "review: refit: abbreviated 'operation' and 'communications relay base' | review: briefing register pass (same text as row 553)"
   },
   {
    "id": "mission_ext:ME_050:strMission",
-   "en": "Wipe out Vindirance, who are scheming\\nto fold to Earth.",
+   "en": "Annihilate Vindirance, who are\\nplotting a fold to Earth.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_050:strStory",
-   "en": "Vindirance is plotting a fold to Earth. It must be stopped at all costs, so\\nreaction weapons are authorized for this operation. Wipe out Vindirance.",
+   "en": "Vindirance is plotting a fold to Earth. It must be stopped at all costs, so\\nreaction weapons are authorized for this operation. Annihilate Vindirance.",
    "flags": [],
-   "notes": "review: refit: rebalanced lines"
+   "notes": "review: refit: rebalanced lines | review: briefing register pass"
   },
   {
    "id": "mission_ext:ME_060:strMission",

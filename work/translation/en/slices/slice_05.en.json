@@ -5,9 +5,9 @@
  "rows": [
   {
    "id": "mission_ext:MZ_310:strStory",
-   "en": "As special training, we will now hold a mock battle using melee attacks only.\\nFleet Commander Vrlitwhai himself joins this mock battle. Defeat Vrlitwhai.",
+   "en": "Commencing special training: a mock battle using melee attacks only.\\nFleet Commander Vrlitwhai himself joins this mock battle. Defeat Vrlitwhai.",
    "flags": [],
-   "notes": "review: refit: L2 tighter; L1 unchanged"
+   "notes": "review: refit: L2 tighter; L1 unchanged | review: briefing register pass"
   },
   {
    "id": "mission_ext:MZ_320:strMission",
@@ -29,9 +29,9 @@
   },
   {
    "id": "mission_ext:MZ_330:strStory",
-   "en": "Ignoring the order to halt attacks on Micronians, Quamzin attacked their ship.\\nWe can't let Quamzin get ahead of us. We're launching our own attack too.",
+   "en": "Ignoring the order to halt attacks on Micronians, Quamzin attacked their ship.\\nQuamzin must not be allowed to get ahead of us. Commencing our own attack.",
    "flags": [],
-   "notes": "review: refit: tighter wording"
+   "notes": "review: refit: tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MZ_340:strMission",
@@ -105,9 +105,9 @@
   },
   {
    "id": "mission_ext:MI_020:strStory",
-   "en": "We've spotted a pilot flying a Valkyrie around Saturn without permission.\\nUnauthorized use of a Valkyrie won't be tolerated. Capture the pilot at once.",
+   "en": "We have spotted a pilot flying a Valkyrie around Saturn without permission.\\nUnauthorized Valkyrie use will not be tolerated. Capture the pilot at once.",
    "flags": [],
-   "notes": "review: refit: \"took a Valkyrie out without permission and is flying it\" merged"
+   "notes": "review: refit: \"took a Valkyrie out without permission and is flying it\" merged | review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_030:strMission",
@@ -117,9 +117,9 @@
   },
   {
    "id": "mission_ext:MI_030:strStory",
-   "en": "The Zentradi have taken Macross crew members captive. To rescue the hostages,\\ninfiltrate the enemy ship and go at once to where they're thought to be held.",
+   "en": "The Zentradi have taken Macross crew members captive. To rescue the hostages,\\ninfiltrate the enemy ship and proceed at once to where they are believed held.",
    "flags": [],
-   "notes": "review: refit: tighter wording"
+   "notes": "review: refit: tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_040:strMission",
@@ -129,105 +129,105 @@
   },
   {
    "id": "mission_ext:MI_040:strStory",
-   "en": "To prepare for relentless Zentradi raids, we'll now conduct special training.\\nWin a mock battle against the rumored genius pilot, Maximilian Jenius.",
+   "en": "Commencing special training to prepare for the relentless Zentradi raids.\\nWin a mock battle against the rumored genius pilot, Maximilian Jenius.",
    "flags": [],
-   "notes": "Full name Maximilian Jenius kept as in the source. | review: refit: \"the genius pilot everyone is talking about\" to \"the rumored genius pilot\""
+   "notes": "Full name Maximilian Jenius kept as in the source. | review: refit: \"the genius pilot everyone is talking about\" to \"the rumored genius pilot\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_050:strMission",
-   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "en": "Immediately annihilate the Meltrandi\\nforces closing in on the Macross.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_050:strStory",
-   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo prevent any further approach, annihilate the Meltrandi forces at once.",
    "flags": [],
-   "notes": "review: refit: tighter wording, second Macross mention dropped"
+   "notes": "review: refit: tighter wording, second Macross mention dropped | review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_051:strMission",
-   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "en": "Immediately annihilate the Meltrandi\\nforces closing in on the Macross.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 342)"
   },
   {
    "id": "mission_ext:MI_051:strStory",
-   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo prevent any further approach, annihilate the Meltrandi forces at once.",
    "flags": [],
-   "notes": "review: refit: tighter wording, second Macross mention dropped"
+   "notes": "review: refit: tighter wording, second Macross mention dropped | review: briefing register pass (same text as row 343)"
   },
   {
    "id": "mission_ext:MI_055:strMission",
-   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "en": "Immediately annihilate the Meltrandi\\nforces closing in on the Macross.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 342)"
   },
   {
    "id": "mission_ext:MI_055:strStory",
-   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo prevent any further approach, annihilate the Meltrandi forces at once.",
    "flags": [],
-   "notes": "review: refit: tighter wording, second Macross mention dropped"
+   "notes": "review: refit: tighter wording, second Macross mention dropped | review: briefing register pass (same text as row 343)"
   },
   {
    "id": "mission_ext:MI_056:strMission",
-   "en": "Annihilate the Meltrandi forces\\nclosing in on the Macross at once.",
+   "en": "Immediately annihilate the Meltrandi\\nforces closing in on the Macross.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 342)"
   },
   {
    "id": "mission_ext:MI_056:strStory",
-   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo keep them from getting any closer, annihilate the Meltrandi at once.",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross.\\nTo prevent any further approach, annihilate the Meltrandi forces at once.",
    "flags": [],
-   "notes": "review: refit: tighter wording, second Macross mention dropped"
+   "notes": "review: refit: tighter wording, second Macross mention dropped | review: briefing register pass (same text as row 343)"
   },
   {
    "id": "mission_ext:MI_060:strMission",
-   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "en": "To end the interstellar war,\\ndestroy Golg Boddole Zer.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_060:strStory",
-   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "en": "Peace with the Zentradi has vanished. Boddole Zer has begun an all-out attack.\\nCommencing the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
    "flags": [],
-   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\" | review: briefing register pass"
   },
   {
    "id": "mission_ext:MI_061:strMission",
-   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "en": "To end the interstellar war,\\ndestroy Golg Boddole Zer.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 350)"
   },
   {
    "id": "mission_ext:MI_061:strStory",
-   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "en": "Peace with the Zentradi has vanished. Boddole Zer has begun an all-out attack.\\nCommencing the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
    "flags": [],
-   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\" | review: briefing register pass (same text as row 351)"
   },
   {
    "id": "mission_ext:MI_065:strMission",
-   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "en": "To end the interstellar war,\\ndestroy Golg Boddole Zer.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 350)"
   },
   {
    "id": "mission_ext:MI_065:strStory",
-   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "en": "Peace with the Zentradi has vanished. Boddole Zer has begun an all-out attack.\\nCommencing the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
    "flags": [],
-   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\" | review: briefing register pass (same text as row 351)"
   },
   {
    "id": "mission_ext:MI_066:strMission",
-   "en": "To end the interstellar war,\\ndefeat Golg Boddole Zer.",
+   "en": "To end the interstellar war,\\ndestroy Golg Boddole Zer.",
    "flags": [],
-   "notes": ""
+   "notes": "review: briefing register pass (same text as row 350)"
   },
   {
    "id": "mission_ext:MI_066:strStory",
-   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out.\\nWe'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "en": "Peace with the Zentradi has vanished. Boddole Zer has begun an all-out attack.\\nCommencing the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
    "flags": [],
-   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\""
+   "notes": "review: refit: restructured; \"overwhelming superiority in strength\" to \"hopeless odds\" | review: briefing register pass (same text as row 351)"
   },
   {
    "id": "mission_ext:MP_310:strMission",
@@ -237,11 +237,11 @@
   },
   {
    "id": "mission_ext:MP_310:strStory",
-   "en": "To prepare for emergencies like a Zentradi remnant revolt or unseen threats,\\nregular U.N. Forces training begins. Beat each Destroid squad in mock battle.",
+   "en": "To prepare for emergencies like a Zentradi remnant revolt or unseen threats,\\nregular U.N. Forces drills begin. Defeat each Destroid squad in a mock battle.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Source uses the old U.N. Forces short form in the Macross Plus era; followed the brief's literal mapping. | review: refit: 'as yet unseen' -> 'unseen'; 'we will now conduct' -> 'begins'; 'fight mock battles... and win' -> 'beat... in mock battle'"
+   "notes": "Source uses the old U.N. Forces short form in the Macross Plus era; followed the brief's literal mapping. | review: refit: 'as yet unseen' -> 'unseen'; 'we will now conduct' -> 'begins'; 'fight mock battles... and win' -> 'beat... in mock battle' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_320:strMission",
@@ -251,9 +251,9 @@
   },
   {
    "id": "mission_ext:MP_320:strStory",
-   "en": "Rioting Zentradi remnants have ignored a call to surrender and still run wild.\\nTo put down the riot at once, annihilate the Zentradi remnants.",
+   "en": "Rioting Zentradi remnants ignored a call to surrender and are still rampaging.\\nTo suppress the riot at once, annihilate the Zentradi remnants.",
    "flags": [],
-   "notes": "review: refit: 'are still on the rampage' -> 'still run wild'"
+   "notes": "review: refit: 'are still on the rampage' -> 'still run wild' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_330:strMission",
@@ -275,9 +275,9 @@
   },
   {
    "id": "mission_ext:MP_340:strStory",
-   "en": "A flight test now begins to measure the prototype's thrust, agility and more.\\nRun a time trial to measure how long you take to clear all the waypoints.",
+   "en": "Commencing a flight test to measure the prototype's thrust, agility and more.\\nConduct a time trial measuring the time taken to pass all waypoints.",
    "flags": [],
-   "notes": "review: refit: 'flight performance, including thrust and maneuverability' -> 'thrust, agility and more'"
+   "notes": "review: refit: 'flight performance, including thrust and maneuverability' -> 'thrust, agility and more' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_350:strMission",
@@ -287,9 +287,9 @@
   },
   {
    "id": "mission_ext:MP_350:strStory",
-   "en": "To test the prototype's agility, we'll fly it in a confined space like a base.\\nRun a time trial: destroy all targets and reach the target area.",
+   "en": "Testing the prototype's agility in a confined space, such as a base interior.\\nConduct a time trial: destroy all targets and reach the target area.",
    "flags": [],
-   "notes": "review: refit: 'like the inside of a base' -> 'like a base'; dropped 'as fast as you can' (implied by time trial)"
+   "notes": "review: refit: 'like the inside of a base' -> 'like a base'; dropped 'as fast as you can' (implied by time trial) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_360:strMission",
@@ -299,9 +299,9 @@
   },
   {
    "id": "mission_ext:MP_360:strStory",
-   "en": "To gauge the prototype's combat ability, we'll now stage an arena mock battle.\\nBattle a large number of targets, simulating combat against multiple enemies.",
+   "en": "Commencing an arena mock battle to measure the prototype's combat capability.\\nEngage a large number of targets, simulating combat against multiple enemies.",
    "flags": [],
-   "notes": "review: refit: tighter wording"
+   "notes": "review: refit: tighter wording | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_370:strMission",
@@ -311,9 +311,9 @@
   },
   {
    "id": "mission_ext:MP_370:strStory",
-   "en": "We've had reports of Zentradi remnants appearing from a planet near Eden.\\nWe'll now annihilate them, also as a live combat test of the prototype.",
+   "en": "Zentradi remnants have been reported emerging from a planet near Eden.\\nWe will now annihilate them, doubling as a live combat test of the prototype.",
    "flags": [],
-   "notes": "review: refit: 'planet Eden' -> 'Eden'; second mention of Zentradi remnants -> 'them'"
+   "notes": "review: refit: 'planet Eden' -> 'Eden'; second mention of Zentradi remnants -> 'them' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_380:strMission",
@@ -325,11 +325,11 @@
   },
   {
    "id": "mission_ext:MP_380:strStory",
-   "en": "For prototype combat data in varied settings, a mock air battle now begins.\\nDestroy the VF-11 and drone-escorted bombers short of the target area.",
+   "en": "Commencing a mock air battle for prototype combat data in varied settings.\\nDestroy the VF-11 and drone-escorted bombers short of the target area.",
    "flags": [
     "uncertain"
    ],
-   "notes": "Bombers plural, as row 372. | review: refit: 'in a range of environments' -> 'in varied settings'; 'before they reach' -> 'short of'"
+   "notes": "Bombers plural, as row 372. | review: refit: 'in a range of environments' -> 'in varied settings'; 'before they reach' -> 'short of' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_390:strMission",
@@ -339,11 +339,11 @@
   },
   {
    "id": "mission_ext:MP_390:strStory",
-   "en": "For prototype combat data in varied settings, a mock sea battle now begins.\\nSink the multipurpose carrier escorted by VF-11s, Destroids and an Aegis ship.",
+   "en": "Commencing a mock sea battle for prototype combat data in varied settings.\\nSink the multipurpose carrier escorted by VF-11s, Destroids and an Aegis ship.",
    "flags": [
     "uncertain"
    ],
-   "notes": "'Aegis ship' kept literal; 'multipurpose carrier' for the general-purpose carrier. | review: term added to glossary | review: refit: 'Destroid squads' -> 'Destroids'; 'Destroy' -> 'Sink' (carrier)"
+   "notes": "'Aegis ship' kept literal; 'multipurpose carrier' for the general-purpose carrier. | review: term added to glossary | review: refit: 'Destroid squads' -> 'Destroids'; 'Destroy' -> 'Sink' (carrier) | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_400:strMission",
@@ -353,9 +353,9 @@
   },
   {
    "id": "mission_ext:MP_400:strStory",
-   "en": "For prototype combat data in varied settings, a mock ground battle now begins.\\nDestroy the base defended by VF-11s and Destroid squads.",
+   "en": "Commencing a mock ground battle for prototype combat data in varied settings.\\nDestroy the base defended by VF-11s and Destroid squads.",
    "flags": [],
-   "notes": "review: refit: 'in a range of environments' -> 'in varied settings'"
+   "notes": "review: refit: 'in a range of environments' -> 'in varied settings' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_410:strMission",
@@ -365,9 +365,9 @@
   },
   {
    "id": "mission_ext:MP_410:strStory",
-   "en": "For head-to-head prototype data, we now hold a mock battle against the rival.\\nNeedless to say, it's the most crucial test for selection. Win at any cost.",
+   "en": "Commencing a mock battle vs. the rival model for head-to-head prototype data.\\nNeedless to say, this is the most crucial test for selection. Win at all costs.",
    "flags": [],
-   "notes": "review: refit: 'prototype against prototype' -> 'head-to-head'; 'rival model' -> 'rival'"
+   "notes": "review: refit: 'prototype against prototype' -> 'head-to-head'; 'rival model' -> 'rival' | review: briefing register pass"
   },
   {
    "id": "mission_ext:MP_420:strMission",
@@ -511,11 +511,11 @@
   },
   {
    "id": "mission_ext:M7_310:strMission",
-   "en": "Wipe out the unknowns that just appeared.",
+   "en": "Annihilate the unidentified craft\\nthat have suddenly appeared.",
    "flags": [
     "uncertain"
    ],
-   "notes": "'Unidentified aircraft' for the group of unidentified machines; 'units' also possible. | review: same source as row 402; one rendering | review: refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source"
+   "notes": "'Unidentified aircraft' for the group of unidentified machines; 'units' also possible. | review: same source as row 402; one rendering | review: refit: 'Annihilate the unidentified aircraft that suddenly appeared' compressed; single line kept as in the source | review: briefing register pass"
   }
  ],
  "report": {

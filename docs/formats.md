@@ -506,3 +506,18 @@ In the game font, `⑳` (0x87 0x53) is drawn as ™. The Japanese save messages
 use it after メモリースティック. Also not
 text: the Shift-JIS list at file 0x3F771C (6,953 characters, 13.9 KB, with no
 direct reference). It is probably the font's glyph order.
+
+## A2A layouts (part positions)
+
+Found while regrouping the record screen's missile count (0.7.7). After the
+`A2A ` header come part records of 0x40 bytes (texture name in the first 0x20
+bytes, then a link field, 0x3000, the part id the code looks up with
+0x3D37C, and the size). Each part's position is in a keyframe of 13 words:
+`[part, 1, 0, -1, 0, 0, 0, 100, 100, -1, x, y, 0]`. `tools/a2a_patch.py` moves
+parts listed in `work/ui/a2a_patches.json` (checking the old x).
+
+Numbers drawn with 0x23D108 (layout, first part id, digit count, 64-bit value)
+use one part per digit, the last id being the ones digit; leading zeros are
+hidden. The "Total Missiles Fired" count (`gallery/a2a_record_all_tactics_bar.a2a`,
+ids 401-412) was laid out in groups of four around the Japanese unit marks
+(oku, man); it is now grouped by three with a 6 px gap.

@@ -299,7 +299,7 @@
     266,
     47
    ],
-   "en": "Total Sorties\nTimes Shot Down\nMission Clear Rate\nTotal Kills\nItem Collection Rate\nPlay Time",
+   "en": "Total Sorties\nTimes Shot Down\nMission Clear Rate\nTotal Kills\nItem Completion Rate\nPlay Time",
    "kind": "other",
    "style": "white bold with grey bevel on transparent, two rows of three labels; % signs and a colon are drawn separately",
    "notes": "Order: top row left to right, then bottom row left to right. \"Mission Clear Rate\" and \"Play Time\" match ui.json.",
@@ -5645,7 +5645,7 @@
     249,
     191
    ],
-   "en": "Stamina\nShooting\nMelee\nDefense\nSpeed\nFocus\nAwakening",
+   "en": "Endurance\nShooting\nMelee\nDefense\nSpeed\nFocus\nAwakening",
    "kind": "caption",
    "style": "light grey labels in left column of dark panel, dotted underlines; gauges at right",
    "notes": "Pilot stats, one per line top to bottom. Label column ~65 px. Shooting/Melee/Awakening follow existing UI terms ('Shooting Def.', 'Melee Def.', 'Awakening'); Stamina, Defense, Speed, Focus are coined.",
@@ -6151,7 +6151,7 @@
     289,
     96
    ],
-   "en": "STA SHT MEL DEF SPD FOC AWK",
+   "en": "END SHT MEL DEF SPD FOC AWK",
    "kind": "caption",
    "style": "grey single-kanji column headers, evenly spaced (~21 px pitch); MISSION/ITEM/MESSAGE are English",
    "notes": "ID card pilot stats: one-kanji abbreviations of Stamina/Shooting/Melee/Defense/Speed/Focus/Awakening (see hangar pilot status). 3-letter caps in a small font.",
@@ -6447,7 +6447,7 @@
     24,
     89
    ],
-   "en": "STA\nSHT\nMEL\nDEF\nSPD\nFOC\nAWK",
+   "en": "END\nSHT\nMEL\nDEF\nSPD\nFOC\nAWK",
    "kind": "caption",
    "style": "white bold kanji, 2 per row, on transparent; 7 rows ~12.7px pitch",
    "notes": "Pilot stats, one per line top to bottom: Stamina, Shooting, Melee, Defense, Speed, Focus, Awakening. Same 3-letter set as img_menu_a (set_card_spec); full words do not fit here. Only 24px wide.",
@@ -6867,7 +6867,7 @@
     60,
     138
    ],
-   "en": "STA\nSHT\nMEL\nDEF\nSPD\nFOC\nAWK",
+   "en": "END\nSHT\nMEL\nDEF\nSPD\nFOC\nAWK",
    "kind": "caption",
    "style": "grey bold kanji on black, rows separated by dotted lines, under cyan 'STATUS' header",
    "notes": "Pilot stats, one per line top to bottom: Stamina, Shooting, Melee, Defense, Speed, Focus, Awakening. Same 3-letter set as img_menu_a (set_card_spec); full words do not fit here. 60px wide; values are drawn at runtime on the right, keep labels left-aligned within ~28px.",
@@ -6909,7 +6909,7 @@
     289,
     96
    ],
-   "en": "STA SHT MEL DEF SPD FOC AWK",
+   "en": "END SHT MEL DEF SPD FOC AWK",
    "kind": "caption",
    "style": "grey bold single kanji, one per dark 16x16 tile, 7 tiles in a row; the row appears twice (top and bottom)",
    "notes": "Pilot stat tiles, same set as img_menu_a set_card_spec. Tiles ~16px wide at x37, 56, 75, 94, 113, 132, 151 (19px pitch); 3 letters need a 4px font.",
