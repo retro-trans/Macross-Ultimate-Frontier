@@ -25704,7 +25704,7 @@
    "row": 867,
    "slice": 4,
    "id": "u0867",
-   "en": "Evening",
+   "en": "Dusk",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26826,7 +26826,7 @@
    "row": 917,
    "slice": 4,
    "id": "u0917",
-   "en": "You can no longer guard, but melee attack\npower triples.",
+   "en": "Increase melee attack power to 3x, but can\nno longer guard.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26926,7 +26926,7 @@
    "row": 922,
    "slice": 4,
    "id": "u0922",
-   "en": "Increases attack power, speed, and boost\ncapacity by 1.5x.",
+   "en": "Increase attack power, speed, and boost\ncapacity to 1.5x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -26966,7 +26966,7 @@
    "row": 924,
    "slice": 4,
    "id": "u0924",
-   "en": "Increase all weapons' ammo capacity by 1.5x.",
+   "en": "Increase all weapons' ammo capacity to 1.5x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27054,7 +27054,7 @@
    "row": 928,
    "slice": 4,
    "id": "u0928",
-   "en": "Increase attack power of self and allies by\n1.5x and gradually restore HP.",
+   "en": "Increase attack power of self and allies to\n1.5x and gradually restore HP.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27430,7 +27430,7 @@
    "row": 946,
    "slice": 4,
    "id": "u0946",
-   "en": "Lock-on range doubles, and increase multi-lock\nspeed to 1.5x.",
+   "en": "Increase lock-on range to 2x and multi-lock\nspeed to 1.5x.",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -27470,7 +27470,7 @@
    "row": 948,
    "slice": 4,
    "id": "u0948",
-   "en": "When rescuing your partner, they recover 50%\nof their HP.",
+   "en": "When rescuing your partner, they recover\n50% of their HP.",
    "flags": [
     "uncertain"
    ],
@@ -28320,7 +28320,7 @@
    "row": 989,
    "slice": 5,
    "id": "u0989",
-   "en": "Full Spirit",
+   "en": "High Spirit",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -32912,7 +32912,7 @@
    "row": 1202,
    "slice": 5,
    "id": "u1202",
-   "en": "Spend Nyan-Nyan Pts to get \"Characters\".",
+   "en": "Spend Nyan-Nyan Points to get \"Characters\".",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -32932,7 +32932,7 @@
    "row": 1203,
    "slice": 5,
    "id": "u1203",
-   "en": "Spend Nyan-Nyan Pts to get \"Units\".",
+   "en": "Spend Nyan-Nyan Points to get \"Units\".",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -32952,7 +32952,7 @@
    "row": 1204,
    "slice": 5,
    "id": "u1204",
-   "en": "Spend Nyan-Nyan Pts to get \"Mode Unlocks\".",
+   "en": "Spend Nyan-Nyan Points to get \"Mode Unlocks\".",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -32972,7 +32972,7 @@
    "row": 1205,
    "slice": 5,
    "id": "u1205",
-   "en": "Spend Nyan-Nyan Pts to get \"BGM\".",
+   "en": "Spend Nyan-Nyan Points to get \"BGM\".",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -32992,7 +32992,7 @@
    "row": 1206,
    "slice": 5,
    "id": "u1206",
-   "en": "Spend Nyan-Nyan Pts to get \"Movies\".",
+   "en": "Spend Nyan-Nyan Points to get \"Movies\".",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -33012,7 +33012,7 @@
    "row": 1207,
    "slice": 5,
    "id": "u1207",
-   "en": "Spend Nyan-Nyan Pts to get \"Wallpapers\".",
+   "en": "Spend Nyan-Nyan Points to get \"Wallpapers\".",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -33032,7 +33032,7 @@
    "row": 1208,
    "slice": 5,
    "id": "u1208",
-   "en": "Spend Nyan-Nyan Pts to get \"Titles\".",
+   "en": "Spend Nyan-Nyan Points to get \"Titles\".",
    "flags": [],
    "notes": "",
    "status": "done"
@@ -33052,7 +33052,7 @@
    "row": 1209,
    "slice": 6,
    "id": "u1209",
-   "en": "Spend Nyan-Nyan Pts to get \"Icons\".",
+   "en": "Spend Nyan-Nyan Points to get \"Icons\".",
    "flags": [],
    "notes": "",
    "status": "done"

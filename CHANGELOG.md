@@ -1,5 +1,84 @@
 # Changelog
 
+## [0.7.15] - 2026-10-23 (release candidate, includes lyric drafts)
+
+### Added
+- Romaji above the existing English song lyrics, using the saved local Japanese ASR transcripts. ASCII Hepburn readings use fugashi/UniDic-lite and pykakasi, with particle readings and conjugated verb endings handled together. Short audio crops were retried for gaps; local reading corrections stay in ignored `work/source/lyrics/`.
+- `tools/lyrics_romaji.py`: previews changes by default; `--write` saves the English-only templates before adding romaji. Reruns use that backup. Combined captions retain separate `en` and `romaji` review fields and fit the existing 290 px, three-row lyric box.
+- Romaji appears in 239 display captions across 27 tracks. All 304 English captions from v0.7.14 are preserved; splitting two long captions gives 306 display captions across the same 29 tracks. English refrains and passages without a usable Japanese transcription remain English-only. The three previously withheld tracks remain empty. Readings and word timing are still drafts and need in-game review.
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.15).iso`, built with `python tools/build_iso.py 0.7.15 --work work/output/build_0.7.15 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json --lyrics work/translation/en/lyrics` (log `work/output/build_0.7.15.log`). The user subsequently requested a release and explicitly confirmed including lyrics and romaji, overriding the earlier local-only rule for this version.
+- Verified all 102 ISO files against the 33 replacement outputs and unchanged original files. All 306 caption records match their text and timing inputs; original song audio bytes are unchanged. Width/timing checks report no errors or warnings, and texture redraw has no overflow or missing layouts. English preservation was checked against the v0.7.14 backup. Not tested in game.
+- Size: 2,223,337,472 bytes; SHA-256 `78b92d6109f103c8223de7e418e68ad4e1b30c58695c7a64e014950355cd494b`. Verification and frozen lyric inputs: `work/output/build_0.7.15/verification.json` and `lyric_inputs/`.
+- Compact release image: `work/output/Macross Ultimate Frontier (EN v0.7.15 release).iso`, 1,238,335,488 bytes, SHA-256 `ad326ede78bf0e2a94dd88a4c3fc41325892134c666bb152cbb163fe0c4cffdf`. Re-laid out with `tools/relayout_iso.py`; all 102 files match the test build.
+
+## [0.7.14] - 2026-10-23 (private lyric draft build, not released)
+
+### Added
+- At the user's request, transcribed the locally supplied game songs with Whisper large-v3 and drafted English lyric captions. The private templates now provide 304 timed captions across 29 tracks (21 distinct recordings plus eight exact duplicates). No web lyric text was fetched.
+- `tools/lyrics_transcribe.py`: read-only plan by default; `--write` uses the existing local faster-whisper environment and cached model, saves Japanese transcription and English translation segments in ignored `work/source/lyrics/`, and fills empty lyric templates. Existing populated templates are preserved. Obvious credit hallucinations, repeated vocalizations and untranslated segments are withheld.
+- Corrected or withheld obvious ASR errors in the local drafts. Every caption remains marked `review_required`; transcription, translation and sung timing have not been checked by ear. Some passages are missing. Sara (`bgm79`), Ishtar (`bgm80`) and Myung (`bgm81`) have no captions because ASR did not recover reliable words. Private review details: `work/source/lyrics/review_report.json` and `review_drafts.py`.
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.14).iso`, built with `python tools/build_iso.py 0.7.14 --work work/output/build_0.7.14 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json --lyrics work/translation/en/lyrics` (log `work/output/build_0.7.14.log`). Includes the 12,506 voice subtitles and actual draft captions instead of placeholder labels. Keep this ISO and its lyric text local; no public release or patch was created.
+- Verified all 102 ISO files against the 33 replacement outputs and the unchanged original files. All 29 song tails contain the expected 304 captions and timing records; each original audio file is byte-identical before its appended tail. Texture redraw: 481 textures, no overflow or missing layouts. Not tested in game.
+- Size: 2,219,476,992 bytes; SHA-256 `3cb7286a85e1ba43c432d0bcd2a0a0129c175dcc43bf817ee902070a6624c942`. Verification details: `work/output/build_0.7.14/verification.json`.
+
+## [0.7.13] - 2026-10-23 (local test build, not released)
+
+### Changed
+- Local rebuild of the current English translation and 12,506 voice subtitles without the v0.7.12 placeholder lyric captions. No song lyrics are included.
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.13).iso`, built with `python tools/build_iso.py 0.7.13 --work work/output/build_0.7.13 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.13.log`).
+- Verified all 102 ISO files against the four build outputs and the unchanged original files; volume size and file extents also pass. Texture redraw: 481 textures, no overflow or missing layouts. Not tested in game.
+- Size: 2,216,732,672 bytes; SHA-256 `e5d69477cd6500a88211d406dbf1168cfa2f671ff74b9e820b183865b366b164`. Verification details: `work/output/build_0.7.13/verification.json`.
+
+## [0.7.12] - 2026-10-23 (test build, placeholder lyrics, not released)
+
+### Added
+- **Song lyrics in missions** (system only; `docs/lyrics.md`). While a song plays in a mission, the current lyric line is shown at the top of the screen (pale yellow, VWF font, 12 px, between the partner/team panels and the timer), clear of the voice subtitles at the bottom. The lyric text is not included: song lyrics are copyrighted, so the user fills in the templates, which stay local.
+  - `tools/lyrics.py`: `list` (the 32 vocal tracks of the 86 BGM files, from the EBOOT's BGM table, with length and loop), `templates` (one `work/translation/en/lyrics/bgmNN.json` per song: title, file, length, loop, empty `lines` of `start_sec` / `end_sec` / `text`; 8 songs are the same recording as another and say `same_as`), `check`, `build` (appends the lines to the song's own `bgmNN.at3`).
+  - `tools/lyrics_patch.py`: EBOOT hooks at the ATRAC stream start (0x26C8F0) and decode (0x26CA88) count the samples played per sound channel; a draw hook at the end of the mission 2D layer (0x140D68, chained after the voice subtitles) shows the line for the song time, folded back into the song's loop. 208 words of code in unused VFPU helpers (0x2A1A5C).
+  - The game loads a BGM file whole into its stream buffer, so the lyrics arrive with the song: no extra read, no extra memory beyond the tail.
+  - `tools/build_iso.py --lyrics <dir>` (your filled files) or `--lyrics-placeholder` (test lines "bgm03 line 1 at 0:02" every 6 s in every BGM file).
+  - `work/translation/*/lyrics/` is gitignored. Never build a public release with `--lyrics`: the patch would carry the lyric text.
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.12).iso`, built with `python tools/build_iso.py 0.7.12 --work work/output/build_0.7.12 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json --lyrics-placeholder` (log `work/output/build_0.7.12.log`). Same content as 0.7.11 plus placeholder lyrics in every BGM file: a test of the mechanism, not for players.
+- Checked in PPSSPP 1.20.4: placeholder lines appear and change on time in the attract demo, Free Play Versus (bgm66, also after the loop end) and Co-op "Of Sea and Wind" (bgm18, also with 2D Display OFF); the voice subtitles still show. Song skills, real hardware and timing by ear were not checked (`docs/lyrics.md`, Testing).
+
+## [0.7.11] - 2026-10-23 (test build, not released)
+
+### Added
+- **Subtitles for the Zentradi-language voice clips** (player report: Golg Boddole Zer had none in a Do You Remember Love?-era mission). These clips are in the film's invented Zentradi language, so Whisper wrote phonetic nonsense and they were flagged `no_subtitle`. They are now read with the film's published Zentradi word list (Japanese Wikipedia "Zentradi" language section and a fan word list; each row's `notes` give the words used). All are flagged `uncertain`: the meaning comes from the word list, not from the film's own subtitle.
+  - Golg Boddole Zer: "Perish now, Micronians!" (vpz_bd2_106, *holt de-zants maikuraan*), "The enemy... is Protoculture!" (vpz_bd2_160, *deburan protoculture*), "Hear this! The enemy shall perish! All Zentradi forces, attack!" (vpz_bd2_600; its ending *arma zentran holt gadoras* is his attack order in the film). The game reuses these clips in nine more slots (107, 108, 161, 162, 187-189, 602, 609), which get the same lines.
+  - Milia (both sizes): "Enemy!" (vps_mil_012, vps_mil_604, vpz_mil_012, vpz_mil_604, *deburan*).
+  - Quamzin: vpz_qmj_310 is Japanese, not Zentradi; read as *chi ga tagiru na! omae to no sentou wa yo*: "Fighting with you gets my blood boiling!" (second half guessed).
+- Voice subtitles: 12,506 of 14,215 clips (was 12,489).
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.11).iso`, built with `python tools/build_iso.py 0.7.11 --work work/output/build_0.7.11 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.11.log`). Same content as 0.7.10 plus the subtitles above. Not yet checked in game.
+
+## [0.7.10] - 2026-10-22 (test build, not released)
+
+### Changed
+- **Nyan-Nyan Points wording** (user decision, recorded in `work/glossary/terms.json`): sentences spell out "Nyan-Nyan Points"; labels and amounts use lowercase "pts".
+  - The eight shop help lines now read "Spend Nyan-Nyan Points to get ..." (u1202-u1209, was "Nyan-Nyan Pts").
+  - The shop's balance label is "Your Nyan-Nyan pts" (`nyan_base_00.gim`, was "Pts"). Prices already read "800 pts".
+- Mission information: time of day "Evening" is now **"Dusk"** (u0867).
+- "Full Spirit" is now **"High Spirit"** (u0989; glossary updated).
+- Skill descriptions brought in line with the later wording (player feedback):
+  - Melee Genes: "Increase melee attack power to 3x, but can / no longer guard." (u0917).
+  - Ace and Bombing King: "by 1.5x" is now "to 1.5x", and Ace starts "Increase" like the others (u0922, u0924). Galactic Fairy gets the same "to 1.5x" (u0928).
+  - Clairvoyance: "Increase lock-on range to 2x and multi-lock / speed to 1.5x." (u0946).
+  - Medic Squad: line break moved so "50% of their HP" stays together (u0948).
+
+### Build
+- `work/output/Macross Ultimate Frontier (EN v0.7.10).iso`, built with `python tools/build_iso.py 0.7.10 --work work/output/build_0.7.10 --voice-subs work/translation/en/voice/voice_subs.en.json --tr work/translation/en/dialogue.json --tr work/translation/en/ui_insert.json --tr work/translation/en/internal_labels.json` (log `work/output/build_0.7.10.log`).
+- Checked in PPSSPP 1.20.4 with the reported save: the shop shows "Your Nyan-Nyan pts", "800 pts" and "Spend Nyan-Nyan Points to get "Units"."
+
 ## [0.7.9] - 2026-10-21 (public release)
 
 ### Changed

@@ -405,13 +405,12 @@
   },
   {
    "id": "vpz_qmj_310",
-   "en": "",
+   "en": "Fighting with you gets my blood boiling!",
    "flags": [
-    "no_subtitle",
-    "whisper_doubt",
-    "uncertain"
+    "uncertain",
+    "whisper_doubt"
    ],
-   "notes": "Garbled; possibly a Zentradi-language line. No safe reading."
+   "notes": "Japanese, not Zentradi. Heard 'chi ga tagiru na, omae doru sensu owa yo'; a plain re-run gave 'chi ga tagiru na! omae to no sensou wa yo!'. Read as 'chi ga tagiru na! omae to no sentou wa yo' (my blood boils, fighting with you). Partner slot (310)."
   },
   {
    "id": "vpz_qmj_311",
@@ -558,7 +557,8 @@
    "row 6860 (vpz_qmj_309): 'Kamujin ikka' = Quamzin's family/band; rendered 'crew' (glossary has no term).",
    "row 6861 (vpz_qmj_310): Garbled; possibly a Zentradi-language line. No safe reading.",
    "row 6865 (vpz_qmj_322): Heard 'tonikaku ukeyarou daze'; guessed an 'akuun' (luck) line like the neighbours.",
-   "row 6876 (vpz_qmj_342): Unclear whether he threatens or warns; kept as a warning that works either way."
+   "row 6876 (vpz_qmj_342): Unclear whether he threatens or warns; kept as a warning that works either way.",
+   "vpz_qmj_310: second half of the line guessed, see notes"
   ],
   "whisper_doubt": [
    "row 6801 (vpz_qmj_137): Heard 'shikusho'; most likely 'chikusho' (damn).",

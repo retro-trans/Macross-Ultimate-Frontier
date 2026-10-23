@@ -412,12 +412,12 @@
   },
   {
    "id": "vps_mil_604",
-   "en": "",
+   "en": "Enemy!",
    "flags": [
-    "no_subtitle",
+    "uncertain",
     "whisper_doubt"
    ],
-   "notes": "Zentradi-style word; Whisper wrote 'debura', not understood."
+   "notes": "Zentradi language. Heard 'debura'; read as deburan (enemy). Zentradi words from the film's lexicon (ja.wikipedia 'Zentradi' language section; gansaito1.hatenablog.jp 2016-09-14 word list): deburan = enemy. Story line after 'Got it.' (603)."
   },
   {
    "id": "vps_mil_605",
@@ -520,7 +520,8 @@
  "report": {
   "uncertain": [
    "row 6406 vps_mil_182: Are you okay? Okay. - Transcript repeats 'daijoubu', question mark only on the first; may be two questions. Kept literal.",
-   "row 6412 vps_mil_188: How can this be? - Sibling clip transcribes differently ('can't put it into words'); kept the sense of the clearer one."
+   "row 6412 vps_mil_188: How can this be? - Sibling clip transcribes differently ('can't put it into words'); kept the sense of the clearer one.",
+   "vps_mil_604: Zentradi-language reading, see notes"
   ],
   "whisper_doubt": [
    "row 6406 vps_mil_182: Transcript repeats 'daijoubu', question mark only on the first; may be two questions. Kept literal.",

@@ -158,11 +158,12 @@
   },
   {
    "id": "vpz_bd2_106",
-   "en": "",
+   "en": "Perish now, Micronians!",
    "flags": [
-    "no_subtitle"
+    "uncertain",
+    "whisper_doubt"
    ],
-   "notes": "Garbled Zentradi-sounding words; cannot be made out."
+   "notes": "Zentradi language. Heard 'horuto dezan(tsu) maikura(n)'; a re-run of Whisper gave the same. Zentradi words from the film's lexicon (ja.wikipedia 'Zentradi' language section; gansaito1.hatenablog.jp 2016-09-14 word list): holt = now/new, de-zants = perish, maikuraan = Micronian (human). Attack slot (106 = 'Take this!' for other pilots)."
   },
   {
    "id": "vpz_bd2_127",
@@ -198,11 +199,12 @@
   },
   {
    "id": "vpz_bd2_160",
-   "en": "",
+   "en": "The enemy... is Protoculture!",
    "flags": [
-    "no_subtitle"
+    "uncertain",
+    "whisper_doubt"
    ],
-   "notes": "Garbled Zentradi-sounding words; cannot be made out."
+   "notes": "Zentradi language. Heard 'deburan purotokorutia' (re-run: 'deburan purotokorutea'): deburan + Protoculture. Zentradi words from the film's lexicon (ja.wikipedia 'Zentradi' language section; gansaito1.hatenablog.jp 2016-09-14 word list): deburan = enemy. Mission-failed slot (160); the enemy-is-Protoculture reading is the film's theme, wording is ours."
   },
   {
    "id": "vpz_bd2_163",
@@ -232,11 +234,12 @@
   },
   {
    "id": "vpz_bd2_600",
-   "en": "",
+   "en": "Hear this! The enemy shall perish! All Zentradi forces, attack!",
    "flags": [
-    "no_subtitle"
+    "uncertain",
+    "whisper_doubt"
    ],
-   "notes": "Long Zentradi-language speech, transcript is garbled phonetics."
+   "notes": "Zentradi language. Heard 'esukesuto intaa fo dezantsu deburarido karaa aruma zentoran horuto gadora'. The end, 'Arma Zentran, holt gadora', is Boddole Zer's attack order in Do You Remember Love? (Yahoo Chiebukuro q11102066796: 'all Zentradi forces, begin the attack'). Zentradi words from the film's lexicon (ja.wikipedia 'Zentradi' language section; gansaito1.hatenablog.jp 2016-09-14 word list): esekes = understand (imperative), fo = future, de-zants = perish, deburan = enemy, arma = all, zentran = Zentradi man, gadoras = battle/attack. 'inta', 'rido' and 'karaa' are not in the lexicon; the middle is a gist."
   },
   {
    "id": "vps_hyo_000",
@@ -532,7 +535,10 @@
  "report": {
   "uncertain": [
    "row 5615: Heard 'yariwei'; probably 'ranwei' (runway). Joke about needing an airstrip before a date.",
-   "row 5655: 'Red' taken as a callsign or nickname of the partner."
+   "row 5655: 'Red' taken as a callsign or nickname of the partner.",
+   "vpz_bd2_106: Zentradi-language reading, see notes",
+   "vpz_bd2_160: Zentradi-language reading, see notes",
+   "vpz_bd2_600: Zentradi-language reading, see notes"
   ],
   "whisper_doubt": [
    "row 5615: Heard 'yariwei'; probably 'ranwei' (runway). Joke about needing an airstrip before a date.",

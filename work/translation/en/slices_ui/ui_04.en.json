@@ -782,7 +782,7 @@
   },
   {
    "id": "u0867",
-   "en": "Evening",
+   "en": "Dusk",
    "flags": [],
    "notes": ""
   },
@@ -1084,7 +1084,7 @@
   },
   {
    "id": "u0917",
-   "en": "You can no longer guard, but melee attack\npower triples.",
+   "en": "Increase melee attack power to 3x, but can\nno longer guard.",
    "flags": [],
    "notes": ""
   },
@@ -1114,7 +1114,7 @@
   },
   {
    "id": "u0922",
-   "en": "Increases attack power, speed, and boost\ncapacity by 1.5x.",
+   "en": "Increase attack power, speed, and boost\ncapacity to 1.5x.",
    "flags": [],
    "notes": ""
   },
@@ -1126,7 +1126,7 @@
   },
   {
    "id": "u0924",
-   "en": "Increase all weapons' ammo capacity by 1.5x.",
+   "en": "Increase all weapons' ammo capacity to 1.5x.",
    "flags": [],
    "notes": ""
   },
@@ -1150,7 +1150,7 @@
   },
   {
    "id": "u0928",
-   "en": "Increase attack power of self and allies by\n1.5x and gradually restore HP.",
+   "en": "Increase attack power of self and allies to\n1.5x and gradually restore HP.",
    "flags": [],
    "notes": ""
   },
@@ -1266,7 +1266,7 @@
   },
   {
    "id": "u0946",
-   "en": "Lock-on range doubles, and increase multi-lock\nspeed to 1.5x.",
+   "en": "Increase lock-on range to 2x and multi-lock\nspeed to 1.5x.",
    "flags": [],
    "notes": ""
   },
@@ -1278,7 +1278,7 @@
   },
   {
    "id": "u0948",
-   "en": "When rescuing your partner, they recover 50%\nof their HP.",
+   "en": "When rescuing your partner, they recover\n50% of their HP.",
    "flags": [
     "uncertain"
    ],

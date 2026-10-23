@@ -3,6 +3,10 @@
 work/source/
 work/output/
 
+# Lyric working files stay outside git; v0.7.15 patch text was explicitly authorized for release.
+work/translation/*/lyrics/
+docs/handoffs/lyrics/
+
 # Translation working files that contain Japanese script; commit only *.en.json
 work/translation/**/*.json
 !work/translation/**/*.en.json

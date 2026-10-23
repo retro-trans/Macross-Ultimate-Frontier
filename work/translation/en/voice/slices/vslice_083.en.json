@@ -455,12 +455,12 @@
   },
   {
    "id": "vpz_mil_604",
-   "en": "",
+   "en": "Enemy!",
    "flags": [
-    "no_subtitle",
+    "uncertain",
     "whisper_doubt"
    ],
-   "notes": "Whisper wrote 'table'; probably the same Zentradi-style word as in the sibling clip (debura). Not understood."
+   "notes": "Zentradi language. Heard 'teeburu' (table); same clip as vps_mil_604 ('debura'), read as deburan (enemy). Zentradi words from the film's lexicon (ja.wikipedia 'Zentradi' language section; gansaito1.hatenablog.jp 2016-09-14 word list): deburan = enemy."
   },
   {
    "id": "vpz_mil_605",
@@ -540,7 +540,8 @@
  "report": {
   "uncertain": [
    "row 6569 vpz_mil_182: Are you okay? Okay. - Whisper wrote 'taisen taisen'; read from the sibling clip, which repeats 'daijoubu'. Kept literal.",
-   "row 6575 vpz_mil_188: How can this be? - Whisper wrote 'nan to mo ienai' (can't put it into words); sibling clip says 'nan to iu koto da'. Chose the sibling."
+   "row 6575 vpz_mil_188: How can this be? - Whisper wrote 'nan to mo ienai' (can't put it into words); sibling clip says 'nan to iu koto da'. Chose the sibling.",
+   "vpz_mil_604: Zentradi-language reading, see notes"
   ],
   "whisper_doubt": [
    "row 6563 vpz_mil_176: Whisper dropped the final negative (yurusarenai); the sibling clip and the sense need it.",

@@ -19,12 +19,12 @@
   },
   {
    "id": "vpz_mil_012",
-   "en": "",
+   "en": "Enemy!",
    "flags": [
-    "no_subtitle",
+    "uncertain",
     "whisper_doubt"
    ],
-   "notes": "Zentradi-style word; Whisper wrote 'debura', not understood."
+   "notes": "Zentradi language. Heard 'debura' (re-run: 'tebura'); read as deburan (enemy), as in vps_mil_012. Zentradi words from the film's lexicon (ja.wikipedia 'Zentradi' language section; gansaito1.hatenablog.jp 2016-09-14 word list): deburan = enemy. Hit-reaction slot (012)."
   },
   {
    "id": "vpz_mil_013",
@@ -557,7 +557,8 @@
  ],
  "report": {
   "uncertain": [
-   "row 6538 vpz_mil_151: Damn, it's been shot down. - Defense-target failure group; 'it' is the target, assumed."
+   "row 6538 vpz_mil_151: Damn, it's been shot down. - Defense-target failure group; 'it' is the target, assumed.",
+   "vpz_mil_012: Zentradi-language reading, see notes"
   ],
   "whisper_doubt": [
    "row 6481 vpz_mil_010: Whisper wrote 'kurai kurai'; read as 'kurae' (sibling clip).",

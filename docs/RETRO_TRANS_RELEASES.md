@@ -5,6 +5,11 @@ Macross Ultimate Frontier follows the
 Stable identity: game ID `macross-ultimate-frontier`, platform `PSP`, edition `NPJH50050`, language `en`.
 Never reuse a version for different bytes; a corrected image is a new `0.x.y`.
 
+For v0.7.15 the user explicitly authorized publishing a patch containing the
+draft English lyrics and romaji. This overrides the earlier local-only lyric
+rule for that release. The lyric working files and Japanese ASR transcripts
+remain gitignored; upload only the patches and standard release metadata.
+
 ## Release image
 
 `tools/build_iso.py` appends every file that outgrew its sectors at the end of the image. For `macross.dat` and

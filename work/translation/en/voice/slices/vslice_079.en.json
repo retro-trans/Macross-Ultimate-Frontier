@@ -487,12 +487,12 @@
   },
   {
    "id": "vps_mil_012",
-   "en": "",
+   "en": "Enemy!",
    "flags": [
-    "no_subtitle",
+    "uncertain",
     "whisper_doubt"
    ],
-   "notes": "Zentradi-style exclamation; Whisper wrote 'bibura' and the same sound appears as 'debura' in clip 604. Not understood."
+   "notes": "Zentradi language. Heard 'bibura'; same word as clips 604 and vpz_mil_012 ('debura'); a re-run with Zentradi words as a hint gave 'deburan'. Zentradi words from the film's lexicon (ja.wikipedia 'Zentradi' language section; gansaito1.hatenablog.jp 2016-09-14 word list): deburan = enemy. Hit-reaction slot (012)."
   },
   {
    "id": "vps_mil_013",
@@ -513,7 +513,8 @@
   "uncertain": [
    "row 6298 vps_max_625: Exactly my type. - Referent not shown; kept neutral (no pronoun).",
    "row 6299 vps_max_626: Beautiful. Bust about 85. Deceptively slim in clothes, I'd say. - Whisper wrote 'ki-ase' (sweat); read as kiyase (looks slimmer than one is). No pronoun, referent unclear.",
-   "row 6302 vps_max_629: Milia, watch what I can do! - First half is garbled (something about hitting a skin/hide to save the contents); only the second half is clear and matches clip 601."
+   "row 6302 vps_max_629: Milia, watch what I can do! - First half is garbled (something about hitting a skin/hide to save the contents); only the second half is clear and matches clip 601.",
+   "vps_mil_012: Zentradi-language reading, see notes"
   ],
   "whisper_doubt": [
    "row 6261 vps_max_340: Whisper no-speech warning; transcript reads naturally, kept.",

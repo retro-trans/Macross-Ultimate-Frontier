@@ -2,7 +2,8 @@
 
 Usage:
   python tools/build_iso.py <version> [--iso "<original>.iso"] [--tr <translation.json> ...] [--no-images] [--no-hd] [--ttf <font>]
-                            [--voice-subs <subs.json> ...] [--voice-placeholder] [--work <dir>]
+                            [--voice-subs <subs.json> ...] [--voice-placeholder]
+                            [--lyrics <dir>] [--lyrics-placeholder] [--work <dir>]
   e.g. python tools/build_iso.py 0.4.0
 
 Steps (each one is a tool that can also be run on its own):
@@ -20,6 +21,8 @@ Steps (each one is a tool that can also be run on its own):
   4a. tools/a2a_patch.py      layout part positions (work/ui/a2a_patches.json) -> overlay
   4c. tools/voice_subs_patch.py + voice_subs_at3.py: voice-clip subtitles (only with
      --voice-subs or --voice-placeholder; docs/voice_subtitles.md)
+  4d. tools/lyrics_patch.py + lyrics.py build: song lyrics in missions (only with --lyrics
+     <dir> or --lyrics-placeholder; docs/lyrics.md) -> work/output/build/bgm/bgmNN.at3
   5. tools/muf_archive.py     repack with the overlay         -> work/output/build/USRDIR/
   6. tools/iso_patch.py       new EBOOT and archives          -> work/output/Macross Ultimate Frontier (EN v<version>).iso
 
@@ -54,6 +57,7 @@ def main():
     images = True
     vwf_args = []
     voice_subs, voice_placeholder, work = [], False, None
+    lyrics, lyrics_placeholder = None, False
     while args:
         a = args.pop(0)
         if a == "--iso":
@@ -70,6 +74,10 @@ def main():
             voice_subs.append(args.pop(0))
         elif a == "--voice-placeholder":
             voice_placeholder = True
+        elif a == "--lyrics":
+            lyrics = args.pop(0)
+        elif a == "--lyrics-placeholder":
+            lyrics_placeholder = True
         elif a == "--work":
             work = args.pop(0)
         else:
@@ -85,6 +93,7 @@ def main():
     eboot = os.path.join(b, "EBOOT.BIN")
     overlay = os.path.join(b, "overlay")
     usrdir = os.path.join(b, "USRDIR")
+    bgm = os.path.join(b, "bgm")
     out_iso = os.path.join("work", "output", "Macross Ultimate Frontier (EN v%s).iso" % version)
 
     if os.path.isdir(os.path.join(ROOT, overlay)):
@@ -98,6 +107,8 @@ def main():
     run("tools/fullwidth.py", "csv", fw_rows, *[x for t in tr for x in ("--skip", t)])
     if voice_subs or voice_placeholder:
         run("tools/voice_subs_patch.py", eboot, eboot)
+    if lyrics or lyrics_placeholder:
+        run("tools/lyrics_patch.py", eboot, eboot)
     run("tools/insert_text.py", "--out", overlay, *tr, fw_rows)
     font = os.path.join("data", "extra", "gpsp3_font14.fnt")
     os.makedirs(os.path.join(ROOT, overlay, "data", "extra"), exist_ok=True)
@@ -109,11 +120,19 @@ def main():
     if voice_subs or voice_placeholder:
         run("tools/voice_subs_at3.py", "--out", overlay, "--widths", os.path.join(vwf, "vwf_widths.json"),
             *(["--placeholder"] if voice_placeholder else voice_subs))
+    bgm_files = []
+    if lyrics or lyrics_placeholder:
+        if os.path.isdir(os.path.join(ROOT, bgm)):
+            shutil.rmtree(os.path.join(ROOT, bgm))
+        run("tools/lyrics.py", "build", "--out", bgm, "--widths", os.path.join(vwf, "vwf_widths.json"),
+            *(["--placeholder"] if lyrics_placeholder else ["--dir", lyrics]))
+        bgm_files = sorted(os.listdir(os.path.join(ROOT, bgm)))
     run("tools/muf_archive.py", "repack", os.path.join("work", "source", "dat"), usrdir,
         "--base", os.path.join("work", "source", "iso", "PSP_GAME", "USRDIR"), "--overlay", overlay)
     run("tools/iso_patch.py", iso, out_iso,
         "PSP_GAME/SYSDIR/EBOOT.BIN=" + eboot,
-        *["PSP_GAME/USRDIR/%s=%s" % (f, os.path.join(usrdir, f)) for f in ("fileset.dat", "macross.dat", "macross.idx")])
+        *["PSP_GAME/USRDIR/%s=%s" % (f, os.path.join(usrdir, f)) for f in ("fileset.dat", "macross.dat", "macross.idx")],
+        *["PSP_GAME/USRDIR/data/sound/bgm/%s=%s" % (f, os.path.join(bgm, f)) for f in bgm_files])
     print("built", out_iso)
 
 

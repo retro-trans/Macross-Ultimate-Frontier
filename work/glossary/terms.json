@@ -598,8 +598,8 @@
   },
   {
    "ja": "娘ｐｔ",
-   "en": "Nyan-Nyan Pts",
-   "notes": "Set in the UI translation (2026-10-15)."
+   "en": "Nyan-Nyan pts",
+   "notes": "Short form for labels and next to numbers, always lowercase 'pts' ('800 pts', 'Your Nyan-Nyan pts'). Sentences spell it out: 'Nyan-Nyan Points'. Project decision 2026-10-22 (user)."
   },
   {
    "ja": "体力",
@@ -650,8 +650,9 @@
    },
    {
     "ja": "気力充実",
-    "en": "Full Spirit",
-    "status": "provisional"
+    "en": "High Spirit",
+    "status": "confirmed",
+    "notes": "Auto skill. Project decision 2026-10-22 (user): High Spirit, not Full Spirit."
    },
    {
     "ja": "ショックガード",

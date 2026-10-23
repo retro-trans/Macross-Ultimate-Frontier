@@ -17,6 +17,7 @@ minutes (two of them for the texture redraw). Everything it makes goes to `work/
 | 4 | `insert_text.py`: CSV cells and FES string pools | `work/output/build/overlay/data/...` |
 | 4b | `redraw_images.py`: textures with the text redrawn in English (`docs/image_redraw.md`; skip with `--no-images`) | `work/output/build/overlay/data/...gim` |
 | 4c | voice subtitles, only with `--voice-subs <file>`: `voice_subs_patch.py` hooks the EBOOT, `voice_subs_at3.py` appends each line to its clip (`docs/voice_subtitles.md`) | `work/output/build/EBOOT.BIN`, `overlay/data/sound/voice/*.at3` |
+| 4d | song lyrics, only with `--lyrics <dir>` or `--lyrics-placeholder`: `lyrics_patch.py` hooks the EBOOT, `lyrics.py build` appends each song's lines to its `bgmNN.at3` (`docs/lyrics.md`) | `work/output/build/EBOOT.BIN`, `work/output/build/bgm/*.at3` |
 | 5 | `muf_archive.py repack --overlay` (the VWF font is copied into the overlay) | `work/output/build/USRDIR/` |
 | 6 | `iso_patch.py`: EBOOT and the three archive files | the ISO |
 
@@ -25,6 +26,9 @@ minutes (two of them for the texture redraw). Everything it makes goes to `work/
 `--voice-subs work/translation/en/voice/voice_subs.en.json` adds the voice-clip
 subtitles (write that file with `python tools/voice_subs_export.py`);
 `--voice-placeholder` shows each clip's id instead, to test the hooks.
+`--lyrics work/translation/en/lyrics` adds the filled song lyrics (normally private;
+the v0.7.15 release has explicit user authorization: `docs/lyrics.md`); `--lyrics-placeholder` shows test lines
+("bgm03 line 1 at 0:02") in every song instead.
 
 Other translation files can be added with `--tr <file>` (the rows need `id`,
 `en`, and for CSV/FES rows `jp` and `ref` as in `dialogue.json`, because

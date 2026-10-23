@@ -22336,6 +22336,18 @@
 "en": "Reaction weapons? With this, the radiation will reach Mayan Island..."
 },
 {
+"id": "vpz_bd2_106",
+"en": "Perish now, Micronians!"
+},
+{
+"id": "vpz_bd2_160",
+"en": "The enemy... is Protoculture!"
+},
+{
+"id": "vpz_bd2_600",
+"en": "Hear this! The enemy shall perish! All Zentradi forces, attack!"
+},
+{
 "id": "vps_hyo_000",
 "en": "Hayao Kakizaki, launching!"
 },
@@ -24988,6 +25000,10 @@
 "en": "Go!"
 },
 {
+"id": "vps_mil_012",
+"en": "Enemy!"
+},
+{
 "id": "vps_mil_013",
 "en": "Damn you!"
 },
@@ -25552,6 +25568,10 @@
 "en": "Got it."
 },
 {
+"id": "vps_mil_604",
+"en": "Enemy!"
+},
+{
 "id": "vps_mil_605",
 "en": "Deculture!"
 },
@@ -25602,6 +25622,10 @@
 {
 "id": "vpz_mil_011",
 "en": "Go!"
+},
+{
+"id": "vpz_mil_012",
+"en": "Enemy!"
 },
 {
 "id": "vpz_mil_013",
@@ -26162,6 +26186,10 @@
 {
 "id": "vpz_mil_602",
 "en": "That's the one?"
+},
+{
+"id": "vpz_mil_604",
+"en": "Enemy!"
 },
 {
 "id": "vpz_mil_605",
@@ -27042,6 +27070,10 @@
 {
 "id": "vpz_qmj_309",
 "en": "Don't forget our crew's pride rides on you too!"
+},
+{
+"id": "vpz_qmj_310",
+"en": "Fighting with you gets my blood boiling!"
 },
 {
 "id": "vpz_qmj_311",
@@ -45370,6 +45402,42 @@
 {
 "id": "vpa_sin_604",
 "en": "Yes!"
+},
+{
+"id": "vpz_bd2_107",
+"en": "Perish now, Micronians!"
+},
+{
+"id": "vpz_bd2_108",
+"en": "Perish now, Micronians!"
+},
+{
+"id": "vpz_bd2_161",
+"en": "The enemy... is Protoculture!"
+},
+{
+"id": "vpz_bd2_162",
+"en": "The enemy... is Protoculture!"
+},
+{
+"id": "vpz_bd2_187",
+"en": "The enemy... is Protoculture!"
+},
+{
+"id": "vpz_bd2_188",
+"en": "The enemy... is Protoculture!"
+},
+{
+"id": "vpz_bd2_189",
+"en": "The enemy... is Protoculture!"
+},
+{
+"id": "vpz_bd2_602",
+"en": "The enemy... is Protoculture!"
+},
+{
+"id": "vpz_bd2_609",
+"en": "Perish now, Micronians!"
 },
 {
 "id": "vps_hyo_118",
