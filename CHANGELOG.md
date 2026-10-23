@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.7.15] - 2026-10-23 (release candidate, includes lyric drafts)
+## [0.7.15] - 2026-10-23 (public release, includes lyric drafts)
 
 ### Added
 - Romaji above the existing English song lyrics, using the saved local Japanese ASR transcripts. ASCII Hepburn readings use fugashi/UniDic-lite and pykakasi, with particle readings and conjugated verb endings handled together. Short audio crops were retried for gaps; local reading corrections stay in ignored `work/source/lyrics/`.
@@ -12,6 +12,8 @@
 - Verified all 102 ISO files against the 33 replacement outputs and unchanged original files. All 306 caption records match their text and timing inputs; original song audio bytes are unchanged. Width/timing checks report no errors or warnings, and texture redraw has no overflow or missing layouts. English preservation was checked against the v0.7.14 backup. Not tested in game.
 - Size: 2,223,337,472 bytes; SHA-256 `78b92d6109f103c8223de7e418e68ad4e1b30c58695c7a64e014950355cd494b`. Verification and frozen lyric inputs: `work/output/build_0.7.15/verification.json` and `lyric_inputs/`.
 - Compact release image: `work/output/Macross Ultimate Frontier (EN v0.7.15 release).iso`, 1,238,335,488 bytes, SHA-256 `ad326ede78bf0e2a94dd88a4c3fc41325892134c666bb152cbb163fe0c4cffdf`. Re-laid out with `tools/relayout_iso.py`; all 102 files match the test build.
+- Retro Trans release assets: full patch (4,525,410 bytes) and upgrades from the published 0.7.9 (45,712), 0.7.8 (98,032), 0.7.5 (431,330), 0.7.3 (433,494) and 0.7.1 (422,443). All six complete decode/hash round trips and the standard manifest/checksum validation pass. Source/tag commit: `86e8834e1d4094536a17f20d9aab2aea29f585c2`; metadata and notes: `docs/releases/0.7.15/`.
+- Freshly launched the compact image in isolated PPSSPP 1.20.4; the debugger recognizes NPJH50050 v1.02 and a running game. Framebuffer readback was unavailable, so this session does not establish visual or gameplay verification. Lyric words and sung timing still need review.
 
 ## [0.7.14] - 2026-10-23 (private lyric draft build, not released)
 

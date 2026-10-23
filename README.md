@@ -42,6 +42,7 @@ without custom firmware does not.
 - Era prologue and epilogue narration, mission briefings and in-mission objectives
 - Text drawn into textures (the official series logos are kept)
 - **English subtitles for the in-mission radio voice**, which has no text in the original game
+- **Draft English song lyrics with romaji** during missions (v0.7.15): 29 tracks have captions, with romaji on 27. Readings and timing still need human review.
 - A proportional English font (GenEi LateGo) with a built-in 4x glyph page, so text stays sharp when PPSSPP
   renders at 2x–4x without a texture pack
 
