@@ -2,7 +2,7 @@ English fan translation of **Macross Ultimate Frontier** for PSP (**NPJH-50050**
 
 ### Apply
 
-**Recommended:** Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools). Refresh the catalog, open **Automatic**, select your original Japanese ISO or a published English v0.7.1, v0.7.3, v0.7.5, v0.7.8 or v0.7.9 ISO, choose **0.7.15** or **Latest**, and select a new output filename. The app downloads the matching patch and verifies the result.
+**Recommended:** Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools). Refresh the catalog, open **Automatic**, select your original Japanese ISO or the published English v0.7.9 ISO, choose **0.7.15** or **Latest**, and select a new output filename. The app downloads the matching patch and verifies the result.
 
 **Manual patching:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) and [xdelta3](https://github.com/jmacd/xdelta) accept the same assets:
 
@@ -10,16 +10,12 @@ English fan translation of **Macross Ultimate Frontier** for PSP (**NPJH-50050**
 | --- | --- |
 | Original Japanese ISO | `MacrossUltimateFrontier-English-0.7.15.xdelta` |
 | Published English v0.7.9 ISO | `MacrossUltimateFrontier-English-0.7.9-to-0.7.15.xdelta` |
-| Published English v0.7.8 ISO | `MacrossUltimateFrontier-English-0.7.8-to-0.7.15.xdelta` |
-| Published English v0.7.5 ISO | `MacrossUltimateFrontier-English-0.7.5-to-0.7.15.xdelta` |
-| Published English v0.7.3 ISO | `MacrossUltimateFrontier-English-0.7.3-to-0.7.15.xdelta` |
-| Published English v0.7.1 ISO | `MacrossUltimateFrontier-English-0.7.1-to-0.7.15.xdelta` |
 
 ```text
 xdelta3 -d -s "Macross Ultimate Frontier (Japan).iso" MacrossUltimateFrontier-English-0.7.15.xdelta "Macross Ultimate Frontier English 0.7.15.iso"
 ```
 
-Upgrade patches require the exact published source ISO. Local test images need the full patch applied to the original disc. All six patches produce the same compact release image; exact source hashes are recorded in `BUILD-MANIFEST.json`.
+The upgrade patch requires the exact published v0.7.9 source ISO. For other source versions or local test images, apply the full patch to the original disc. Both patches produce the same compact release image; exact source hashes are recorded in `BUILD-MANIFEST.json`.
 
 Original Japanese ISO: 1,237,843,968 bytes; SHA-256 `86e942c37f8edaaf9ed1ac4e9292bbcacbef331b7aee6027fb896e015751b205`.
 
@@ -39,7 +35,7 @@ Retains the menus, profiles, briefings, objectives, narration, image-text redraw
 
 **This is an early machine-translated build. The song lyrics, romaji readings and timing are drafts.** Full human proofreading and in-game playtesting are still needed.
 
-All 102 files in the compact image match the test build. All 306 caption records match their intended text and timing data, and every original song audio prefix is unchanged. Each of the six patches was decoded and checked against the complete release image. These checks verify the files and patch application; they do not certify gameplay behavior.
+All 102 files in the compact image match the test build. All 306 caption records match their intended text and timing data, and every original song audio prefix is unchanged. Both patches were decoded and checked against the complete release image. These checks verify the files and patch application; they do not certify gameplay behavior.
 
 The release image was freshly launched in an isolated PPSSPP 1.20.4 setup and recognized as NPJH50050 v1.02. **This release's lyric display has not been visually playtested, and its timing has not been checked by ear.** The caption mechanism was tested with placeholder text in an earlier build. Real hardware has not been tested.
 

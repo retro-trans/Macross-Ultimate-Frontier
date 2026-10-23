@@ -52,8 +52,12 @@ Write the private builder configuration under `work/local/` (it holds local path
 }
 ```
 
-Add an upgrade row (`source_version` = the previous published version, source = that exact published image)
-for every later release. Then build and validate:
+Publish only the full original-to-current patch and one upgrade patch from the
+immediately previous published version. Keep `BUILD-MANIFEST.json`,
+`VALIDATION.json` and `SHA256SUMS.txt` for Retro Trans compatibility. Do not add
+direct upgrades from older releases. The upgrade row uses `source_version` =
+the previous published version and that exact published image as its source.
+Then build and validate:
 
 ```text
 python -m retro_trans.release build work/local/release-<version>.json --out work/release/<version>
